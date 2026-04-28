@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Logs (sync runs write to /tmp; if that ever changes, ignore here too)
+*.log
+
+# Local secrets (just in case — PAT lives in browser localStorage, never in repo)
+.env
+.env.local
+*.pat

@@ -1,0 +1,55 @@
+{
+  "synced_at": "2026-04-28T00:00:00Z",
+  "source": "Parsed from vault Overview.md (🎯 Projects/🎬 TV and Movie Concierge/Overview.md). Re-synced by the daily scheduled task.",
+  "top_genres": ["Sci-Fi", "Fantasy", "Comedy", "Horror/Suspense"],
+  "lower_priority": ["Sad dramas"],
+  "loved": [
+    "Foundation",
+    "Severance",
+    "Rick and Morty",
+    "Solar Opposites",
+    "Futurama",
+    "Slow Horses",
+    "The Heat",
+    "Spy",
+    "Demon Slayer",
+    "The Last of Us",
+    "Black Mirror",
+    "Good Omens",
+    "Fleabag",
+    "Planes Trains & Automobiles"
+  ],
+  "disliked": ["Wicked", "Asteroid City", "Fast X", "Die Hard"],
+  "signals_what_lands": [
+    "off-beat / quirky / sarcastic humor",
+    "witty banter",
+    "dry British humor",
+    "plot twists that pay off",
+    "world building",
+    "30-min episodes",
+    "dark humor + sci-fi combo",
+    "supernatural / mythology themes",
+    "LGBTQ+ inclusive content",
+    "great acting / ensemble cast",
+    "escapism",
+    "book / novel adaptations",
+    "light(ish) tone with substance underneath"
+  ],
+  "signals_what_misses": [
+    "juvenile / kiddy humor",
+    "heavy psychedelic visuals without story substance",
+    "slow pacing",
+    "overly abstract / artsy"
+  ],
+  "platforms": ["Netflix", "Apple TV+", "Amazon Prime Video", "Crunchyroll"],
+  "viewing_habit": "1–2 hours before bed; mix of weekly releases and completed series",
+  "language": "open to any (subs or dubs)",
+  "content_limits": "none",
+  "rating_scale": {
+    "5": "Instant Classic — loved it, re-watchable, must-see",
+    "4": "Really Good — very enjoyable, minor quibbles",
+    "3": "Fine/Okay — glad I watched, not memorable",
+    "2": "Meh — mostly a miss",
+    "1": "Abandoned — gave up or wish I had"
+  }
+}
