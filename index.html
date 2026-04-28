@@ -220,15 +220,26 @@
     <div class="week" id="week-label">Loading…</div>
   </header>
 
-  <!-- PAT setup panel -->
-  <section id="setup-panel" class="setup hidden">
-    <h2>One-time setup</h2>
-    <p>This app reads your recommendations from this repo and writes new actions (mark watched, pin, hide) back via the GitHub API. It needs a personal access token scoped to this repo.</p>
+  <!-- Sign-in panel (email magic link) -->
+  <section id="signin-panel" class="setup hidden">
+    <h2>Sign in</h2>
+    <p>Enter your email and we'll send a one-time sign-in link. Once you're in, your GitHub token is shared across every device you sign in on — no per-device setup.</p>
+    <div class="row">
+      <input id="email-input" type="email" placeholder="you@example.com" autocomplete="email" spellcheck="false">
+      <button class="btn" id="email-send">Send sign-in link</button>
+    </div>
+    <div class="status-msg" id="email-status"></div>
+  </section>
+
+  <!-- PAT setup panel (one-time bootstrap, after first sign-in) -->
+  <section id="pat-panel" class="setup hidden">
+    <h2>One-time setup — add your GitHub token</h2>
+    <p>This app reads your recommendations from the GitHub repo and writes back actions (mark watched, pin, hide). It needs a personal access token scoped to this repo. After you save it once, every device you sign in on will inherit it automatically.</p>
     <ol>
       <li>Open <a href="https://github.com/settings/tokens?type=beta" target="_blank" rel="noopener">github.com/settings/tokens?type=beta</a> and create a fine-grained PAT.</li>
       <li><strong>Repository access:</strong> Only select repositories → <code>jcpeters08/tv-concierge</code>.</li>
       <li><strong>Permissions → Repository → Contents:</strong> Read and write.</li>
-      <li>Paste the PAT below and click Test &amp; save. The token stays in this browser only (localStorage).</li>
+      <li>Paste the PAT below and click Test &amp; save. It is encrypted with a server-side key and stored on the auth Worker.</li>
     </ol>
     <div class="row">
       <input id="pat-input" type="password" placeholder="github_pat_..." autocomplete="off" spellcheck="false">
@@ -308,7 +319,9 @@
     </details>
 
     <footer class="app">
-      <a href="#" id="reset-pat">Reset PAT</a> ·
+      <span id="signed-in-as" class="subtle"></span> ·
+      <a href="#" id="sign-out">Sign out</a> ·
+      <a href="#" id="change-pat">Change PAT</a> ·
       <a href="https://github.com/jcpeters08/tv-concierge" target="_blank" rel="noopener">repo</a>
     </footer>
   </main>
@@ -323,12 +336,16 @@
 
 const REPO_OWNER = "jcpeters08";
 const REPO_NAME  = "tv-concierge";
-const PAT_KEY    = "tv_concierge_gh_pat";
+// Auth Worker URL — set after `wrangler deploy` prints it (e.g. https://tv-concierge-auth.<subdomain>.workers.dev).
+const WORKER_URL = "https://tv-concierge-auth.ositodelnorte.workers.dev";
+const SID_KEY    = "tv_concierge_sid";
 const PENDING_PATH = "data/pending.json";
 
 // ---- State ------------------------------------------------------------------
 
 const state = {
+  sid: null,
+  email: null,
   pat: null,
   recs: null,
   taste: null,
@@ -381,30 +398,82 @@ function b64decodeUtf8(s) {
   return decodeURIComponent(escape(atob(s.replace(/\n/g, ""))));
 }
 
-// ---- PAT --------------------------------------------------------------------
+// ---- Auth (sid + Worker API) -----------------------------------------------
 
-function loadPat() {
-  state.pat = localStorage.getItem(PAT_KEY) || null;
-  return state.pat;
+function loadSid() {
+  state.sid = localStorage.getItem(SID_KEY) || null;
+  return state.sid;
+}
+
+function saveSid(sid) {
+  localStorage.setItem(SID_KEY, sid);
+  state.sid = sid;
+}
+
+function clearSid() {
+  localStorage.removeItem(SID_KEY);
+  state.sid = null;
+  state.email = null;
+  state.pat = null;
+}
+
+async function apiFetch(path, opts = {}) {
+  if (WORKER_URL === "REPLACE_WITH_WORKER_URL") {
+    throw new Error("Auth Worker URL is not configured. Set WORKER_URL in index.html after `wrangler deploy`.");
+  }
+  const headers = new Headers(opts.headers || {});
+  if (state.sid) headers.set("Authorization", `Bearer ${state.sid}`);
+  if (opts.body && !headers.has("Content-Type")) headers.set("Content-Type", "application/json");
+  const res = await fetch(`${WORKER_URL}${path}`, { ...opts, headers });
+  return res;
+}
+
+async function consumeHashSid() {
+  const m = location.hash.match(/[#&]sid=([^&]+)/);
+  if (!m) return false;
+  saveSid(decodeURIComponent(m[1]));
+  history.replaceState(null, "", location.pathname + location.search);
+  return true;
+}
+
+async function requestMagicLink(email) {
+  const res = await apiFetch("/auth/request", { method: "POST", body: JSON.stringify({ email }) });
+  if (!res.ok) throw new Error(`Sign-in request failed: ${res.status} ${await res.text()}`);
+}
+
+async function verifySession() {
+  if (!state.sid) return null;
+  const res = await apiFetch("/auth/me");
+  if (res.status === 401) { clearSid(); return null; }
+  if (!res.ok) throw new Error(`Session check failed: ${res.status}`);
+  const data = await res.json();
+  state.email = data.email;
+  return data.email;
+}
+
+async function fetchPat() {
+  const res = await apiFetch("/pat");
+  if (!res.ok) throw new Error(`Fetch PAT failed: ${res.status} ${await res.text()}`);
+  const data = await res.json();
+  return data.pat || null;
 }
 
 async function testAndSavePat(pat) {
-  // Validate by reading watched.json via the API
-  const url = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/data/watched.json`;
-  const res = await fetch(url, {
+  // Validate against GitHub before persisting on the Worker.
+  const ghRes = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/data/watched.json`, {
     headers: { Authorization: `Bearer ${pat}`, Accept: "application/vnd.github+json" },
   });
-  if (!res.ok) {
-    throw new Error(`PAT validation failed: ${res.status} ${await res.text()}`);
-  }
-  localStorage.setItem(PAT_KEY, pat);
+  if (!ghRes.ok) throw new Error(`PAT validation failed: ${ghRes.status} ${await ghRes.text()}`);
+
+  const res = await apiFetch("/pat", { method: "PUT", body: JSON.stringify({ pat }) });
+  if (!res.ok) throw new Error(`Save PAT failed: ${res.status} ${await res.text()}`);
   state.pat = pat;
 }
 
-function clearPat() {
-  localStorage.removeItem(PAT_KEY);
-  state.pat = null;
-  showSetup();
+async function signOut() {
+  try { await apiFetch("/auth/logout", { method: "POST" }); } catch (e) { console.warn(e); }
+  clearSid();
+  location.reload();
 }
 
 // ---- Reads ------------------------------------------------------------------
@@ -878,14 +947,35 @@ function wireFilters() {
 
 // ---- Boot -------------------------------------------------------------------
 
-function showSetup() {
-  $("#setup-panel").classList.remove("hidden");
-  $("#app").classList.add("hidden");
+function showPanel(which) {
+  $("#signin-panel").classList.toggle("hidden", which !== "signin");
+  $("#pat-panel").classList.toggle("hidden", which !== "pat");
+  $("#app").classList.toggle("hidden", which !== "app");
 }
 
-function showApp() {
-  $("#setup-panel").classList.add("hidden");
-  $("#app").classList.remove("hidden");
+async function bootSendMagicLink() {
+  const input = $("#email-input");
+  const status = $("#email-status");
+  const btn = $("#email-send");
+  const email = input.value.trim();
+  if (!email || !email.includes("@")) {
+    status.textContent = "Enter a valid email.";
+    status.className = "status-msg err";
+    return;
+  }
+  btn.disabled = true; btn.textContent = "Sending…";
+  status.textContent = ""; status.className = "status-msg";
+  try {
+    await requestMagicLink(email);
+    status.textContent = "✓ check your email. The link is valid for 15 minutes.";
+    status.className = "status-msg ok";
+  } catch (e) {
+    console.error(e);
+    status.textContent = e.message || "Send failed.";
+    status.className = "status-msg err";
+  } finally {
+    btn.disabled = false; btn.textContent = "Send sign-in link";
+  }
 }
 
 async function bootSavePat() {
@@ -905,7 +995,7 @@ async function bootSavePat() {
     status.textContent = "✓ token works. Loading the briefing…";
     status.className = "status-msg ok";
     await loadAllData();
-    showApp();
+    showPanel("app");
     renderAll();
   } catch (e) {
     console.error(e);
@@ -918,16 +1008,45 @@ async function bootSavePat() {
 
 async function boot() {
   wireFilters();
+  $("#email-send").addEventListener("click", bootSendMagicLink);
+  $("#email-input").addEventListener("keydown", (e) => { if (e.key === "Enter") bootSendMagicLink(); });
   $("#pat-save").addEventListener("click", bootSavePat);
   $("#pat-input").addEventListener("keydown", (e) => { if (e.key === "Enter") bootSavePat(); });
-  $("#reset-pat").addEventListener("click", (e) => { e.preventDefault(); clearPat(); });
+  $("#sign-out").addEventListener("click", (e) => { e.preventDefault(); signOut(); });
+  $("#change-pat").addEventListener("click", (e) => { e.preventDefault(); showPanel("pat"); });
 
-  loadPat();
-  if (!state.pat) { showSetup(); return; }
+  await consumeHashSid();
+  loadSid();
+
+  if (!state.sid) { showPanel("signin"); return; }
+
+  let email;
+  try {
+    email = await verifySession();
+  } catch (e) {
+    console.error(e);
+    toast("Auth check failed: " + (e.message || e), "err");
+    showPanel("signin");
+    return;
+  }
+  if (!email) { showPanel("signin"); return; }
+  $("#signed-in-as").textContent = email;
+
+  let pat;
+  try {
+    pat = await fetchPat();
+  } catch (e) {
+    console.error(e);
+    toast("Couldn't reach auth Worker: " + (e.message || e), "err");
+    showPanel("signin");
+    return;
+  }
+  if (!pat) { showPanel("pat"); return; }
+  state.pat = pat;
 
   try {
     await loadAllData();
-    showApp();
+    showPanel("app");
     renderAll();
   } catch (e) {
     console.error(e);

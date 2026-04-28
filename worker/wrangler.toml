@@ -1,0 +1,21 @@
+name = "tv-concierge-auth"
+main = "src/index.ts"
+compatibility_date = "2026-01-15"
+
+# Public (non-secret) config. Edit if the app URL or allowed origin changes.
+[vars]
+ALLOWED_ORIGIN = "https://jcpeters08.github.io"
+APP_URL = "https://jcpeters08.github.io/tv-concierge/"
+ALLOWED_EMAILS = "jcpeters08@gmail.com"
+
+# KV namespace for magic links, sessions, and the encrypted PAT.
+# Run `wrangler kv namespace create AUTH_KV` and paste the returned id below.
+# Also create a preview namespace for `wrangler dev`: `wrangler kv namespace create AUTH_KV --preview`.
+[[kv_namespaces]]
+binding = "KV"
+id = "64b3a9add191423f9f17c14170137ab8"
+preview_id = "b7e3eb49eb4d4757b73833151b9a1207"
+
+# Secrets (do NOT put values here — set via `wrangler secret put`):
+#   RESEND_API_KEY   — from https://resend.com/api-keys
+#   PAT_ENC_KEY      — 32 random bytes, base64. Generate: `openssl rand -base64 32`
