@@ -1,0 +1,941 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>🎬 TV Concierge — Evening Briefing</title>
+<style>
+  :root {
+    --bg: #FBF8F4;
+    --bg-card: #FFFFFF;
+    --bg-soft: #F3EEE6;
+    --ink: #2A1F1A;
+    --ink-soft: #5C4F47;
+    --ink-muted: #8B7E75;
+    --accent: #8B2635;
+    --accent-ink: #FFFFFF;
+    --accent-soft: #F3D9DD;
+    --rule: #E5DDD2;
+    --good: #2E6B3D;
+    --warn: #B07514;
+    --shadow: 0 1px 2px rgba(40,25,15,.06), 0 4px 16px rgba(40,25,15,.06);
+    --radius: 10px;
+    --serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.45;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, .serif { font-family: var(--serif); font-weight: 600; letter-spacing: .005em; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  button { font-family: inherit; font-size: inherit; cursor: pointer; }
+  input, select, textarea {
+    font-family: inherit;
+    font-size: 14px;
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 6px 8px;
+    background: var(--bg-card);
+    color: var(--ink);
+  }
+  input:focus, select:focus, textarea:focus { outline: 2px solid var(--accent-soft); border-color: var(--accent); }
+
+  .container { max-width: 980px; margin: 0 auto; padding: 24px 18px 80px; }
+
+  /* Header */
+  header.app {
+    display: flex; align-items: baseline; justify-content: space-between;
+    gap: 16px; margin-bottom: 18px;
+    border-bottom: 1px solid var(--rule); padding-bottom: 14px;
+  }
+  header.app h1 { font-size: 26px; margin: 0; }
+  header.app .week { color: var(--ink-soft); font-size: 14px; }
+
+  /* Setup panel */
+  .setup {
+    background: var(--bg-card); border: 1px solid var(--rule); border-radius: var(--radius);
+    padding: 22px; box-shadow: var(--shadow); margin-bottom: 24px;
+  }
+  .setup h2 { margin-top: 0; }
+  .setup ol { padding-left: 20px; }
+  .setup li { margin: 6px 0; }
+  .setup .row { display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap; }
+  .setup input[type=password] { flex: 1; min-width: 240px; }
+  .btn {
+    background: var(--accent); color: var(--accent-ink);
+    border: none; border-radius: 6px; padding: 8px 14px; font-weight: 600;
+  }
+  .btn:hover { filter: brightness(1.05); }
+  .btn.ghost {
+    background: transparent; color: var(--accent); border: 1px solid var(--accent);
+  }
+  .btn.subtle {
+    background: var(--bg-soft); color: var(--ink); border: 1px solid var(--rule);
+  }
+  .btn[disabled] { opacity: .5; cursor: not-allowed; }
+  .status-msg { margin-top: 10px; font-size: 14px; }
+  .status-msg.ok { color: var(--good); }
+  .status-msg.err { color: var(--accent); }
+
+  /* Hero */
+  .hero {
+    background: var(--bg-card); border: 1px solid var(--rule);
+    border-radius: var(--radius); box-shadow: var(--shadow);
+    padding: 22px; margin-bottom: 22px; position: relative;
+  }
+  .hero .label {
+    display: inline-block; background: var(--accent); color: var(--accent-ink);
+    font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+    padding: 3px 8px; border-radius: 4px; margin-bottom: 10px;
+  }
+  .hero h2 { margin: 0 0 6px; font-size: 26px; }
+  .hero .meta { color: var(--ink-soft); font-size: 14px; margin-bottom: 12px; }
+  .hero .about, .hero .why { font-family: var(--serif); font-size: 17px; line-height: 1.5; margin: 8px 0; }
+  .hero .why { color: var(--ink-soft); border-left: 3px solid var(--accent-soft); padding-left: 10px; }
+
+  /* Filters */
+  .filters {
+    background: var(--bg-card); border: 1px solid var(--rule); border-radius: var(--radius);
+    padding: 14px 16px; margin-bottom: 22px;
+  }
+  .filter-row {
+    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    padding: 6px 0; border-bottom: 1px dashed var(--rule);
+  }
+  .filter-row:last-child { border-bottom: none; }
+  .filter-row .label { width: 78px; color: var(--ink-soft); font-size: 13px; flex-shrink: 0; }
+  .chip {
+    display: inline-block; padding: 4px 10px; border-radius: 999px;
+    border: 1px solid var(--rule); background: var(--bg);
+    font-size: 13px; cursor: pointer; user-select: none;
+  }
+  .chip:hover { background: var(--bg-soft); }
+  .chip.active { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+
+  /* Cards grid */
+  .grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 14px;
+  }
+  .card {
+    background: var(--bg-card); border: 1px solid var(--rule); border-radius: var(--radius);
+    padding: 16px; box-shadow: var(--shadow); display: flex; flex-direction: column;
+    position: relative;
+  }
+  .card .badges { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 8px; }
+  .card .badge {
+    font-size: 11px; padding: 2px 6px; border-radius: 4px;
+    background: var(--bg-soft); color: var(--ink-soft); font-weight: 600;
+    text-transform: uppercase; letter-spacing: .05em;
+  }
+  .card .badge.match-strong { background: #E0EFE3; color: var(--good); }
+  .card .badge.match-try    { background: #F8EBD0; color: var(--warn); }
+  .card .badge.match-skip   { background: var(--bg-soft); color: var(--ink-muted); }
+  .card .badge.pinned       { background: var(--accent-soft); color: var(--accent); }
+  .card .badge.watched      { background: #E0EFE3; color: var(--good); }
+  .card h3 { margin: 0 0 4px; font-size: 18px; }
+  .card .meta { font-size: 13px; color: var(--ink-soft); margin-bottom: 8px; }
+  .card .about { font-size: 14px; color: var(--ink); margin: 4px 0 8px; }
+  .card .why {
+    font-family: var(--serif); font-size: 14px; color: var(--ink-soft);
+    border-left: 2px solid var(--accent-soft); padding-left: 8px; margin: 6px 0 10px;
+  }
+  .card .tags { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; }
+  .card .tag {
+    font-size: 11px; padding: 2px 6px; border-radius: 4px;
+    background: var(--bg-soft); color: var(--ink-soft);
+  }
+  .card .actions { display: flex; gap: 6px; flex-wrap: wrap; margin-top: auto; }
+  .card .actions button {
+    flex: 1; min-width: 90px; font-size: 13px; padding: 6px 8px;
+  }
+  .card.is-watched, .card.is-hidden { opacity: 0.65; }
+
+  /* Inline mark-watched form */
+  .mw-form {
+    margin-top: 8px; padding: 10px; background: var(--bg-soft); border-radius: 8px;
+    display: flex; flex-direction: column; gap: 8px;
+  }
+  .mw-form label { font-size: 12px; color: var(--ink-soft); }
+  .mw-form .row { display: flex; gap: 8px; }
+  .mw-form select, .mw-form input { width: 100%; }
+  .mw-form .row button { flex: 1; }
+
+  /* Section */
+  .section { margin-top: 36px; }
+  .section h2 { font-size: 20px; margin: 0 0 12px; }
+  .section .subtle { color: var(--ink-soft); font-size: 13px; }
+  .empty {
+    background: var(--bg-card); border: 1px dashed var(--rule); border-radius: var(--radius);
+    padding: 18px; text-align: center; color: var(--ink-muted); font-style: italic;
+  }
+
+  /* Watched / pinned / hidden lists */
+  .title-list { display: flex; flex-direction: column; gap: 6px; }
+  .title-row {
+    display: flex; align-items: center; justify-content: space-between;
+    background: var(--bg-card); border: 1px solid var(--rule); border-radius: 6px;
+    padding: 8px 12px; font-size: 14px;
+  }
+  .title-row .meta { color: var(--ink-soft); font-size: 12px; }
+  .title-row button {
+    background: transparent; border: none; color: var(--ink-muted); font-size: 16px;
+    cursor: pointer; padding: 2px 6px;
+  }
+  .title-row button:hover { color: var(--accent); }
+
+  /* Debug */
+  details.debug {
+    margin-top: 36px; background: var(--bg-soft); border: 1px solid var(--rule);
+    border-radius: var(--radius); padding: 10px 14px; font-size: 13px;
+  }
+  details.debug summary { cursor: pointer; color: var(--ink-soft); }
+  details.debug pre { white-space: pre-wrap; word-break: break-all; font-size: 12px; }
+
+  footer.app { margin-top: 40px; color: var(--ink-muted); font-size: 12px; text-align: center; }
+  .toast {
+    position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%);
+    background: var(--ink); color: var(--bg); padding: 8px 14px; border-radius: 6px;
+    font-size: 14px; box-shadow: var(--shadow); z-index: 1000; opacity: 0;
+    transition: opacity .25s ease;
+  }
+  .toast.show { opacity: 1; }
+  .toast.err { background: var(--accent); }
+
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header class="app">
+    <h1>🎬 TV Concierge</h1>
+    <div class="week" id="week-label">Loading…</div>
+  </header>
+
+  <!-- PAT setup panel -->
+  <section id="setup-panel" class="setup hidden">
+    <h2>One-time setup</h2>
+    <p>This app reads your recommendations from this repo and writes new actions (mark watched, pin, hide) back via the GitHub API. It needs a personal access token scoped to this repo.</p>
+    <ol>
+      <li>Open <a href="https://github.com/settings/tokens?type=beta" target="_blank" rel="noopener">github.com/settings/tokens?type=beta</a> and create a fine-grained PAT.</li>
+      <li><strong>Repository access:</strong> Only select repositories → <code>jcpeters08/tv-concierge</code>.</li>
+      <li><strong>Permissions → Repository → Contents:</strong> Read and write.</li>
+      <li>Paste the PAT below and click Test &amp; save. The token stays in this browser only (localStorage).</li>
+    </ol>
+    <div class="row">
+      <input id="pat-input" type="password" placeholder="github_pat_..." autocomplete="off" spellcheck="false">
+      <button class="btn" id="pat-save">Test &amp; save</button>
+    </div>
+    <div class="status-msg" id="pat-status"></div>
+  </section>
+
+  <!-- Main UI -->
+  <main id="app" class="hidden">
+    <section id="hero-host"></section>
+
+    <div class="filters" id="filters">
+      <div class="filter-row" data-filter="platform">
+        <span class="label">Platform</span>
+        <span class="chip active" data-value="all">All</span>
+        <span class="chip" data-value="Netflix">Netflix</span>
+        <span class="chip" data-value="Apple TV+">Apple TV+</span>
+        <span class="chip" data-value="Prime Video">Prime Video</span>
+        <span class="chip" data-value="Crunchyroll">Crunchyroll</span>
+      </div>
+      <div class="filter-row" data-filter="format">
+        <span class="label">Format</span>
+        <span class="chip active" data-value="all">All</span>
+        <span class="chip" data-value="series">Series</span>
+        <span class="chip" data-value="anime">Anime</span>
+        <span class="chip" data-value="movie">Movie</span>
+      </div>
+      <div class="filter-row" data-filter="length">
+        <span class="label">Length</span>
+        <span class="chip active" data-value="all">Any</span>
+        <span class="chip" data-value="30-min">30-min</span>
+        <span class="chip" data-value="1-hour">1-hour</span>
+      </div>
+      <div class="filter-row" data-filter="genre">
+        <span class="label">Genre</span>
+        <span class="chip active" data-value="all">Any</span>
+        <span class="chip" data-value="comedy">Comedy</span>
+        <span class="chip" data-value="sci-fi">Sci-Fi</span>
+        <span class="chip" data-value="fantasy">Fantasy</span>
+        <span class="chip" data-value="horror-supernatural">Horror &amp; Supernatural</span>
+        <span class="chip" data-value="thriller">Thriller</span>
+        <span class="chip" data-value="drama">Drama</span>
+        <span class="chip" data-value="mystery">Mystery</span>
+      </div>
+    </div>
+
+    <section class="section">
+      <h2>New this week</h2>
+      <div id="picks-grid" class="grid"></div>
+      <div id="picks-empty" class="empty hidden"></div>
+    </section>
+
+    <section class="section">
+      <h2>Critics' picks</h2>
+      <div id="critics-grid" class="grid"></div>
+    </section>
+
+    <section class="section">
+      <h2>📌 Watchlist <span class="subtle" id="watchlist-count"></span></h2>
+      <div id="watchlist-host" class="title-list"></div>
+    </section>
+
+    <section class="section">
+      <h2>🚫 Not interested <span class="subtle" id="hidden-count"></span></h2>
+      <div id="hidden-host" class="title-list"></div>
+    </section>
+
+    <section class="section">
+      <h2>Recently watched <span class="subtle" id="watched-count"></span></h2>
+      <div id="watched-host" class="title-list"></div>
+    </section>
+
+    <details class="debug">
+      <summary>Debug · last sync, pending entries, raw state</summary>
+      <pre id="debug-pre"></pre>
+    </details>
+
+    <footer class="app">
+      <a href="#" id="reset-pat">Reset PAT</a> ·
+      <a href="https://github.com/jcpeters08/tv-concierge" target="_blank" rel="noopener">repo</a>
+    </footer>
+  </main>
+</div>
+
+<div id="toast" class="toast"></div>
+
+<script>
+"use strict";
+
+// ---- Constants --------------------------------------------------------------
+
+const REPO_OWNER = "jcpeters08";
+const REPO_NAME  = "tv-concierge";
+const PAT_KEY    = "tv_concierge_gh_pat";
+const PENDING_PATH = "data/pending.json";
+
+// ---- State ------------------------------------------------------------------
+
+const state = {
+  pat: null,
+  recs: null,
+  taste: null,
+  watched: null,
+  watchlist: null,
+  notInterested: null,
+  pending: null,
+  filters: { platform: "all", format: "all", length: "all", genre: "all" },
+  // Local optimistic overlay
+  optimistic: {
+    pinned: new Set(),     // titles
+    unpinned: new Set(),
+    hidden: new Set(),
+    unhidden: new Set(),
+    watched: new Set(),    // titles + their entries
+    watchedEntries: [],    // {title, rating, tags, date}
+  },
+};
+
+// ---- Utilities --------------------------------------------------------------
+
+function $(sel, root = document) { return root.querySelector(sel); }
+function $$(sel, root = document) { return Array.from(root.querySelectorAll(sel)); }
+
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+function isoNow() { return new Date().toISOString(); }
+
+function toast(msg, kind) {
+  const t = $("#toast");
+  t.textContent = msg;
+  t.classList.toggle("err", kind === "err");
+  t.classList.add("show");
+  clearTimeout(toast._t);
+  toast._t = setTimeout(() => t.classList.remove("show"), 2400);
+}
+
+function b64encodeUtf8(s) {
+  return btoa(unescape(encodeURIComponent(s)));
+}
+
+function b64decodeUtf8(s) {
+  return decodeURIComponent(escape(atob(s.replace(/\n/g, ""))));
+}
+
+// ---- PAT --------------------------------------------------------------------
+
+function loadPat() {
+  state.pat = localStorage.getItem(PAT_KEY) || null;
+  return state.pat;
+}
+
+async function testAndSavePat(pat) {
+  // Validate by reading watched.json via the API
+  const url = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/data/watched.json`;
+  const res = await fetch(url, {
+    headers: { Authorization: `Bearer ${pat}`, Accept: "application/vnd.github+json" },
+  });
+  if (!res.ok) {
+    throw new Error(`PAT validation failed: ${res.status} ${await res.text()}`);
+  }
+  localStorage.setItem(PAT_KEY, pat);
+  state.pat = pat;
+}
+
+function clearPat() {
+  localStorage.removeItem(PAT_KEY);
+  state.pat = null;
+  showSetup();
+}
+
+// ---- Reads ------------------------------------------------------------------
+
+async function fetchJson(path) {
+  const res = await fetch(`./${path}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`fetch ${path} failed: ${res.status}`);
+  return res.json();
+}
+
+async function loadAllData() {
+  const [recs, taste, watched, watchlist, notInterested, pending] = await Promise.all([
+    fetchJson("data/recommendations.json").catch(() => null),
+    fetchJson("data/taste-profile.json").catch(() => null),
+    fetchJson("data/watched.json").catch(() => null),
+    fetchJson("data/watchlist.json").catch(() => null),
+    fetchJson("data/not-interested.json").catch(() => null),
+    fetchJson("data/pending.json").catch(() => null),
+  ]);
+  state.recs = recs || { week_label: "(no recommendations)", hero: null, new_this_week: [], critics: [] };
+  state.taste = taste || {};
+  state.watched = watched || { entries: [] };
+  state.watchlist = watchlist || { titles: [] };
+  state.notInterested = notInterested || { titles: [] };
+  state.pending = pending || { entries: [] };
+}
+
+// ---- Pending append (the only write surface) -------------------------------
+
+async function appendPending(entry) {
+  if (!state.pat) throw new Error("no PAT");
+  const url = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${PENDING_PATH}`;
+  const headers = {
+    Authorization: `Bearer ${state.pat}`,
+    Accept: "application/vnd.github+json",
+  };
+  // Retry on 409 (sha conflict) once.
+  for (let attempt = 0; attempt < 2; attempt++) {
+    const cur = await fetch(url, { headers, cache: "no-store" }).then(r => {
+      if (!r.ok) throw new Error(`GET pending.json failed: ${r.status}`);
+      return r.json();
+    });
+    let json;
+    try {
+      json = JSON.parse(b64decodeUtf8(cur.content));
+    } catch (e) {
+      json = { format_note: "", entries: [] };
+    }
+    if (!Array.isArray(json.entries)) json.entries = [];
+    json.entries.push(entry);
+    const body = {
+      message: `web app: ${entry.kind} ${entry.title}`,
+      content: b64encodeUtf8(JSON.stringify(json, null, 2) + "\n"),
+      sha: cur.sha,
+    };
+    const res = await fetch(url, {
+      method: "PUT", headers: { ...headers, "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+    if (res.ok) {
+      // Update local pending so debug panel reflects what's queued
+      state.pending = json;
+      return;
+    }
+    if (res.status === 409 || res.status === 422) continue; // retry once with fresh sha
+    throw new Error(`GitHub PUT failed: ${res.status} ${await res.text()}`);
+  }
+  throw new Error("GitHub PUT failed after retries");
+}
+
+// ---- Derived sets -----------------------------------------------------------
+
+function watchedTitles() {
+  const fromSnapshot = new Set((state.watched.entries || []).map(e => e.title));
+  for (const t of state.optimistic.watched) fromSnapshot.add(t);
+  return fromSnapshot;
+}
+function pinnedTitles() {
+  const s = new Set(state.watchlist.titles || []);
+  for (const t of state.optimistic.unpinned) s.delete(t);
+  for (const t of state.optimistic.pinned) s.add(t);
+  return s;
+}
+function hiddenTitles() {
+  const s = new Set(state.notInterested.titles || []);
+  for (const t of state.optimistic.unhidden) s.delete(t);
+  for (const t of state.optimistic.hidden) s.add(t);
+  return s;
+}
+
+// ---- Filtering / sorting ---------------------------------------------------
+
+function platformMatch(entryPlat, filterVal) {
+  if (filterVal === "all") return true;
+  if (!entryPlat) return false;
+  if (filterVal === "Prime Video") return /prime/i.test(entryPlat);
+  return entryPlat.toLowerCase().includes(filterVal.toLowerCase());
+}
+
+function formatMatch(entryFmt, filterVal) {
+  if (filterVal === "all") return true;
+  if (!entryFmt) return false;
+  return entryFmt.toLowerCase() === filterVal.toLowerCase();
+}
+
+function lengthMatch(entryRuntime, filterVal) {
+  if (filterVal === "all") return true;
+  if (!entryRuntime) return false;
+  return entryRuntime.toLowerCase() === filterVal.toLowerCase();
+}
+
+function genreMatch(entry, filterVal) {
+  if (filterVal === "all") return true;
+  const genres = (entry.genres || []).map(g => g.toLowerCase());
+  const tags   = (entry.tags || []).map(t => t.toLowerCase());
+  if (filterVal === "horror-supernatural") {
+    return genres.includes("horror") || tags.some(t => t.includes("supernatural"));
+  }
+  return genres.includes(filterVal);
+}
+
+function entryPasses(entry) {
+  const f = state.filters;
+  return platformMatch(entry.platform, f.platform)
+      && formatMatch(entry.format, f.format)
+      && lengthMatch(entry.runtime, f.length)
+      && genreMatch(entry, f.genre);
+}
+
+function sortByPinned(entries) {
+  const pinned = pinnedTitles();
+  return [...entries].sort((a, b) => {
+    const pa = pinned.has(a.title) ? 0 : 1;
+    const pb = pinned.has(b.title) ? 0 : 1;
+    return pa - pb;
+  });
+}
+
+// ---- Render -----------------------------------------------------------------
+
+function renderHero() {
+  const host = $("#hero-host");
+  const hero = state.recs.hero;
+  if (!hero) { host.innerHTML = ""; return; }
+  const watched = watchedTitles().has(hero.title);
+  const pinned  = pinnedTitles().has(hero.title);
+  const hidden  = hiddenTitles().has(hero.title);
+  host.innerHTML = `
+    <div class="hero">
+      <span class="label">Hero pick</span>
+      <h2>${escapeHtml(hero.title)}</h2>
+      <div class="meta">
+        ${escapeHtml(hero.platform || "")} · ${escapeHtml(hero.date || "")} ·
+        ${escapeHtml(hero.format || "")} · ${escapeHtml(hero.runtime || "")}
+        ${hero.match ? ` · <strong>${escapeHtml(hero.match)} match</strong>` : ""}
+      </div>
+      <p class="about">${escapeHtml(hero.about || "")}</p>
+      <p class="why">${escapeHtml(hero.why || "")}</p>
+      <div id="hero-actions"></div>
+    </div>
+  `;
+  $("#hero-actions").appendChild(buildActions(hero, { watched, pinned, hidden, isHero: true }));
+}
+
+function buildCard(entry) {
+  const watched = watchedTitles().has(entry.title);
+  const pinned  = pinnedTitles().has(entry.title);
+  const hidden  = hiddenTitles().has(entry.title);
+
+  const card = document.createElement("div");
+  card.className = "card";
+  if (watched) card.classList.add("is-watched");
+  if (hidden) card.classList.add("is-hidden");
+
+  const badges = [];
+  if (entry.match) badges.push(`<span class="badge match-${escapeHtml(entry.match)}">${escapeHtml(entry.match)}</span>`);
+  if (pinned) badges.push(`<span class="badge pinned">📌 pinned</span>`);
+  if (watched) badges.push(`<span class="badge watched">✓ watched</span>`);
+
+  card.innerHTML = `
+    <div class="badges">${badges.join("")}</div>
+    <h3>${escapeHtml(entry.title)}</h3>
+    <div class="meta">
+      ${escapeHtml(entry.platform || "")} · ${escapeHtml(entry.date || "")} ·
+      ${escapeHtml(entry.format || "")} · ${escapeHtml(entry.runtime || "")}
+    </div>
+    ${entry.about ? `<div class="about">${escapeHtml(entry.about)}</div>` : ""}
+    ${entry.why ? `<div class="why">${escapeHtml(entry.why)}</div>` : ""}
+    ${(entry.tags && entry.tags.length) ? `<div class="tags">${entry.tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join("")}</div>` : ""}
+  `;
+  card.appendChild(buildActions(entry, { watched, pinned, hidden }));
+  return card;
+}
+
+function buildActions(entry, flags) {
+  const wrap = document.createElement("div");
+  wrap.className = "actions";
+  const { watched, pinned, hidden } = flags;
+
+  const btnW = document.createElement("button");
+  btnW.className = "btn subtle";
+  btnW.textContent = watched ? "✓ Watched" : "Mark watched";
+  btnW.disabled = watched;
+  btnW.addEventListener("click", () => openMarkWatched(entry, wrap));
+
+  const btnP = document.createElement("button");
+  btnP.className = "btn subtle";
+  btnP.textContent = pinned ? "📌 Unpin" : "📌 Interested";
+  btnP.addEventListener("click", () => togglePin(entry, !pinned));
+
+  const btnH = document.createElement("button");
+  btnH.className = "btn subtle";
+  btnH.textContent = hidden ? "Restore" : "🚫 Not interested";
+  btnH.addEventListener("click", () => toggleHide(entry, !hidden));
+
+  wrap.appendChild(btnW);
+  wrap.appendChild(btnP);
+  wrap.appendChild(btnH);
+  return wrap;
+}
+
+function openMarkWatched(entry, actionsEl) {
+  // Replace actions with form
+  const existing = actionsEl.parentElement.querySelector(".mw-form");
+  if (existing) { existing.remove(); return; }
+  const form = document.createElement("div");
+  form.className = "mw-form";
+  const todayIso = new Date().toISOString().slice(0, 10);
+  const tagsDefault = (entry.tags || []).join(", ");
+  form.innerHTML = `
+    <label>Rating
+      <select class="mw-rating">
+        <option value="5">5⭐ Instant Classic</option>
+        <option value="4.5">4.5⭐</option>
+        <option value="4" selected>4⭐ Really Good</option>
+        <option value="3.5">3.5⭐</option>
+        <option value="3">3⭐ Fine/Okay</option>
+        <option value="2">2⭐ Meh</option>
+        <option value="1">1⭐ Abandoned</option>
+      </select>
+    </label>
+    <label>Tags
+      <input class="mw-tags" type="text" value="${escapeHtml(tagsDefault)}">
+    </label>
+    <label>Date
+      <input class="mw-date" type="date" value="${todayIso}">
+    </label>
+    <div class="row">
+      <button class="btn mw-save">Save</button>
+      <button class="btn ghost mw-cancel">Cancel</button>
+    </div>
+  `;
+  actionsEl.parentElement.appendChild(form);
+  form.querySelector(".mw-cancel").addEventListener("click", () => form.remove());
+  form.querySelector(".mw-save").addEventListener("click", async () => {
+    const rating = parseFloat(form.querySelector(".mw-rating").value);
+    const tags = form.querySelector(".mw-tags").value.trim();
+    const date = form.querySelector(".mw-date").value || todayIso;
+    const savingBtn = form.querySelector(".mw-save");
+    savingBtn.disabled = true;
+    savingBtn.textContent = "Saving…";
+    try {
+      const payload = { kind: "watched", title: entry.title, rating, tags, date, ts: isoNow() };
+      await appendPending(payload);
+      state.optimistic.watched.add(entry.title);
+      state.optimistic.watchedEntries.push({ title: entry.title, rating, tags, date });
+      toast("Logged as watched");
+      form.remove();
+      renderAll();
+    } catch (e) {
+      console.error(e);
+      toast(e.message || "save failed", "err");
+      savingBtn.disabled = false;
+      savingBtn.textContent = "Save";
+    }
+  });
+}
+
+async function togglePin(entry, want) {
+  const kind = want ? "pin" : "unpin";
+  try {
+    await appendPending({ kind, title: entry.title, ts: isoNow() });
+    if (want) {
+      state.optimistic.pinned.add(entry.title);
+      state.optimistic.unpinned.delete(entry.title);
+    } else {
+      state.optimistic.unpinned.add(entry.title);
+      state.optimistic.pinned.delete(entry.title);
+    }
+    toast(want ? "Pinned" : "Unpinned");
+    renderAll();
+  } catch (e) {
+    console.error(e);
+    toast(e.message || "save failed", "err");
+  }
+}
+
+async function toggleHide(entry, want) {
+  const kind = want ? "hide" : "unhide";
+  try {
+    await appendPending({ kind, title: entry.title, ts: isoNow() });
+    if (want) {
+      state.optimistic.hidden.add(entry.title);
+      state.optimistic.unhidden.delete(entry.title);
+    } else {
+      state.optimistic.unhidden.add(entry.title);
+      state.optimistic.hidden.delete(entry.title);
+    }
+    toast(want ? "Hidden" : "Restored");
+    renderAll();
+  } catch (e) {
+    console.error(e);
+    toast(e.message || "save failed", "err");
+  }
+}
+
+function renderPicks() {
+  const grid = $("#picks-grid");
+  const empty = $("#picks-empty");
+  const all = state.recs.new_this_week || [];
+  const hidden = hiddenTitles();
+  const passing = all.filter(e => !hidden.has(e.title) && entryPasses(e));
+  const sorted = sortByPinned(passing);
+
+  grid.innerHTML = "";
+  for (const entry of sorted) grid.appendChild(buildCard(entry));
+
+  let emptyMsg = "";
+  if (sorted.length === 0) {
+    if (state.filters.format === "movie" && !all.some(e => (e.format || "").toLowerCase() === "movie")) {
+      emptyMsg = "No movies in this week's set. Ask Claude in chat for movie picks.";
+    } else {
+      emptyMsg = "No picks match these filters. Try resetting or loosening one dimension.";
+    }
+  }
+  if (emptyMsg) {
+    empty.textContent = emptyMsg;
+    empty.classList.remove("hidden");
+  } else {
+    empty.classList.add("hidden");
+  }
+}
+
+function renderCritics() {
+  const grid = $("#critics-grid");
+  grid.innerHTML = "";
+  const list = state.recs.critics || [];
+  for (const entry of list) grid.appendChild(buildCard(entry));
+}
+
+function renderTitleList(host, titles, onRemove, removeLabel = "✕") {
+  host.innerHTML = "";
+  if (!titles.length) {
+    const div = document.createElement("div");
+    div.className = "empty";
+    div.textContent = "(empty)";
+    host.appendChild(div);
+    return;
+  }
+  for (const t of titles) {
+    const row = document.createElement("div");
+    row.className = "title-row";
+    row.innerHTML = `<span>${escapeHtml(t)}</span>`;
+    const btn = document.createElement("button");
+    btn.title = "Remove";
+    btn.textContent = removeLabel;
+    btn.addEventListener("click", () => onRemove(t));
+    row.appendChild(btn);
+    host.appendChild(row);
+  }
+}
+
+function renderWatchlist() {
+  const titles = Array.from(pinnedTitles());
+  $("#watchlist-count").textContent = titles.length ? `(${titles.length})` : "";
+  renderTitleList($("#watchlist-host"), titles, async (title) => {
+    await togglePin({ title }, false);
+  });
+}
+
+function renderHidden() {
+  const titles = Array.from(hiddenTitles());
+  $("#hidden-count").textContent = titles.length ? `(${titles.length})` : "";
+  renderTitleList($("#hidden-host"), titles, async (title) => {
+    await toggleHide({ title }, false);
+  });
+}
+
+function renderWatched() {
+  const host = $("#watched-host");
+  const snapshotEntries = (state.watched.entries || []).slice();
+  const optimistic = state.optimistic.watchedEntries.slice();
+  const all = [...optimistic, ...snapshotEntries];
+  // De-dupe by title (optimistic first wins)
+  const seen = new Set();
+  const merged = [];
+  for (const e of all) {
+    if (seen.has(e.title)) continue;
+    seen.add(e.title);
+    merged.push(e);
+  }
+  // Sort by date desc, then title
+  merged.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+  const top = merged.slice(0, 12);
+  $("#watched-count").textContent = merged.length ? `(${merged.length} total — showing latest ${top.length})` : "";
+  host.innerHTML = "";
+  if (!merged.length) {
+    const div = document.createElement("div");
+    div.className = "empty";
+    div.textContent = "(none yet)";
+    host.appendChild(div);
+    return;
+  }
+  for (const e of top) {
+    const row = document.createElement("div");
+    row.className = "title-row";
+    const tagsStr = e.tags ? `"${e.tags}"` : "";
+    row.innerHTML = `
+      <span><strong>${escapeHtml(e.title)}</strong> — ${escapeHtml(String(e.rating))}⭐ <span class="meta">${escapeHtml(tagsStr)} (${escapeHtml(e.date || "")})</span></span>
+    `;
+    host.appendChild(row);
+  }
+}
+
+function renderDebug() {
+  const lines = [
+    `recommendations.generated_at: ${state.recs.generated_at || "(none)"}`,
+    `recommendations.week_label:  ${state.recs.week_label || "(none)"}`,
+    `watched.synced_at:           ${state.watched.synced_at || "(none)"}`,
+    `watchlist.synced_at:         ${state.watchlist.synced_at || "(none)"}`,
+    `not-interested.synced_at:    ${state.notInterested.synced_at || "(none)"}`,
+    `taste-profile.synced_at:     ${state.taste.synced_at || "(none)"}`,
+    `pending.entries:             ${(state.pending.entries || []).length}`,
+    ``,
+    `Optimistic overlay:`,
+    `  pinned:          ${[...state.optimistic.pinned].join(", ") || "(none)"}`,
+    `  unpinned:        ${[...state.optimistic.unpinned].join(", ") || "(none)"}`,
+    `  hidden:          ${[...state.optimistic.hidden].join(", ") || "(none)"}`,
+    `  unhidden:        ${[...state.optimistic.unhidden].join(", ") || "(none)"}`,
+    `  watched:         ${[...state.optimistic.watched].join(", ") || "(none)"}`,
+  ];
+  $("#debug-pre").textContent = lines.join("\n");
+}
+
+function renderAll() {
+  $("#week-label").textContent = state.recs.week_label || "";
+  renderHero();
+  renderPicks();
+  renderCritics();
+  renderWatchlist();
+  renderHidden();
+  renderWatched();
+  renderDebug();
+}
+
+// ---- Filter chip wiring -----------------------------------------------------
+
+function wireFilters() {
+  $$(".filter-row").forEach(row => {
+    const dim = row.dataset.filter;
+    row.addEventListener("click", (e) => {
+      const chip = e.target.closest(".chip");
+      if (!chip) return;
+      $$(".chip", row).forEach(c => c.classList.remove("active"));
+      chip.classList.add("active");
+      state.filters[dim] = chip.dataset.value;
+      renderPicks();
+    });
+  });
+}
+
+// ---- Boot -------------------------------------------------------------------
+
+function showSetup() {
+  $("#setup-panel").classList.remove("hidden");
+  $("#app").classList.add("hidden");
+}
+
+function showApp() {
+  $("#setup-panel").classList.add("hidden");
+  $("#app").classList.remove("hidden");
+}
+
+async function bootSavePat() {
+  const input = $("#pat-input");
+  const status = $("#pat-status");
+  const btn = $("#pat-save");
+  const pat = input.value.trim();
+  if (!pat) {
+    status.textContent = "Paste a token first.";
+    status.className = "status-msg err";
+    return;
+  }
+  btn.disabled = true; btn.textContent = "Testing…";
+  status.textContent = ""; status.className = "status-msg";
+  try {
+    await testAndSavePat(pat);
+    status.textContent = "✓ token works. Loading the briefing…";
+    status.className = "status-msg ok";
+    await loadAllData();
+    showApp();
+    renderAll();
+  } catch (e) {
+    console.error(e);
+    status.textContent = e.message || "Validation failed.";
+    status.className = "status-msg err";
+  } finally {
+    btn.disabled = false; btn.textContent = "Test & save";
+  }
+}
+
+async function boot() {
+  wireFilters();
+  $("#pat-save").addEventListener("click", bootSavePat);
+  $("#pat-input").addEventListener("keydown", (e) => { if (e.key === "Enter") bootSavePat(); });
+  $("#reset-pat").addEventListener("click", (e) => { e.preventDefault(); clearPat(); });
+
+  loadPat();
+  if (!state.pat) { showSetup(); return; }
+
+  try {
+    await loadAllData();
+    showApp();
+    renderAll();
+  } catch (e) {
+    console.error(e);
+    toast("Failed to load data: " + (e.message || e), "err");
+  }
+}
+
+document.addEventListener("DOMContentLoaded", boot);
+</script>
+</body>
+</html>
