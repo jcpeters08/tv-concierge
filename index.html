@@ -546,19 +546,34 @@ async function appendPending(entry) {
 
 // ---- Derived sets -----------------------------------------------------------
 
+// Derived sets layer three sources, latest wins:
+//   1. daily-synced snapshot files (data/*.json)
+//   2. data/pending.json — already-saved writes waiting for the next daily drain
+//   3. in-memory optimistic state — clicks made this session, not yet appended to pending
+function applyPendingToSet(set, addKind, removeKind) {
+  for (const e of (state.pending.entries || [])) {
+    if (e.kind === addKind) set.add(e.title);
+    else if (e.kind === removeKind) set.delete(e.title);
+  }
+}
 function watchedTitles() {
-  const fromSnapshot = new Set((state.watched.entries || []).map(e => e.title));
-  for (const t of state.optimistic.watched) fromSnapshot.add(t);
-  return fromSnapshot;
+  const s = new Set((state.watched.entries || []).map(e => e.title));
+  for (const e of (state.pending.entries || [])) {
+    if (e.kind === "watched") s.add(e.title);
+  }
+  for (const t of state.optimistic.watched) s.add(t);
+  return s;
 }
 function pinnedTitles() {
   const s = new Set(state.watchlist.titles || []);
+  applyPendingToSet(s, "pin", "unpin");
   for (const t of state.optimistic.unpinned) s.delete(t);
   for (const t of state.optimistic.pinned) s.add(t);
   return s;
 }
 function hiddenTitles() {
   const s = new Set(state.notInterested.titles || []);
+  applyPendingToSet(s, "hide", "unhide");
   for (const t of state.optimistic.unhidden) s.delete(t);
   for (const t of state.optimistic.hidden) s.add(t);
   return s;
@@ -865,9 +880,12 @@ function renderHidden() {
 function renderWatched() {
   const host = $("#watched-host");
   const snapshotEntries = (state.watched.entries || []).slice();
+  const pendingWatched = (state.pending.entries || [])
+    .filter(e => e.kind === "watched")
+    .map(e => ({ title: e.title, rating: e.rating, tags: e.tags, date: e.date }));
   const optimistic = state.optimistic.watchedEntries.slice();
-  const all = [...optimistic, ...snapshotEntries];
-  // De-dupe by title (optimistic first wins)
+  // Order: optimistic first (latest-this-session wins), then pending, then snapshot.
+  const all = [...optimistic, ...pendingWatched, ...snapshotEntries];
   const seen = new Set();
   const merged = [];
   for (const e of all) {
