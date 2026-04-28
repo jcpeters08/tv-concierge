@@ -1,37 +1,322 @@
 {
-  "synced_at": "2026-04-28T00:00:00Z",
+  "synced_at": "2026-04-28T19:54:25Z",
   "source": "Parsed from vault Watched.md. Re-synced by the daily scheduled task.",
   "format_note": "entries[] preserves the vault format: Title – Rating⭐ – \"tags\" (date). Tags are kept as a comma-separated string for round-trip fidelity, plus a parsed tags_array for convenience.",
   "entries": [
-    { "title": "Foundation S3 Ep 3", "rating": 5, "tags": "great character development, world building, mental escape", "tags_array": ["great character development", "world building", "mental escape"], "date": "2026-03-31" },
-    { "title": "Silo S1–S2", "rating": 4.5, "tags": "sci-fi, great acting, escapism, based on highly rated novels", "tags_array": ["sci-fi", "great acting", "escapism", "based on highly rated novels"], "date": "2026-04-15" },
-    { "title": "The Gentlemen S1", "rating": 4.5, "tags": "witty, british, light(ish) humor, quirky, good acting", "tags_array": ["witty", "british", "light(ish) humor", "quirky", "good acting"], "date": "2026-04-15" },
-    { "title": "Slow Horses (series)", "rating": 4, "tags": "witty banter, great actors, suspense, plot twists", "tags_array": ["witty banter", "great actors", "suspense", "plot twists"], "date": "2026-03-31" },
-    { "title": "Black Mirror S7 E2", "rating": 4, "tags": "plot twist, visual graphics, bad guy gets it in the end", "tags_array": ["plot twist", "visual graphics", "bad guy gets it in the end"], "date": "2026-03-31" },
-    { "title": "The Sandman S2 Ep 7", "rating": 4, "tags": "engaging, good story, character development", "tags_array": ["engaging", "good story", "character development"], "date": "2026-03-31" },
-    { "title": "The Sandman S2 Ep 8", "rating": 4, "tags": "plot twist, engaging", "tags_array": ["plot twist", "engaging"], "date": "2026-03-31" },
-    { "title": "The Afterparty S2 Ep 1", "rating": 4, "tags": "goofy, sarcastic humor", "tags_array": ["goofy", "sarcastic humor"], "date": "2026-03-31" },
-    { "title": "The Afterparty S2 Ep 2", "rating": 4, "tags": "entertaining, goofy humor", "tags_array": ["entertaining", "goofy humor"], "date": "2026-03-31" },
-    { "title": "Extraordinary S1–2 (series)", "rating": 4, "tags": "off-beat quirky humor, sci-fi, 30-min show", "tags_array": ["off-beat quirky humor", "sci-fi", "30-min show"], "date": "2026-03-31" },
-    { "title": "Dead Boy Detectives S1", "rating": 4, "tags": "glbt, twists, supernatural, dry witty humor", "tags_array": ["glbt", "twists", "supernatural", "dry witty humor"], "date": "2026-03-31" },
-    { "title": "Barbarian (2022)", "rating": 4, "tags": "suspense, twists, dark humor", "tags_array": ["suspense", "twists", "dark humor"], "date": "2026-03-31" },
-    { "title": "Solar Opposites (series)", "rating": 4, "tags": "satire, off-beat humor, 30-min episodes, adult animation, quirky, sarcastic, sci-fi", "tags_array": ["satire", "off-beat humor", "30-min episodes", "adult animation", "quirky", "sarcastic", "sci-fi"], "date": "2026-03-31" },
-    { "title": "One Punch Man S1–2", "rating": 4, "tags": "humorous, 30-min episodes, anime", "tags_array": ["humorous", "30-min episodes", "anime"], "date": "2026-03-31" },
-    { "title": "Peacemaker (series)", "rating": 4, "tags": "comedy, off-beat humor, fantasy superhero", "tags_array": ["comedy", "off-beat humor", "fantasy superhero"], "date": "2026-04-12" },
-    { "title": "Murderbot S1", "rating": 4, "tags": "humorous, sci-fi, light", "tags_array": ["humorous", "sci-fi", "light"], "date": "2026-03-31" },
-    { "title": "Fallout S2", "rating": 4, "tags": "offbeat sci-fi, dark humor", "tags_array": ["offbeat sci-fi", "dark humor"], "date": "2026-04-12" },
-    { "title": "Mission: Impossible – The Final Reckoning", "rating": 4, "tags": "entertaining, humor, hi-tech", "tags_array": ["entertaining", "humor", "hi-tech"], "date": "2026-04-12" },
-    { "title": "Kaos (series)", "rating": 4, "tags": "witty humor, great acting, supernatural/greek gods, short episodes", "tags_array": ["witty humor", "great acting", "supernatural/greek gods", "short episodes"], "date": "2026-04-12" },
-    { "title": "Dirk Gently's Holistic Detective Agency S1", "rating": 4, "tags": "quirky off-beat humor, sci-fi/fantasy", "tags_array": ["quirky off-beat humor", "sci-fi/fantasy"], "date": "2026-04-27" },
-    { "title": "Black Mirror S7 E1", "rating": 3, "tags": "not very engaging, sad, felt re-hashed", "tags_array": ["not very engaging", "sad", "felt re-hashed"], "date": "2026-03-31" },
-    { "title": "The Sandman S2 (overall)", "rating": 3, "tags": "mildly entertaining, fantasy", "tags_array": ["mildly entertaining", "fantasy"], "date": "2026-03-31" },
-    { "title": "Our Flag Means Death S1 Ep 1", "rating": 3.75, "tags": "easy watch, Monty Python vibes, good as background show", "tags_array": ["easy watch", "Monty Python vibes", "good as background show"], "date": "2026-03-31" },
-    { "title": "Upload S1–2", "rating": 3.5, "tags": "initially enjoyable, later not worth watching", "tags_array": ["initially enjoyable", "later not worth watching"], "date": "2026-03-31" },
-    { "title": "Loot", "rating": 3, "tags": "okay, didn't keep me hooked", "tags_array": ["okay", "didn't keep me hooked"], "date": "2026-03-31" },
-    { "title": "Scavengers Reign S1 Ep 1", "rating": 2, "tags": "too druggy, trippy", "tags_array": ["too druggy", "trippy"], "date": "2026-03-31" },
-    { "title": "Acapulco", "rating": 2, "tags": "didn't like it", "tags_array": ["didn't like it"], "date": "2026-03-31" },
-    { "title": "Aunty Donna's Big Ol' House of Fun", "rating": 1, "tags": "too kiddy", "tags_array": ["too kiddy"], "date": "2026-03-31" },
-    { "title": "The Big Door Prize", "rating": 1, "tags": "not interested", "tags_array": ["not interested"], "date": "2026-03-31" }
+    {
+      "title": "Foundation S3 Ep 3",
+      "rating": 5,
+      "tags": "great character development, world building, mental escape",
+      "tags_array": [
+        "great character development",
+        "world building",
+        "mental escape"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Silo S1–S2",
+      "rating": 4.5,
+      "tags": "sci-fi, great acting, escapism, based on highly rated novels",
+      "tags_array": [
+        "sci-fi",
+        "great acting",
+        "escapism",
+        "based on highly rated novels"
+      ],
+      "date": "2026-04-15"
+    },
+    {
+      "title": "The Gentlemen S1",
+      "rating": 4.5,
+      "tags": "witty, british, light(ish) humor, quirky, good acting",
+      "tags_array": [
+        "witty",
+        "british",
+        "light(ish) humor",
+        "quirky",
+        "good acting"
+      ],
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Slow Horses (series)",
+      "rating": 4,
+      "tags": "witty banter, great actors, suspense, plot twists",
+      "tags_array": [
+        "witty banter",
+        "great actors",
+        "suspense",
+        "plot twists"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Black Mirror S7 E2",
+      "rating": 4,
+      "tags": "plot twist, visual graphics, bad guy gets it in the end",
+      "tags_array": [
+        "plot twist",
+        "visual graphics",
+        "bad guy gets it in the end"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "The Sandman S2 Ep 7",
+      "rating": 4,
+      "tags": "engaging, good story, character development",
+      "tags_array": [
+        "engaging",
+        "good story",
+        "character development"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "The Sandman S2 Ep 8",
+      "rating": 4,
+      "tags": "plot twist, engaging",
+      "tags_array": [
+        "plot twist",
+        "engaging"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "The Afterparty S2 Ep 1",
+      "rating": 4,
+      "tags": "goofy, sarcastic humor",
+      "tags_array": [
+        "goofy",
+        "sarcastic humor"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "The Afterparty S2 Ep 2",
+      "rating": 4,
+      "tags": "entertaining, goofy humor",
+      "tags_array": [
+        "entertaining",
+        "goofy humor"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Extraordinary S1–2 (series)",
+      "rating": 4,
+      "tags": "off-beat quirky humor, sci-fi, 30-min show",
+      "tags_array": [
+        "off-beat quirky humor",
+        "sci-fi",
+        "30-min show"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Dead Boy Detectives S1",
+      "rating": 4,
+      "tags": "glbt, twists, supernatural, dry witty humor",
+      "tags_array": [
+        "glbt",
+        "twists",
+        "supernatural",
+        "dry witty humor"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Barbarian (2022)",
+      "rating": 4,
+      "tags": "suspense, twists, dark humor",
+      "tags_array": [
+        "suspense",
+        "twists",
+        "dark humor"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Solar Opposites (series)",
+      "rating": 4,
+      "tags": "satire, off-beat humor, 30-min episodes, adult animation, quirky, sarcastic, sci-fi",
+      "tags_array": [
+        "satire",
+        "off-beat humor",
+        "30-min episodes",
+        "adult animation",
+        "quirky",
+        "sarcastic",
+        "sci-fi"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "One Punch Man S1–2",
+      "rating": 4,
+      "tags": "humorous, 30-min episodes, anime",
+      "tags_array": [
+        "humorous",
+        "30-min episodes",
+        "anime"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Peacemaker (series)",
+      "rating": 4,
+      "tags": "comedy, off-beat humor, fantasy superhero",
+      "tags_array": [
+        "comedy",
+        "off-beat humor",
+        "fantasy superhero"
+      ],
+      "date": "2026-04-12"
+    },
+    {
+      "title": "Murderbot S1",
+      "rating": 4,
+      "tags": "humorous, sci-fi, light",
+      "tags_array": [
+        "humorous",
+        "sci-fi",
+        "light"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Fallout S2",
+      "rating": 4,
+      "tags": "offbeat sci-fi, dark humor",
+      "tags_array": [
+        "offbeat sci-fi",
+        "dark humor"
+      ],
+      "date": "2026-04-12"
+    },
+    {
+      "title": "Mission: Impossible – The Final Reckoning",
+      "rating": 4,
+      "tags": "entertaining, humor, hi-tech",
+      "tags_array": [
+        "entertaining",
+        "humor",
+        "hi-tech"
+      ],
+      "date": "2026-04-12"
+    },
+    {
+      "title": "Kaos (series)",
+      "rating": 4,
+      "tags": "witty humor, great acting, supernatural/greek gods, short episodes",
+      "tags_array": [
+        "witty humor",
+        "great acting",
+        "supernatural/greek gods",
+        "short episodes"
+      ],
+      "date": "2026-04-12"
+    },
+    {
+      "title": "Dirk Gently's Holistic Detective Agency S1",
+      "rating": 4,
+      "tags": "quirky off-beat humor, sci-fi/fantasy",
+      "tags_array": [
+        "quirky off-beat humor",
+        "sci-fi/fantasy"
+      ],
+      "date": "2026-04-27"
+    },
+    {
+      "title": "Black Mirror S7 E1",
+      "rating": 3,
+      "tags": "not very engaging, sad, felt re-hashed",
+      "tags_array": [
+        "not very engaging",
+        "sad",
+        "felt re-hashed"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "The Sandman S2 (overall)",
+      "rating": 3,
+      "tags": "mildly entertaining, fantasy",
+      "tags_array": [
+        "mildly entertaining",
+        "fantasy"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Our Flag Means Death S1 Ep 1",
+      "rating": 3.75,
+      "tags": "easy watch, Monty Python vibes, good as background show",
+      "tags_array": [
+        "easy watch",
+        "Monty Python vibes",
+        "good as background show"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Upload S1–2",
+      "rating": 3.5,
+      "tags": "initially enjoyable, later not worth watching",
+      "tags_array": [
+        "initially enjoyable",
+        "later not worth watching"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Loot",
+      "rating": 3,
+      "tags": "okay, didn't keep me hooked",
+      "tags_array": [
+        "okay",
+        "didn't keep me hooked"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Scavengers Reign S1 Ep 1",
+      "rating": 2,
+      "tags": "too druggy, trippy",
+      "tags_array": [
+        "too druggy",
+        "trippy"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Acapulco",
+      "rating": 2,
+      "tags": "didn't like it",
+      "tags_array": [
+        "didn't like it"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Aunty Donna's Big Ol' House of Fun",
+      "rating": 1,
+      "tags": "too kiddy",
+      "tags_array": [
+        "too kiddy"
+      ],
+      "date": "2026-03-31"
+    },
+    {
+      "title": "The Big Door Prize",
+      "rating": 1,
+      "tags": "not interested",
+      "tags_array": [
+        "not interested"
+      ],
+      "date": "2026-03-31"
+    }
   ],
   "known_favorites": [
     "Foundation (overall)",
@@ -46,5 +331,10 @@
     "Fleabag",
     "Planes Trains & Automobiles"
   ],
-  "known_dislikes": ["Wicked", "Asteroid City", "Fast X", "Die Hard"]
+  "known_dislikes": [
+    "Wicked",
+    "Asteroid City",
+    "Fast X",
+    "Die Hard"
+  ]
 }

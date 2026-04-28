@@ -1,8 +1,15 @@
 {
-  "synced_at": "2026-04-28T00:00:00Z",
+  "synced_at": "2026-04-28T19:54:25Z",
   "source": "Parsed from vault Overview.md (🎯 Projects/🎬 TV and Movie Concierge/Overview.md). Re-synced by the daily scheduled task.",
-  "top_genres": ["Sci-Fi", "Fantasy", "Comedy", "Horror/Suspense"],
-  "lower_priority": ["Sad dramas"],
+  "top_genres": [
+    "Sci-Fi",
+    "Fantasy",
+    "Comedy",
+    "Horror/Suspense"
+  ],
+  "lower_priority": [
+    "Sad dramas"
+  ],
   "loved": [
     "Foundation",
     "Severance",
@@ -19,7 +26,12 @@
     "Fleabag",
     "Planes Trains & Automobiles"
   ],
-  "disliked": ["Wicked", "Asteroid City", "Fast X", "Die Hard"],
+  "disliked": [
+    "Wicked",
+    "Asteroid City",
+    "Fast X",
+    "Die Hard"
+  ],
   "signals_what_lands": [
     "off-beat / quirky / sarcastic humor",
     "witty banter",
@@ -41,9 +53,14 @@
     "slow pacing",
     "overly abstract / artsy"
   ],
-  "platforms": ["Netflix", "Apple TV+", "Amazon Prime Video", "Crunchyroll"],
-  "viewing_habit": "1–2 hours before bed; mix of weekly releases and completed series",
-  "language": "open to any (subs or dubs)",
+  "platforms": [
+    "Netflix",
+    "Apple TV+",
+    "Amazon Prime Video",
+    "Crunchyroll"
+  ],
+  "viewing_habit": "typically 1–2 hours before bed",
+  "language": "Open to any language (subs or dubs)",
   "content_limits": "none",
   "rating_scale": {
     "5": "Instant Classic — loved it, re-watchable, must-see",
