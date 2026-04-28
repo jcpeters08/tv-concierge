@@ -1,5 +1,4 @@
 {
-  "synced_at": "2026-04-28T19:54:25Z",
   "source": "Parsed from vault Watched.md. Re-synced by the daily scheduled task.",
   "format_note": "entries[] preserves the vault format: Title – Rating⭐ – \"tags\" (date). Tags are kept as a comma-separated string for round-trip fidelity, plus a parsed tags_array for convenience.",
   "entries": [
@@ -316,6 +315,15 @@
         "not interested"
       ],
       "date": "2026-03-31"
+    },
+    {
+      "title": "Margo's Got Money Troubles",
+      "rating": 2,
+      "tags": "forced plot and acting",
+      "tags_array": [
+        "forced plot and acting"
+      ],
+      "date": "2026-04-28"
     }
   ],
   "known_favorites": [
@@ -336,5 +344,6 @@
     "Asteroid City",
     "Fast X",
     "Die Hard"
-  ]
+  ],
+  "synced_at": "2026-04-28T20:15:03Z"
 }

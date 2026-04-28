@@ -1,28 +1,4 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": [
-    {
-      "kind": "watched",
-      "title": "Margo's Got Money Troubles",
-      "rating": 2,
-      "tags": "forced plot and acting",
-      "date": "2026-04-28",
-      "ts": "2026-04-28T20:11:57.903Z"
-    },
-    {
-      "kind": "pin",
-      "title": "Kevin",
-      "ts": "2026-04-28T20:12:10.583Z"
-    },
-    {
-      "kind": "pin",
-      "title": "The Boys S5 (Final)",
-      "ts": "2026-04-28T20:12:11.949Z"
-    },
-    {
-      "kind": "hide",
-      "title": "That Time I Got Reincarnated as a Slime S4",
-      "ts": "2026-04-28T20:12:32.467Z"
-    }
-  ]
+  "entries": []
 }
