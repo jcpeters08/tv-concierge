@@ -1,36 +1,4 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": [
-    {
-      "kind": "hide",
-      "title": "Stranger Things: Tales From '85",
-      "ts": "2026-04-28T23:06:48.540Z"
-    },
-    {
-      "kind": "hide",
-      "title": "Running Point S2",
-      "ts": "2026-04-28T23:07:03.317Z"
-    },
-    {
-      "kind": "watched",
-      "title": "Man on Fire",
-      "rating": 4,
-      "tags": "thriller, drama, action",
-      "date": "2026-04-28",
-      "ts": "2026-04-28T23:07:19.943Z"
-    },
-    {
-      "kind": "hide",
-      "title": "The Pitt S2",
-      "ts": "2026-04-28T23:09:33.200Z"
-    },
-    {
-      "kind": "watched",
-      "title": "The Classroom of a Black Cat and a Witch",
-      "rating": 3.5,
-      "tags": "anime, fantasy, supernatural, off-beat fun",
-      "date": "2026-04-28",
-      "ts": "2026-04-28T23:09:59.036Z"
-    }
-  ]
+  "entries": []
 }

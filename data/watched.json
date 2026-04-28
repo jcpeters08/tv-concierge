@@ -324,6 +324,29 @@
         "forced plot and acting"
       ],
       "date": "2026-04-28"
+    },
+    {
+      "title": "Man on Fire",
+      "rating": 4,
+      "tags": "thriller, drama, action",
+      "tags_array": [
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "date": "2026-04-28"
+    },
+    {
+      "title": "The Classroom of a Black Cat and a Witch",
+      "rating": 3.5,
+      "tags": "anime, fantasy, supernatural, off-beat fun",
+      "tags_array": [
+        "anime",
+        "fantasy",
+        "supernatural",
+        "off-beat fun"
+      ],
+      "date": "2026-04-28"
     }
   ],
   "known_favorites": [
@@ -345,5 +368,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-04-28T20:15:03Z"
+  "synced_at": "2026-04-28T23:19:57Z"
 }
