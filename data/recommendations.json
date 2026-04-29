@@ -1,18 +1,18 @@
 {
   "generated_at": "2026-04-29T03:00:43Z",
   "week_label": "Apr 27 – May 3, 2026",
-  "source": "Refreshed by daily scheduled task. Sourced from Netflix Tudum, Tom's Guide, Apple TV Press, Amazon MGM Studios press, Crunchyroll Spring 2026 simulcast, Rotten Tomatoes critics picks. Skips already-watched titles in watched.json and titles in not-interested.json.",
+  "source": "Refreshed by daily scheduled task. Sourced from Netflix Tudum, Tom's Guide, Apple TV Press, Amazon MGM Studios press, Crunchyroll Spring 2026 simulcast, Rotten Tomatoes critics picks. Skips already-watched titles in watched.json and titles in not-interested.json. 2026-04-29 manual fix: hero swapped to Demon Slayer: Infinity Castle (on Loved list) after concierge audit.",
   "hero": {
-    "title": "Widow's Bay",
-    "platform": "Apple TV+",
-    "date": "Wed Apr 29",
-    "format": "series",
-    "runtime": "1-hour",
+    "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
+    "platform": "Crunchyroll",
+    "date": "Apr 9 — now streaming",
+    "format": "movie",
+    "runtime": "~2.5 hours",
     "match": "strong",
-    "genres": ["horror", "comedy", "thriller", "drama"],
-    "tags": ["off-beat humor", "supernatural", "comedy-horror", "great acting", "100% RT"],
-    "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Recreation). Eight-episode first season, premieres April 29 with two episodes then weekly. Critics are calling it a 'Stephen King mixtape' — comedy + horror + thriller + character drama in one show.",
-    "why": "100% on Rotten Tomatoes out of the gate. Off-beat tone, supernatural premise, ensemble acting, plot-twist machinery — four of your top 4–5⭐ signals firing at once. And Dippold wrote two of your 'Loved' list films (The Heat, Spy)."
+    "genres": ["fantasy", "action", "anime"],
+    "tags": ["anime", "supernatural", "world building", "Loved-list franchise"],
+    "about": "First film in the trilogy adapting the Infinity Castle arc — the climactic showdown between the Demon Slayer Corps and Muzan's Upper Moons inside the shape-shifting fortress. Picks up directly from Hashira Training Arc. Made nearly $700M theatrically in 2025; Crunchyroll exec held it back from streaming until April 9, 2026 to protect the box office.",
+    "why": "Demon Slayer is on your Loved list — that's a higher-confidence signal than anything taste-extrapolated. Same studio (ufotable), same animation craft, an arc fans have been waiting years for. Now finally on a service you have."
   },
   "new_this_week": [
     {
@@ -74,6 +74,18 @@
       "tags": ["book adaptation", "survival", "psychological"],
       "about": "BBC miniseries adaptation of William Golding's novel — boys stranded on an island fend for themselves and society quickly breaks down. Faithful take with prestige-drama production.",
       "why": "Book adaptation is a positive signal for you, and the psychological pressure-cooker setup has plot-twist potential. Tonally darker than your usual — try one episode."
+    },
+    {
+      "title": "Widow's Bay",
+      "platform": "Apple TV+",
+      "date": "Wed Apr 29",
+      "format": "series",
+      "runtime": "1-hour",
+      "match": "strong",
+      "genres": ["horror", "comedy", "thriller", "drama"],
+      "tags": ["off-beat humor", "supernatural", "comedy-horror", "great acting", "100% RT"],
+      "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Recreation). Eight-episode first season, premieres April 29 with two episodes then weekly. Critics are calling it a 'Stephen King mixtape' — comedy + horror + thriller + character drama in one show.",
+      "why": "100% on Rotten Tomatoes out of the gate. Off-beat tone, supernatural premise, ensemble acting, plot-twist machinery — four of your top 4–5⭐ signals firing at once. And Dippold wrote two of your 'Loved' list films (The Heat, Spy)."
     },
     {
       "title": "Your Friends & Neighbors S2",
