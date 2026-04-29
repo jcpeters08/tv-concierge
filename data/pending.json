@@ -1,28 +1,4 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": [
-    {
-      "kind": "pin",
-      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
-      "ts": "2026-04-29T03:39:27.502Z"
-    },
-    {
-      "kind": "watched",
-      "title": "Big Mistakes",
-      "rating": 3,
-      "tags": "off-chemistry, contrived",
-      "date": "2026-04-29",
-      "ts": "2026-04-29T03:41:18.868Z"
-    },
-    {
-      "kind": "pin",
-      "title": "Widow's Bay",
-      "ts": "2026-04-29T03:41:41.568Z"
-    },
-    {
-      "kind": "pin",
-      "title": "Your Friends & Neighbors S2",
-      "ts": "2026-04-29T03:42:15.085Z"
-    }
-  ]
+  "entries": []
 }
