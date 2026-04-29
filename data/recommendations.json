@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-29T14:15:14Z",
+  "generated_at": "2026-04-29T15:11:05Z",
   "week_label": "Apr 27 – May 3, 2026",
-  "source": "Refreshed by daily scheduled task. Sourced from Netflix Tudum, Tom's Guide, Apple TV Press, Amazon MGM Studios press, Crunchyroll Spring 2026 simulcast, Rotten Tomatoes critics picks. Skips already-watched titles in watched.json and titles in not-interested.json. Loved-list cross-check + watchlist availability check both ran 2026-04-29. Hero is Demon Slayer: Infinity Castle (Tier 1 Loved continuation + Tier 2 watchlist now-streaming).",
+  "source": "Refreshed by daily scheduled task. Sourced from Netflix Tudum, Tom's Guide, Apple TV Press, Amazon MGM Studios press, Crunchyroll Spring 2026 simulcast, Rotten Tomatoes critics picks. Skips already-watched titles in watched.json and titles in not-interested.json. Loved-list cross-check + watchlist availability check both ran 2026-04-29. Hero is Demon Slayer: Infinity Castle (Tier 1 Loved continuation + Tier 2 watchlist now-streaming). New 4/29 verifications: Widow's Bay sits at 100% Certified Fresh on RT after premiere reviews; Rick and Morty S9 Adult Swim premiere confirmed May 24 (US streaming on Hulu/Max Aug 31) — added as upcoming alert.",
   "hero": {
     "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
     "platform": "Crunchyroll",
@@ -24,7 +24,7 @@
       "match": "strong",
       "genres": ["comedy", "drama"],
       "tags": ["dark comedy", "plot twists", "anthology", "great acting"],
-      "about": "Lee Sung Jin's Emmy-sweeping anthology resets with a brand-new cast and story: Oscar Isaac, Carey Mulligan, Charles Melton, Cailee Spaeny. Two couples at a Montecito beach club — the younger pair blackmails the older pair after catching them on video in a violent fight. Eight ~30-min episodes dropped at once. 86% RT.",
+      "about": "Lee Sung Jin's Emmy-sweeping anthology resets with a brand-new cast and story: Oscar Isaac, Carey Mulligan, Charles Melton, Cailee Spaeny. Two couples at a Montecito beach club — the younger pair blackmails the older pair after catching them on video in a violent fight. Eight ~30-min episodes dropped at once. 86% RT and currently #2 on Netflix's global top 10.",
       "why": "S1 was praised for exactly the things you reward — dark humor, plot escalation, ensemble acting — and the anthology reset means no S1 baggage."
     },
     {
@@ -71,9 +71,9 @@
       "runtime": "1-hour",
       "match": "strong",
       "genres": ["horror", "comedy", "thriller", "drama"],
-      "tags": ["off-beat humor", "supernatural", "comedy-horror", "great acting", "watchlist now streaming"],
-      "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Rec). Eight-episode first season — two episodes today, then weekly through June 17.",
-      "why": "On your watchlist and just dropped today. Off-beat tone, supernatural premise, ensemble acting, plot-twist machinery. Dippold also wrote two of your 'Loved' list films (The Heat, Spy). Highest-priority try this week."
+      "tags": ["off-beat humor", "supernatural", "comedy-horror", "great acting", "100% RT", "watchlist now streaming"],
+      "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Rec). Eight-episode first season — two episodes today, then weekly through June 17. Currently 100% Certified Fresh on Rotten Tomatoes after premiere reviews; described by Rolling Stone as 'the best Stephen King mixtape ever.'",
+      "why": "On your watchlist and just dropped today with a 100% RT debut. Off-beat tone, supernatural premise, ensemble acting, plot-twist machinery. Dippold also wrote two of your 'Loved' list films (The Heat, Spy). Highest-priority try this week."
     },
     {
       "title": "Your Friends & Neighbors S2",
@@ -204,7 +204,7 @@
       "match": "strong",
       "genres": ["action", "fantasy", "horror"],
       "tags": ["anime", "supernatural", "stunning animation", "96% RT"],
-      "about": "Theatrical-to-streaming release of the Chainsaw Man arc adapting manga chapters 39-52. A heartbreaking romance against an action backdrop with Devils. Reviewers describe sequences as 'best action scenes in recent memory.' 96% RT.",
+      "about": "Theatrical-to-streaming release of the Chainsaw Man arc adapting manga chapters 39-52. A heartbreaking romance against an action backdrop with Devils. Reviewers describe sequences as 'best action scenes in recent memory.' Grossed over $160M globally; debuts on Crunchyroll Apr 30 in both subbed and dubbed, kicking off Crunchyroll's Ani-May celebration.",
       "why": "Supernatural + action + tight 1h40 runtime is bedtime-friendly. If you don't already know Chainsaw Man S1, the Reze Arc still works as a relatively standalone film entry. Perfect Friday-night option."
     }
   ],
@@ -222,16 +222,16 @@
       "why": "Highest critic score on a platform you have this month. British police thriller adjacent to your Slow Horses lane. Most-watched on Apple TV+ globally one day after premiere."
     },
     {
-      "title": "Witch Hat Atelier",
-      "platform": "Crunchyroll",
-      "date": "Apr 6 — airing weekly",
-      "format": "anime",
-      "runtime": "30-min",
+      "title": "Widow's Bay",
+      "platform": "Apple TV+",
+      "date": "Apr 29 — now streaming",
+      "format": "series",
+      "runtime": "1-hour",
       "match": "strong",
-      "genres": ["fantasy", "anime"],
-      "tags": ["world building", "magic-academy", "stunning animation"],
-      "about": "Studio BUG FILMS adapts Kamome Shirahama's award-winning manga. Coco, a girl who shouldn't be able to do magic, becomes a wandering witch's apprentice. Critics: 'one of 2026's best anime episodes,' 'Anime of the Year favorite.'",
-      "why": "World-building is one of your top taste signals; reviewers describe a Frieren-like warmth over the Dorohedoro edge. Currently the most-praised new anime of the season."
+      "genres": ["horror", "comedy", "thriller", "drama"],
+      "tags": ["100% RT Certified Fresh", "off-beat", "supernatural", "great acting"],
+      "about": "Matthew Rhys, Stephen King-flavored New England horror-comedy from Katie Dippold (The Heat, Spy). 100% Certified Fresh on RT at premiere. Two episodes drop today, weekly through Jun 17.",
+      "why": "Bullseye fit — Dippold wrote two of your Loved-list films, supernatural + dark comedy is your sweet spot, and the critic consensus is the strongest of the week. Same pick as 'new this week' on purpose: when the watchlist title and the critic favorite collapse onto the same show, it's worth saying twice."
     },
     {
       "title": "How to Get to Heaven from Belfast",
@@ -249,10 +249,11 @@
   "upcoming_alerts": [
     { "title": "Demon Slayer: Infinity Castle", "platform": "Crunchyroll", "when": "NOW STREAMING (Apr 9)", "note": "Loved-list franchise + you pinned it — see hero pick" },
     { "title": "Kevin", "platform": "Amazon Prime Video", "when": "NOW STREAMING (Apr 20)", "note": "you pinned it — see new this week" },
-    { "title": "Widow's Bay", "platform": "Apple TV+", "when": "NOW STREAMING (Apr 29 — today)", "note": "you pinned it — see new this week" },
+    { "title": "Widow's Bay", "platform": "Apple TV+", "when": "NOW STREAMING (Apr 29 — today, 100% RT)", "note": "you pinned it — see new this week" },
     { "title": "Your Friends & Neighbors S2", "platform": "Apple TV+", "when": "NOW AIRING (Apr 3)", "note": "you pinned it — see new this week" },
     { "title": "The Boys S5 (Final)", "platform": "Amazon Prime Video", "when": "NOW AIRING WEEKLY (premiered Apr 8, finale May 20)", "note": "you pinned it — see new this week" },
     { "title": "Good Omens S3 (90-min finale)", "platform": "Amazon Prime Video", "when": "May 13, 2026", "note": "Loved list — wraps the unfinished S2 story in one feature-length episode" },
+    { "title": "Rick and Morty S9", "platform": "Adult Swim (US streaming on Hulu/Max Aug 31)", "when": "May 24, 2026 (linear); Aug 31, 2026 (US streaming)", "note": "Loved list — needs Adult Swim or Max for the linear run; Hulu/Max land same-day in late summer. Outside your current platform stack — flag only." },
     { "title": "Slow Horses S6", "platform": "Apple TV+", "when": "Fall 2026 (already filmed)", "note": "Loved list — you rated the series 4⭐" },
     { "title": "Foundation S4", "platform": "Apple TV+", "when": "Late 2026 / early 2027 (filming Jan–May 2026)", "note": "Loved list — you rated S3 Ep 3: 5⭐" },
     { "title": "Severance S3", "platform": "Apple TV+", "when": "Mid-to-late 2027 (filming Apr–Dec 2026)", "note": "Loved list" },
