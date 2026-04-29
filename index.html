@@ -220,13 +220,18 @@
     <div class="week" id="week-label">Loading…</div>
   </header>
 
-  <!-- Sign-in panel (email magic link) -->
+  <!-- Sign-in panel (email code) -->
   <section id="signin-panel" class="setup hidden">
     <h2>Sign in</h2>
-    <p>Enter your email and we'll send a one-time sign-in link. Once you're in, your GitHub token is shared across every device you sign in on — no per-device setup.</p>
+    <p>Enter your email and we'll send a one-time 6-digit code. Once you're in, your GitHub token is shared across every device you sign in on — no per-device setup.</p>
     <div class="row">
-      <input id="email-input" type="email" placeholder="you@example.com" autocomplete="email" spellcheck="false">
-      <button class="btn" id="email-send">Send sign-in link</button>
+      <input id="email-input" type="email" placeholder="you@example.com" autocomplete="email" inputmode="email" spellcheck="false">
+      <button class="btn" id="email-send">Send code</button>
+    </div>
+    <div class="row hidden" id="code-row">
+      <input id="code-input" type="text" placeholder="6-digit code" autocomplete="one-time-code" inputmode="numeric" maxlength="6" spellcheck="false">
+      <button class="btn" id="code-verify">Sign in</button>
+      <a href="#" id="code-resend" class="subtle">Resend</a>
     </div>
     <div class="status-msg" id="email-status"></div>
   </section>
@@ -428,17 +433,20 @@ async function apiFetch(path, opts = {}) {
   return res;
 }
 
-async function consumeHashSid() {
-  const m = location.hash.match(/[#&]sid=([^&]+)/);
-  if (!m) return false;
-  saveSid(decodeURIComponent(m[1]));
-  history.replaceState(null, "", location.pathname + location.search);
-  return true;
-}
-
-async function requestMagicLink(email) {
+async function requestCode(email) {
   const res = await apiFetch("/auth/request", { method: "POST", body: JSON.stringify({ email }) });
   if (!res.ok) throw new Error(`Sign-in request failed: ${res.status} ${await res.text()}`);
+}
+
+async function verifyCode(email, code) {
+  const res = await apiFetch("/auth/verify-code", { method: "POST", body: JSON.stringify({ email, code }) });
+  if (!res.ok) {
+    const data = await res.json().catch(() => ({}));
+    throw new Error(data.error || `Verification failed: ${res.status}`);
+  }
+  const data = await res.json();
+  if (!data.sid) throw new Error("No session id in response");
+  saveSid(data.sid);
 }
 
 async function verifySession() {
@@ -971,10 +979,11 @@ function showPanel(which) {
   $("#app").classList.toggle("hidden", which !== "app");
 }
 
-async function bootSendMagicLink() {
+async function bootSendCode() {
   const input = $("#email-input");
   const status = $("#email-status");
   const btn = $("#email-send");
+  const codeRow = $("#code-row");
   const email = input.value.trim();
   if (!email || !email.includes("@")) {
     status.textContent = "Enter a valid email.";
@@ -984,15 +993,43 @@ async function bootSendMagicLink() {
   btn.disabled = true; btn.textContent = "Sending…";
   status.textContent = ""; status.className = "status-msg";
   try {
-    await requestMagicLink(email);
-    status.textContent = "✓ check your email. The link is valid for 15 minutes.";
+    await requestCode(email);
+    codeRow.classList.remove("hidden");
+    $("#code-input").focus();
+    status.textContent = "✓ check your email for a 6-digit code. It's valid for 15 minutes.";
     status.className = "status-msg ok";
   } catch (e) {
     console.error(e);
     status.textContent = e.message || "Send failed.";
     status.className = "status-msg err";
   } finally {
-    btn.disabled = false; btn.textContent = "Send sign-in link";
+    btn.disabled = false; btn.textContent = "Send code";
+  }
+}
+
+async function bootVerifyCode() {
+  const status = $("#email-status");
+  const btn = $("#code-verify");
+  const email = $("#email-input").value.trim();
+  const code = $("#code-input").value.trim();
+  if (!email || !code) {
+    status.textContent = "Enter the code from your email.";
+    status.className = "status-msg err";
+    return;
+  }
+  btn.disabled = true; btn.textContent = "Verifying…";
+  status.textContent = ""; status.className = "status-msg";
+  try {
+    await verifyCode(email, code);
+    status.textContent = "✓ signed in. Loading…";
+    status.className = "status-msg ok";
+    location.reload();
+  } catch (e) {
+    console.error(e);
+    status.textContent = e.message || "Verification failed.";
+    status.className = "status-msg err";
+  } finally {
+    btn.disabled = false; btn.textContent = "Sign in";
   }
 }
 
@@ -1026,14 +1063,16 @@ async function bootSavePat() {
 
 async function boot() {
   wireFilters();
-  $("#email-send").addEventListener("click", bootSendMagicLink);
-  $("#email-input").addEventListener("keydown", (e) => { if (e.key === "Enter") bootSendMagicLink(); });
+  $("#email-send").addEventListener("click", bootSendCode);
+  $("#email-input").addEventListener("keydown", (e) => { if (e.key === "Enter") bootSendCode(); });
+  $("#code-verify").addEventListener("click", bootVerifyCode);
+  $("#code-input").addEventListener("keydown", (e) => { if (e.key === "Enter") bootVerifyCode(); });
+  $("#code-resend").addEventListener("click", (e) => { e.preventDefault(); bootSendCode(); });
   $("#pat-save").addEventListener("click", bootSavePat);
   $("#pat-input").addEventListener("keydown", (e) => { if (e.key === "Enter") bootSavePat(); });
   $("#sign-out").addEventListener("click", (e) => { e.preventDefault(); signOut(); });
   $("#change-pat").addEventListener("click", (e) => { e.preventDefault(); showPanel("pat"); });
 
-  await consumeHashSid();
   loadSid();
 
   if (!state.sid) { showPanel("signin"); return; }

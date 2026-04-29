@@ -1,16 +1,18 @@
 /**
  * tv-concierge-auth
  *
- * Magic-link login + encrypted PAT vault for the TV Concierge web app.
+ * Email-code login + encrypted PAT vault for the TV Concierge web app.
  *
  * Flow:
  *   1. App POSTs to /auth/request with {email}. Worker validates against the
- *      allowlist, mints a one-time magic-link token, stores it in KV, and
- *      emails a link via Resend.
- *   2. User clicks the link. /auth/verify consumes the token, mints a session,
- *      and redirects back to the app with the session id in the URL fragment
- *      (`#sid=...`) — fragments are not sent to the server, so this never
- *      lands in any access log.
+ *      allowlist, generates a 6-digit code, stores it in KV under code:<email>
+ *      (15-min TTL, 5-attempt cap), and emails the code via Resend.
+ *   2. User reads the code and POSTs it to /auth/verify-code with their
+ *      email. Worker validates, mints a session, and returns {sid} as JSON.
+ *      The whole flow stays in the same browser tab — no clickable link, no
+ *      cross-app redirect — which is what the iOS PWA needs (PWAs have an
+ *      isolated localStorage scope from Safari, so clickable links land in
+ *      the wrong context).
  *   3. App stores the session id in localStorage and uses it as a Bearer
  *      token on subsequent requests.
  *   4. App calls GET /pat to fetch the encrypted-at-rest PAT (AES-GCM with a
@@ -27,8 +29,9 @@ interface Env {
   PAT_ENC_KEY: string;          // secret, base64-encoded 32 bytes
 }
 
-const MAGIC_TTL_SECONDS   = 15 * 60;
+const CODE_TTL_SECONDS    = 15 * 60;
 const SESSION_TTL_SECONDS = 30 * 24 * 60 * 60;
+const MAX_CODE_ATTEMPTS   = 5;
 
 // ---- Entry point ------------------------------------------------------------
 
@@ -39,12 +42,12 @@ export default {
     if (request.method === "OPTIONS") return cors(env, new Response(null, { status: 204 }));
 
     try {
-      if (url.pathname === "/auth/request" && request.method === "POST") return cors(env, await handleAuthRequest(request, env));
-      if (url.pathname === "/auth/verify"  && request.method === "GET")  return cors(env, await handleAuthVerify(request, env));
-      if (url.pathname === "/auth/logout"  && request.method === "POST") return cors(env, await handleAuthLogout(request, env));
-      if (url.pathname === "/auth/me"      && request.method === "GET")  return cors(env, await handleAuthMe(request, env));
-      if (url.pathname === "/pat"          && request.method === "GET")  return cors(env, await handleGetPat(request, env));
-      if (url.pathname === "/pat"          && request.method === "PUT")  return cors(env, await handlePutPat(request, env));
+      if (url.pathname === "/auth/request"     && request.method === "POST") return cors(env, await handleAuthRequest(request, env));
+      if (url.pathname === "/auth/verify-code" && request.method === "POST") return cors(env, await handleAuthVerifyCode(request, env));
+      if (url.pathname === "/auth/logout"      && request.method === "POST") return cors(env, await handleAuthLogout(request, env));
+      if (url.pathname === "/auth/me"          && request.method === "GET")  return cors(env, await handleAuthMe(request, env));
+      if (url.pathname === "/pat"              && request.method === "GET")  return cors(env, await handleGetPat(request, env));
+      if (url.pathname === "/pat"              && request.method === "PUT")  return cors(env, await handlePutPat(request, env));
       return cors(env, json({ error: "not found" }, 404));
     } catch (err) {
       console.error(err);
@@ -65,33 +68,41 @@ async function handleAuthRequest(request: Request, env: Env): Promise<Response> 
   // send when the email is on the allowlist.
   if (!allowed.includes(email)) return json({ ok: true });
 
-  const token = randomToken(32);
-  await env.KV.put(`magic:${token}`, JSON.stringify({ email }), { expirationTtl: MAGIC_TTL_SECONDS });
-
-  const workerOrigin = new URL(request.url).origin;
-  const link = `${workerOrigin}/auth/verify?token=${encodeURIComponent(token)}`;
-  await sendMagicLinkEmail(env, email, link);
+  const code = generateCode();
+  await env.KV.put(`code:${email}`, JSON.stringify({ code, attempts: 0 }), { expirationTtl: CODE_TTL_SECONDS });
+  await sendCodeEmail(env, email, code);
 
   return json({ ok: true });
 }
 
-async function handleAuthVerify(request: Request, env: Env): Promise<Response> {
-  const url = new URL(request.url);
-  const token = url.searchParams.get("token") ?? "";
-  if (!token) return html("Missing token.", 400);
+async function handleAuthVerifyCode(request: Request, env: Env): Promise<Response> {
+  const body = await safeJson(request);
+  const email = String(body?.email ?? "").trim().toLowerCase();
+  const code = String(body?.code ?? "").trim();
+  if (!email || !code) return json({ error: "missing email or code" }, 400);
 
-  const raw = await env.KV.get(`magic:${token}`);
-  if (!raw) return html("This sign-in link has expired or already been used. Request a new one.", 400);
-  await env.KV.delete(`magic:${token}`);  // single-use
+  const key = `code:${email}`;
+  const raw = await env.KV.get(key);
+  if (!raw) return json({ error: "code expired or not requested" }, 400);
+  const data = JSON.parse(raw) as { code: string; attempts: number };
 
-  const { email } = JSON.parse(raw) as { email: string };
+  if (data.attempts >= MAX_CODE_ATTEMPTS) {
+    await env.KV.delete(key);
+    return json({ error: "too many attempts" }, 400);
+  }
+
+  if (data.code !== code) {
+    data.attempts += 1;
+    await env.KV.put(key, JSON.stringify(data), { expirationTtl: CODE_TTL_SECONDS });
+    return json({ error: "invalid code" }, 400);
+  }
+
+  await env.KV.delete(key);
 
   const sid = randomToken(32);
   await env.KV.put(`session:${sid}`, JSON.stringify({ email }), { expirationTtl: SESSION_TTL_SECONDS });
 
-  const redirect = new URL(env.APP_URL);
-  redirect.hash = `sid=${encodeURIComponent(sid)}`;
-  return Response.redirect(redirect.toString(), 302);
+  return json({ sid });
 }
 
 async function handleAuthLogout(request: Request, env: Env): Promise<Response> {
@@ -148,10 +159,11 @@ function bearer(request: Request): string | null {
 
 // ---- Email -----------------------------------------------------------------
 
-async function sendMagicLinkEmail(env: Env, to: string, link: string): Promise<void> {
+async function sendCodeEmail(env: Env, to: string, code: string): Promise<void> {
   const html = `
-    <p>Click this link to sign in to TV Concierge. It's valid for 15 minutes and works only once.</p>
-    <p><a href="${escapeHtml(link)}">Sign in to TV Concierge</a></p>
+    <p>Your sign-in code for TV Concierge:</p>
+    <p style="font-size:28px;font-weight:bold;letter-spacing:6px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;margin:16px 0">${escapeHtml(code)}</p>
+    <p>Enter this code in the app. It's valid for 15 minutes.</p>
     <p style="color:#888;font-size:12px">If you didn't request this, you can ignore the email.</p>
   `;
   const res = await fetch("https://api.resend.com/emails", {
@@ -163,7 +175,7 @@ async function sendMagicLinkEmail(env: Env, to: string, link: string): Promise<v
     body: JSON.stringify({
       from: "TV Concierge <onboarding@resend.dev>",
       to: [to],
-      subject: "Your sign-in link for TV Concierge",
+      subject: "Your sign-in code for TV Concierge",
       html,
     }),
   });
@@ -171,6 +183,12 @@ async function sendMagicLinkEmail(env: Env, to: string, link: string): Promise<v
     const text = await res.text();
     throw new Error(`Resend error ${res.status}: ${text}`);
   }
+}
+
+function generateCode(): string {
+  const buf = new Uint32Array(1);
+  crypto.getRandomValues(buf);
+  return String(buf[0] % 1_000_000).padStart(6, "0");
 }
 
 // ---- Crypto (AES-GCM with a Worker secret key) -----------------------------
@@ -217,13 +235,6 @@ function json(data: unknown, status = 200): Response {
   return new Response(JSON.stringify(data), {
     status,
     headers: { "Content-Type": "application/json" },
-  });
-}
-
-function html(message: string, status = 200): Response {
-  return new Response(`<!doctype html><meta charset=utf-8><body style="font-family:system-ui;padding:32px;max-width:560px;margin:auto"><p>${escapeHtml(message)}</p>`, {
-    status,
-    headers: { "Content-Type": "text/html; charset=utf-8" },
   });
 }
 
