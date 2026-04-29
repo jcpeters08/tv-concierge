@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T00:00:00Z",
+  "generated_at": "2026-04-29T03:00:43Z",
   "week_label": "Apr 27 – May 3, 2026",
-  "source": "Initial seed from Cowork session 2026-04-28. Sourced from Netflix Tudum, Tom's Guide, Rotten Tomatoes, Anime News Network, and Crunchyroll Spring 2026 simulcast announcements. Refresh weekly via the scheduled task.",
+  "source": "Refreshed by daily scheduled task. Sourced from Netflix Tudum, Tom's Guide, Apple TV Press, Amazon MGM Studios press, Crunchyroll Spring 2026 simulcast, Rotten Tomatoes critics picks. Skips already-watched titles in watched.json and titles in not-interested.json.",
   "hero": {
     "title": "Widow's Bay",
     "platform": "Apple TV+",
@@ -10,106 +10,70 @@
     "runtime": "1-hour",
     "match": "strong",
     "genres": ["horror", "comedy", "thriller", "drama"],
-    "tags": ["off-beat humor", "supernatural", "comedy-horror", "great acting"],
-    "about": "Matthew Rhys (The Americans, Perry Mason) plays the mayor of a small New England town that may or may not be cursed. Created by Katie Dippold, who wrote The Heat and Spy and worked on Parks & Recreation. Apple is positioning it as a genre-bender — comedy + horror + thriller + character drama all in one show, the kind of premise where a town's quirks slowly turn sinister. Eight-episode first season, premieres April 29 with multiple episodes then weekly.",
-    "why": "Off-beat tone, supernatural premise, plot-twist machinery, ensemble acting — that's four of your top 4–5⭐ signals firing at once. And Dippold wrote two of your 'Loved' list films (The Heat, Spy) — same comic instincts, longer runway."
+    "tags": ["off-beat humor", "supernatural", "comedy-horror", "great acting", "100% RT"],
+    "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Recreation). Eight-episode first season, premieres April 29 with two episodes then weekly. Critics are calling it a 'Stephen King mixtape' — comedy + horror + thriller + character drama in one show.",
+    "why": "100% on Rotten Tomatoes out of the gate. Off-beat tone, supernatural premise, ensemble acting, plot-twist machinery — four of your top 4–5⭐ signals firing at once. And Dippold wrote two of your 'Loved' list films (The Heat, Spy)."
   },
   "new_this_week": [
     {
-      "title": "Stranger Things: Tales From '85",
-      "platform": "Netflix",
-      "date": "Premiering",
-      "format": "series",
-      "runtime": "30-min",
-      "match": "strong",
-      "genres": ["sci-fi", "horror"],
-      "tags": ["sci-fi", "supernatural", "world building", "animated"],
-      "about": "Animated anthology spin-off set in summer 1985, the year between Seasons 2 and 3 of the live-action series. Tells previously-unseen Hawkins adventures — different threats, side characters, and Upside Down lore the main show didn't have room for. Different tone from prestige live-action; closer to a Saturday-morning-cartoon-with-stakes feel.",
-      "why": "Even as animation, it's the same world that gave you world-building, supernatural threats, and 80s-flavored escapism. Anthology format means you can sample one episode tonight without committing to a full arc."
-    },
-    {
-      "title": "Running Point S2",
-      "platform": "Netflix",
-      "date": "Returning",
-      "format": "series",
-      "runtime": "30-min",
-      "match": "try",
-      "genres": ["comedy"],
-      "tags": ["comedy", "ensemble", "sports"],
-      "about": "Mindy Kaling-produced comedy. Kate Hudson plays Isla Gordon, the newly-installed president of the fictional Los Angeles Waves NBA franchise — a chaotic woman-in-a-man's-world workplace comedy loosely inspired by Jeanie Buss running the Lakers. Returning for S2 with the team chasing a championship.",
-      "why": "Light ensemble workplace comedy with quick jokes — sits in the 'fine but not your strongest combo' lane. Try one episode if you want low-stakes background watching."
-    },
-    {
       "title": "BEEF S2",
       "platform": "Netflix",
-      "date": "Coming",
+      "date": "Apr 16",
       "format": "series",
       "runtime": "30-min",
       "match": "strong",
       "genres": ["comedy", "drama"],
       "tags": ["dark comedy", "plot twists", "anthology", "great acting"],
-      "about": "Emmy-sweeping anthology returns with a brand-new cast and story: Oscar Isaac, Carey Mulligan, Charles Melton, and Cailee Spaeny in a fresh tale of a slow-burn personal feud spiraling into something much darker. Same showrunner (Lee Sung Jin), same tonal DNA — escalating bad decisions, cringe humor, real emotional stakes underneath.",
-      "why": "S1 was widely praised for exactly the things you reward — dark humor, plot escalation, ensemble acting — and the anthology reset means no S1 baggage. High match on paper."
+      "about": "Emmy-sweeping anthology returns with a brand-new cast and story: Oscar Isaac, Carey Mulligan, Charles Melton, and Cailee Spaeny. Two couples — the poor pair blackmailing the rich pair into not releasing footage of a heated argument — escalate into a prolonged feud. All eight ~30-min episodes dropped at once. Same showrunner (Lee Sung Jin), same tonal DNA — escalating bad decisions, cringe humor, real emotional stakes underneath.",
+      "why": "S1 was widely praised for exactly the things you reward — dark humor, plot escalation, ensemble acting — and the anthology reset means no S1 baggage."
+    },
+    {
+      "title": "Apex",
+      "platform": "Netflix",
+      "date": "Apr 24",
+      "format": "movie",
+      "runtime": "~2 hours",
+      "match": "try",
+      "genres": ["thriller", "action"],
+      "tags": ["survival thriller", "cat-and-mouse"],
+      "about": "Charlize Theron plays Sasha, an experienced climber grieving the loss of her partner; alone in the Australian wilderness, what begins as endurance becomes a cat-and-mouse hunt with a methodical predator (Taron Egerton). Directed by Baltasar Kormákur. Eric Bana co-stars.",
+      "why": "Pure survival thriller — strong premise but no off-beat humor or sci-fi/supernatural angle to push it past 'try.' Good if you specifically want a tense one-night watch."
     },
     {
       "title": "Big Mistakes",
       "platform": "Netflix",
-      "date": "April",
+      "date": "Apr 9",
       "format": "series",
       "runtime": "30-min",
       "match": "try",
       "genres": ["comedy"],
       "tags": ["dark comedy", "off-beat", "crime"],
-      "about": "Dan Levy (Schitt's Creek creator/star) writes and directs this dark comedy about a sibling pair who get blackmailed into the world of organized crime after stumbling into a misunderstanding they can't undo. Limited series.",
-      "why": "Levy's voice is well-known and off-beat. Crime-comedy + sibling chemistry is a workable lane for you, but the Levy-doing-darker-tone is unproven — try the pilot and bail if it feels too earnest."
+      "about": "Dan Levy writes, directs, and stars (with Taylor Ortega) as Nicky and Morgan, two deeply incapable siblings whose misguided theft for their dying grandmother accidentally pulls them into the world of organized crime. Eight-episode limited series — Levy's first scripted show since Schitt's Creek.",
+      "why": "Levy's voice is well-known and off-beat. Crime-comedy + sibling chemistry is a workable lane for you, but Levy-doing-darker-tone is unproven — try the pilot and bail if it feels too earnest."
     },
     {
-      "title": "Man on Fire",
+      "title": "The Four Seasons S2",
       "platform": "Netflix",
-      "date": "April",
-      "format": "series",
-      "runtime": "1-hour",
-      "match": "try",
-      "genres": ["thriller", "drama"],
-      "tags": ["thriller", "drama", "action"],
-      "about": "TV adaptation of A.J. Quinnell's 1980 novel (and the Denzel Washington film). Yahya Abdul-Mateen II plays John Creasy, a burned-out former soldier hired as bodyguard to a young girl in Mexico City; when she's kidnapped, his protection job becomes a methodical revenge mission.",
-      "why": "Strong action-thriller premise but lacks the off-beat humor or sci-fi/supernatural elements that drive your 4–5⭐ ratings. Worth it only if you specifically want action-thriller in the mix tonight."
-    },
-    {
-      "title": "Outcome",
-      "platform": "Apple TV+",
-      "date": "Apr 10",
-      "format": "series",
-      "runtime": "30-min",
-      "match": "strong",
-      "genres": ["comedy"],
-      "tags": ["dark comedy", "plot twists", "ensemble", "great acting"],
-      "about": "Topical satire from Jonah Hill (writer-director). Keanu Reeves stars as Reef Hawk, an A-list Hollywood star whose career is upended when he's blackmailed by an old video. Cameron Diaz and Matt Bomer play his closest friends Kyle and Xander; Jonah Hill plays his crisis-management lawyer Ira. The comedy comes from watching genuinely bad people try to clean up after themselves.",
-      "why": "Dark humor + ensemble + a blackmail-plot setup that's basically engineered for plot twists — three bullseyes against your taste profile. Cast pedigree is real."
-    },
-    {
-      "title": "Margo's Got Money Troubles",
-      "platform": "Apple TV+",
-      "date": "Apr 15",
+      "date": "May",
       "format": "series",
       "runtime": "30-min",
       "match": "try",
       "genres": ["comedy", "drama"],
-      "tags": ["off-beat", "dramedy", "great acting"],
-      "about": "Adapted from Rufi Thorpe's 2024 novel. Elle Fanning plays Margo, a college dropout and aspiring writer who falls into financial chaos and has to figure things out alongside her ex-Hooters waitress mother (Michelle Pfeiffer) and ex-pro-wrestler father (Nick Offerman). Nicole Kidman, Greg Kinnear, and Rico Nasty round out a stacked supporting cast.",
-      "why": "Quirky family-dramedy with a stacked acting bench. Closer to a Sundance-y character piece than your usual sci-fi/supernatural lane, but the off-beat premise and acting could land. Try the pilot."
+      "tags": ["ensemble comedy", "witty", "Tina Fey"],
+      "about": "Comedy-drama from Tina Fey, Lang Fisher, and Tracey Wigfield, returning for season 2. Three couples reunite for seasonal getaways. Ensemble cast led by Fey, Steve Carell, Will Forte, Colman Domingo. Tone: middle-aged friendship dynamics, sharp dialogue, brisk runtime.",
+      "why": "Witty banter + ensemble cast hits two of your signals. Lower-stakes than your usual sweet spot, but Fey's writing room is reliable for one-and-done evening watches."
     },
     {
-      "title": "Criminal Record S2",
-      "platform": "Apple TV+",
-      "date": "Apr 22",
-      "format": "series",
+      "title": "Lord of the Flies",
+      "platform": "Netflix",
+      "date": "May",
+      "format": "limited series",
       "runtime": "1-hour",
       "match": "try",
-      "genres": ["thriller", "drama"],
-      "tags": ["thriller", "plot twists", "british procedural"],
-      "about": "British police procedural starring Cush Jumbo and Peter Capaldi as detectives on opposite sides of a cold case. S1 examined institutional racism and competing investigative styles in modern London policing. S2 picks up the fallout and pushes both characters into new moral territory.",
-      "why": "Procedurals aren't your sweet spot, but Capaldi-versus-Jumbo is real prestige-tier acting and the show traffics in the slow-reveal twists you respond to. Solid 'try' if you want a tighter, more grown-up thriller than Slow Horses."
+      "genres": ["drama", "thriller"],
+      "tags": ["book adaptation", "survival", "psychological"],
+      "about": "BBC miniseries adaptation of William Golding's novel — boys stranded on an island fend for themselves and society quickly breaks down. Faithful take with prestige-drama production.",
+      "why": "Book adaptation is a positive signal for you, and the psychological pressure-cooker setup has plot-twist potential. Tonally darker than your usual — try one episode."
     },
     {
       "title": "Your Friends & Neighbors S2",
@@ -118,94 +82,94 @@
       "format": "series",
       "runtime": "1-hour",
       "match": "strong",
-      "genres": ["thriller", "drama", "comedy"],
-      "tags": ["dark comedy", "suspense", "plot twists"],
-      "about": "Jon Hamm plays Andrew 'Coop' Cooper, a recently-divorced hedge fund manager who quietly burgles his obscenely wealthy suburban neighbors to keep up appearances. S2 raises the stakes when a new neighbor played by James Marsden moves in and starts piecing together what Coop is actually doing. Created by Jonathan Tropper (Banshee, See).",
-      "why": "Hamm doing morally-gray comedy is exactly the deadpan-with-stakes register you reward (think Slow Horses energy). Marsden as the threat is great casting. Plot-twist machinery is built into the premise."
+      "genres": ["crime", "comedy", "drama"],
+      "tags": ["witty banter", "great acting", "plot twists", "dark humor"],
+      "about": "Jon Hamm returns as Coop, the financial-titan-turned-suburban-burglar. James Marsden joins this season and reviewers single him out as scene-stealing. Apple's #1 show globally on launch week. Tonally: glossy crime caper with ensemble dialogue, escalating consequences, and a dark comic streak.",
+      "why": "Strong critical reception, Hamm's best post-Mad Men work. Crime-comedy with witty banter and plot escalation is squarely in your strike zone."
     },
     {
-      "title": "Shrinking S3",
+      "title": "Outcome",
       "platform": "Apple TV+",
-      "date": "Returning",
-      "format": "series",
+      "date": "Apr 10",
+      "format": "movie",
+      "runtime": "~2 hours",
+      "match": "try",
+      "genres": ["comedy", "thriller"],
+      "tags": ["dark comedy", "ensemble", "Jonah Hill"],
+      "about": "Jonah Hill writes/directs and the ensemble is loaded — Keanu Reeves, Cameron Diaz, Matt Bomer. Premise: a movie star is blackmailed with footage from his past. Tone: Hill's particular brand of awkward, character-driven dark comedy.",
+      "why": "Ensemble + dark comedy framing matches your taste, but Hill's directorial voice is hit-or-miss for the off-beat-but-not-too-arty band you live in. Worth trying."
+    },
+    {
+      "title": "Unconditional",
+      "platform": "Apple TV+",
+      "date": "May 8",
+      "format": "limited series",
+      "runtime": "1-hour",
+      "match": "try",
+      "genres": ["thriller", "drama"],
+      "tags": ["psychological thriller", "Homeland team"],
+      "about": "Mother-daughter psychological thriller from the team behind Homeland. Premise: a daughter goes missing and the mother's investigation uncovers things she'd buried about her own past.",
+      "why": "Plot-twist machinery is the appeal here. Sits closer to your 'sad drama' lower-priority lane unless the thriller engine kicks in early."
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed",
+      "platform": "Apple TV+",
+      "date": "May",
+      "format": "limited series",
       "runtime": "30-min",
       "match": "try",
       "genres": ["comedy", "drama"],
-      "tags": ["comedy", "great acting", "ensemble", "heart"],
-      "about": "Bill Lawrence (Ted Lasso, Scrubs) co-creation. Jason Segel plays Jimmy, a grieving therapist who breaks every rule by saying exactly what he thinks to his patients. Harrison Ford as his crusty mentor and Jessica Williams as a colleague anchor a tight ensemble. S3 deepens the fallout from S2's big shifts.",
-      "why": "Sits squarely in your 'light(ish) tone with substance' zone — closer to Fleabag's emotional honesty than to your sci-fi favorites. Critics call S3 the strongest season yet."
+      "tags": ["dark comedy", "off-beat", "Tatiana Maslany"],
+      "about": "Tatiana Maslany (Orphan Black, She-Hulk) plays a burnt-out mom who gets roped into a cam-boy conspiracy. Tone: dark comedy with absurd-premise scaffolding.",
+      "why": "Maslany doing off-beat dark comedy is a strong taste signal. Premise is exactly the kind of weird that lands for you when the writing supports it."
     },
     {
       "title": "The Boys S5 (Final)",
-      "platform": "Prime Video",
-      "date": "Apr 8 → May 20",
+      "platform": "Amazon Prime Video",
+      "date": "Apr 8 (premiered) — finale May 20",
       "format": "series",
       "runtime": "1-hour",
       "match": "strong",
-      "genres": ["sci-fi", "comedy", "thriller"],
-      "tags": ["sci-fi", "dark humor", "satire", "plot twists"],
-      "about": "Final season of the superhero satire. Premise: superheroes are real, owned by a corporation (Vought), and almost all of them are corrupt narcissists; The Boys are a black-ops crew who try to keep them in check. S5 closes out the war between Butcher's crew and Homelander, with two-episode premiere then weekly drops through the May 20 finale.",
-      "why": "Sci-fi + dark comedy + plot twists is your trifecta, and 'final season' means real stakes and payoff. If you've never started, S5 isn't the entry point — but if you have, this is appointment viewing."
+      "genres": ["sci-fi", "comedy", "drama"],
+      "tags": ["dark comedy", "supernatural", "satire", "great acting"],
+      "about": "The fifth and final season. Two-episode premiere April 8, weekly thereafter, finale May 20. Jensen Ackles returns as Soldier Boy as a series regular. The Boys vs. Vought, end of the road.",
+      "why": "On your watchlist. Final season of a satirical superhero show with the dark-humor + off-beat + supernatural triad you reward. Currently airing weekly — good time to start catching up."
     },
     {
-      "title": "Kevin",
-      "platform": "Prime Video",
+      "title": "Citadel S2",
+      "platform": "Amazon Prime Video",
+      "date": "May",
+      "format": "series",
+      "runtime": "1-hour",
+      "match": "try",
+      "genres": ["thriller", "action"],
+      "tags": ["spy thriller", "Russo brothers"],
+      "about": "Joe & Anthony Russo's globe-spanning spy thriller returns. Memory-wiped agents Mason Kane and Nadia Sinh re-enter the field as Citadel rebuilds against the Manticore syndicate. High-budget action set-pieces, multiple international spinoffs feeding into the main timeline.",
+      "why": "Spy genre overlaps with your Slow Horses appreciation, but Citadel runs glossier and more globe-trotting than the dry British register you favor. Try if you want spectacle."
+    },
+    {
+      "title": "Spider-Noir",
+      "platform": "Amazon Prime Video",
+      "date": "May 27",
+      "format": "limited series",
+      "runtime": "1-hour",
+      "match": "try",
+      "genres": ["fantasy", "noir", "drama"],
+      "tags": ["superhero", "noir", "Nicolas Cage", "1930s"],
+      "about": "Live-action Marvel series. Nicolas Cage plays an aging private investigator in 1930s New York who's also the only Spider-Man in his black-and-white universe. Tonally: pulp noir, period detective drama with superhero elements.",
+      "why": "Off-beat premise + period-noir framing + Cage-doing-Cage is the exact weirdness you tend to enjoy. Genre crossover (superhero + noir) keeps it from being a typical cape show."
+    },
+    {
+      "title": "The Running Man",
+      "platform": "Amazon Prime Video",
       "date": "April",
-      "format": "series",
-      "runtime": "30-min",
-      "match": "strong",
-      "genres": ["comedy"],
-      "tags": ["adult animation", "off-beat", "30-min", "comedy"],
-      "about": "Adult animated comedy from Aubrey Plaza and Joe Wengert (writer on Big Mouth). Plaza voices Kevin, a cat who gets abandoned at an animal shelter when his owners break up and is forced to fend for himself among a cast of other shelter animals. Half-hour episodes, cynical-but-sweet tone.",
-      "why": "Adult animation + off-beat + 30-min episodes is your Solar Opposites / Rick and Morty wheelhouse. Plaza's deadpan as the lead is a strong signal."
-    },
-    {
-      "title": "House of the Spirits",
-      "platform": "Prime Video",
-      "date": "Apr 29",
-      "format": "series",
-      "runtime": "1-hour",
+      "format": "movie",
+      "runtime": "~2 hours",
       "match": "try",
-      "genres": ["drama", "fantasy"],
-      "tags": ["magical realism", "drama", "supernatural"],
-      "about": "Eight-episode adaptation of Isabel Allende's 1982 novel. Multi-generational family saga spanning roughly half a century in an unnamed conservative South American country (modeled on Allende's Chile), following three generations of women — Clara the clairvoyant, her daughter Blanca, and granddaughter Alba — through political upheaval, class struggle, and quiet magical realism.",
-      "why": "Magical realism overlaps with your supernatural taste, but the family-saga drama register is closer to your 'sad drama' lower-priority lane. Try if you want something prestige and slower-paced."
-    },
-    {
-      "title": "Nippon Sangoku: The Three Nations of the Crimson Sun",
-      "platform": "Prime Video",
-      "date": "Apr 5",
-      "format": "anime",
-      "runtime": "30-min",
-      "match": "try",
-      "genres": ["sci-fi"],
-      "tags": ["anime", "sci-fi", "world building", "political"],
-      "about": "Original anime set in a near-future Japan that has fractured into three rival states warring for supremacy after a national collapse. Mixes geopolitical intrigue with mecha and conspiracy elements. Premiered April 5 on Prime in the US.",
-      "why": "Sci-fi + world building is your wavelength, but political-intrigue anime can be slow-paced — a known miss signal for you. Try the pilot before committing."
-    },
-    {
-      "title": "Dr. Stone: Science Future Pt 3",
-      "platform": "Crunchyroll",
-      "date": "Spring 2026",
-      "format": "anime",
-      "runtime": "30-min",
-      "match": "strong",
-      "genres": ["sci-fi"],
-      "tags": ["anime", "sci-fi", "world building", "escapism"],
-      "about": "Continuing adaptation of Riichiro Inagaki's manga. Premise: humanity is mysteriously turned to stone by a flash of light; thousands of years later, prodigy student Senku Ishigami awakens and rebuilds civilization from scratch using science — every episode is essentially 'how do we invent X with sticks and rocks.' Pt 3 continues the global science quest.",
-      "why": "Hits the same bench as Demon Slayer and One Punch Man — anime + sci-fi + world-building + escapism. The rebuild-civilization premise has unusually high replay value because it teaches as it goes."
-    },
-    {
-      "title": "That Time I Got Reincarnated as a Slime S4",
-      "platform": "Crunchyroll",
-      "date": "Spring 2026",
-      "format": "anime",
-      "runtime": "30-min",
-      "match": "try",
-      "genres": ["fantasy"],
-      "tags": ["anime", "fantasy", "world building", "isekai"],
-      "about": "Fan-favorite isekai anime, S4. A Japanese salaryman dies and is reincarnated in a fantasy world as a slime monster with steadily-growing powers; he ends up founding and ruling a multi-species nation. Lots of political world-building, large ensemble.",
-      "why": "World building is the hook — but isekai tends to be slow-paced and goofy in a way that sometimes lands and sometimes doesn't for you. Worth a try if you want something low-stakes."
+      "genres": ["sci-fi", "action", "thriller"],
+      "tags": ["dystopia", "Stephen King adaptation", "remake"],
+      "about": "Edgar Wright's remake of the 1987 Schwarzenegger film, itself adapted from Stephen King's novel (writing as Bachman). Glen Powell stars as Ben Richards, a man who enters a televised manhunt as a contestant to save his sick daughter.",
+      "why": "Edgar Wright + Stephen King adaptation + dystopian sci-fi + Glen Powell is a stack of taste-positive signals. Wright's kinetic style usually plays well with off-beat humor."
     },
     {
       "title": "Dorohedoro S2",
@@ -216,8 +180,8 @@
       "match": "strong",
       "genres": ["fantasy", "horror", "comedy"],
       "tags": ["anime", "off-beat", "dark", "supernatural"],
-      "about": "Long-awaited return of the cult anime adapted from Q Hayashida's manga. In a grim, surreal world divided between humans and magic-users (Sorcerers), the lizard-headed Caiman tries to find the magic-user who transformed his head — while teaming up with his friend Nikaido. Tone is dark but absurd, gory but slapsticky, and visually unlike anything else.",
-      "why": "Off-beat + supernatural + dark humor is your sweet spot, and Dorohedoro is the kind of show critics use 'singular' for. Returning fans rate S1 very high."
+      "about": "Long-awaited return of the cult anime. In a grim, surreal world divided between humans and magic-users (Sorcerers), the lizard-headed Caiman tries to find the magic-user who transformed his head — while teaming up with his friend Nikaido. Tone is dark but absurd, gory but slapsticky.",
+      "why": "Off-beat + supernatural + dark humor is your sweet spot, and Dorohedoro is the kind of show critics use 'singular' for. S1 rates very high with returning fans."
     },
     {
       "title": "Haibara's Teenage New Game+",
@@ -227,63 +191,77 @@
       "runtime": "30-min",
       "match": "try",
       "genres": ["comedy", "drama"],
-      "tags": ["anime", "comedy", "slice of life", "30-min"],
-      "about": "Adaptation of Kazuki Amamiya's light novel. Premise: socially anxious college senior Natsuki Haibara mysteriously wakes up seven years in the past, one month before high school. Armed with the knowledge of his original life, he sets out to do high school properly this time — joining the popular group, building friendships, getting closer to the girl he never approached. Slice-of-life with 'second chance' framing.",
-      "why": "Slice-of-life isn't your strongest match (no sci-fi/supernatural threat, low plot-twist density), but the time-loop premise has appeal if you want something gentle. Probably a 3⭐ for you, not a 4."
+      "tags": ["anime", "slice of life", "time travel", "30-min"],
+      "about": "Adaptation of Kazuki Amamiya's light novel. A socially anxious college senior wakes up seven years in the past, one month before high school, armed with the knowledge of his original life. Slice-of-life with 'second chance' framing.",
+      "why": "Slice-of-life isn't your strongest match (no sci-fi/supernatural threat), but the time-loop premise has appeal if you want something gentle. Probably 3⭐ for you, not 4."
     },
     {
-      "title": "The Classroom of a Black Cat and a Witch",
+      "title": "Killed Again, Mr. Detective",
       "platform": "Crunchyroll",
-      "date": "Apr 12",
+      "date": "Apr 2",
       "format": "anime",
       "runtime": "30-min",
       "match": "try",
-      "genres": ["fantasy", "horror"],
-      "tags": ["anime", "fantasy", "supernatural", "off-beat"],
-      "about": "Magic-academy fantasy. Witch apprentice Spica Virgo can't use magic at all and has neither money nor connections to find a mentor. A talking black cat appears with magic of his own — but he's really a cursed human and wants Spica to help break the spell. Their goals align: secret master-apprentice pact, comedy, slow-build mystery.",
-      "why": "Supernatural + off-beat premise + magic-academy framing is a workable taste fit — but it could land too earnest/YA depending on the writing. Try the pilot."
+      "genres": ["mystery", "comedy"],
+      "tags": ["anime", "mystery", "time-loop", "dark humor"],
+      "about": "Mystery-comedy anime with a time-loop hook: a detective keeps getting murdered and waking up to investigate his own death. Episodic mystery-of-the-week structure with a connecting meta-arc.",
+      "why": "Time-loop + mystery + dark comedy elements line up with your plot-twist appetite. Low-investment 30-min format makes it an easy try."
+    },
+    {
+      "title": "Witch Hat Atelier",
+      "platform": "Crunchyroll",
+      "date": "Spring 2026",
+      "format": "anime",
+      "runtime": "30-min",
+      "match": "try",
+      "genres": ["fantasy"],
+      "tags": ["anime", "fantasy", "magic-academy", "world building"],
+      "about": "Long-awaited adaptation of the acclaimed manga by Kamome Shirahama. A young girl named Coco, who isn't supposed to be able to do magic at all, accidentally casts a spell and is taken on as an apprentice by a wandering witch. World-building heavy, beautiful art, gentler tone than Dorohedoro.",
+      "why": "World-building is one of your strongest signals. Fantasy-magic-school could land if the storytelling escalates beyond 'gentle.' Try the pilot."
     }
   ],
   "critics": [
     {
-      "title": "A Knight of the Seven Kingdoms",
-      "platform": "HBO Max",
-      "date": "Now streaming",
-      "format": "series",
-      "runtime": "1-hour",
-      "match": "strong",
-      "genres": ["fantasy", "comedy"],
-      "tags": ["fantasy", "buddy-comedy", "westeros"],
-      "about": "HBO's adaptation of George R.R. Martin's Tales of Dunk and Egg novellas, set roughly 90 years before Game of Thrones. Follows Ser Duncan the Tall ('Dunk'), a hedge knight of humble origins, and his small, sharp squire 'Egg' (a young Targaryen prince in disguise) as they wander Westeros looking for tournaments, trouble, and honor. Lighter, smaller-scale, more buddy-road-trip than the main saga.",
-      "why": "RT calls it 'a welcome return to Westeros that works better in the buddy-comedy arena.' Fantasy world-building + light banter + character-driven — closer to Slow Horses than to GoT in tone, which is good news for your taste."
-    },
-    {
-      "title": "The Pitt S2",
-      "platform": "HBO Max",
-      "date": "Now streaming",
-      "format": "series",
-      "runtime": "1-hour",
-      "match": "try",
-      "genres": ["drama"],
-      "tags": ["medical drama", "ensemble", "real-time"],
-      "about": "Real-time medical drama (each episode covers one hour of a single 15-hour ER shift in Pittsburgh) starring Noah Wyle as Dr. Robby, the senior attending. From ER producers John Wells and R. Scott Gemmill. Ensemble cast of residents, nurses, and patients; almost no music, lots of overlapping dialogue. S2 widely called the best new drama on TV right now.",
-      "why": "Medical-drama register sits in your lower-priority 'sad drama' lane, BUT critics rave about the craft, ensemble work, and how briskly it moves. Worth one episode to see if the format grabs you the way it has critics."
-    },
-    {
       "title": "How to Get to Heaven from Belfast",
       "platform": "Netflix",
-      "date": "Feb 12 (catch-up)",
-      "format": "series",
+      "date": "Now streaming",
+      "format": "limited series",
       "runtime": "1-hour",
       "match": "strong",
       "genres": ["comedy", "mystery", "thriller"],
       "tags": ["comedy mystery", "british/irish", "great acting", "plot twists"],
-      "about": "Lisa McGee's (Derry Girls) follow-up. Three lifelong Belfast friends — Saoirse the chaotic TV writer, Robyn the stressed-out mother of three, Dara the dependable carer — travel to County Donegal when the estranged fourth member of their teenage friend group dies unexpectedly. What starts as paying respects becomes a chaotic quest to solve her suspicious death while keeping their own dark secret buried. Six-episode comedy mystery; 95% on Rotten Tomatoes.",
-      "why": "Bullseye fit. McGee's Derry Girls-honed Irish/British humor + a comedy-mystery format engineered for plot twists + ensemble of great character actors. This is the strongest taste-match in the whole briefing."
+      "about": "Lisa McGee's (Derry Girls) follow-up. Three lifelong Belfast friends travel to County Donegal when the estranged fourth member of their teenage friend group dies unexpectedly. What starts as paying respects becomes a chaotic quest to solve her suspicious death while keeping their own dark secret buried. Six-episode comedy mystery; 95% on Rotten Tomatoes.",
+      "why": "Bullseye fit. McGee's Derry Girls-honed Irish/British humor + a comedy-mystery format engineered for plot twists + ensemble of great character actors. Strongest taste-match outside the hero pick."
+    },
+    {
+      "title": "BAIT",
+      "platform": "Amazon Prime Video",
+      "date": "Now streaming (Mar 25)",
+      "format": "limited series",
+      "runtime": "30-min",
+      "match": "strong",
+      "genres": ["comedy", "drama"],
+      "tags": ["meta-satire", "great acting", "dark comedy", "plot escalation"],
+      "about": "Riz Ahmed writes and stars as Shah Latif, a struggling actor whose last shot at fame becomes an audition that spirals over four wild days into a meta-satire about ambition and identity. Six-episode limited series; 95% on Rotten Tomatoes; Amazon mounting a 21-category Emmy push.",
+      "why": "Meta-satire + great acting + plot escalation is exactly the lane that produced your highest BEEF/Black Mirror ratings. Limited-series runtime keeps the commitment small."
+    },
+    {
+      "title": "Your Friends & Neighbors S2",
+      "platform": "Apple TV+",
+      "date": "Apr 3 — now airing weekly",
+      "format": "series",
+      "runtime": "1-hour",
+      "match": "strong",
+      "genres": ["crime", "comedy", "drama"],
+      "tags": ["witty banter", "great acting", "plot twists", "dark humor"],
+      "about": "Jon Hamm returns as the financial-titan-turned-burglar. James Marsden joins and reviewers single him out as scene-stealing. Apple's #1 show globally on launch week. Glossy crime caper with ensemble dialogue, escalating consequences, dark comic streak.",
+      "why": "Critics calling it Hamm's best post-Mad Men work. Crime-comedy + witty banter + plot escalation hits multiple of your strongest signals."
     }
   ],
   "upcoming_alerts": [
     { "title": "The Gentlemen S2", "platform": "Netflix", "when": "Fall 2026", "note": "you rated S1: 4.5⭐" },
-    { "title": "Silo S3", "platform": "Apple TV+", "when": "Summer 2026", "note": "you rated S1–2: 4.5⭐" }
+    { "title": "Silo S3", "platform": "Apple TV+", "when": "Summer 2026", "note": "you rated S1–2: 4.5⭐" },
+    { "title": "Foundation S4", "platform": "Apple TV+", "when": "TBD 2027", "note": "you rated S3 Ep 3: 5⭐" },
+    { "title": "Severance S3", "platform": "Apple TV+", "when": "TBD 2027", "note": "on your Loved list" }
   ]
 }
