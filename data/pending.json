@@ -1,10 +1,4 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": [
-    {
-      "kind": "hide",
-      "title": "A Knight of the Seven Kingdoms",
-      "ts": "2026-04-29T01:42:59.264Z"
-    }
-  ]
+  "entries": []
 }
