@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-29T03:00:43Z",
+  "generated_at": "2026-04-29T14:15:14Z",
   "week_label": "Apr 27 – May 3, 2026",
-  "source": "Refreshed by daily scheduled task. Sourced from Netflix Tudum, Tom's Guide, Apple TV Press, Amazon MGM Studios press, Crunchyroll Spring 2026 simulcast, Rotten Tomatoes critics picks. Skips already-watched titles in watched.json and titles in not-interested.json. 2026-04-29 manual fix: hero swapped to Demon Slayer: Infinity Castle (on Loved list) after concierge audit.",
+  "source": "Refreshed by daily scheduled task. Sourced from Netflix Tudum, Tom's Guide, Apple TV Press, Amazon MGM Studios press, Crunchyroll Spring 2026 simulcast, Rotten Tomatoes critics picks. Skips already-watched titles in watched.json and titles in not-interested.json. Loved-list cross-check + watchlist availability check both ran 2026-04-29. Hero is Demon Slayer: Infinity Castle (Tier 1 Loved continuation + Tier 2 watchlist now-streaming).",
   "hero": {
     "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
     "platform": "Crunchyroll",
@@ -11,8 +11,8 @@
     "match": "strong",
     "genres": ["fantasy", "action", "anime"],
     "tags": ["anime", "supernatural", "world building", "Loved-list franchise"],
-    "about": "First film in the trilogy adapting the Infinity Castle arc — the climactic showdown between the Demon Slayer Corps and Muzan's Upper Moons inside the shape-shifting fortress. Picks up directly from Hashira Training Arc. Made nearly $700M theatrically in 2025; Crunchyroll exec held it back from streaming until April 9, 2026 to protect the box office.",
-    "why": "Demon Slayer is on your Loved list — that's a higher-confidence signal than anything taste-extrapolated. Same studio (ufotable), same animation craft, an arc fans have been waiting years for. Now finally on a service you have."
+    "about": "First film in the trilogy adapting the Infinity Castle arc — the climactic showdown between the Demon Slayer Corps and Muzan's Upper Moons inside the shape-shifting fortress. Picks up directly from Hashira Training Arc. Made nearly $700M theatrically; Crunchyroll exec held it back from streaming until April 9, 2026 to protect the box office.",
+    "why": "Demon Slayer is on your Loved list — that's a higher-confidence signal than anything taste-extrapolated. Same studio (ufotable), same animation craft, an arc fans have been waiting years for. You pinned it; now it's actually on Crunchyroll. Tier 1 hero pick."
   },
   "new_this_week": [
     {
@@ -24,8 +24,8 @@
       "match": "strong",
       "genres": ["comedy", "drama"],
       "tags": ["dark comedy", "plot twists", "anthology", "great acting"],
-      "about": "Emmy-sweeping anthology returns with a brand-new cast and story: Oscar Isaac, Carey Mulligan, Charles Melton, and Cailee Spaeny. Two couples — the poor pair blackmailing the rich pair into not releasing footage of a heated argument — escalate into a prolonged feud. All eight ~30-min episodes dropped at once. Same showrunner (Lee Sung Jin), same tonal DNA — escalating bad decisions, cringe humor, real emotional stakes underneath.",
-      "why": "S1 was widely praised for exactly the things you reward — dark humor, plot escalation, ensemble acting — and the anthology reset means no S1 baggage."
+      "about": "Lee Sung Jin's Emmy-sweeping anthology resets with a brand-new cast and story: Oscar Isaac, Carey Mulligan, Charles Melton, Cailee Spaeny. Two couples at a Montecito beach club — the younger pair blackmails the older pair after catching them on video in a violent fight. Eight ~30-min episodes dropped at once. 86% RT.",
+      "why": "S1 was praised for exactly the things you reward — dark humor, plot escalation, ensemble acting — and the anthology reset means no S1 baggage."
     },
     {
       "title": "Apex",
@@ -40,18 +40,6 @@
       "why": "Pure survival thriller — strong premise but no off-beat humor or sci-fi/supernatural angle to push it past 'try.' Good if you specifically want a tense one-night watch."
     },
     {
-      "title": "Big Mistakes",
-      "platform": "Netflix",
-      "date": "Apr 9",
-      "format": "series",
-      "runtime": "30-min",
-      "match": "try",
-      "genres": ["comedy"],
-      "tags": ["dark comedy", "off-beat", "crime"],
-      "about": "Dan Levy writes, directs, and stars (with Taylor Ortega) as Nicky and Morgan, two deeply incapable siblings whose misguided theft for their dying grandmother accidentally pulls them into the world of organized crime. Eight-episode limited series — Levy's first scripted show since Schitt's Creek.",
-      "why": "Levy's voice is well-known and off-beat. Crime-comedy + sibling chemistry is a workable lane for you, but Levy-doing-darker-tone is unproven — try the pilot and bail if it feels too earnest."
-    },
-    {
       "title": "The Four Seasons S2",
       "platform": "Netflix",
       "date": "May",
@@ -60,7 +48,7 @@
       "match": "try",
       "genres": ["comedy", "drama"],
       "tags": ["ensemble comedy", "witty", "Tina Fey"],
-      "about": "Comedy-drama from Tina Fey, Lang Fisher, and Tracey Wigfield, returning for season 2. Three couples reunite for seasonal getaways. Ensemble cast led by Fey, Steve Carell, Will Forte, Colman Domingo. Tone: middle-aged friendship dynamics, sharp dialogue, brisk runtime.",
+      "about": "Comedy-drama from Tina Fey, Lang Fisher, Tracey Wigfield. Three couples reunite for seasonal getaways. Ensemble led by Fey, Steve Carell, Will Forte, Colman Domingo. Tone: middle-aged friendship dynamics, sharp dialogue, brisk runtime.",
       "why": "Witty banter + ensemble cast hits two of your signals. Lower-stakes than your usual sweet spot, but Fey's writing room is reliable for one-and-done evening watches."
     },
     {
@@ -72,32 +60,44 @@
       "match": "try",
       "genres": ["drama", "thriller"],
       "tags": ["book adaptation", "survival", "psychological"],
-      "about": "BBC miniseries adaptation of William Golding's novel — boys stranded on an island fend for themselves and society quickly breaks down. Faithful take with prestige-drama production.",
-      "why": "Book adaptation is a positive signal for you, and the psychological pressure-cooker setup has plot-twist potential. Tonally darker than your usual — try one episode."
+      "about": "BBC miniseries adaptation of William Golding's novel — boys stranded on an island, society breaks down. Faithful take with prestige-drama production.",
+      "why": "Book adaptation is a positive signal for you; psychological pressure-cooker setup has plot-twist potential. Tonally darker than your usual — try one episode."
     },
     {
       "title": "Widow's Bay",
       "platform": "Apple TV+",
-      "date": "Wed Apr 29",
+      "date": "Wed Apr 29 — premieres today",
       "format": "series",
       "runtime": "1-hour",
       "match": "strong",
       "genres": ["horror", "comedy", "thriller", "drama"],
-      "tags": ["off-beat humor", "supernatural", "comedy-horror", "great acting", "100% RT"],
-      "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Recreation). Eight-episode first season, premieres April 29 with two episodes then weekly. Critics are calling it a 'Stephen King mixtape' — comedy + horror + thriller + character drama in one show.",
-      "why": "100% on Rotten Tomatoes out of the gate. Off-beat tone, supernatural premise, ensemble acting, plot-twist machinery — four of your top 4–5⭐ signals firing at once. And Dippold wrote two of your 'Loved' list films (The Heat, Spy)."
+      "tags": ["off-beat humor", "supernatural", "comedy-horror", "great acting", "watchlist now streaming"],
+      "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Rec). Eight-episode first season — two episodes today, then weekly through June 17.",
+      "why": "On your watchlist and just dropped today. Off-beat tone, supernatural premise, ensemble acting, plot-twist machinery. Dippold also wrote two of your 'Loved' list films (The Heat, Spy). Highest-priority try this week."
     },
     {
       "title": "Your Friends & Neighbors S2",
       "platform": "Apple TV+",
-      "date": "Apr 3",
+      "date": "Apr 3 — airing weekly",
       "format": "series",
       "runtime": "1-hour",
       "match": "strong",
       "genres": ["crime", "comedy", "drama"],
-      "tags": ["witty banter", "great acting", "plot twists", "dark humor"],
-      "about": "Jon Hamm returns as Coop, the financial-titan-turned-suburban-burglar. James Marsden joins this season and reviewers single him out as scene-stealing. Apple's #1 show globally on launch week. Tonally: glossy crime caper with ensemble dialogue, escalating consequences, and a dark comic streak.",
-      "why": "Strong critical reception, Hamm's best post-Mad Men work. Crime-comedy with witty banter and plot escalation is squarely in your strike zone."
+      "tags": ["witty banter", "great acting", "plot twists", "dark humor", "watchlist now streaming"],
+      "about": "Jon Hamm returns as Coop, the financial-titan-turned-suburban-burglar. James Marsden joins this season and reviewers single him out as scene-stealing. Apple's #1 show globally on launch week. Glossy crime caper with ensemble dialogue, escalating consequences, dark comic streak.",
+      "why": "On your watchlist. Strong critical reception, Hamm's best post-Mad Men work. Crime-comedy with witty banter and plot escalation is squarely in your strike zone."
+    },
+    {
+      "title": "Criminal Record S2",
+      "platform": "Apple TV+",
+      "date": "Apr 22 — airing weekly through Jun 10",
+      "format": "series",
+      "runtime": "1-hour",
+      "match": "strong",
+      "genres": ["thriller", "drama", "crime"],
+      "tags": ["british", "great acting", "plot twists", "100% RT"],
+      "about": "Peter Capaldi and Cush Jumbo return. After a young man is stabbed at a political rally, rival London detectives are forced into an uneasy alliance — what starts as a murder hunt escalates into an undercover operation against a far-right bomb plot. Eight episodes, one a week through June 10. 100% RT (5 reviews) — higher than S1's already 'certified fresh' 90%.",
+      "why": "British police thriller with ensemble heavyweights, razor-sharp writing, escalating-plot machinery. Adjacent to the Slow Horses lane you 4⭐'d. Best critic-validated drop on Apple this month."
     },
     {
       "title": "Outcome",
@@ -105,59 +105,47 @@
       "date": "Apr 10",
       "format": "movie",
       "runtime": "~2 hours",
-      "match": "try",
+      "match": "skip",
       "genres": ["comedy", "thriller"],
-      "tags": ["dark comedy", "ensemble", "Jonah Hill"],
-      "about": "Jonah Hill writes/directs and the ensemble is loaded — Keanu Reeves, Cameron Diaz, Matt Bomer. Premise: a movie star is blackmailed with footage from his past. Tone: Hill's particular brand of awkward, character-driven dark comedy.",
-      "why": "Ensemble + dark comedy framing matches your taste, but Hill's directorial voice is hit-or-miss for the off-beat-but-not-too-arty band you live in. Worth trying."
-    },
-    {
-      "title": "Unconditional",
-      "platform": "Apple TV+",
-      "date": "May 8",
-      "format": "limited series",
-      "runtime": "1-hour",
-      "match": "try",
-      "genres": ["thriller", "drama"],
-      "tags": ["psychological thriller", "Homeland team"],
-      "about": "Mother-daughter psychological thriller from the team behind Homeland. Premise: a daughter goes missing and the mother's investigation uncovers things she'd buried about her own past.",
-      "why": "Plot-twist machinery is the appeal here. Sits closer to your 'sad drama' lower-priority lane unless the thriller engine kicks in early."
-    },
-    {
-      "title": "Maximum Pleasure Guaranteed",
-      "platform": "Apple TV+",
-      "date": "May",
-      "format": "limited series",
-      "runtime": "30-min",
-      "match": "try",
-      "genres": ["comedy", "drama"],
-      "tags": ["dark comedy", "off-beat", "Tatiana Maslany"],
-      "about": "Tatiana Maslany (Orphan Black, She-Hulk) plays a burnt-out mom who gets roped into a cam-boy conspiracy. Tone: dark comedy with absurd-premise scaffolding.",
-      "why": "Maslany doing off-beat dark comedy is a strong taste signal. Premise is exactly the kind of weird that lands for you when the writing supports it."
+      "tags": ["dark comedy", "ensemble", "Jonah Hill", "30% RT"],
+      "about": "Jonah Hill writes/directs. Keanu Reeves as a movie star blackmailed with footage from his past. Cameron Diaz, Matt Bomer, Jonah Hill co-star. 30% on Rotten Tomatoes — critics call it 'whiny, woe-is-me' with Hill stepping on his own ideas.",
+      "why": "Cast looks promising on paper, but the reviews say Hill's directorial voice undercuts everything. Reviewers describe exactly the 'overly artsy without paying off' miss-pattern you've flagged. Skip unless you're a Reeves completionist."
     },
     {
       "title": "The Boys S5 (Final)",
       "platform": "Amazon Prime Video",
-      "date": "Apr 8 (premiered) — finale May 20",
+      "date": "Apr 8 — finale May 20",
       "format": "series",
       "runtime": "1-hour",
       "match": "strong",
       "genres": ["sci-fi", "comedy", "drama"],
-      "tags": ["dark comedy", "supernatural", "satire", "great acting"],
-      "about": "The fifth and final season. Two-episode premiere April 8, weekly thereafter, finale May 20. Jensen Ackles returns as Soldier Boy as a series regular. The Boys vs. Vought, end of the road.",
+      "tags": ["dark comedy", "supernatural", "satire", "great acting", "watchlist now streaming"],
+      "about": "Fifth and final season. Two-episode premiere April 8, weekly thereafter, finale May 20. The world is firmly under Homelander's control; the remaining Boys are scattered. Jensen Ackles back as Soldier Boy.",
       "why": "On your watchlist. Final season of a satirical superhero show with the dark-humor + off-beat + supernatural triad you reward. Currently airing weekly — good time to start catching up."
     },
     {
-      "title": "Citadel S2",
+      "title": "Kevin",
       "platform": "Amazon Prime Video",
-      "date": "May",
+      "date": "Apr 20 — now streaming",
       "format": "series",
+      "runtime": "30-min",
+      "match": "strong",
+      "genres": ["comedy", "animation"],
+      "tags": ["off-beat", "dark comedy", "voice cast", "watchlist now streaming"],
+      "about": "Animated comedy from Aubrey Plaza, Jason Schwartzman, Amy Sedaris, Whoopi Goldberg. A lifelong housecat decides he no longer wants to live with people. Tone: absurd, character-driven adult animation.",
+      "why": "On your watchlist. Aubrey Plaza voice work + absurd premise + 30-min runtime is a clean fit for your bedtime-watch habit."
+    },
+    {
+      "title": "The House of the Spirits",
+      "platform": "Amazon Prime Video",
+      "date": "Apr 29 — premieres today",
+      "format": "limited series",
       "runtime": "1-hour",
       "match": "try",
-      "genres": ["thriller", "action"],
-      "tags": ["spy thriller", "Russo brothers"],
-      "about": "Joe & Anthony Russo's globe-spanning spy thriller returns. Memory-wiped agents Mason Kane and Nadia Sinh re-enter the field as Citadel rebuilds against the Manticore syndicate. High-budget action set-pieces, multiple international spinoffs feeding into the main timeline.",
-      "why": "Spy genre overlaps with your Slow Horses appreciation, but Citadel runs glossier and more globe-trotting than the dry British register you favor. Try if you want spectacle."
+      "genres": ["drama", "fantasy"],
+      "tags": ["spanish-language", "magical realism", "book adaptation", "ensemble"],
+      "about": "Eight-episode prestige adaptation of Isabel Allende's novel spanning nearly half a century of one Chilean family. Told in Spanish, cast drawn from across Latin America and Spain. Variety calls it sumptuous and rewarding; some critics flag it as bland in execution.",
+      "why": "Book adaptation, magical-realism, Spanish-language all positive signals — but reviews lean toward 'sad family epic,' which is your lower-priority lane. Try one episode; if it's leaning more drama than fantasy, bail."
     },
     {
       "title": "Spider-Noir",
@@ -172,67 +160,79 @@
       "why": "Off-beat premise + period-noir framing + Cage-doing-Cage is the exact weirdness you tend to enjoy. Genre crossover (superhero + noir) keeps it from being a typical cape show."
     },
     {
-      "title": "The Running Man",
-      "platform": "Amazon Prime Video",
-      "date": "April",
-      "format": "movie",
-      "runtime": "~2 hours",
-      "match": "try",
-      "genres": ["sci-fi", "action", "thriller"],
-      "tags": ["dystopia", "Stephen King adaptation", "remake"],
-      "about": "Edgar Wright's remake of the 1987 Schwarzenegger film, itself adapted from Stephen King's novel (writing as Bachman). Glen Powell stars as Ben Richards, a man who enters a televised manhunt as a contestant to save his sick daughter.",
-      "why": "Edgar Wright + Stephen King adaptation + dystopian sci-fi + Glen Powell is a stack of taste-positive signals. Wright's kinetic style usually plays well with off-beat humor."
+      "title": "Witch Hat Atelier",
+      "platform": "Crunchyroll",
+      "date": "Apr 6 — airing weekly Mondays",
+      "format": "anime",
+      "runtime": "30-min",
+      "match": "strong",
+      "genres": ["fantasy", "anime"],
+      "tags": ["world building", "magic-academy", "stunning animation", "warmth"],
+      "about": "Long-awaited adaptation of Kamome Shirahama's award-winning manga. A young girl named Coco, who isn't supposed to be able to do magic, accidentally casts a spell and is taken on as an apprentice by a wandering witch. Studio BUG FILMS. Critics calling the premiere one of 2026's best anime episodes.",
+      "why": "World-building is one of your strongest signals; reviewers highlight 'warmth and melancholy' over Dorohedoro's edge. If Frieren's tone landed for the genre, this is the same lane done very well."
     },
     {
       "title": "Dorohedoro S2",
       "platform": "Crunchyroll",
-      "date": "Spring 2026",
+      "date": "Apr 1 — airing weekly",
       "format": "anime",
       "runtime": "30-min",
       "match": "strong",
       "genres": ["fantasy", "horror", "comedy"],
-      "tags": ["anime", "off-beat", "dark", "supernatural"],
-      "about": "Long-awaited return of the cult anime. In a grim, surreal world divided between humans and magic-users (Sorcerers), the lizard-headed Caiman tries to find the magic-user who transformed his head — while teaming up with his friend Nikaido. Tone is dark but absurd, gory but slapsticky.",
-      "why": "Off-beat + supernatural + dark humor is your sweet spot, and Dorohedoro is the kind of show critics use 'singular' for. S1 rates very high with returning fans."
+      "tags": ["anime", "off-beat", "dark", "supernatural", "gore"],
+      "about": "Long-awaited return after six years. Lizard-headed Caiman tries to find the magic-user who transformed his head — while teaming up with his friend Nikaido. Tone: dark, surreal, gory, and somehow heartfelt. 11 episodes. MAPPA animation.",
+      "why": "Off-beat + supernatural + dark humor is your sweet spot. Critics call it 'singular,' fans 9–10/10 the return. If you wanted Demon Slayer's kinetic energy with weirder flavor, here it is."
     },
     {
-      "title": "Haibara's Teenage New Game+",
+      "title": "Liar Game",
       "platform": "Crunchyroll",
-      "date": "Apr 2",
+      "date": "Apr 6 — airing weekly",
       "format": "anime",
       "runtime": "30-min",
       "match": "try",
-      "genres": ["comedy", "drama"],
-      "tags": ["anime", "slice of life", "time travel", "30-min"],
-      "about": "Adaptation of Kazuki Amamiya's light novel. A socially anxious college senior wakes up seven years in the past, one month before high school, armed with the knowledge of his original life. Slice-of-life with 'second chance' framing.",
-      "why": "Slice-of-life isn't your strongest match (no sci-fi/supernatural threat), but the time-loop premise has appeal if you want something gentle. Probably 3⭐ for you, not 4."
+      "genres": ["mystery", "thriller", "anime"],
+      "tags": ["psychological", "death-game", "plot twists", "smarter Squid Game"],
+      "about": "From Madhouse (Death Note, Monster). A woman gets sucked into a brutal underground game where 100 million yen is at stake — players use deception and persuasion to bankrupt each other. Episodic mind-game structure with a connecting arc.",
+      "why": "Plot-twist appetite + dark psychology + Madhouse pedigree. Reviews call early episodes a bit talky but say the mind-games escalate well. Lower-stakes try than Dorohedoro."
     },
     {
-      "title": "Killed Again, Mr. Detective",
+      "title": "Chainsaw Man — The Movie: Reze Arc",
       "platform": "Crunchyroll",
-      "date": "Apr 2",
-      "format": "anime",
-      "runtime": "30-min",
-      "match": "try",
-      "genres": ["mystery", "comedy"],
-      "tags": ["anime", "mystery", "time-loop", "dark humor"],
-      "about": "Mystery-comedy anime with a time-loop hook: a detective keeps getting murdered and waking up to investigate his own death. Episodic mystery-of-the-week structure with a connecting meta-arc.",
-      "why": "Time-loop + mystery + dark comedy elements line up with your plot-twist appetite. Low-investment 30-min format makes it an easy try."
+      "date": "Apr 30 — streams tomorrow",
+      "format": "movie",
+      "runtime": "1h 40m",
+      "match": "strong",
+      "genres": ["action", "fantasy", "horror"],
+      "tags": ["anime", "supernatural", "stunning animation", "96% RT"],
+      "about": "Theatrical-to-streaming release of the Chainsaw Man arc adapting manga chapters 39-52. A heartbreaking romance against an action backdrop with Devils. Reviewers describe sequences as 'best action scenes in recent memory.' 96% RT.",
+      "why": "Supernatural + action + tight 1h40 runtime is bedtime-friendly. If you don't already know Chainsaw Man S1, the Reze Arc still works as a relatively standalone film entry. Perfect Friday-night option."
+    }
+  ],
+  "critics": [
+    {
+      "title": "Criminal Record S2",
+      "platform": "Apple TV+",
+      "date": "Apr 22 — airing weekly",
+      "format": "series",
+      "runtime": "1-hour",
+      "match": "strong",
+      "genres": ["thriller", "drama", "crime"],
+      "tags": ["british", "great acting", "plot twists", "100% RT"],
+      "about": "Peter Capaldi and Cush Jumbo return. London-set police thriller — what starts as a murder hunt at a political rally escalates into an undercover op against a far-right bomb plot. 100% on Rotten Tomatoes (5 reviews).",
+      "why": "Highest critic score on a platform you have this month. British police thriller adjacent to your Slow Horses lane. Most-watched on Apple TV+ globally one day after premiere."
     },
     {
       "title": "Witch Hat Atelier",
       "platform": "Crunchyroll",
-      "date": "Spring 2026",
+      "date": "Apr 6 — airing weekly",
       "format": "anime",
       "runtime": "30-min",
-      "match": "try",
-      "genres": ["fantasy"],
-      "tags": ["anime", "fantasy", "magic-academy", "world building"],
-      "about": "Long-awaited adaptation of the acclaimed manga by Kamome Shirahama. A young girl named Coco, who isn't supposed to be able to do magic at all, accidentally casts a spell and is taken on as an apprentice by a wandering witch. World-building heavy, beautiful art, gentler tone than Dorohedoro.",
-      "why": "World-building is one of your strongest signals. Fantasy-magic-school could land if the storytelling escalates beyond 'gentle.' Try the pilot."
-    }
-  ],
-  "critics": [
+      "match": "strong",
+      "genres": ["fantasy", "anime"],
+      "tags": ["world building", "magic-academy", "stunning animation"],
+      "about": "Studio BUG FILMS adapts Kamome Shirahama's award-winning manga. Coco, a girl who shouldn't be able to do magic, becomes a wandering witch's apprentice. Critics: 'one of 2026's best anime episodes,' 'Anime of the Year favorite.'",
+      "why": "World-building is one of your top taste signals; reviewers describe a Frieren-like warmth over the Dorohedoro edge. Currently the most-praised new anime of the season."
+    },
     {
       "title": "How to Get to Heaven from Belfast",
       "platform": "Netflix",
@@ -242,38 +242,20 @@
       "match": "strong",
       "genres": ["comedy", "mystery", "thriller"],
       "tags": ["comedy mystery", "british/irish", "great acting", "plot twists"],
-      "about": "Lisa McGee's (Derry Girls) follow-up. Three lifelong Belfast friends travel to County Donegal when the estranged fourth member of their teenage friend group dies unexpectedly. What starts as paying respects becomes a chaotic quest to solve her suspicious death while keeping their own dark secret buried. Six-episode comedy mystery; 95% on Rotten Tomatoes.",
-      "why": "Bullseye fit. McGee's Derry Girls-honed Irish/British humor + a comedy-mystery format engineered for plot twists + ensemble of great character actors. Strongest taste-match outside the hero pick."
-    },
-    {
-      "title": "BAIT",
-      "platform": "Amazon Prime Video",
-      "date": "Now streaming (Mar 25)",
-      "format": "limited series",
-      "runtime": "30-min",
-      "match": "strong",
-      "genres": ["comedy", "drama"],
-      "tags": ["meta-satire", "great acting", "dark comedy", "plot escalation"],
-      "about": "Riz Ahmed writes and stars as Shah Latif, a struggling actor whose last shot at fame becomes an audition that spirals over four wild days into a meta-satire about ambition and identity. Six-episode limited series; 95% on Rotten Tomatoes; Amazon mounting a 21-category Emmy push.",
-      "why": "Meta-satire + great acting + plot escalation is exactly the lane that produced your highest BEEF/Black Mirror ratings. Limited-series runtime keeps the commitment small."
-    },
-    {
-      "title": "Your Friends & Neighbors S2",
-      "platform": "Apple TV+",
-      "date": "Apr 3 — now airing weekly",
-      "format": "series",
-      "runtime": "1-hour",
-      "match": "strong",
-      "genres": ["crime", "comedy", "drama"],
-      "tags": ["witty banter", "great acting", "plot twists", "dark humor"],
-      "about": "Jon Hamm returns as the financial-titan-turned-burglar. James Marsden joins and reviewers single him out as scene-stealing. Apple's #1 show globally on launch week. Glossy crime caper with ensemble dialogue, escalating consequences, dark comic streak.",
-      "why": "Critics calling it Hamm's best post-Mad Men work. Crime-comedy + witty banter + plot escalation hits multiple of your strongest signals."
+      "about": "Lisa McGee's (Derry Girls) follow-up. Three lifelong Belfast friends travel to Donegal when the estranged fourth member of their teenage friend group dies unexpectedly. What starts as paying respects becomes a chaotic quest to solve her death while keeping their own dark secret buried. Six-episode comedy mystery; 95% RT.",
+      "why": "Bullseye fit. McGee's Derry Girls-honed Irish/British humor + comedy-mystery format engineered for plot twists + ensemble of great character actors. Strong taste-match outside the hero pick."
     }
   ],
   "upcoming_alerts": [
-    { "title": "The Gentlemen S2", "platform": "Netflix", "when": "Fall 2026", "note": "you rated S1: 4.5⭐" },
-    { "title": "Silo S3", "platform": "Apple TV+", "when": "Summer 2026", "note": "you rated S1–2: 4.5⭐" },
-    { "title": "Foundation S4", "platform": "Apple TV+", "when": "TBD 2027", "note": "you rated S3 Ep 3: 5⭐" },
-    { "title": "Severance S3", "platform": "Apple TV+", "when": "TBD 2027", "note": "on your Loved list" }
+    { "title": "Demon Slayer: Infinity Castle", "platform": "Crunchyroll", "when": "NOW STREAMING (Apr 9)", "note": "Loved-list franchise + you pinned it — see hero pick" },
+    { "title": "Kevin", "platform": "Amazon Prime Video", "when": "NOW STREAMING (Apr 20)", "note": "you pinned it — see new this week" },
+    { "title": "Widow's Bay", "platform": "Apple TV+", "when": "NOW STREAMING (Apr 29 — today)", "note": "you pinned it — see new this week" },
+    { "title": "Your Friends & Neighbors S2", "platform": "Apple TV+", "when": "NOW AIRING (Apr 3)", "note": "you pinned it — see new this week" },
+    { "title": "The Boys S5 (Final)", "platform": "Amazon Prime Video", "when": "NOW AIRING WEEKLY (premiered Apr 8, finale May 20)", "note": "you pinned it — see new this week" },
+    { "title": "Good Omens S3 (90-min finale)", "platform": "Amazon Prime Video", "when": "May 13, 2026", "note": "Loved list — wraps the unfinished S2 story in one feature-length episode" },
+    { "title": "Slow Horses S6", "platform": "Apple TV+", "when": "Fall 2026 (already filmed)", "note": "Loved list — you rated the series 4⭐" },
+    { "title": "Foundation S4", "platform": "Apple TV+", "when": "Late 2026 / early 2027 (filming Jan–May 2026)", "note": "Loved list — you rated S3 Ep 3: 5⭐" },
+    { "title": "Severance S3", "platform": "Apple TV+", "when": "Mid-to-late 2027 (filming Apr–Dec 2026)", "note": "Loved list" },
+    { "title": "Black Mirror S8", "platform": "Netflix", "when": "2027 (still in writing)", "note": "you rated S7 E2: 4⭐" }
   ]
 }
