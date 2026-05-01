@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-30T15:17:21Z",
+  "generated_at": "2026-05-01T15:05:00Z",
   "week_label": "Apr 27 – May 3, 2026",
-  "source": "Refreshed by daily scheduled task on 2026-04-30. Loved-list cross-check and watchlist availability check both ran. Sources: Crunchyroll announcements, Apple TV+ press, Amazon MGM Studios press, Netflix Tudum, Tom's Guide, Rotten Tomatoes critics picks, GamesRadar, Deadline, Variety. Verifications: Demon Slayer: Infinity Castle confirmed streaming on Crunchyroll since Apr 9; Chainsaw Man – The Movie: Reze Arc dropped today (Apr 30) on Crunchyroll; Slow Horses S6 confirmed Sep 15, 2026; Demon Slayer: Infinity Castle Part 2 confirmed 2027 earliest. Skips already-watched titles in watched.json (Big Mistakes, Man on Fire, Margo's, Classroom of a Black Cat) and titles in not-interested.json. Hero is Demon Slayer: Infinity Castle (Tier 1 Loved-list continuation + Tier 2 watchlist now-streaming).",
+  "source": "Refreshed by daily scheduled task on 2026-05-01. Loved-list cross-check (Demon Slayer, Foundation, Severance, Black Mirror, Slow Horses, Good Omens, Rick and Morty) ran — no new continuations since yesterday's run; existing hero (Demon Slayer: Infinity Castle, on Crunchyroll since Apr 9) holds. Watchlist availability check ran — no new flips since yesterday; Widow's Bay, Your Friends & Neighbors S2, The Boys S5, Kevin, Demon Slayer: Infinity Castle all already streamable. New for May: La Brea S1–4 dropped on Netflix today (May 1); Citadel S2 confirmed May 6 (Prime); Good Omens S3 90-min finale confirmed May 13 (Prime); Maximum Pleasure Guaranteed confirmed May 20 (Apple TV+); Star City (For All Mankind expansion) confirmed May 29 (Apple TV+). Skips already-watched titles in watched.json and titles in not-interested.json. Hero remains Demon Slayer: Infinity Castle (Tier 1 Loved-list continuation + Tier 2 watchlist now-streaming).",
   "hero": {
     "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
     "platform": "Crunchyroll",
@@ -15,6 +15,18 @@
     "why": "Demon Slayer is on your Loved list — that's a higher-confidence signal than anything taste-extrapolated. Same studio (ufotable), same animation craft, an arc fans have been waiting years for. You pinned it; now it's actually on Crunchyroll. Tier 1 hero pick."
   },
   "new_this_week": [
+    {
+      "title": "La Brea S1–4",
+      "platform": "Netflix",
+      "date": "May 1 — full series now streaming",
+      "format": "series (complete)",
+      "runtime": "1-hour",
+      "match": "try",
+      "genres": ["sci-fi", "mystery", "drama"],
+      "tags": ["sci-fi mystery", "world building", "ensemble"],
+      "about": "Network sci-fi mystery (originally NBC, 2021–2024) — a massive sinkhole opens in Los Angeles, pulling people and buildings into a prehistoric land. Full four-season run dropped on Netflix today (May 1) as a binge-once package.",
+      "why": "Sci-fi premise + world building + complete run (no future-season anxiety) checks three of your reward signals. Network-pacing means commercial-break beats — try one episode to see if the writing carries it past 'try.'"
+    },
     {
       "title": "BEEF S2",
       "platform": "Netflix",
@@ -66,14 +78,14 @@
     {
       "title": "Widow's Bay",
       "platform": "Apple TV+",
-      "date": "Apr 29 — now streaming",
+      "date": "Apr 28 — now streaming, weekly through Jun 17",
       "format": "series",
       "runtime": "1-hour",
       "match": "strong",
       "genres": ["horror", "comedy", "thriller", "drama"],
       "tags": ["off-beat humor", "supernatural", "comedy-horror", "great acting", "100% RT", "watchlist now streaming"],
-      "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Rec). Eight-episode first season — premiered yesterday with two episodes, then weekly through June 17. Currently 100% Certified Fresh on Rotten Tomatoes after premiere reviews; described by Rolling Stone as 'the best Stephen King mixtape ever.'",
-      "why": "On your watchlist and dropped yesterday with a 100% RT debut. Off-beat tone, supernatural premise, ensemble acting, plot-twist machinery. Dippold also wrote two of your 'Loved' list films (The Heat, Spy). Highest-priority try this week."
+      "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Rec). Ten-episode first season — first two episodes premiered Apr 28; weekly Wednesdays through June 17 (special two-episode drop May 27). 100% Certified Fresh on Rotten Tomatoes (34 reviews); Metacritic 77/100.",
+      "why": "On your watchlist and Certified Fresh out of the gate. Off-beat tone, supernatural premise, ensemble acting, plot-twist machinery. Dippold also wrote two of your 'Loved' list films (The Heat, Spy). Highest-priority try this week."
     },
     {
       "title": "Your Friends & Neighbors S2",
@@ -120,7 +132,7 @@
       "match": "strong",
       "genres": ["superhero", "satire", "drama"],
       "tags": ["dark humor", "satire", "plot twists", "watchlist now streaming"],
-      "about": "Final season, eight episodes, weekly Wednesdays through May 20. Episode 5 dropped yesterday (Apr 29). Wraps up Homelander vs. Butcher. New episodes every Wednesday. Garth Ennis source material; ensemble dark comedy with the show's usual escalation.",
+      "about": "Final season, eight episodes, weekly Wednesdays through May 20. 95% RT through 55 reviews. Wraps up Homelander vs. Butcher. Garth Ennis source material; ensemble dark comedy with the show's usual escalation.",
       "why": "On your watchlist. Last-season urgency + dark satire + plot escalation aligns with your reward signals. The series has always been gross-out adjacent — pace yourself if that's a sticking point."
     },
     {
@@ -138,14 +150,14 @@
     {
       "title": "The House of the Spirits",
       "platform": "Amazon Prime Video",
-      "date": "Apr 29 — now streaming",
+      "date": "Apr 29 — airing weekly through May 13",
       "format": "limited series",
       "runtime": "1-hour",
       "match": "try",
       "genres": ["drama", "magical realism", "fantasy"],
-      "tags": ["book adaptation", "supernatural", "ensemble"],
-      "about": "Six-part adaptation of Isabel Allende's 1982 novel. Multi-generational saga of the Trueba family in Chile, blending political turmoil with magical realism. Premiered yesterday on Prime Video.",
-      "why": "Book adaptation + supernatural elements hit positive signals; multi-generational drama is heavier than your typical pick. Try the first episode — if the magical realism hooks you, the source novel is well-loved."
+      "tags": ["book adaptation", "supernatural", "ensemble", "Spanish-language"],
+      "about": "Eight-part adaptation of Isabel Allende's 1982 novel. Multi-generational saga of the Trueba family in Chile, blending political turmoil with magical realism. First three episodes premiered Apr 29; finale May 13. 80% RT. Told in Spanish with a Latin American/Spanish cast.",
+      "why": "Book adaptation + supernatural elements hit positive signals; Spanish-language watch is also a Spanish-tutor side-benefit. Multi-generational drama is heavier than your typical pick — try the first episode."
     },
     {
       "title": "Spider-Noir",
@@ -156,7 +168,7 @@
       "match": "try",
       "genres": ["superhero", "noir", "drama"],
       "tags": ["noir", "Nicolas Cage", "1930s setting"],
-      "about": "Nicolas Cage stars as a 1930s private detective Spider-Man. Live-action take on the Spider-Verse Spider-Noir character. Eight episodes from Amazon MGM. Drops May 27.",
+      "about": "Nicolas Cage stars as Ben Reilly, a 1930s private detective Spider-Man. Live-action take on the Spider-Verse Spider-Noir character. Eight episodes from Amazon MGM. Drops May 27.",
       "why": "Stylized noir setting + Cage's full-commit acting could play to the off-beat signal. No supernatural/sci-fi anchor though — flag for end of May."
     },
     {
@@ -184,18 +196,6 @@
       "why": "Dark humor + supernatural + off-beat — three of your strongest signals stacked. Body-horror visuals are gnarly but they're load-bearing for the comedy. Worth catching up on S1 if you didn't."
     },
     {
-      "title": "Liar Game",
-      "platform": "Crunchyroll",
-      "date": "Apr 6 — airing weekly",
-      "format": "anime series",
-      "runtime": "~24-min",
-      "match": "try",
-      "genres": ["thriller", "drama", "anime"],
-      "tags": ["plot twists", "psychological", "manga adaptation"],
-      "about": "Anime adaptation of Shinobu Kaitani's psychological-thriller manga. Tournament where contestants try to deceive each other for cash prizes — Death Note-adjacent strategic battles.",
-      "why": "Plot-twist machinery is the entire premise, and the manga is well-regarded. No comedy or off-beat hook though — won't land if you're tired or want lighter fare."
-    },
-    {
       "title": "Chainsaw Man — The Movie: Reze Arc",
       "platform": "Crunchyroll",
       "date": "Apr 30 — now streaming",
@@ -203,9 +203,21 @@
       "runtime": "1h 40m",
       "match": "strong",
       "genres": ["action", "horror", "anime"],
-      "tags": ["supernatural", "dark humor", "MAPPA"],
-      "about": "First feature-length film in MAPPA's Chainsaw Man series. Adapts manga chapters 39–52 covering the entire Reze Arc — Denji's romance with a barista who is not what she seems. Premiered theatrically in Japan in Sept 2025; landed on Crunchyroll today (Apr 30) with both subbed and dubbed versions.",
+      "tags": ["supernatural", "dark humor", "MAPPA", "Ani-May"],
+      "about": "First feature-length film in MAPPA's Chainsaw Man series. Adapts manga chapters 39–52 covering the entire Reze Arc — Denji's romance with a barista who is not what she seems. Premiered theatrically in Japan in Sept 2025; landed on Crunchyroll Apr 30 with both subbed and dubbed versions as part of Crunchyroll's Ani-May celebration.",
       "why": "Dark humor + supernatural + plot-twist machinery + MAPPA's animation craft — Chainsaw Man's tone is Demon-Slayer-adjacent with sharper teeth. Reze Arc is widely considered the best self-contained Chainsaw Man story; works as a standalone if you haven't watched the TV series."
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed",
+      "platform": "Apple TV+",
+      "date": "May 20 — premieres with 2 eps, weekly through Jul 15",
+      "format": "series",
+      "runtime": "30-min",
+      "match": "strong",
+      "genres": ["comedy", "thriller", "drama"],
+      "tags": ["dark humor", "Tatiana Maslany", "30-min episodes", "plot twists"],
+      "about": "Darkly comedic thriller from creator David J. Rosen. Emmy winner Tatiana Maslany plays Paula, a newly divorced mom who falls down a dangerous rabbit hole of blackmail, murder, and youth soccer. 10 episodes, half-hour, premieres with two eps May 20 then weekly Wednesdays through July 15.",
+      "why": "Dark comedy-thriller + 30-min episodes + Maslany's Orphan Black ensemble pedigree triple-stacks your reward signals. Premieres mid-month — flag now so it's on your radar when CDMX trip wraps."
     }
   ],
   "critics": [
@@ -218,19 +230,19 @@
       "match": "strong",
       "genres": ["thriller", "drama", "crime"],
       "tags": ["british", "great acting", "100% RT"],
-      "about": "Capaldi/Jumbo British police thriller. 100% RT through 5 reviews. See full entry above.",
+      "about": "Capaldi/Jumbo British police thriller. 100% RT. See full entry above.",
       "why": "Best critic-validated new drop on a service you have, and it's parked in your Slow Horses comfort zone."
     },
     {
       "title": "Widow's Bay",
       "platform": "Apple TV+",
-      "date": "Apr 29 — now streaming",
+      "date": "Apr 28 — now streaming",
       "format": "series",
       "runtime": "1-hour",
       "match": "strong",
       "genres": ["horror", "comedy", "thriller"],
       "tags": ["100% RT", "off-beat", "supernatural"],
-      "about": "Matthew Rhys-led comedy-horror, Katie Dippold creator. 100% RT on debut.",
+      "about": "Matthew Rhys-led comedy-horror, Katie Dippold creator. 100% RT (34 reviews) on debut.",
       "why": "Critic darling that also happens to nail your taste profile. Same week's other watchlist title that just landed."
     },
     {
@@ -262,7 +274,7 @@
     {
       "title": "Widow's Bay",
       "platform": "Apple TV+",
-      "when": "NOW STREAMING (Apr 29 — 100% RT)",
+      "when": "NOW STREAMING (Apr 28 — 100% RT)",
       "note": "you pinned it — see new this week"
     },
     {
@@ -280,8 +292,20 @@
     {
       "title": "Chainsaw Man — The Movie: Reze Arc",
       "platform": "Crunchyroll",
-      "when": "NOW STREAMING (Apr 30 — today)",
+      "when": "NOW STREAMING (Apr 30)",
       "note": "see new this week"
+    },
+    {
+      "title": "La Brea S1–4",
+      "platform": "Netflix",
+      "when": "NOW STREAMING (May 1 — today)",
+      "note": "Full 4-season run dropped today; sci-fi mystery — see new this week"
+    },
+    {
+      "title": "Citadel S2",
+      "platform": "Amazon Prime Video",
+      "when": "May 6, 2026",
+      "note": "Action-spy ensemble; binge-drop all 7 episodes. Not currently a strong taste match but flag if espionage genre interests you."
     },
     {
       "title": "Good Omens S3 (90-min finale)",
@@ -290,10 +314,28 @@
       "note": "Loved list — wraps the unfinished S2 story in one feature-length episode"
     },
     {
+      "title": "Maximum Pleasure Guaranteed",
+      "platform": "Apple TV+",
+      "when": "May 20, 2026",
+      "note": "Tatiana Maslany dark-comedy thriller, half-hour eps — see new this week"
+    },
+    {
       "title": "Rick and Morty S9",
       "platform": "Adult Swim (US streaming on Hulu/Max Aug 31)",
       "when": "May 24, 2026 (linear); Aug 31, 2026 (US streaming)",
       "note": "Loved list — needs Adult Swim or Max for the linear run; Hulu/Max land same-day in late summer. Outside your current platform stack — flag only."
+    },
+    {
+      "title": "Spider-Noir",
+      "platform": "Amazon Prime Video",
+      "when": "May 27, 2026",
+      "note": "Nicolas Cage 1930s noir Spider-Man — see new this week"
+    },
+    {
+      "title": "Star City",
+      "platform": "Apple TV+",
+      "when": "May 29, 2026",
+      "note": "For All Mankind expansion — Soviet-side alternate-history space race. Sci-fi taste match; Ronald D. Moore involved."
     },
     {
       "title": "Slow Horses S6",
@@ -310,13 +352,13 @@
     {
       "title": "Foundation S4",
       "platform": "Apple TV+",
-      "when": "Late 2026 / early 2027 (filming Jan–May 2026)",
+      "when": "Mid-to-late 2027 (filming Jan–May 2026)",
       "note": "Loved list — you rated S3 Ep 3: 5⭐"
     },
     {
       "title": "Severance S3",
       "platform": "Apple TV+",
-      "when": "Mid-to-late 2027 (filming Apr–Dec 2026)",
+      "when": "Summer 2027 (filming Apr–Dec 2026)",
       "note": "Loved list"
     },
     {
@@ -328,7 +370,7 @@
     {
       "title": "Black Mirror S8",
       "platform": "Netflix",
-      "when": "2027 (still in writing)",
+      "when": "Late 2027 / early 2028 (still in writing)",
       "note": "you rated S7 E2: 4⭐"
     }
   ]
