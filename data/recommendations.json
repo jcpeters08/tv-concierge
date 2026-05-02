@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-01T15:05:00Z",
-  "week_label": "Apr 27 – May 3, 2026",
-  "source": "Refreshed by daily scheduled task on 2026-05-01. Loved-list cross-check (Demon Slayer, Foundation, Severance, Black Mirror, Slow Horses, Good Omens, Rick and Morty) ran — no new continuations since yesterday's run; existing hero (Demon Slayer: Infinity Castle, on Crunchyroll since Apr 9) holds. Watchlist availability check ran — no new flips since yesterday; Widow's Bay, Your Friends & Neighbors S2, The Boys S5, Kevin, Demon Slayer: Infinity Castle all already streamable. New for May: La Brea S1–4 dropped on Netflix today (May 1); Citadel S2 confirmed May 6 (Prime); Good Omens S3 90-min finale confirmed May 13 (Prime); Maximum Pleasure Guaranteed confirmed May 20 (Apple TV+); Star City (For All Mankind expansion) confirmed May 29 (Apple TV+). Skips already-watched titles in watched.json and titles in not-interested.json. Hero remains Demon Slayer: Infinity Castle (Tier 1 Loved-list continuation + Tier 2 watchlist now-streaming).",
+  "generated_at": "2026-05-02T17:01:25Z",
+  "week_label": "May 4 – May 10, 2026",
+  "source": "Refreshed by daily scheduled task on 2026-05-02. Loved-list cross-check ran (Demon Slayer, Foundation, Severance, Slow Horses, Good Omens, Black Mirror, Rick and Morty, The Last of Us, Solar Opposites, Futurama, Fleabag) — no new continuations dropped today; Demon Slayer: Infinity Castle (Crunchyroll since Apr 9) is still inside the 4-week window so it holds as the Tier 1 hero. Watchlist availability check ran — no new flips since yesterday; all 5 watchlist titles (Kevin, The Boys S5, Demon Slayer: Infinity Castle, Widow's Bay, Your Friends & Neighbors S2) already streamable. New this refresh: The Boroughs (Netflix, Duffer Bros sci-fi) added for May 21; Tom Clancy's Jack Ryan: Ghost War confirmed May 20 on Prime; Lord of the Flies date pinned to May 4; Detective Hole added to critics (91% RT Nordic noir, Slow-Horses-adjacent — landed Mar 26 so outside the 4-week 'new' window but Critics' Pick lane). Skips already-watched titles (watched.json) and not-interested titles. Hero remains Demon Slayer: Infinity Castle (priority Tier 1 — Loved-list franchise continuation still streaming inside the 4-week window).",
   "hero": {
     "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
     "platform": "Crunchyroll",
@@ -12,20 +12,20 @@
     "genres": ["fantasy", "action", "anime"],
     "tags": ["anime", "supernatural", "world building", "Loved-list franchise", "watchlist now streaming"],
     "about": "First film in the trilogy adapting the Infinity Castle arc — the climactic showdown between the Demon Slayer Corps and Muzan's Upper Moons inside the shape-shifting fortress. Picks up directly from Hashira Training Arc. Made nearly $700M theatrically; Crunchyroll held it back from streaming until April 9, 2026 to protect the box office. Part 2 is confirmed for 2027 at the earliest, so this entry stands alone for now.",
-    "why": "Demon Slayer is on your Loved list — that's a higher-confidence signal than anything taste-extrapolated. Same studio (ufotable), same animation craft, an arc fans have been waiting years for. You pinned it; now it's actually on Crunchyroll. Tier 1 hero pick."
+    "why": "Demon Slayer is on your Loved list — a higher-confidence signal than anything taste-extrapolated. Same studio (ufotable), same animation craft, an arc fans have been waiting years for. You pinned it; it's actually on Crunchyroll. Tier 1 hero pick — and still inside the 4-week window."
   },
   "new_this_week": [
     {
-      "title": "La Brea S1–4",
+      "title": "Lord of the Flies",
       "platform": "Netflix",
-      "date": "May 1 — full series now streaming",
-      "format": "series (complete)",
+      "date": "May 4 — limited series, all eps drop",
+      "format": "limited series",
       "runtime": "1-hour",
       "match": "try",
-      "genres": ["sci-fi", "mystery", "drama"],
-      "tags": ["sci-fi mystery", "world building", "ensemble"],
-      "about": "Network sci-fi mystery (originally NBC, 2021–2024) — a massive sinkhole opens in Los Angeles, pulling people and buildings into a prehistoric land. Full four-season run dropped on Netflix today (May 1) as a binge-once package.",
-      "why": "Sci-fi premise + world building + complete run (no future-season anxiety) checks three of your reward signals. Network-pacing means commercial-break beats — try one episode to see if the writing carries it past 'try.'"
+      "genres": ["drama", "thriller"],
+      "tags": ["book adaptation", "survival", "psychological", "Jack Thorne"],
+      "about": "Four-episode BBC/Netflix miniseries adapted by Emmy-winner Jack Thorne (Adolescence, His Dark Materials) of William Golding's novel — schoolboys stranded on an island, society breaks down. Prestige-drama production with Thorne's deep-character-study writing.",
+      "why": "Book adaptation is a positive signal for you; psychological pressure-cooker setup has plot-twist potential. Tonally darker than your usual sweet spot — try the first ep before committing to all four."
     },
     {
       "title": "BEEF S2",
@@ -38,6 +38,18 @@
       "tags": ["dark comedy", "plot twists", "anthology", "great acting"],
       "about": "Lee Sung Jin's Emmy-sweeping anthology resets with a brand-new cast and story: Oscar Isaac, Carey Mulligan, Charles Melton, Cailee Spaeny. Two couples at a Montecito beach club — the younger pair blackmails the older pair after catching them on video in a violent fight. Eight ~30-min episodes dropped at once. 86% RT and currently #2 on Netflix's global top 10.",
       "why": "S1 was praised for exactly the things you reward — dark humor, plot escalation, ensemble acting — and the anthology reset means no S1 baggage."
+    },
+    {
+      "title": "La Brea S1–4",
+      "platform": "Netflix",
+      "date": "May 1 — full series now streaming",
+      "format": "series (complete)",
+      "runtime": "1-hour",
+      "match": "try",
+      "genres": ["sci-fi", "mystery", "drama"],
+      "tags": ["sci-fi mystery", "world building", "ensemble"],
+      "about": "Network sci-fi mystery (originally NBC, 2021–2024) — a massive sinkhole opens in Los Angeles, pulling people and buildings into a prehistoric land. Full four-season run dropped on Netflix yesterday (May 1) as a binge-once package.",
+      "why": "Sci-fi premise + world building + complete run (no future-season anxiety) checks three of your reward signals. Network-pacing means commercial-break beats — try one episode to see if the writing carries it past 'try.'"
     },
     {
       "title": "Apex",
@@ -64,27 +76,15 @@
       "why": "Witty banter + ensemble cast hits two of your signals. Lower-stakes than your usual sweet spot, but Fey's writing room is reliable for one-and-done evening watches."
     },
     {
-      "title": "Lord of the Flies",
-      "platform": "Netflix",
-      "date": "May",
-      "format": "limited series",
-      "runtime": "1-hour",
-      "match": "try",
-      "genres": ["drama", "thriller"],
-      "tags": ["book adaptation", "survival", "psychological"],
-      "about": "BBC miniseries adaptation of William Golding's novel — boys stranded on an island, society breaks down. Faithful take with prestige-drama production.",
-      "why": "Book adaptation is a positive signal for you; psychological pressure-cooker setup has plot-twist potential. Tonally darker than your usual — try one episode."
-    },
-    {
       "title": "Widow's Bay",
       "platform": "Apple TV+",
-      "date": "Apr 28 — now streaming, weekly through Jun 17",
+      "date": "Apr 28 — Ep 3 drops Wed May 7, weekly through Jun 17",
       "format": "series",
       "runtime": "1-hour",
       "match": "strong",
       "genres": ["horror", "comedy", "thriller", "drama"],
       "tags": ["off-beat humor", "supernatural", "comedy-horror", "great acting", "100% RT", "watchlist now streaming"],
-      "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Rec). Ten-episode first season — first two episodes premiered Apr 28; weekly Wednesdays through June 17 (special two-episode drop May 27). 100% Certified Fresh on Rotten Tomatoes (34 reviews); Metacritic 77/100.",
+      "about": "Matthew Rhys plays the mayor of Widow's Bay, a sleepy fictional New England island town that may or may not be cursed. Created by Katie Dippold (writer of The Heat and Spy, alum of Parks & Rec). Ten-episode first season — first two episodes premiered Apr 28; Ep 3 'The Inaugural Swim' drops Wed May 7; weekly Wednesdays through June 17 (special two-episode drop May 27). 100% Certified Fresh on Rotten Tomatoes; Metacritic 77/100.",
       "why": "On your watchlist and Certified Fresh out of the gate. Off-beat tone, supernatural premise, ensemble acting, plot-twist machinery. Dippold also wrote two of your 'Loved' list films (The Heat, Spy). Highest-priority try this week."
     },
     {
@@ -108,20 +108,8 @@
       "match": "strong",
       "genres": ["thriller", "drama", "crime"],
       "tags": ["british", "great acting", "plot twists", "100% RT"],
-      "about": "Peter Capaldi and Cush Jumbo return. After a young man is stabbed at a political rally, rival London detectives are forced into an uneasy alliance — what starts as a murder hunt escalates into an undercover operation against a far-right bomb plot. Eight episodes, one a week through June 10. 100% RT — higher than S1's already certified fresh 90%.",
+      "about": "Peter Capaldi and Cush Jumbo return. After a young man is stabbed at a political rally, rival London detectives are forced into an uneasy alliance — what starts as a murder hunt escalates into an undercover operation against a far-right bomb plot. Eight episodes, one a week through June 10. 100% RT — higher than S1's already certified-fresh 90%.",
       "why": "British police thriller with ensemble heavyweights, razor-sharp writing, escalating-plot machinery. Adjacent to the Slow Horses lane you 4⭐'d. Best critic-validated drop on Apple this month."
-    },
-    {
-      "title": "Outcome",
-      "platform": "Apple TV+",
-      "date": "Apr 10",
-      "format": "movie",
-      "runtime": "~2 hours",
-      "match": "skip",
-      "genres": ["comedy", "drama"],
-      "tags": ["limited info available"],
-      "about": "Jonah Hill comedy-drama. Limited info available beyond the cast and platform; reviews mixed at best.",
-      "why": "Hill comedy-drama isn't a strong taste-match given mixed signals. Skip unless you want a low-stakes one-night watch."
     },
     {
       "title": "The Boys S5 (Final)",
@@ -133,7 +121,7 @@
       "genres": ["superhero", "satire", "drama"],
       "tags": ["dark humor", "satire", "plot twists", "watchlist now streaming"],
       "about": "Final season, eight episodes, weekly Wednesdays through May 20. 95% RT through 55 reviews. Wraps up Homelander vs. Butcher. Garth Ennis source material; ensemble dark comedy with the show's usual escalation.",
-      "why": "On your watchlist. Last-season urgency + dark satire + plot escalation aligns with your reward signals. The series has always been gross-out adjacent — pace yourself if that's a sticking point."
+      "why": "On your watchlist. Last-season urgency + dark satire + plot escalation aligns with your reward signals. Always gross-out adjacent — pace yourself if that's a sticking point."
     },
     {
       "title": "Kevin",
@@ -160,6 +148,18 @@
       "why": "Book adaptation + supernatural elements hit positive signals; Spanish-language watch is also a Spanish-tutor side-benefit. Multi-generational drama is heavier than your typical pick — try the first episode."
     },
     {
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "platform": "Amazon Prime Video",
+      "date": "May 20",
+      "format": "movie",
+      "runtime": "1h 45m",
+      "match": "try",
+      "genres": ["action", "thriller"],
+      "tags": ["espionage", "action thriller", "Krasinski"],
+      "about": "Feature film continuation of the Prime Video series. John Krasinski returns as Jack Ryan, with Wendell Pierce and Michael Kelly back from the show; Sienna Miller joins. Ryan is reluctantly thrust back into espionage when a covert mission unravels a deadly conspiracy and a rogue black-ops unit. 105 min, releases globally May 20.",
+      "why": "Action-thriller lane — you 4⭐'d Mission: Impossible: The Final Reckoning so 'entertaining + hi-tech' espionage works. No supernatural/sci-fi anchor and no off-beat humor, so it stays at 'try.' One-night watch."
+    },
+    {
       "title": "Spider-Noir",
       "platform": "Amazon Prime Video",
       "date": "May 27",
@@ -168,8 +168,20 @@
       "match": "try",
       "genres": ["superhero", "noir", "drama"],
       "tags": ["noir", "Nicolas Cage", "1930s setting"],
-      "about": "Nicolas Cage stars as Ben Reilly, a 1930s private detective Spider-Man. Live-action take on the Spider-Verse Spider-Noir character. Eight episodes from Amazon MGM. Drops May 27.",
-      "why": "Stylized noir setting + Cage's full-commit acting could play to the off-beat signal. No supernatural/sci-fi anchor though — flag for end of May."
+      "about": "Nicolas Cage stars as a 1930s private detective Spider-Man. Live-action take on the Spider-Verse Spider-Noir character. Eight episodes from Amazon MGM. Drops May 27.",
+      "why": "Stylized noir setting + Cage's full-commit acting could play to the off-beat signal. No supernatural/sci-fi anchor — flag for end of May."
+    },
+    {
+      "title": "The Boroughs",
+      "platform": "Netflix",
+      "date": "May 21 — all 8 episodes drop at once",
+      "format": "series",
+      "runtime": "1-hour",
+      "match": "strong",
+      "genres": ["sci-fi", "fantasy", "drama"],
+      "tags": ["supernatural", "world building", "ensemble", "Duffer Brothers"],
+      "about": "Sci-fi/supernatural series from Duffer Brothers (Stranger Things) as EPs; Jeffrey Addiss and Will Matthews showrun. Set in a New Mexico retirement community where senior citizens must stop an otherworldly threat from stealing the one thing they don't have: time. Cast: Bill Pullman, Alfre Woodard, Alfred Molina, Geena Davis. Eight episodes binge-drop.",
+      "why": "Supernatural + world building + ensemble cast triple-stacks your signals; Duffer Bros pedigree means a real plot-twist machine. Older-cast 'Stranger Things for seniors' framing is the kind of off-beat hook you reward."
     },
     {
       "title": "Witch Hat Atelier",
@@ -231,7 +243,7 @@
       "genres": ["thriller", "drama", "crime"],
       "tags": ["british", "great acting", "100% RT"],
       "about": "Capaldi/Jumbo British police thriller. 100% RT. See full entry above.",
-      "why": "Best critic-validated new drop on a service you have, and it's parked in your Slow Horses comfort zone."
+      "why": "Best critic-validated new drop on a service you have, parked in your Slow Horses comfort zone."
     },
     {
       "title": "Widow's Bay",
@@ -243,44 +255,44 @@
       "genres": ["horror", "comedy", "thriller"],
       "tags": ["100% RT", "off-beat", "supernatural"],
       "about": "Matthew Rhys-led comedy-horror, Katie Dippold creator. 100% RT (34 reviews) on debut.",
-      "why": "Critic darling that also happens to nail your taste profile. Same week's other watchlist title that just landed."
+      "why": "Critic darling that also nails your taste profile. Same week's other watchlist title that just landed."
     },
     {
-      "title": "How to Get to Heaven from Belfast",
+      "title": "Jo Nesbø's Detective Hole",
       "platform": "Netflix",
-      "date": "Now streaming",
+      "date": "Mar 26 — full season streaming",
       "format": "limited series",
       "runtime": "1-hour",
       "match": "strong",
-      "genres": ["comedy", "drama"],
-      "tags": ["irish", "witty", "Lisa McGee"],
-      "about": "Lisa McGee (Derry Girls) follow-up. RT consensus: 'triumphantly funny and proudly Irish.' Limited run.",
-      "why": "Witty + Irish + Lisa McGee. Light-tone-with-substance is one of your ten 'lands' signals — and the McGee writing room has a reliable hit rate."
+      "genres": ["crime", "thriller", "mystery"],
+      "tags": ["nordic noir", "plot twists", "great acting", "91% RT", "Joel Kinnaman"],
+      "about": "Nine-episode Norwegian crime series adapting Jo Nesbø's fifth Harry Hole novel, The Devil's Star. Tobias Santelmann plays the brooding lead detective; Joel Kinnaman is his colleague. Currently a global Netflix top-10 hit. 91% RT — RT consensus calls it 'twisty, stylish, and at times gloriously grim.'",
+      "why": "Nordic noir with plot twists, ensemble acting, and brooding-detective DNA — directly adjacent to the Slow Horses lane you 4⭐'d. The 9-episode runtime gets one critic ding (a tighter 5–6 would be sharper) but the writing carries it. Subs needed; you're open to that."
     }
   ],
   "upcoming_alerts": [
     {
       "title": "Demon Slayer: Infinity Castle",
       "platform": "Crunchyroll",
-      "when": "NOW STREAMING (Apr 9)",
+      "when": "NOW STREAMING (since Apr 9)",
       "note": "Loved-list franchise + you pinned it — see hero pick"
     },
     {
       "title": "Kevin",
       "platform": "Amazon Prime Video",
-      "when": "NOW STREAMING (Apr 20)",
+      "when": "NOW STREAMING (since Apr 20)",
       "note": "you pinned it — see new this week"
     },
     {
       "title": "Widow's Bay",
       "platform": "Apple TV+",
-      "when": "NOW STREAMING (Apr 28 — 100% RT)",
-      "note": "you pinned it — see new this week"
+      "when": "NOW STREAMING (Ep 3 drops Wed May 7)",
+      "note": "you pinned it; 100% RT — see new this week"
     },
     {
       "title": "Your Friends & Neighbors S2",
       "platform": "Apple TV+",
-      "when": "NOW AIRING (Apr 3)",
+      "when": "NOW AIRING (since Apr 3)",
       "note": "you pinned it — see new this week"
     },
     {
@@ -292,67 +304,97 @@
     {
       "title": "Chainsaw Man — The Movie: Reze Arc",
       "platform": "Crunchyroll",
-      "when": "NOW STREAMING (Apr 30)",
+      "when": "NOW STREAMING (since Apr 30)",
       "note": "see new this week"
     },
     {
       "title": "La Brea S1–4",
       "platform": "Netflix",
-      "when": "NOW STREAMING (May 1 — today)",
-      "note": "Full 4-season run dropped today; sci-fi mystery — see new this week"
+      "when": "NOW STREAMING (since May 1)",
+      "note": "Full 4-season run; sci-fi mystery — see new this week"
+    },
+    {
+      "title": "Lord of the Flies",
+      "platform": "Netflix",
+      "when": "Mon May 4, 2026",
+      "note": "Jack Thorne 4-part miniseries — see new this week"
     },
     {
       "title": "Citadel S2",
       "platform": "Amazon Prime Video",
-      "when": "May 6, 2026",
-      "note": "Action-spy ensemble; binge-drop all 7 episodes. Not currently a strong taste match but flag if espionage genre interests you."
+      "when": "Wed May 6, 2026",
+      "note": "Action-spy ensemble; binge-drop. S1 was 51% RT — flag only if espionage genre interests you."
     },
     {
       "title": "Good Omens S3 (90-min finale)",
       "platform": "Amazon Prime Video",
-      "when": "May 13, 2026",
+      "when": "Wed May 13, 2026",
       "note": "Loved list — wraps the unfinished S2 story in one feature-length episode"
     },
     {
       "title": "Maximum Pleasure Guaranteed",
       "platform": "Apple TV+",
-      "when": "May 20, 2026",
+      "when": "Wed May 20, 2026",
       "note": "Tatiana Maslany dark-comedy thriller, half-hour eps — see new this week"
+    },
+    {
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "platform": "Amazon Prime Video",
+      "when": "Wed May 20, 2026",
+      "note": "Krasinski action thriller, 105-min movie — see new this week"
+    },
+    {
+      "title": "The Boroughs",
+      "platform": "Netflix",
+      "when": "Thu May 21, 2026",
+      "note": "Duffer Bros sci-fi/supernatural; 8-ep binge drop — see new this week"
     },
     {
       "title": "Rick and Morty S9",
       "platform": "Adult Swim (US streaming on Hulu/Max Aug 31)",
-      "when": "May 24, 2026 (linear); Aug 31, 2026 (US streaming)",
+      "when": "Sun May 24, 2026 (linear); Aug 31, 2026 (US streaming)",
       "note": "Loved list — needs Adult Swim or Max for the linear run; Hulu/Max land same-day in late summer. Outside your current platform stack — flag only."
     },
     {
       "title": "Spider-Noir",
       "platform": "Amazon Prime Video",
-      "when": "May 27, 2026",
+      "when": "Wed May 27, 2026",
       "note": "Nicolas Cage 1930s noir Spider-Man — see new this week"
     },
     {
       "title": "Star City",
       "platform": "Apple TV+",
-      "when": "May 29, 2026",
+      "when": "Fri May 29, 2026",
       "note": "For All Mankind expansion — Soviet-side alternate-history space race. Sci-fi taste match; Ronald D. Moore involved."
     },
     {
       "title": "Slow Horses S6",
       "platform": "Apple TV+",
-      "when": "Sep 15, 2026",
-      "note": "Loved list — you rated the series 4⭐. Already filmed; covers Joe Country and Slough House."
+      "when": "Sept–Oct 2026 (filmed; awaiting official date)",
+      "note": "Loved list — you rated the series 4⭐. Covers Joe Country and Slough House."
+    },
+    {
+      "title": "The Last of Us S3",
+      "platform": "HBO/Max",
+      "when": "2027 (filming Mar–Nov 2026, est. May–Jun 2027)",
+      "note": "Loved list — Abby's perspective, Kaitlyn Dever stars; off your current stack but flag for when you decide to add Max."
+    },
+    {
+      "title": "Murderbot S2",
+      "platform": "Apple TV+",
+      "when": "Late 2026 / early 2027 (production starts Apr 2026 in Madrid)",
+      "note": "you rated S1: 4⭐ — leans more cyberpunk this season"
     },
     {
       "title": "Demon Slayer: Infinity Castle Part 2",
       "platform": "Theatrical first, then Crunchyroll",
       "when": "2027 at the earliest",
-      "note": "Loved list — confirmed not in 2026. Long lead-time before streaming."
+      "note": "Loved list — confirmed not in 2026."
     },
     {
       "title": "Foundation S4",
       "platform": "Apple TV+",
-      "when": "Mid-to-late 2027 (filming Jan–May 2026)",
+      "when": "Mid-to-late 2027 (filming Jan–early 2026 in Prague)",
       "note": "Loved list — you rated S3 Ep 3: 5⭐"
     },
     {
@@ -360,12 +402,6 @@
       "platform": "Apple TV+",
       "when": "Summer 2027 (filming Apr–Dec 2026)",
       "note": "Loved list"
-    },
-    {
-      "title": "Murderbot S2",
-      "platform": "Apple TV+",
-      "when": "Late 2026 / early 2027 (production starts Apr 2026 in Madrid)",
-      "note": "you rated S1: 4⭐ — leans more cyberpunk this season"
     },
     {
       "title": "Black Mirror S8",
