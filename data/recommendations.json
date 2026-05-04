@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-02T17:01:25Z",
+  "generated_at": "2026-05-04T14:17:01Z",
   "week_label": "May 4 – May 10, 2026",
-  "source": "Refreshed by daily scheduled task on 2026-05-02. Loved-list cross-check ran (Demon Slayer, Foundation, Severance, Slow Horses, Good Omens, Black Mirror, Rick and Morty, The Last of Us, Solar Opposites, Futurama, Fleabag) — no new continuations dropped today; Demon Slayer: Infinity Castle (Crunchyroll since Apr 9) is still inside the 4-week window so it holds as the Tier 1 hero. Watchlist availability check ran — no new flips since yesterday; all 5 watchlist titles (Kevin, The Boys S5, Demon Slayer: Infinity Castle, Widow's Bay, Your Friends & Neighbors S2) already streamable. New this refresh: The Boroughs (Netflix, Duffer Bros sci-fi) added for May 21; Tom Clancy's Jack Ryan: Ghost War confirmed May 20 on Prime; Lord of the Flies date pinned to May 4; Detective Hole added to critics (91% RT Nordic noir, Slow-Horses-adjacent — landed Mar 26 so outside the 4-week 'new' window but Critics' Pick lane). Skips already-watched titles (watched.json) and not-interested titles. Hero remains Demon Slayer: Infinity Castle (priority Tier 1 — Loved-list franchise continuation still streaming inside the 4-week window).",
+  "source": "Refreshed by daily scheduled task on 2026-05-04. Loved-list cross-check ran across all 14 Loved titles — no new sequel/continuation dropped in the last 4 weeks. Confirmed: Foundation S4 → 2027; Severance S3 → TBD; Slow Horses S6 → late 2026; Good Omens 90-min finale → May 13; Black Mirror S8 → late 2027/early 2028; Rick and Morty S9 → Adult Swim May 24, US streaming Aug 31. Demon Slayer: Infinity Castle (Crunchyroll since Apr 9, day 25 of 28) holds as Tier 1 hero — inside the 4-week window. Watchlist availability check ran — all 5 titles (Kevin, The Boys S5, Demon Slayer: Infinity Castle, Widow's Bay, Your Friends & Neighbors S2) already streamable; no new flips today. Lord of the Flies is now NOW STREAMING on Netflix as of today (May 4) — moved its alert from future-date to NOW STREAMING. Spider-Noir Prime Video date confirmed May 27 (May 25 MGM+ US window). New this refresh: confirmed daily search returned no fresh hidden-gem releases beyond what's already captured.",
   "hero": {
     "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
     "platform": "Crunchyroll",
@@ -18,7 +18,7 @@
     {
       "title": "Lord of the Flies",
       "platform": "Netflix",
-      "date": "May 4 — limited series, all eps drop",
+      "date": "May 4 — NOW STREAMING, all 4 eps available",
       "format": "limited series",
       "runtime": "1-hour",
       "match": "try",
@@ -316,8 +316,8 @@
     {
       "title": "Lord of the Flies",
       "platform": "Netflix",
-      "when": "Mon May 4, 2026",
-      "note": "Jack Thorne 4-part miniseries — see new this week"
+      "when": "NOW STREAMING (since today, May 4)",
+      "note": "Jack Thorne 4-part miniseries, 92% RT — see new this week"
     },
     {
       "title": "Citadel S2",
