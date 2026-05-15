@@ -357,6 +357,33 @@
         "contrived"
       ],
       "date": "2026-04-29"
+    },
+    {
+      "title": "The Boys S5 (Final) — Ep 7 (Penultimate)",
+      "rating": 4,
+      "tags": "dark humor, satire, plot twists, sacrifice",
+      "tags_array": [
+        "dark humor",
+        "satire",
+        "plot twists",
+        "sacrifice"
+      ],
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Good Omens — Series Finale (90-min episode)",
+      "rating": 5,
+      "tags": "Loved list, dry British humor, supernatural, LGBTQ+, ensemble, ineffable husbands, romantic happy ending",
+      "tags_array": [
+        "Loved list",
+        "dry British humor",
+        "supernatural",
+        "LGBTQ+",
+        "ensemble",
+        "ineffable husbands",
+        "romantic happy ending"
+      ],
+      "date": "2026-05-15"
     }
   ],
   "known_favorites": [
@@ -378,5 +405,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-04-29T14:10:20Z"
+  "synced_at": "2026-05-15T03:29:18Z"
 }

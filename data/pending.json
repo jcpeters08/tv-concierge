@@ -1,36 +1,4 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": [
-    {
-      "kind": "pin",
-      "title": "Good Omens — Series Finale (90-min episode)",
-      "ts": "2026-05-14T02:44:58.181Z"
-    },
-    {
-      "kind": "pin",
-      "title": "Widow's Bay — Ep 4 'Beach Reads'",
-      "ts": "2026-05-14T03:00:47.261Z"
-    },
-    {
-      "kind": "pin",
-      "title": "Your Friends & Neighbors S2 — Ep 7",
-      "ts": "2026-05-14T03:00:59.509Z"
-    },
-    {
-      "kind": "watched",
-      "title": "The Boys S5 (Final) — Ep 7 (Penultimate)",
-      "rating": 4,
-      "tags": "dark humor, satire, plot twists, sacrifice",
-      "date": "2026-05-14",
-      "ts": "2026-05-14T23:40:09.272Z"
-    },
-    {
-      "kind": "watched",
-      "title": "Good Omens — Series Finale (90-min episode)",
-      "rating": 5,
-      "tags": "Loved list, dry British humor, supernatural, LGBTQ+, ensemble, ineffable husbands, romantic happy ending",
-      "date": "2026-05-15",
-      "ts": "2026-05-15T02:42:34.888Z"
-    }
-  ]
+  "entries": []
 }
