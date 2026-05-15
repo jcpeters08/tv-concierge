@@ -1,4 +1,13 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": []
+  "entries": [
+    {
+      "kind": "watched",
+      "title": "Widow's Bay — Ep 4 'Beach Reads'",
+      "rating": 4,
+      "tags": "watchlist, weekly drop, ensemble, magic, suspense, supernatural",
+      "date": "2026-05-15",
+      "ts": "2026-05-15T05:22:05.549Z"
+    }
+  ]
 }
