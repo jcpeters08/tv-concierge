@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-17T18:00:00Z",
+  "generated_at": "2026-05-17T22:30:00Z",
   "week_label": "May 18 – May 24, 2026",
-  "source": "Sunday refresh (May 17, 2026). Vault reconciled with JSON — no new ratings since prior 5/15 sync (Good Omens — Series Finale 5⭐, Widow's Bay — Ep 4 'Beach Reads' 4⭐, The Boys S5 Ep 7 4⭐). Big week ahead: The Boys S5 — Ep 8 'Blood and Bone' (series finale) drops Wed May 20 — that's the tentpole and this week's hero (watchlist + Loved-list-adjacent dark satire). Three other Wed May 20 drops: Widow's Bay Ep 5 'What to Expect on Your Trip' (Apple TV+), Maximum Pleasure Guaranteed (Apple TV+, first 2 eps), and Jack Ryan: Ghost War (Prime Video film). Thu May 21 brings The Boroughs (Duffer Brothers sci-fi/horror ensemble, 8 eps) on Netflix and Your Friends & Neighbors S2 Ep 8 'I Feel Lost Without Me' on Apple TV+ (US 9pm ET Thu / calendar Fri May 22). Notable carry: Demon Slayer: Kimetsu no Yaiba — Infinity Castle still streaming on Crunchyroll since Apr 9 (Loved-list + watchlist, still unwatched — Part 2 confirmed for 2027, Part 3 for 2029). NEW Netflix this period: Jordan Peele's Nope arrives Mon May 18 (83% RT, sci-fi/horror — direct match on top-2 genres). Mating Season (Big Mouth team adult-animation rom-com, 6 eps) arrives Fri May 22 — try-flag because Big Mouth's juvenile-leaning humor sits on your miss-signal list. Off-platform awareness: Rick and Morty S9 premieres on Adult Swim Sun May 24 (HBO Max + Hulu Jun 15 — off your platforms either way). Loved-list horizon unchanged: Slow Horses S6 → Fall 2026 (filmed, in post, covers Joe Country + Slough House); Foundation S4 → 2027; Severance S3 → 2027 (filming Apr–Dec 2026); The Last of Us S3 → 2027 (filming through Nov 2026); Black Mirror S8 → 2027/28; Demon Slayer Infinity Castle Part 2 → 2027 earliest. Citadel S2 update vs. prior file: actually 7 eps all dropped May 6 (binge-ready, not weekly).",
+  "source": "Sunday refresh (May 17, 2026) + Demon Slayer correction. Vault reconciled with JSON — no new ratings since prior 5/15 sync (Good Omens — Series Finale 5⭐, Widow's Bay — Ep 4 'Beach Reads' 4⭐, The Boys S5 Ep 7 4⭐). CORRECTION vs prior recs (both 5/14 → 5/15 → first 5/17 pass): Demon Slayer: Kimetsu no Yaiba — Infinity Castle is NOT currently streaming on Crunchyroll or anywhere in the US. JustWatch returns no offer; Crunchyroll exec quoted publicly: 'If you want to see it, go see it in the theater.' Multiple authoritative outlets (Collider, GamesRadar, Yahoo, IMDB, ScreenRant) confirm: no US streaming date announced, 2026 is the target year but no specific date set. The 5/15 'Apr 9' streaming claim was sourced from a speculative article; primary sources contradict it. Removed from new_this_week and from hero candidacy; demoted to upcoming_alerts pending an actual streaming date. Big week ahead: The Boys S5 — Ep 8 'Blood and Bone' (series finale) drops Wed May 20 — that's the tentpole and this week's hero (watchlist + Loved-list-adjacent dark satire). Three other Wed May 20 drops: Widow's Bay Ep 5 'What to Expect on Your Trip' (Apple TV+), Maximum Pleasure Guaranteed (Apple TV+, first 2 eps), and Jack Ryan: Ghost War (Prime Video film). Thu May 21 brings The Boroughs (Duffer Brothers sci-fi/horror ensemble, 8 eps) on Netflix and Your Friends & Neighbors S2 Ep 8 'I Feel Lost Without Me' on Apple TV+ (US 9pm ET Thu / calendar Fri May 22). NEW Netflix this period: Jordan Peele's Nope arrives Mon May 18 (83% RT, sci-fi/horror — direct match on top-2 genres). Mating Season (Big Mouth team adult-animation rom-com, 6 eps) arrives Fri May 22 — try-flag because Big Mouth's juvenile-leaning humor sits on your miss-signal list. Off-platform awareness: Rick and Morty S9 premieres on Adult Swim Sun May 24 (HBO Max + Hulu Jun 15 — off your platforms either way). Loved-list horizon unchanged: Slow Horses S6 → Fall 2026 (filmed, in post, covers Joe Country + Slough House); Foundation S4 → 2027; Severance S3 → 2027 (filming Apr–Dec 2026); The Last of Us S3 → 2027 (filming through Nov 2026); Black Mirror S8 → 2027/28; Demon Slayer Infinity Castle Part 1 streaming TBD 2026, Part 2 → 2027 earliest, Part 3 → 2029. Citadel S2 update vs. prior file: actually 7 eps all dropped May 6 (binge-ready, not weekly).",
   "hero": {
     "title": "The Boys S5 — Ep 8 'Blood and Bone' (Series Finale)",
     "platform": "Amazon Prime Video",
@@ -86,18 +86,6 @@
       "tags": ["Jordan Peele", "83% RT", "$171M box office", "Peacock → Netflix swap"],
       "about": "Jordan Peele's 2022 sci-fi/horror: OJ and Emerald Haywood (Daniel Kaluuya, Keke Palmer) run a horse ranch in Agua Dulce, CA, and discover something hovering above it. 83% RT, $171M global on a $68M budget. Leaves Peacock and lands on Netflix exclusively for ~10 months.",
       "why": "Two top-2 genres in one (sci-fi + horror/suspense). Peele = plot twists that pay off, elevated horror with substance underneath — your hit signal. Newly available tomorrow on a platform you're on."
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
-      "platform": "Crunchyroll",
-      "date": "Streaming since Thu Apr 9, 2026",
-      "format": "anime film (Part 1 of trilogy)",
-      "runtime": "~155 min",
-      "match": "strong",
-      "genres": ["anime", "action", "supernatural", "fantasy"],
-      "tags": ["Loved list", "watchlist", "supernatural", "Demon Slayer canon", "theatrical anime", "subbed and dubbed"],
-      "about": "First film in the three-part Infinity Castle trilogy, adapting the manga's climactic Hashira-vs-Muzan arc. Was last week's hero — still unwatched. Note for context: Part 2 confirmed for 2027 release earliest; Part 3 reported for 2029. Part 1 grossed ¥40B+ in Japan and is now streaming on Crunchyroll with sub and dub options.",
-      "why": "Still the highest-priority unwatched pick on the board after this week's tentpoles: Loved-list AND watchlist title that's been streamable for ~5 weeks. Pair with Saturday rather than splitting across nights — it's a single 2.5-hr block."
     },
     {
       "title": "Devil May Cry S2",
@@ -354,6 +342,12 @@
       "platform": "Apple TV+",
       "date": "Fall 2026 (Sep/Oct estimate)",
       "note": "LOVED-LIST continuation. Filmed, in post-production. Adapts Joe Country + Slough House (two books, first time for the show). S7 also greenlit."
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle (Part 1)",
+      "platform": "Crunchyroll (streaming TBD)",
+      "date": "No US streaming date announced; target year 2026",
+      "note": "WATCHLIST + LOVED-LIST. CORRECTION vs prior 5/15 file: NOT currently streaming. JustWatch shows no US offer; Crunchyroll exec said 'go see it in the theater.' US theatrical run ended (9-month window). When a Crunchyroll release date is announced this will be a strong hero candidate."
     },
     {
       "title": "Demon Slayer Infinity Castle Part 2",
