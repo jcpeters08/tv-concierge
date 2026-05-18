@@ -28,6 +28,20 @@ Same shape as pt-tracker. Web app appends to `pending.json` via the GitHub Conte
 1. **Vault MD is source of truth.** `scripts/sync.py` re-derives `data/*.json` from vault every morning. Don't hand-edit JSON.
 2. **Writes are append-only to `pending.json`.** The web app NEVER writes other data files directly.
 3. **Sundays refresh recommendations.** The sync also runs web search + taste-match on Sundays to update `recommendations.json`.
+4. **JustWatch is ground truth for streaming availability — MANDATORY before claiming "streaming on X".** Past incidents: on 5/15 and again on 5/17, recommendations.json claimed Demon Slayer: Infinity Castle was on Crunchyroll since April 9 — sourced from a single speculative news article. JustWatch returned no offer; the film was theatrical-only. The same 5/17 pass mis-stated Jujutsu Kaisen S3 as "currently airing weekly" (S3 Part 1 had ended Mar 27) and Re:ZERO S3 as "currently airing weekly" (it ended Mar 2025; S4 is the current run). Rule below.
+
+## Recommendation verification protocol (applies to every Sunday refresh and ad-hoc rec edits)
+
+For each entry in `recommendations.json`:
+
+- **"Streaming on X right now" claims** → must be verified against `justwatch.com/us/...` for that title in the same session. Industry news articles can be aspirational/speculative. Press releases can be premature. **JustWatch reflects current platform reality.** If JustWatch and news disagree, JustWatch wins. If JustWatch shows no offer, the title is NOT currently streaming — list it under `upcoming_alerts` with "streaming date TBD" instead.
+- **Forward drops (announced future arrivals)** → require ≥2 authoritative sources (Variety / Deadline / THR / official platform PR like `apple.com/tv-pr/` or `aboutamazon.com`). One aggregator article is not enough.
+- **Anime "currently airing"** → confirm against this week's actual release page on Crunchyroll, not a season-overview article. Distinguish season-finished-airing (binge-ready) from currently-airing-weekly from announced-but-not-started.
+- **Don't trust prior `recommendations.json`** — re-verify each session. A claim that survived the last refresh may have been wrong then too.
+- **Episode counts and "Ep N" claims** → cross-check against the latest episode listed on JustWatch or the show's official platform page. Don't assume "Ep N+1 drops next week" without confirming the show is still on a weekly cadence.
+- **When a search returns contradictory signals** (e.g., "X is on Y" alongside "X is not on Y yet"), surface the contradiction and resolve it before citing. Don't pick the confident-sounding result and ignore the others.
+
+If a recommendation can't be verified to this standard, omit it or move it to `upcoming_alerts` with explicit "unverified" or "TBD" labeling. The cost of a missing pick is low; the cost of recommending something Jon can't actually watch is trust.
 
 ## Glossary
 

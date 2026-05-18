@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-17T22:30:00Z",
+  "generated_at": "2026-05-17T23:30:00Z",
   "week_label": "May 18 – May 24, 2026",
-  "source": "Sunday refresh (May 17, 2026) + Demon Slayer correction. Vault reconciled with JSON — no new ratings since prior 5/15 sync (Good Omens — Series Finale 5⭐, Widow's Bay — Ep 4 'Beach Reads' 4⭐, The Boys S5 Ep 7 4⭐). CORRECTION vs prior recs (both 5/14 → 5/15 → first 5/17 pass): Demon Slayer: Kimetsu no Yaiba — Infinity Castle is NOT currently streaming on Crunchyroll or anywhere in the US. JustWatch returns no offer; Crunchyroll exec quoted publicly: 'If you want to see it, go see it in the theater.' Multiple authoritative outlets (Collider, GamesRadar, Yahoo, IMDB, ScreenRant) confirm: no US streaming date announced, 2026 is the target year but no specific date set. The 5/15 'Apr 9' streaming claim was sourced from a speculative article; primary sources contradict it. Removed from new_this_week and from hero candidacy; demoted to upcoming_alerts pending an actual streaming date. Big week ahead: The Boys S5 — Ep 8 'Blood and Bone' (series finale) drops Wed May 20 — that's the tentpole and this week's hero (watchlist + Loved-list-adjacent dark satire). Three other Wed May 20 drops: Widow's Bay Ep 5 'What to Expect on Your Trip' (Apple TV+), Maximum Pleasure Guaranteed (Apple TV+, first 2 eps), and Jack Ryan: Ghost War (Prime Video film). Thu May 21 brings The Boroughs (Duffer Brothers sci-fi/horror ensemble, 8 eps) on Netflix and Your Friends & Neighbors S2 Ep 8 'I Feel Lost Without Me' on Apple TV+ (US 9pm ET Thu / calendar Fri May 22). NEW Netflix this period: Jordan Peele's Nope arrives Mon May 18 (83% RT, sci-fi/horror — direct match on top-2 genres). Mating Season (Big Mouth team adult-animation rom-com, 6 eps) arrives Fri May 22 — try-flag because Big Mouth's juvenile-leaning humor sits on your miss-signal list. Off-platform awareness: Rick and Morty S9 premieres on Adult Swim Sun May 24 (HBO Max + Hulu Jun 15 — off your platforms either way). Loved-list horizon unchanged: Slow Horses S6 → Fall 2026 (filmed, in post, covers Joe Country + Slough House); Foundation S4 → 2027; Severance S3 → 2027 (filming Apr–Dec 2026); The Last of Us S3 → 2027 (filming through Nov 2026); Black Mirror S8 → 2027/28; Demon Slayer Infinity Castle Part 1 streaming TBD 2026, Part 2 → 2027 earliest, Part 3 → 2029. Citadel S2 update vs. prior file: actually 7 eps all dropped May 6 (binge-ready, not weekly).",
+  "source": "Sunday refresh (May 17, 2026) — post-JustWatch audit. Vault reconciled with JSON — no new ratings since prior 5/15 sync (Good Omens — Series Finale 5⭐, Widow's Bay — Ep 4 'Beach Reads' 4⭐, The Boys S5 Ep 7 4⭐). THREE CORRECTIONS vs initial 5/17 pass, all caught by JustWatch ground-truth checks: (1) Demon Slayer: Kimetsu no Yaiba — Infinity Castle is NOT currently streaming in the US — JustWatch returns no offer; Crunchyroll exec publicly said 'go see it in the theater.' Removed from new_this_week; demoted to upcoming_alerts with no announced date. (2) Jujutsu Kaisen S3 is NOT currently airing weekly — S3 Part 1 concluded Mar 27, 2026 with 12 eps. All 12 are streamable on Crunchyroll as a complete binge; S3 Part 2 is announced but not scheduled. Entry rewritten. (3) Re:ZERO S3 is NOT currently airing — S3 finished Mar 2025. What's actually airing on Crunchyroll weekly since Apr 8, 2026 is Re:ZERO S4 (Wed 7am PT). Entry corrected to S4. Big week ahead: The Boys S5 — Ep 8 'Blood and Bone' (series finale) drops Wed May 20 — that's the tentpole and this week's hero (watchlist + Loved-list-adjacent dark satire). Three other Wed May 20 drops: Widow's Bay Ep 5 'What to Expect on Your Trip' (Apple TV+), Maximum Pleasure Guaranteed (Apple TV+, first 2 eps), and Jack Ryan: Ghost War (Prime Video film). Thu May 21 brings The Boroughs (Duffer Brothers sci-fi/horror ensemble, 8 eps) on Netflix and Your Friends & Neighbors S2 Ep 8 'I Feel Lost Without Me' on Apple TV+ (US 9pm ET Thu / calendar Fri May 22). NEW Netflix this period: Jordan Peele's Nope arrives Mon May 18 (83% RT, sci-fi/horror — direct match on top-2 genres). Mating Season (Big Mouth team adult-animation rom-com, 6 eps) arrives Fri May 22 — try-flag because Big Mouth's juvenile-leaning humor sits on your miss-signal list. Off-platform awareness: Rick and Morty S9 premieres on Adult Swim Sun May 24 (HBO Max + Hulu Jun 15 — off your platforms either way). Loved-list horizon unchanged: Slow Horses S6 → Fall 2026 (filmed, in post, covers Joe Country + Slough House); Foundation S4 → 2027; Severance S3 → 2027 (filming Apr–Dec 2026); The Last of Us S3 → 2027 (filming through Nov 2026); Black Mirror S8 → 2027/28; Demon Slayer Infinity Castle Part 1 streaming TBD 2026, Part 2 → 2027 earliest, Part 3 → 2029. Citadel S2 update vs. prior file: actually 7 eps all dropped May 6 (binge-ready, not weekly).",
   "hero": {
     "title": "The Boys S5 — Ep 8 'Blood and Bone' (Series Finale)",
     "platform": "Amazon Prime Video",
@@ -208,28 +208,28 @@
       "why": "Sci-fi (your #1 genre) + alt-history + world-building stack — Foundation/Severance-adjacent prestige sci-fi shelf. Mark for May 29 dive."
     },
     {
-      "title": "Jujutsu Kaisen S3",
+      "title": "Jujutsu Kaisen S3 (Part 1, complete)",
       "platform": "Crunchyroll",
-      "date": "Spring 2026 — currently airing weekly",
+      "date": "Streaming on Crunchyroll — 12 eps available (S3 Part 1 concluded Mar 27, 2026)",
       "format": "anime series",
-      "runtime": "~25 min",
+      "runtime": "12 eps × ~25 min",
       "match": "try",
       "genres": ["anime", "action", "supernatural"],
-      "tags": ["dark action anime", "shonen", "Culling Game arc"],
-      "about": "Post-Shibuya Incident — Yuji, Megumi, and Yuta navigate the brutal Culling Game arc. Crunchyroll's #1 most-anticipated of Spring 2026.",
-      "why": "Demon Slayer-adjacent — supernatural + action + sub-30-min eps. Try-flag because shonen volume can run long; sample one episode before committing."
+      "tags": ["dark action anime", "shonen", "Culling Game arc", "binge-ready"],
+      "about": "Post-Shibuya Incident — Yuji, Megumi, and Yuta navigate the brutal Culling Game arc. First 12-ep half of S3 finished airing March 27. S3 Part 2 (the next 12 eps) is announced but not yet scheduled.",
+      "why": "Demon Slayer-adjacent — supernatural + action + sub-30-min eps. Now binge-ready as a complete 12-ep block. Try-flag because shonen volume can run long; Ep 1 is the sample."
     },
     {
-      "title": "Re:ZERO S3",
+      "title": "Re:ZERO S4",
       "platform": "Crunchyroll",
-      "date": "Spring 2026 — currently airing weekly",
+      "date": "Currently airing weekly since Wed Apr 8, 2026 (second cour Aug 2026)",
       "format": "anime series",
       "runtime": "~25 min",
       "match": "try",
       "genres": ["anime", "fantasy", "psychological"],
-      "tags": ["isekai", "time-loop", "fantasy", "long-awaited"],
-      "about": "Fantasy isekai with a time-loop hook — Subaru relives deaths to alter outcomes. S3 returns after a long gap.",
-      "why": "Fantasy + plot-puzzle mechanics — fits your fantasy/sci-fi top stack and 'plot twists that pay off' signal. Try-flag: S1 is required watching."
+      "tags": ["isekai", "time-loop", "fantasy", "weekly drop"],
+      "about": "Fantasy isekai with a time-loop hook — Subaru relives deaths to alter outcomes. S4 is currently airing on Wednesdays at 7am PT on Crunchyroll. (S3 concluded March 2025 — fully streamable for backlog catch-up.)",
+      "why": "Fantasy + plot-puzzle mechanics — fits your fantasy/sci-fi top stack and 'plot twists that pay off' signal. Try-flag: S1–S3 are required watching, so this is a longer commitment than a single-episode probe."
     }
   ],
   "critics": [
