@@ -1,216 +1,240 @@
 {
-  "generated_at": "2026-05-15T15:05:00Z",
+  "generated_at": "2026-05-17T18:00:00Z",
   "week_label": "May 18 – May 24, 2026",
-  "source": "Refreshed by daily scheduled task on 2026-05-15. Drained 1 web action: watched Widow's Bay Ep 4 'Beach Reads' (4⭐). Loved-list cross-check across all 14 Loved titles surfaced a CORRECTION vs prior recs: Demon Slayer: Kimetsu no Yaiba — Infinity Castle has been streaming on Crunchyroll since April 9, 2026 (multiple sources: newsbytesapp, techlusive, Crunchyroll catalog page G8DHV7809). Prior recs (5/14) flagged it as 'still not streaming' — that was wrong. This is a Loved-list film, on Jon's watchlist, on his platform, and unwatched — it becomes the hero today. No other Loved-list continuations within the 4-week window: Foundation S4 → 2027 (filming Prague Jan 2026); Severance S3 → late 2027; Slow Horses S6 → Fall 2026 (Sep/Oct); Black Mirror S8 → 2027/28; The Last of Us S3 → 2027 (filming began Mar 2026); Rick and Morty S9 → Adult Swim May 24 / HBO Max+Hulu June 15 (off Jon's platforms — awareness alert only); Solar Opposites ended S6 Oct 2025; Fleabag done; Futurama S13 → Sep 15 on Hulu (off-platform); Sandman S2 fully out and rated. Watchlist availability check across 8 titles confirmed Demon Slayer Infinity Castle is the newly-surfaced streamable hero. Kevin already on Prime since Apr 20 (carry). The Boys S5 Ep 8 finale drops Wed May 20 (upcoming_alerts tentpole). Widow's Bay and Your Friends & Neighbors continue weekly on Apple TV+. New on Netflix this period: Black Phone 2 (Sat May 16, horror), The Boroughs (Thu May 21, Duffer Bros sci-fi horror — strong critic anticipation). New on Prime: Jack Ryan Ghost War film May 20; Spider-Noir May 27. Apple TV+: Maximum Pleasure Guaranteed first 2 eps May 20; Star City May 29.",
+  "source": "Sunday refresh (May 17, 2026). Vault reconciled with JSON — no new ratings since prior 5/15 sync (Good Omens — Series Finale 5⭐, Widow's Bay — Ep 4 'Beach Reads' 4⭐, The Boys S5 Ep 7 4⭐). Big week ahead: The Boys S5 — Ep 8 'Blood and Bone' (series finale) drops Wed May 20 — that's the tentpole and this week's hero (watchlist + Loved-list-adjacent dark satire). Three other Wed May 20 drops: Widow's Bay Ep 5 'What to Expect on Your Trip' (Apple TV+), Maximum Pleasure Guaranteed (Apple TV+, first 2 eps), and Jack Ryan: Ghost War (Prime Video film). Thu May 21 brings The Boroughs (Duffer Brothers sci-fi/horror ensemble, 8 eps) on Netflix and Your Friends & Neighbors S2 Ep 8 'I Feel Lost Without Me' on Apple TV+ (US 9pm ET Thu / calendar Fri May 22). Notable carry: Demon Slayer: Kimetsu no Yaiba — Infinity Castle still streaming on Crunchyroll since Apr 9 (Loved-list + watchlist, still unwatched — Part 2 confirmed for 2027, Part 3 for 2029). NEW Netflix this period: Jordan Peele's Nope arrives Mon May 18 (83% RT, sci-fi/horror — direct match on top-2 genres). Mating Season (Big Mouth team adult-animation rom-com, 6 eps) arrives Fri May 22 — try-flag because Big Mouth's juvenile-leaning humor sits on your miss-signal list. Off-platform awareness: Rick and Morty S9 premieres on Adult Swim Sun May 24 (HBO Max + Hulu Jun 15 — off your platforms either way). Loved-list horizon unchanged: Slow Horses S6 → Fall 2026 (filmed, in post, covers Joe Country + Slough House); Foundation S4 → 2027; Severance S3 → 2027 (filming Apr–Dec 2026); The Last of Us S3 → 2027 (filming through Nov 2026); Black Mirror S8 → 2027/28; Demon Slayer Infinity Castle Part 2 → 2027 earliest. Citadel S2 update vs. prior file: actually 7 eps all dropped May 6 (binge-ready, not weekly).",
   "hero": {
-    "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
-    "platform": "Crunchyroll",
-    "date": "Available since Thu Apr 9, 2026 — NOW STREAMING",
-    "format": "anime film (Part 1 of trilogy)",
-    "runtime": "~155 min",
+    "title": "The Boys S5 — Ep 8 'Blood and Bone' (Series Finale)",
+    "platform": "Amazon Prime Video",
+    "date": "Wed May 20, 2026 (12am PT / 3am ET) — 3 DAYS OUT",
+    "format": "series finale (extended runtime)",
+    "runtime": "~65 min",
     "match": "strong",
-    "genres": ["anime", "action", "supernatural", "fantasy"],
-    "tags": ["Loved list", "watchlist", "supernatural", "Demon Slayer canon", "theatrical anime", "subbed and dubbed"],
-    "about": "First film in the three-part Infinity Castle trilogy that picks up the Demon Slayer storyline post–Hashira Training Arc. Tanjiro, Nezuko, the Hashira, and the entire Demon Slayer Corps are dragged into Muzan Kibutsuji's mirrored stronghold for the long-awaited final showdown. Adapts the manga's climactic arc. The theatrical run shattered Japanese box-office records (¥40B+) before quietly arriving on Crunchyroll in April. Subbed and English-dubbed.",
-    "why": "Tier 2 hero — Loved-list AND watchlist title that's been streamable for ~5 weeks but slipped past prior recs. This is the highest-priority unwatched pick on the board right now: Demon Slayer is on your Loved list, you pinned Infinity Castle specifically, and it's a 2.5-hour film that fits a weekend bedtime block. Recommend pairing it with Saturday rather than splitting across two nights."
+    "genres": ["superhero", "satire", "dark comedy", "drama"],
+    "tags": ["watchlist", "series ending", "dark humor", "plot twists", "tentpole"],
+    "about": "Eric Kripke's extended series-finale episode 'Blood and Bone' wraps the five-season Vought saga. A premium-format 4DX theatrical screening also runs May 19 for fans who want it on the big screen.",
+    "why": "Watchlist endgame and the unambiguous tentpole of the week. You rated Ep 7 a 4⭐ for 'dark humor, satire, plot twists, sacrifice' — Ep 8 is the payoff. Built for Wednesday night. Block out the runtime; this is the marquee viewing of the week."
   },
   "new_this_week": [
     {
-      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
-      "platform": "Crunchyroll",
-      "date": "Thu Apr 9, 2026 — NOW STREAMING",
-      "format": "anime film",
-      "runtime": "~155 min",
+      "title": "The Boys S5 — Ep 8 'Blood and Bone' (Series Finale)",
+      "platform": "Amazon Prime Video",
+      "date": "Wed May 20, 2026 (12am PT / 3am ET) — 3 DAYS OUT",
+      "format": "series finale",
+      "runtime": "~65 min",
       "match": "strong",
-      "genres": ["anime", "action", "supernatural", "fantasy"],
-      "tags": ["Loved list", "watchlist", "Demon Slayer canon"],
-      "about": "Part 1 of the Infinity Castle trilogy adapting the manga's climax. Tanjiro and the Hashira are pulled into Muzan's stronghold for the final battle.",
-      "why": "Today's hero — see top. Loved-list + watchlist + now streamable + unwatched."
-    },
-    {
-      "title": "Black Phone 2",
-      "platform": "Netflix",
-      "date": "Sat May 16, 2026 — TOMORROW",
-      "format": "film",
-      "runtime": "~115 min",
-      "match": "strong",
-      "genres": ["horror", "suspense", "supernatural"],
-      "tags": ["horror sequel", "Blumhouse", "Ethan Hawke", "Saturday bedtime"],
-      "about": "Scott Derrickson returns to direct this sequel to 2021's The Black Phone. Finney (Mason Thames) and Gwen (Madeleine McGraw) face The Grabber (Ethan Hawke) again — this time through dreams. Adapts a Joe Hill short story. R-rated.",
-      "why": "Horror/Suspense is in your top-4 genre stack. 80% RT critic / 82% audience on theatrical run, $132M worldwide. Drops Saturday — fits the bedtime horror slot if you want a Sat-night alt to the Demon Slayer block."
+      "genres": ["superhero", "satire", "dark comedy", "drama"],
+      "tags": ["watchlist", "series ending", "tentpole"],
+      "about": "Series-finale episode wraps the Vought saga. Also screening in 4DX theatres May 19.",
+      "why": "Today's hero — see top."
     },
     {
       "title": "The Boroughs",
       "platform": "Netflix",
-      "date": "Thu May 21, 2026 — 6 DAYS OUT",
+      "date": "Thu May 21, 2026 — 4 DAYS OUT",
       "format": "series",
-      "runtime": "~50 min, 8 eps",
+      "runtime": "8 eps × ~50 min",
       "match": "strong",
-      "genres": ["sci-fi", "horror", "ensemble"],
+      "genres": ["sci-fi", "horror", "drama", "ensemble"],
       "tags": ["Duffer Brothers", "Stranger Things adjacent", "ensemble cast", "supernatural"],
-      "about": "Eight-episode sci-fi horror series executive-produced by the Duffer Brothers. In a picturesque retirement community, unlikely heroes — played by Geena Davis, Alfred Molina, Alfre Woodard, Bill Pullman, Clarke Peters, Denis O'Hare — band together against an otherworldly threat that's stealing their time.",
-      "why": "Sci-fi + supernatural + ensemble + Stranger Things pedigree is a direct match on multiple signals. Easily the most anticipated new series of the week."
+      "about": "Eight-episode sci-fi/horror executive-produced by the Duffer Brothers (Stranger Things). In a picturesque retirement community, an unlikely band of heroes — Geena Davis, Alfred Molina, Bill Pullman, Alfre Woodard, Clarke Peters, Denis O'Hare, Jena Malone, Carlos Miranda — face an otherworldly threat that's stealing their time. Created by Jeffrey Addiss and Will Matthews; Ben Taylor directs and EPs.",
+      "why": "Sci-fi + supernatural + ensemble + Stranger Things pedigree is a direct match on multiple signals. Most-anticipated new series of the week behind The Boys finale. Thursday tentpole."
     },
     {
-      "title": "Widow's Bay — Ep 5",
+      "title": "Widow's Bay — Ep 5 'What to Expect on Your Trip'",
       "platform": "Apple TV+",
-      "date": "Wed May 20, 2026",
+      "date": "Wed May 20, 2026 — 3 DAYS OUT",
       "format": "series",
       "runtime": "~50 min",
       "match": "strong",
-      "genres": ["mystery", "suspense", "drama", "supernatural"],
-      "tags": ["watchlist", "weekly drop"],
-      "about": "Episode 5 of the 10-episode small-town supernatural mystery. Ep 6 follows the next week; May 27 is a two-ep drop.",
-      "why": "Pinned + just rated Ep 4 4⭐. Stay-current pick for midweek bedtime."
+      "genres": ["mystery", "horror comedy", "drama", "supernatural"],
+      "tags": ["watchlist", "weekly drop", "97% RT critic"],
+      "about": "Episode 5 of the 10-episode small-town supernatural mystery from Katie Dippold (Parks and Rec writer) with Hiro Murai directing. Critic score sitting near 97% RT.",
+      "why": "Pinned + you just rated Ep 4 4⭐. Stay-current pick for midweek bedtime — same slot as last week."
     },
     {
-      "title": "Your Friends & Neighbors S2 — Ep 7 'Out East'",
+      "title": "Your Friends & Neighbors S2 — Ep 8 'I Feel Lost Without Me'",
       "platform": "Apple TV+",
-      "date": "Thu May 14/15, 2026 — NOW STREAMING",
+      "date": "Thu May 21 (9pm ET) / Fri May 22, 2026 — 4 DAYS OUT",
       "format": "series",
       "runtime": "~45 min",
       "match": "strong",
       "genres": ["dark comedy", "suspense", "drama"],
       "tags": ["watchlist", "suburban crime", "Jon Hamm"],
-      "about": "Penultimate-act episode of the suburban-crime dramedy's second season. 10-ep weekly run, finale Jun 5.",
-      "why": "Watchlist + dark comedy + suspense — wheelhouse pick for tonight."
-    },
-    {
-      "title": "The Boys S5 — Ep 8 'Blood and Bone' (Series Finale)",
-      "platform": "Amazon Prime Video",
-      "date": "Wed May 20, 2026 (3am ET) — 5 DAYS OUT",
-      "format": "series finale",
-      "runtime": "~65 min",
-      "match": "strong",
-      "genres": ["superhero", "satire", "drama"],
-      "tags": ["watchlist", "series ending", "dark humor", "plot twists"],
-      "about": "65-minute series finale wraps the five-season Vought saga. Also screening in 4DX theatres May 19.",
-      "why": "Watchlist endgame. You rated Ep 7 a 4⭐ — Wednesday is the tentpole."
-    },
-    {
-      "title": "Devil May Cry S2",
-      "platform": "Netflix",
-      "date": "Tue May 12, 2026 — NOW STREAMING (all 8 eps)",
-      "format": "anime series",
-      "runtime": "~30 min, 8 eps",
-      "match": "strong",
-      "genres": ["anime", "action", "supernatural", "fantasy"],
-      "tags": ["adult animation", "Studio Mir", "binge-ready"],
-      "about": "Adi Shankar adult-animation series animated by Studio Mir. S2 launches the Dante–Vergil rivalry. Sitting near 100% RT on early reviews.",
-      "why": "Adult animation + supernatural + 30-min eps = same shelf as Solar Opposites. Top-rated drop in the current window."
+      "about": "Ep 8 tightens the noose on Coop as he realizes Ashe is a handler, not a partner. Two episodes left in the 10-ep S2 run; finale lands Jun 5.",
+      "why": "Watchlist + dark comedy + suspense — wheelhouse Thursday-night pick."
     },
     {
       "title": "Maximum Pleasure Guaranteed",
       "platform": "Apple TV+",
-      "date": "Wed May 20, 2026 (first 2 eps)",
+      "date": "Wed May 20, 2026 (first 2 eps) — 3 DAYS OUT",
       "format": "series",
-      "runtime": "~30 min, 10 eps",
-      "match": "try",
-      "genres": ["dark comedy", "thriller"],
-      "tags": ["Tatiana Maslany", "Jake Johnson", "dark humor"],
-      "about": "Tatiana Maslany leads a darkly comedic thriller as a newly divorced mom convinced she witnessed a crime while spiraling through custody battles, identity crisis, and youth-soccer politics. 30-min eps, weekly through July 15.",
-      "why": "Dark comedy + 30-min + strong ensemble lead lines up with your Fleabag/Slow Horses shelf. Try-flag because early critic reviews are still embargoed."
+      "runtime": "10 eps × ~30 min",
+      "match": "strong",
+      "genres": ["dark comedy", "thriller", "mystery"],
+      "tags": ["Tatiana Maslany", "Jake Johnson", "dark humor", "30-min eps"],
+      "about": "Tatiana Maslany leads a darkly comedic thriller as newly divorced mom Paula, falling into blackmail, murder, and youth-soccer politics after convincing herself she witnessed a crime. Created by David J. Rosen, directed/EP'd by David Gordon Green. 10 eps weekly through Jul 15. Two-ep premiere drops at midnight.",
+      "why": "Dark comedy + 30-min eps + strong ensemble lead lines up with your Fleabag / Solar Opposites / Slow Horses shelf. Maslany is a credibility anchor."
     },
     {
-      "title": "Tom Clancy's Jack Ryan: Ghost War",
-      "platform": "Amazon Prime Video",
-      "date": "Wed May 20, 2026",
+      "title": "Nope (2022)",
+      "platform": "Netflix",
+      "date": "Mon May 18, 2026 — TOMORROW",
       "format": "film",
-      "runtime": "~120 min",
-      "match": "try",
-      "genres": ["spy thriller", "action"],
-      "tags": ["John Krasinski", "Jack Ryan", "spy thriller"],
-      "about": "Standalone Jack Ryan film with John Krasinski returning to the title role. Continues the spy-thriller world from the Prime series.",
-      "why": "Spy thriller is Slow Horses-adjacent. Try-flag because Jack Ryan TV had uneven plotting; the film format may help tighten the pacing."
+      "runtime": "~130 min",
+      "match": "strong",
+      "genres": ["sci-fi", "horror", "suspense"],
+      "tags": ["Jordan Peele", "83% RT", "$171M box office", "Peacock → Netflix swap"],
+      "about": "Jordan Peele's 2022 sci-fi/horror: OJ and Emerald Haywood (Daniel Kaluuya, Keke Palmer) run a horse ranch in Agua Dulce, CA, and discover something hovering above it. 83% RT, $171M global on a $68M budget. Leaves Peacock and lands on Netflix exclusively for ~10 months.",
+      "why": "Two top-2 genres in one (sci-fi + horror/suspense). Peele = plot twists that pay off, elevated horror with substance underneath — your hit signal. Newly available tomorrow on a platform you're on."
     },
     {
-      "title": "Spider-Noir",
-      "platform": "Amazon Prime Video",
-      "date": "Wed May 27, 2026 — 12 DAYS OUT",
-      "format": "series",
-      "runtime": "~50 min, 8 eps",
-      "match": "try",
-      "genres": ["superhero", "noir", "period drama"],
-      "tags": ["Nicolas Cage", "1930s NYC", "dual color/B&W release"],
-      "about": "Live-action Marvel Spider-Man Noir. Nic Cage as Ben Reilly, an older down-on-his-luck PI in 1930s New York forced back into the cowl. Released in 'Authentic Black and White' and 'True-Hue Full Color' versions.",
-      "why": "RT flagged it as #1 most-anticipated TV of May. Period noir + Cage is a distinctive swing — high-variance try."
+      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
+      "platform": "Crunchyroll",
+      "date": "Streaming since Thu Apr 9, 2026",
+      "format": "anime film (Part 1 of trilogy)",
+      "runtime": "~155 min",
+      "match": "strong",
+      "genres": ["anime", "action", "supernatural", "fantasy"],
+      "tags": ["Loved list", "watchlist", "supernatural", "Demon Slayer canon", "theatrical anime", "subbed and dubbed"],
+      "about": "First film in the three-part Infinity Castle trilogy, adapting the manga's climactic Hashira-vs-Muzan arc. Was last week's hero — still unwatched. Note for context: Part 2 confirmed for 2027 release earliest; Part 3 reported for 2029. Part 1 grossed ¥40B+ in Japan and is now streaming on Crunchyroll with sub and dub options.",
+      "why": "Still the highest-priority unwatched pick on the board after this week's tentpoles: Loved-list AND watchlist title that's been streamable for ~5 weeks. Pair with Saturday rather than splitting across nights — it's a single 2.5-hr block."
+    },
+    {
+      "title": "Devil May Cry S2",
+      "platform": "Netflix",
+      "date": "Streaming since Tue May 12, 2026 (all 8 eps)",
+      "format": "anime series",
+      "runtime": "8 eps × ~30 min",
+      "match": "strong",
+      "genres": ["anime", "action", "supernatural", "fantasy", "adult animation"],
+      "tags": ["Adi Shankar", "adult animation", "binge-ready", "S1 was 96% RT"],
+      "about": "Adi Shankar's adult-animation series. S2 launches the Dante–Vergil rivalry. S1 hit 96% RT critic in 2025; S2 trailers have been well-received. Shankar has compared S2's scope to 'Batman Begins → The Dark Knight.'",
+      "why": "Adult animation + supernatural + 30-min eps = same shelf as Solar Opposites. The highest-rated drop now sitting on your platforms for binge-mode."
+    },
+    {
+      "title": "Black Phone 2",
+      "platform": "Netflix",
+      "date": "Streaming since Sat May 16, 2026",
+      "format": "film",
+      "runtime": "~115 min",
+      "match": "strong",
+      "genres": ["horror", "suspense", "supernatural"],
+      "tags": ["horror sequel", "Blumhouse", "Ethan Hawke", "Saturday bedtime"],
+      "about": "Scott Derrickson directs the sequel to 2021's The Black Phone. Finney (Mason Thames) and Gwen (Madeleine McGraw) face The Grabber (Ethan Hawke) again — this time through dreams. Adapts a Joe Hill short story. 72% RT critic / 82% audience; $132M box office. R-rated.",
+      "why": "Horror/suspense is in your top-4 genre stack. Just dropped yesterday — fits the bedtime horror slot if you want a Sat-night alt to a Demon Slayer block."
     },
     {
       "title": "Kevin",
       "platform": "Amazon Prime Video",
-      "date": "Mon Apr 20, 2026 — NOW STREAMING (S1)",
+      "date": "Streaming since Mon Apr 20, 2026 (S1, 8 eps)",
       "format": "animated series",
       "runtime": "~30 min",
       "match": "try",
       "genres": ["adult animation", "comedy"],
-      "tags": ["watchlist", "off-beat", "Jason Schwartzman", "Aubrey Plaza"],
-      "about": "Adult animation about a cat dropped into an Astoria pet rescue after his owners break up. Schwartzman voices Kevin; Plaza, Whoopi Goldberg, John Waters in supporting roles.",
-      "why": "Watchlist title that's still sitting — Schwartzman + Plaza + John Waters is exactly your off-beat shelf. Bedtime-friendly 30-min eps."
-    },
-    {
-      "title": "Lord of the Flies",
-      "platform": "Netflix",
-      "date": "Mon May 4, 2026 — NOW STREAMING (4-ep limited)",
-      "format": "limited series",
-      "runtime": "~60 min, 4 eps",
-      "match": "try",
-      "genres": ["drama", "thriller"],
-      "tags": ["book adaptation", "Jack Thorne", "ensemble", "critic darling, audience divided"],
-      "about": "Jack Thorne's 4-part adaptation of Golding's novel. Boys, plane crash, descent. Critics 92–94%, audience 54% — audience complaints flag intrusive score and stylized camerawork.",
-      "why": "Try, not strong. Book adaptation + 4-ep run hits your signals, but the audience divide ('artsy', 'heavy-handed') is exactly your misses-signals flag. Worth a single-night Ep 1 sample."
-    },
-    {
-      "title": "Star City",
-      "platform": "Apple TV+",
-      "date": "Fri May 29, 2026 — 14 DAYS OUT",
-      "format": "series",
-      "runtime": "~60 min, 8 eps",
-      "match": "strong",
-      "genres": ["sci-fi", "alt-history", "drama"],
-      "tags": ["For All Mankind universe", "Cold War", "space program"],
-      "about": "Spinoff from 'For All Mankind' from Ben Nedivi, Matt Wolpert, Ronald D. Moore. Alt-history space race told from the Soviet side — cosmonauts, engineers, intelligence officers in Star City. Two-ep premiere, weekly through Jul 10.",
-      "why": "Sci-fi (your #1 genre) + alt-history + world-building stack — Foundation/Severance-adjacent prestige sci-fi shelf. Mark for May 29 dive."
+      "tags": ["watchlist", "off-beat", "Jason Schwartzman", "Aubrey Plaza", "Whoopi Goldberg", "John Waters"],
+      "about": "Adult animation about a housecat dropped into an Astoria pet rescue. Schwartzman voices Kevin; Plaza, Whoopi Goldberg, John Waters, Amy Sedaris in supporting roles. Created by Joe Wengert and Aubrey Plaza.",
+      "why": "Watchlist title still sitting after a month — Schwartzman + Plaza + John Waters is your off-beat shelf. Bedtime-friendly 30-min eps."
     },
     {
       "title": "Citadel S2",
       "platform": "Amazon Prime Video",
-      "date": "Wed May 6, 2026 — NOW STREAMING",
+      "date": "Streaming since Wed May 6, 2026 (all 7 eps binge)",
       "format": "series",
-      "runtime": "~45 min",
+      "runtime": "7 eps × ~45 min",
       "match": "try",
       "genres": ["spy thriller", "action"],
-      "tags": ["amnesiac spies", "Richard Madden", "Priyanka Chopra"],
-      "about": "Husband-wife spy duo regain wiped memories and resume the fight against rival agency Manticore. S2 of the Russo-produced franchise.",
-      "why": "Spy thriller, Slow Horses-adjacent shelf, big-budget set pieces. Try-flag because S1 was a mixed-reception swing."
+      "tags": ["amnesiac spies", "Richard Madden", "Priyanka Chopra", "Stanley Tucci", "Matt Berry", "binge-ready"],
+      "about": "Husband-wife spy duo regain wiped memories and resume the fight against Manticore. S2 dropped all 7 eps at once on May 6 (not weekly). New blood: Jack Reynor, Rahul Kohli, Matt Berry, Gabriel Leone.",
+      "why": "Spy thriller, Slow Horses-adjacent shelf, big-budget set pieces. Try-flag because S1 reception was mixed; Matt Berry's presence is a Solar Opposites/British-comedy adjacency."
     },
     {
       "title": "Unconditional",
       "platform": "Apple TV+",
-      "date": "Fri May 8, 2026 — STREAMING (weekly through Jun 19)",
+      "date": "Streaming weekly since Fri May 8, 2026 (4 eps out, weekly through Jun 19)",
       "format": "limited series",
-      "runtime": "~50 min, 8 eps",
+      "runtime": "8 eps × ~50 min",
       "match": "try",
       "genres": ["thriller", "drama", "crime"],
-      "tags": ["international", "subtitled", "mother-daughter"],
-      "about": "Israeli thriller: a 23-year-old is arrested for drug smuggling in Moscow; her mother refuses to accept the charges and is pulled into a deadly web of crime and corruption. Subtitled.",
-      "why": "International thrillers are a strong wildcard for you. Worth a single-episode test."
+      "tags": ["international", "subtitled", "mother-daughter", "Israeli thriller"],
+      "about": "Israeli thriller from Adam Bizanski and Dana Idisis. A 23-year-old (Talia Lynne Ronn) is arrested for drug smuggling in Moscow; her mother (Liraz Chamami) refuses to accept the charges and gets pulled into a deadly web. Variety calls it 'addictively fun' as it escalates.",
+      "why": "International thrillers are a strong wildcard for you. Ep 1 sample to gauge fit; episodes are out weekly so you can sample without binge commitment."
+    },
+    {
+      "title": "Lord of the Flies",
+      "platform": "Netflix",
+      "date": "Streaming since Mon May 4, 2026 (4-ep limited)",
+      "format": "limited series",
+      "runtime": "4 eps × ~60 min",
+      "match": "try",
+      "genres": ["drama", "thriller"],
+      "tags": ["book adaptation", "Jack Thorne", "Marc Munden", "95% RT critic / 6.7 IMDB"],
+      "about": "Jack Thorne's 4-part adaptation of Golding's novel, directed by Marc Munden. 95% RT critic. IMDB 6.7 — audience gap. Critic complaints include a 'distracting' fisheye lens.",
+      "why": "Try, not strong. Book adaptation + 4-ep run is your signal, but the audience score gap and stylization risk make Ep 1 a probe, not a commitment."
+    },
+    {
+      "title": "Mating Season",
+      "platform": "Netflix",
+      "date": "Fri May 22, 2026 — 5 DAYS OUT",
+      "format": "adult animated series",
+      "runtime": "6 eps × ~25 min",
+      "match": "try",
+      "genres": ["adult animation", "romantic comedy"],
+      "tags": ["Big Mouth team", "Nick Kroll", "Zach Woods", "June Diane Raphael", "Sabrina Jalees"],
+      "about": "From the Big Mouth creative team (Nick Kroll, Mark Levin, Jennifer Flackett, Andrew Goldberg). Anthropomorphic forest critters — a bear named Josh (Zach Woods) and a raccoon named Ray (Kroll) — navigate mating-season hookups. 6-ep first season.",
+      "why": "Adult animation + ~25-min eps is your shelf on paper. Try-flag — Big Mouth's juvenile-leaning humor is on your miss-signal list ('juvenile/kiddy humor'). One-episode probe to see whether it skews adult-witty or kid-raunchy."
+    },
+    {
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "platform": "Amazon Prime Video",
+      "date": "Wed May 20, 2026 (12am PT / 3am ET) — 3 DAYS OUT",
+      "format": "film",
+      "runtime": "~120 min",
+      "match": "try",
+      "genres": ["spy thriller", "action"],
+      "tags": ["John Krasinski", "Jack Ryan", "Sienna Miller", "Michael Kelly"],
+      "about": "Standalone Jack Ryan feature film (not S5 of the series). Directed by Andrew Bernstein, co-written by Krasinski. Krasinski returns as Jack Ryan with Wendell Pierce, Michael Kelly, Sienna Miller.",
+      "why": "Spy thriller is Slow Horses-adjacent. Try-flag — Jack Ryan TV had uneven plotting; the film format may tighten the pacing."
+    },
+    {
+      "title": "Spider-Noir",
+      "platform": "Amazon Prime Video",
+      "date": "Wed May 27, 2026 — 10 DAYS OUT",
+      "format": "series",
+      "runtime": "8 eps × ~50 min",
+      "match": "try",
+      "genres": ["superhero", "noir", "period drama"],
+      "tags": ["Nicolas Cage", "1930s NYC", "dual color/B&W release"],
+      "about": "Live-action Marvel Spider-Man Noir. Nic Cage plays Ben Reilly — an older, down-on-his-luck PI in 1930s New York forced back into the cowl. 8 eps. Released in both 'Authentic Black and White' and 'True-Hue' full-color versions.",
+      "why": "RT flagged it as #1 most-anticipated TV of May. Period noir + Cage is a distinctive swing — high-variance try. Mark for next week."
+    },
+    {
+      "title": "Star City",
+      "platform": "Apple TV+",
+      "date": "Fri May 29, 2026 — 12 DAYS OUT",
+      "format": "series",
+      "runtime": "8 eps × ~60 min",
+      "match": "strong",
+      "genres": ["sci-fi", "alt-history", "drama"],
+      "tags": ["For All Mankind universe", "Cold War", "space program", "Ronald D. Moore"],
+      "about": "Official For All Mankind spinoff from Ben Nedivi, Matt Wolpert, Ronald D. Moore. Alt-history space race told from the Soviet side — cosmonauts, engineers, intelligence officers in Star City. Cast headlined by Rhys Ifans with Agnes O'Casey and Anna Maxwell-Martin. Two-ep premiere May 29, then weekly through Jul 10.",
+      "why": "Sci-fi (your #1 genre) + alt-history + world-building stack — Foundation/Severance-adjacent prestige sci-fi shelf. Mark for May 29 dive."
     },
     {
       "title": "Jujutsu Kaisen S3",
       "platform": "Crunchyroll",
-      "date": "Spring 2026 — Currently airing weekly",
+      "date": "Spring 2026 — currently airing weekly",
       "format": "anime series",
       "runtime": "~25 min",
       "match": "try",
       "genres": ["anime", "action", "supernatural"],
-      "tags": ["dark action anime", "shonen", "supernatural"],
-      "about": "Post-Shibuya Incident — Yuji, Megumi, and Yuta navigate the brutal Culling Game. Crunchyroll's #1 most-anticipated of Spring 2026.",
-      "why": "Demon Slayer-adjacent — supernatural + action + sub-30-min eps. Try-flag because shonen volume can run long."
+      "tags": ["dark action anime", "shonen", "Culling Game arc"],
+      "about": "Post-Shibuya Incident — Yuji, Megumi, and Yuta navigate the brutal Culling Game arc. Crunchyroll's #1 most-anticipated of Spring 2026.",
+      "why": "Demon Slayer-adjacent — supernatural + action + sub-30-min eps. Try-flag because shonen volume can run long; sample one episode before committing."
     },
     {
       "title": "Re:ZERO S3",
       "platform": "Crunchyroll",
-      "date": "Spring 2026 — Currently airing weekly",
+      "date": "Spring 2026 — currently airing weekly",
       "format": "anime series",
       "runtime": "~25 min",
       "match": "try",
@@ -224,76 +248,94 @@
     {
       "title": "The Boroughs",
       "platform": "Netflix",
-      "date": "Thu May 21, 2026 — 6 DAYS OUT",
+      "date": "Thu May 21, 2026 — 4 DAYS OUT",
       "format": "series",
       "runtime": "8 eps × ~50 min",
       "match": "strong",
       "genres": ["sci-fi", "horror", "ensemble"],
-      "tags": ["Duffer Brothers EPs", "Stranger Things pedigree", "Geena Davis", "Alfred Molina"],
-      "about": "Sci-fi horror in a picturesque retirement community where unlikely heroes face an otherworldly threat that steals their time. Duffer Brothers EP, veteran ensemble led by Geena Davis, Alfred Molina, Bill Pullman, Alfre Woodard.",
-      "why": "Critic anticipation high; sci-fi + horror + ensemble + Stranger Things pedigree is a multi-signal match."
+      "tags": ["Duffer Brothers EPs", "Stranger Things pedigree", "Geena Davis", "Alfred Molina", "Bill Pullman"],
+      "about": "Sci-fi horror in a retirement community where unlikely heroes face an otherworldly threat stealing their time. Critic embargo lifts at premiere — early industry anticipation is high.",
+      "why": "Critic anticipation high (no RT score yet — series hasn't premiered); sci-fi + horror + ensemble + Stranger Things pedigree is a multi-signal match."
     },
     {
       "title": "Devil May Cry S2",
       "platform": "Netflix",
-      "date": "Tue May 12, 2026 — NOW STREAMING",
+      "date": "Streaming since Tue May 12, 2026",
       "format": "anime series",
       "runtime": "8 eps × ~30 min",
       "match": "strong",
       "genres": ["anime", "action", "supernatural"],
-      "tags": ["~100% RT (early)", "Studio Mir", "adult animation"],
-      "about": "Studio Mir-animated adult action series. Critics unanimous on the Dante–Vergil arc.",
+      "tags": ["Studio Mir / Adi Shankar", "adult animation", "S1 was 96% RT"],
+      "about": "Adi Shankar's adult-animation action series. S1 hit 96% RT; S2 promises 'Dark Knight'-scale upshift per Shankar.",
       "why": "Top-rated drop in the window — adult animation + supernatural triple-stack is your shelf."
     },
     {
       "title": "Lord of the Flies",
       "platform": "Netflix",
-      "date": "Mon May 4, 2026 — NOW STREAMING",
+      "date": "Streaming since Mon May 4, 2026",
       "format": "limited series",
       "runtime": "4 eps × ~60 min",
       "match": "try",
       "genres": ["drama", "thriller"],
-      "tags": ["92–94% RT critic", "Jack Thorne", "book adaptation"],
-      "about": "Jack Thorne's 4-part adaptation of Golding's novel. Critics Certified Fresh.",
-      "why": "Critic darling of May, book adaptation (your signal). Audience 54% complaints flag stylization risk — Ep 1 test only."
+      "tags": ["95% RT critic", "Jack Thorne", "book adaptation"],
+      "about": "Jack Thorne's 4-part adaptation of Golding. Critics Certified Fresh at 95% RT.",
+      "why": "Critic darling of May, book adaptation (your signal). 6.7 IMDB and audience reservations flag stylization risk — Ep 1 test only."
     }
   ],
   "upcoming_alerts": [
     {
+      "title": "Nope (2022)",
+      "platform": "Netflix",
+      "date": "Mon May 18, 2026 — TOMORROW",
+      "note": "Jordan Peele sci-fi/horror arrives on Netflix (leaves Peacock). 83% RT, $171M box office. Direct genre-stack match."
+    },
+    {
       "title": "The Boys S5 — Ep 8 'Blood and Bone' (Series Finale)",
       "platform": "Amazon Prime Video",
-      "date": "Wed May 20, 2026 (3am ET)",
-      "note": "WATCHLIST — series finale. 65 min, also in 4DX theatres May 19."
+      "date": "Wed May 20, 2026 (12am PT / 3am ET)",
+      "note": "WATCHLIST — series finale (~65 min extended runtime). Also in 4DX theatres May 19."
     },
     {
-      "title": "Tom Clancy's Jack Ryan: Ghost War",
-      "platform": "Amazon Prime Video",
-      "date": "Wed May 20, 2026",
-      "note": "Krasinski returns as Jack Ryan in a standalone spy thriller film."
-    },
-    {
-      "title": "Widow's Bay — Ep 5",
+      "title": "Widow's Bay — Ep 5 'What to Expect on Your Trip'",
       "platform": "Apple TV+",
       "date": "Wed May 20, 2026",
-      "note": "Watchlist weekly drop. Ep 6 next week, May 27 is a two-ep drop."
+      "note": "Watchlist weekly drop. 5 of 10 eps."
     },
     {
       "title": "Maximum Pleasure Guaranteed",
       "platform": "Apple TV+",
       "date": "Wed May 20, 2026",
-      "note": "First 2 eps of Tatiana Maslany dark-comedy thriller."
+      "note": "First 2 eps of Tatiana Maslany dark-comedy thriller. Weekly through Jul 15."
+    },
+    {
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "platform": "Amazon Prime Video",
+      "date": "Wed May 20, 2026",
+      "note": "Krasinski returns in a standalone spy-thriller feature (not S5)."
     },
     {
       "title": "The Boroughs",
       "platform": "Netflix",
       "date": "Thu May 21, 2026",
-      "note": "Duffer Brothers sci-fi horror, 8 eps. Davis/Molina/Pullman/Woodard ensemble."
+      "note": "Duffer Brothers sci-fi horror, 8 eps. Davis / Molina / Pullman / Woodard ensemble."
+    },
+    {
+      "title": "Your Friends & Neighbors S2 — Ep 8 'I Feel Lost Without Me'",
+      "platform": "Apple TV+",
+      "date": "Thu May 21 / Fri May 22, 2026",
+      "note": "Watchlist weekly drop. 8 of 10 eps; finale Jun 5."
+    },
+    {
+      "title": "Mating Season",
+      "platform": "Netflix",
+      "date": "Fri May 22, 2026",
+      "note": "Big Mouth team's new adult animated rom-com. 6 eps. Try-flag — juvenile humor risk vs. your miss-signal."
     },
     {
       "title": "Rick and Morty S9",
       "platform": "Adult Swim (off-platform) / HBO Max + Hulu Jun 15",
-      "date": "Sat May 24, 2026 (Adult Swim) — HBO Max/Hulu Jun 15",
-      "note": "LOVED-LIST continuation but NOT on your services. Awareness only — would require a rental or trial."
+      "date": "Sun May 24, 2026 (Adult Swim 11pm ET) — HBO Max/Hulu Jun 15",
+      "note": "LOVED-LIST continuation but NOT on your services. 10 eps weekly through Jul 26. Awareness only — would require a rental or trial."
     },
     {
       "title": "Spider-Noir",
@@ -311,7 +353,13 @@
       "title": "Slow Horses S6",
       "platform": "Apple TV+",
       "date": "Fall 2026 (Sep/Oct estimate)",
-      "note": "LOVED-LIST continuation. Officially confirmed, filmed, in post. Adapts Joe Country + Slough House."
+      "note": "LOVED-LIST continuation. Filmed, in post-production. Adapts Joe Country + Slough House (two books, first time for the show). S7 also greenlit."
+    },
+    {
+      "title": "Demon Slayer Infinity Castle Part 2",
+      "platform": "Theatrical → Crunchyroll eventually",
+      "date": "2027 (earliest)",
+      "note": "LOVED-LIST continuation. Ufotable confirmed 2027 earliest; Part 3 reported for 2029."
     }
   ]
 }
