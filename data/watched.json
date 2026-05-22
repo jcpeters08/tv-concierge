@@ -398,6 +398,32 @@
         "supernatural"
       ],
       "date": "2026-05-15"
+    },
+    {
+      "title": "The Boys S5 — Ep 8 'Blood and Bone' (Series Finale)",
+      "rating": 5,
+      "tags": "watchlist, series finale, dark humor, plot twists, good ending",
+      "tags_array": [
+        "watchlist",
+        "series finale",
+        "dark humor",
+        "plot twists",
+        "good ending"
+      ],
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed",
+      "rating": 4,
+      "tags": "Tatiana Maslany, dark humor, 30-min eps, new series, original novel story",
+      "tags_array": [
+        "Tatiana Maslany",
+        "dark humor",
+        "30-min eps",
+        "new series",
+        "original novel story"
+      ],
+      "date": "2026-05-22"
     }
   ],
   "known_favorites": [
@@ -419,5 +445,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-05-15T14:56:23Z"
+  "synced_at": "2026-05-22T15:58:47Z"
 }
