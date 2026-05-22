@@ -1,4 +1,13 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": []
+  "entries": [
+    {
+      "kind": "watched",
+      "title": "The Boys S5 — Ep 8 'Blood and Bone' (Series Finale)",
+      "rating": 5,
+      "tags": "watchlist, series finale, dark humor, plot twists, good ending",
+      "date": "2026-05-22",
+      "ts": "2026-05-22T02:42:47.805Z"
+    }
+  ]
 }
