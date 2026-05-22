@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-21T14:28:11Z",
+  "generated_at": "2026-05-22T00:13:14Z",
   "week_label": "May 18 – May 24, 2026",
-  "source": "Daily sync — Thu May 21, 2026. Drained 0 web actions (pending.json empty); snapshot JSON unchanged from yesterday's run. Recommendations refreshed in full per protocol. HERO: The Boroughs — the Duffer Brothers' sci-fi/horror series dropped TODAY (Thu May 21) on Netflix, all 8 episodes at once, opening at 100% on Rotten Tomatoes (8 reviews — may settle over the weekend). Hero priority TIER 3 (highest taste-match new release with critic validation >=90% RT): no loved-list continuation streams on Jonathan's platforms in the 4-week window (tier 1 empty), and no watchlist title became newly streamable since yesterday's run (tier 2 empty — The Boys S5 finale already transitioned to streaming on 5/20 and was correctly heroed that day; it carries forward as the lead new_this_week pick, not re-heroed). LOVED-LIST CROSS-CHECK: ran across all 14 loved titles. Only one continuation falls in the 4-week window — Rick and Morty S9 — and it premieres Sun May 24 on Adult Swim (off Jonathan's platforms; HBO Max + Hulu on Jun 15), so it is awareness-only in upcoming_alerts, not a hero candidate. Demon Slayer: Infinity Castle is loved-list + watchlist but RE-VERIFIED today as still NOT streaming — see verification notes. Far-horizon loved titles unchanged: Slow Horses S6 Fall 2026; Foundation S4 / Severance S3 / The Last of Us S3 2027; Black Mirror S8 2027/28. WATCHLIST AVAILABILITY CHECK: ran across all 7 watchlist titles. The Boys S5 (Final) — finale Ep 8 streaming since 5/20 (carried as new_this_week). Widow's Bay — Ep 5 streaming now; Eps 6+7 drop together Wed May 27. Your Friends & Neighbors S2 — Ep 8 drops Fri May 22. Demon Slayer Infinity Castle — still not streaming (alert). No watchlist title became newly streamable today beyond the ongoing weekly drops. VERIFICATION NOTES: Demon Slayer: Kimetsu no Yaiba — Infinity Castle RE-CHECKED today — multiple authoritative sources (Crunchyroll's own 2/20/2026 announcement, ComicBook, Bloody Disgusting) confirm it is theatrical / home-video-pending only: a Japan Blu-ray/DVD launch is set for Jul 29, 2026 and NO streaming date has been announced anywhere. The recurring 'Crunchyroll April 9, 2026' claim is the known-bad speculative article flagged in repo CLAUDE.md (mis-cited on 5/15 and 5/17) — it is wrong; the film remains in upcoming_alerts with streaming date TBD. Jujutsu Kaisen S3 ('The Culling Game: Part 1') CONFIRMED finished — 12 eps, concluded Mar 27, 2026 — listed as a complete binge, NOT currently-airing-weekly. Re:ZERO S4 is the run currently airing weekly on Crunchyroll (since Apr 8). The Boroughs (Netflix, May 21, 100% RT), The Boys S5 Ep 8 (Prime, May 20), Devil May Cry S2 (Netflix, May 12), Black Phone 2 (Netflix, May 16), Nope (Netflix, May 18), Citadel S2 (Prime, May 6), Maximum Pleasure Guaranteed (Apple TV+, May 20) and Jack Ryan: Ghost War (Prime, May 20) all confirmed streaming. Spider-Noir (Prime, May 27) excluded entirely — on the Not-Interested list.",
+  "source": "Daily sync — Thu May 21, 2026 (evening re-run; an earlier run posted at 14:28Z today). Drained 0 web actions (pending.json empty); snapshot JSON unchanged. Recommendations re-verified and refreshed in full per protocol. HERO: The Boroughs — the Duffer Brothers' sci-fi/horror series dropped Thu May 21 on Netflix, all 8 episodes at once. RT UPDATE: opened at 100% on 8 reviews this morning; as of this evening it has settled to 92% on 13 reviews (still higher than Stranger Things' 90%) — hero/critics entries corrected to 92%. Hero priority TIER 3 (highest taste-match new release with critic validation >=90% RT): no loved-list continuation streams on Jonathan's platforms in the 4-week window (tier 1 empty), and no watchlist title became newly streamable today (tier 2 empty — The Boys S5 finale transitioned to streaming 5/20 and was heroed that day; it carries forward as the lead new_this_week pick, not re-heroed). LOVED-LIST CROSS-CHECK: ran across all 14 loved titles. Only one continuation falls in the 4-week window — Rick and Morty S9 — re-verified today: premieres Sun May 24 on Adult Swim (off Jonathan's platforms; HBO Max + Hulu on Jun 15), so it is awareness-only in upcoming_alerts, not a hero candidate. Demon Slayer: Infinity Castle is loved-list + watchlist but RE-VERIFIED today as still NOT streaming — see verification notes. Far-horizon loved titles unchanged: Slow Horses S6 Fall 2026; Foundation S4 / Severance S3 / The Last of Us S3 2027; Black Mirror S8 2027/28. WATCHLIST AVAILABILITY CHECK: ran across all 7 watchlist titles. The Boys S5 (Final) — finale Ep 8 'Blood and Bone' streaming since 5/20 (carried as new_this_week). Widow's Bay — Ep 5 streaming now; Eps 6+7 drop together Wed May 27 (10-ep season, weekly Weds through Jun 17). Your Friends & Neighbors S2 — Ep 8 drops Fri May 22; Ep 9 May 29; finale Jun 5. Demon Slayer Infinity Castle — still not streaming (alert). No watchlist title became newly streamable today beyond the ongoing weekly drops. VERIFICATION NOTES: Demon Slayer: Kimetsu no Yaiba — Infinity Castle RE-CHECKED today — authoritative sources confirm its nine-month worldwide theatrical run has ended with NO streaming date announced anywhere; it is home-video-pending only. The recurring 'Crunchyroll April 9, 2026' claim is the known-bad speculative article flagged in repo CLAUDE.md (mis-cited on 5/15 and 5/17) — it is wrong; the film remains in upcoming_alerts with streaming date TBD. Jujutsu Kaisen S3 ('The Culling Game: Part 1') CONFIRMED finished — 12 eps, concluded Mar 27, 2026 — listed as a complete binge, NOT currently-airing-weekly. Re:ZERO S4 is the run currently airing weekly on Crunchyroll (since Apr 8). The Boroughs (Netflix, May 21, 92% RT), The Boys S5 Ep 8 (Prime, May 20), Devil May Cry S2 (Netflix, May 12), Black Phone 2 (Netflix, May 16), Nope (Netflix, May 18), Citadel S2 (Prime, May 6), Maximum Pleasure Guaranteed (Apple TV+, May 20) and Jack Ryan: Ghost War (Prime, May 20) all confirmed streaming. Spider-Noir (Prime, May 27) excluded entirely — on the Not-Interested list.",
   "hero": {
     "title": "The Boroughs",
     "platform": "Netflix",
@@ -19,11 +19,11 @@
       "Duffer Brothers",
       "ensemble cast",
       "supernatural",
-      "100% RT",
+      "92% RT",
       "binge-ready"
     ],
     "about": "An eight-episode sci-fi/horror series executive-produced by the Duffer Brothers (Stranger Things), created by Jeffrey Addiss and Will Matthews. In a picture-perfect retirement community, an unlikely band of heroes — played by Geena Davis, Alfred Molina, Bill Pullman, Alfre Woodard, Clarke Peters, Denis O'Hare and Jena Malone — must stop an otherworldly threat that's stealing the one thing they don't have: time. All eight episodes dropped together today.",
-    "why": "Sci-fi is your #1 genre, and this stacks supernatural horror, a heavyweight ensemble and Stranger Things pedigree on top of it — a direct multi-signal match for the Foundation / Severance prestige-sci-fi shelf. It opened at 100% on Rotten Tomatoes and lands as a full-season binge, so no weekly wait. Tonight's marquee pick — and rate it when you're done (1–5⭐ + 2–3 tags)."
+    "why": "Sci-fi is your #1 genre, and this stacks supernatural horror, a heavyweight ensemble and Stranger Things pedigree on top of it — a direct multi-signal match for the Foundation / Severance prestige-sci-fi shelf. It holds a 92% Rotten Tomatoes score (13 reviews — up from this morning's early 100%/8-review reading) and lands as a full-season binge, so no weekly wait. Tonight's marquee pick — and rate it when you're done (1–5⭐ + 2–3 tags)."
   },
   "new_this_week": [
     {
@@ -41,7 +41,7 @@
       ],
       "tags": [
         "Duffer Brothers",
-        "100% RT",
+        "92% RT",
         "binge-ready"
       ],
       "about": "Duffer Brothers-produced sci-fi/horror; an ensemble of retirement-community residents face an otherworldly threat. All 8 episodes at once.",
@@ -387,11 +387,11 @@
         "drama"
       ],
       "tags": [
-        "100% RT",
+        "92% RT",
         "Duffer Brothers",
         "ensemble cast"
       ],
-      "about": "Duffer Brothers-produced sci-fi/horror with a heavyweight older-cast ensemble. Opened at 100% on Rotten Tomatoes on its release day (8 reviews — score may settle as more come in over the weekend).",
+      "about": "Duffer Brothers-produced sci-fi/horror with a heavyweight older-cast ensemble. Holds a 92% Rotten Tomatoes score on 13 reviews — higher than Stranger Things' 90%. (Opened at 100% on 8 reviews the morning of release; settled to 92% by evening.)",
       "why": "The critic darling of the week and also today's hero — a direct sci-fi + horror genre-stack match. The highest-rated new arrival on your platforms right now."
     },
     {
