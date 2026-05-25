@@ -424,6 +424,18 @@
         "original novel story"
       ],
       "date": "2026-05-22"
+    },
+    {
+      "title": "Your Friends & Neighbors S2 — Ep 9",
+      "rating": 3.5,
+      "tags": "watchlist, weekly drop, Jon Hamm, mildly entertaining",
+      "tags_array": [
+        "watchlist",
+        "weekly drop",
+        "Jon Hamm",
+        "mildly entertaining"
+      ],
+      "date": "2026-05-25"
     }
   ],
   "known_favorites": [
@@ -445,5 +457,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-05-22T15:58:47Z"
+  "synced_at": "2026-05-25T13:53:20Z"
 }

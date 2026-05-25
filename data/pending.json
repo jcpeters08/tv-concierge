@@ -1,13 +1,4 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": [
-    {
-      "kind": "watched",
-      "title": "Your Friends & Neighbors S2 — Ep 9",
-      "rating": 3.5,
-      "tags": "watchlist, weekly drop, Jon Hamm, mildly entertaining",
-      "date": "2026-05-25",
-      "ts": "2026-05-25T02:20:36.956Z"
-    }
-  ]
+  "entries": []
 }
