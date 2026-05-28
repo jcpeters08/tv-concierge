@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T15:45:05Z",
+  "generated_at": "2026-05-28T14:05:00Z",
   "week_label": "May 25 – May 31, 2026",
-  "source": "Daily sync — Wed May 27, 2026. Drained 0 web actions. Snapshots unchanged. Recommendations re-verified and refreshed in full per protocol. HERO: The Boroughs — STILL the right hero (Jonathan hasn't logged it yet); Tier 2 (watchlist pick streaming on Netflix since Thu May 21) reinforced by Tier 3 (94% RT critic validation). LOVED-LIST CROSS-CHECK: ran across all 14 loved titles. Surfaced: Rick and Morty S9 premiered Sun May 24 on Adult Swim, US streaming on HBO Max + Hulu from Jun 15 — both OFF Jonathan's four platforms, awareness-only in upcoming_alerts. Far-horizon: Foundation S4 in production (not airing), Severance S3 / The Last of Us S3 2027, Black Mirror S8 2027-28, Slow Horses S6 Fall 2026 (Apple TV+), Demon Slayer Infinity Castle still theatrical-only. No other loved-list continuations stream on his four platforms in the May window. WATCHLIST AVAILABILITY CHECK: ran across all 8 watchlist titles. NEW TODAY (May 27): Widow's Bay Eps 6 & 7 'Our History' / 'Seasickness' double-drop on Apple TV+ — period-horror genre shift, available since May 26 9pm. Demon Slayer: Infinity Castle — RE-VERIFIED via JustWatch and Crunchyroll news May 27: still NOT streaming — no offer found, theatrical-only; Crunchyroll has confirmed 2026 streaming window but no date — kept in upcoming_alerts as 'streaming date TBD'. Boys S5 finale + Good Omens finale + Your Friends & Neighbors S2 Ep 9 already watched/off-board. The Boroughs (full 8-ep binge, Netflix) still unwatched — remains hero. VERIFICATION: The Boroughs confirmed still streaming on Netflix (Variety, Hollywood Reporter, Collider, Netflix Tudum) — 94% RT, debuted top of Netflix viewership charts. Devil May Cry S2 — Netflix, all 8 eps since May 12; RT moved from 'early 100%' to confirmed 100% (13 reviews); 83% audience. A Good Girl's Guide to Murder S2 — Netflix May 27, 83% RT (suspense/mystery; not critic-pick tier but a 'try' for the genre fit). The Four Seasons S2 — Netflix May 28 (Tina Fey comedy; 'try'). Maximum Pleasure Guaranteed Ep 3 'Chunnel' — Apple TV+ May 27 (Jonathan watched the premiere May 22 at 4★; weekly thereafter). Star City — Apple TV+ May 29 (For All Mankind spin-off — sci-fi loved-list adjacent). Dorohedoro S2 finale Ep 11 — Netflix + Crunchyroll today May 27 (full binge now ready). Witch Hat Atelier Ep 9 — Crunchyroll May 25 (weekly Mondays, 13 eps total). Re:ZERO S4 Ep 7 — Crunchyroll May 27 (weekly Wednesdays, cour 1 of 11, resumes August). Vox Machina S4 — Prime June 3 (3-eps-weekly drops through Jun 24); moved to upcoming_alerts only. Spider-Noir (Prime May 27) excluded — Not-Interested. Re-derived by the daily scheduled task.",
+  "source": "Daily sync — Thu May 28, 2026. Drained 0 web actions. Snapshots unchanged. Recommendations re-verified per protocol. HERO: The Boroughs — still the right hero (Jonathan hasn't logged it yet); Tier 2 (watchlist pick streaming on Netflix since Thu May 21, day 8) reinforced by Tier 3 (94% RT critic validation). LOVED-LIST CROSS-CHECK: ran across all 14 loved titles. No new continuations on Jonathan's 4 platforms in the last 4 weeks. Rick and Morty S9 (Ep 1 premiered Sun May 24 on Adult Swim) — US streaming hits HBO Max + Hulu Jun 15, both OFF Jonathan's 4 platforms; kept as awareness-only in upcoming_alerts. Far-horizon (unchanged): Foundation S4 in production for 2027, Severance S3 est Summer 2027, The Last of Us S3 2027, Black Mirror S8 2027-28, Slow Horses S6 Apple TV+ Fall 2026 (Sept/Oct est), Good Omens finale already aired May 13 (watched). Demon Slayer Infinity Castle still theatrical-only per JustWatch (re-verified today). WATCHLIST AVAILABILITY CHECK: ran across all 8 watchlist titles. Demon Slayer: Infinity Castle — JustWatch as of today shows ZERO streaming offers, theatrical + Blu-ray buy only; Crunchyroll has confirmed a 2026 streaming window but no US date — kept in upcoming_alerts as 'streaming date TBD' (3rd refresh in a row holding the line on this; press articles continue to claim April 9 streaming but JustWatch is ground truth and disagrees). The Boys S5 finale + Good Omens finale + Your Friends & Neighbors S2 Ep 9 already watched/off-board. Widow's Bay double-drop (Eps 6 & 7, May 27) was yesterday — Jonathan hasn't logged either yet, both remain current. The Boroughs (full 8-ep binge, Netflix) still unwatched — remains hero. NEW TODAY (May 28): The Four Seasons S2 — Tina Fey + Will Forte + Colman Domingo, 30-min ensemble comedy-drama, S2 of the Netflix series adapting Alan Alda's 1981 film, now streaming. Promoted from 'upcoming' (yesterday) to 'STREAMING NOW' (today). Critic pick change: Shrinking S3 rotated OUT (still a valid back-pocket pick, but it's been streaming-complete since April 8) and Lord of the Flies — Netflix limited series (premiered May 4, 95% RT, Jack Thorne adaptation, ensemble of child actors, with a queer subtext in Simon's storyline) — rotated IN as the third critic pick. Episode-count correction: Re:ZERO S4 ep numbering was off-by-one in the prior refresh (last refresh said Ep 7 on May 27; correct math from Ep 1 = April 8 → Ep 8 = May 27 → Ep 9 = Jun 3); fixed to Ep 8 here. Star City — Apple TV+ Fri May 29 (For All Mankind alt-history sci-fi spin-off, 8 eps, 2-ep premiere then weekly Fridays through Jul 10) — still in new_this_week as a 'strong' taste match landing tomorrow. Maximum Pleasure Guaranteed Ep 3 'Chunnel' — Apple TV+ May 27 (Jonathan watched Ep 1 at 4★; latest weekly drop is Ep 3, with Ep 4 next Wed Jun 3). Dorohedoro S2 binge-ready since Ep 11 finale dropped May 27 on Netflix + Crunchyroll. A Good Girl's Guide to Murder S2 — Netflix May 27 binge (83% RT — 'try' for genre fit, YA-tilted). Vox Machina S4 — Prime Jun 3 (3-eps-weekly through Jun 24); upcoming_alerts only. Widow's Bay Ep 8 'Your Baggage' Jun 3 added to upcoming_alerts. Spider-Noir (Prime May 27) excluded — Not-Interested. Re-derived by the daily scheduled task.",
   "hero": {
     "title": "The Boroughs",
     "platform": "Netflix",
-    "date": "Thu May 21, 2026 — STREAMING NOW (all 8 episodes, day 7)",
+    "date": "Thu May 21, 2026 — STREAMING NOW (all 8 episodes, day 8)",
     "format": "limited series — full-season binge",
     "runtime": "8 eps x ~50 min",
     "match": "strong",
@@ -49,6 +49,26 @@
       "why": "Your watchlist pin and tonight's hero — sci-fi + horror + prestige ensemble, 94% RT, full binge."
     },
     {
+      "title": "The Four Seasons S2",
+      "platform": "Netflix",
+      "date": "Thu May 28, 2026 — STREAMING NOW (all 8 episodes)",
+      "format": "comedy-drama series — season 2",
+      "runtime": "8 eps x ~30 min",
+      "match": "try",
+      "genres": [
+        "comedy",
+        "drama",
+        "ensemble"
+      ],
+      "tags": [
+        "Tina Fey",
+        "30-min episodes",
+        "binge-ready today"
+      ],
+      "about": "S2 of Tina Fey's ensemble dramedy — Anne (Fey), Kate, Jack, Danny, and Claude continue their seasonal travel tradition after the death of Nick (Steve Carell, S1), embracing the regrets and reinventions of middle age, with a baby (or two) in tow. Will Forte, Colman Domingo, Marco Calvani, Kerri Kenney-Silver, and Erika Henningsen return. S1 was a top-2 Netflix English TV title with 24.4M views.",
+      "why": "Dropped today — 30-min ensemble comedy with strong-acting pedigree. Comedy + ensemble is in your wheelhouse, though it's a more grounded sad-tinged dramedy than your usual dark-humor lane — closer to a 'fine/3★' candidate than a slam dunk. Easy 4-hour weekend binge."
+    },
+    {
       "title": "Widow's Bay — Eps 6 & 7 'Our History' / 'Seasickness'",
       "platform": "Apple TV+",
       "date": "Wed May 27, 2026 — STREAMING NOW (double drop)",
@@ -67,7 +87,7 @@
         "period horror turn"
       ],
       "about": "After five episodes of weekly local-curses humiliations, the show pivots into period-horror territory ('Our History') as Widow's Bay finally connects the present-day threats to the town's founding sin (Richard and Sarah Warren, marriage, loyalty, and whatever horror the town has politely filed under 'heritage'). Ep 7 'Seasickness' sends Tom and Wyck out to sea on what reads less like an errand and more like a nautical summons.",
-      "why": "You rated Ep 4 'Beach Reads' at 4★. Today's double-drop is being flagged as the show's tonal pivot — Witch / The Others-coded period horror. Direct continuation of your active weekly watch."
+      "why": "You rated Ep 4 'Beach Reads' at 4★. Yesterday's double-drop is being flagged as the show's tonal pivot — Witch / The Others-coded period horror. Direct continuation of your active weekly watch. Ep 8 'Your Baggage' lands next Wed Jun 3."
     },
     {
       "title": "Maximum Pleasure Guaranteed — Ep 3 'Chunnel'",
@@ -86,7 +106,29 @@
         "30-min episode"
       ],
       "about": "Newly-divorced mom Paula keeps falling deeper down a rabbit hole of blackmail, murder, and youth soccer after witnessing a crime. In Ep 3 'Chunnel': Paula is tracked by a deadly man (Dennis, who killed Trevor), and Karl and Mallory make her an offer she's been advised not to refuse — a rented apartment, car, and a new life in Boise.",
-      "why": "You rated the premiere 4★ ('Tatiana Maslany, dark humor, 30-min eps') — this is the weekly continuation. 36-min runtime, perfect single-watch."
+      "why": "You rated the premiere 4★ ('Tatiana Maslany, dark humor, 30-min eps') — this is the weekly continuation, dropped yesterday. 36-min runtime, perfect single-watch. Ep 4 next Wed Jun 3."
+    },
+    {
+      "title": "Star City",
+      "platform": "Apple TV+",
+      "date": "Fri May 29, 2026 — 2-episode premiere tomorrow",
+      "format": "limited series — 8 episodes",
+      "runtime": "TBA — limited episode count",
+      "match": "strong",
+      "genres": [
+        "sci-fi",
+        "period drama",
+        "Cold War",
+        "spy thriller"
+      ],
+      "tags": [
+        "For All Mankind universe",
+        "spin-off",
+        "alt-history",
+        "Ronald D. Moore"
+      ],
+      "about": "An 8-episode For All Mankind spin-off told from the Soviet perspective — the lives of cosmonauts, engineers, and intelligence officers embedded in Star City, the Soviet space program's nerve center. Rhys Ifans, Agnes O'Casey, and Anna Maxwell Martin headline. Premieres Friday with two episodes, then weekly Fridays through Jul 10.",
+      "why": "Same prestige-sci-fi shelf as Foundation and Silo (both 4.5–5★ for you). Apple TV+'s sci-fi + world-building + strong acting track record is your sweet spot. 2-ep premiere tomorrow makes it a strong Saturday-night pick."
     },
     {
       "title": "Dorohedoro S2 — Finale Ep 11",
@@ -103,10 +145,10 @@
       ],
       "tags": [
         "season finale",
-        "binge-ready as of today",
+        "binge-ready",
         "dark humor"
       ],
-      "about": "The 11-episode second season of the cult dark-fantasy anime closes today. Caiman, Nikaido, and the En Family sorcerers keep unraveling the mystery of Caiman's reptilian curse across an irradiated post-apocalyptic city. Available subbed and dubbed on both Netflix and Crunchyroll.",
+      "about": "The 11-episode second season of the cult dark-fantasy anime closed yesterday. Caiman, Nikaido, and the En Family sorcerers keep unraveling the mystery of Caiman's reptilian curse across an irradiated post-apocalyptic city. Available subbed and dubbed on both Netflix and Crunchyroll.",
       "why": "Dark humor + post-apocalyptic sci-fi/fantasy + 25-min episodes — three of your repeated hits in one show. Now that Ep 11 dropped, the whole season is binge-ready."
     },
     {
@@ -131,49 +173,30 @@
       "why": "Adult animation with real action chops — same lane as your Solar Opposites and One Punch Man 4★ picks. RT held at 100% across 13 reviews; 83% audience. Streams in full — easy one- or two-night binge."
     },
     {
-      "title": "Star City",
-      "platform": "Apple TV+",
-      "date": "Fri May 29, 2026",
+      "title": "Lord of the Flies",
+      "platform": "Netflix",
+      "date": "Mon May 4, 2026 — STREAMING NOW (all episodes)",
       "format": "limited series",
-      "runtime": "TBA — limited episode count",
+      "runtime": "limited episode count",
       "match": "strong",
       "genres": [
-        "sci-fi",
-        "period drama",
-        "Cold War"
-      ],
-      "tags": [
-        "For All Mankind universe",
-        "spin-off",
-        "alt-history"
-      ],
-      "about": "A spin-off in the For All Mankind alt-history universe, exploring the Soviet space program's race to the moon — the lives of cosmonauts, engineers, and intelligence officers behind the Iron Curtain.",
-      "why": "Same prestige-sci-fi shelf as Foundation and Silo (both you rated 4.5–5★). Apple TV+ has had a strong-acting, world-building track record with you."
-    },
-    {
-      "title": "The Four Seasons S2",
-      "platform": "Netflix",
-      "date": "Thu May 28, 2026",
-      "format": "comedy-drama series — season 2",
-      "runtime": "8 eps x ~30 min",
-      "match": "try",
-      "genres": [
-        "comedy",
         "drama",
-        "ensemble"
+        "survival",
+        "psychological"
       ],
       "tags": [
-        "Tina Fey",
-        "30-min episodes",
-        "ensemble"
+        "95% RT",
+        "novel adaptation",
+        "Jack Thorne",
+        "LGBTQ+ subtext"
       ],
-      "about": "Tina Fey, Will Forte, Kerri Kenney-Silver, and Colman Domingo return after the death of Nick (Steve Carell, S1) — Anne, Kate, Jack, Danny, and Claude continue their travel tradition while setting out to make new traditions, with a baby (or two) in tow. Season 1 was a top-2 Netflix English TV title with 24.4M views.",
-      "why": "30-min ensemble comedy with strong-acting pedigree. Comedy + ensemble is in your wheelhouse, though it's a more grounded sad-tinged dramedy than the dark-humor lane you usually love — closer to a 'fine/3★' candidate than a slam dunk."
+      "about": "Jack Thorne's Netflix adaptation of William Golding's 1954 novel — a group of boys stranded on a deserted island, descending from civilization into savagery as the rules unravel. Director Marc Munden plays up the hallucinatory isolation (saturated trees by day, surreal red by night). In a notable departure from the book, Simon's diary suggests he is queer and has romantic feelings for Jack, adding a layer to their relationship.",
+      "why": "95% RT, novel adaptation, ensemble cast, LGBTQ+ inclusive subtext — four of your direct 'what lands' signals stacked together. Has a darker-drama lean (Golding source material is unflinching) so it's heavier than your usual pre-bed sci-fi, but the craft is the kind you've consistently rated 4-5★."
     },
     {
       "title": "A Good Girl's Guide to Murder S2",
       "platform": "Netflix",
-      "date": "Wed May 27, 2026 — STREAMING NOW",
+      "date": "Wed May 27, 2026 — STREAMING NOW (binge)",
       "format": "limited series — season 2 binge",
       "runtime": "6 eps",
       "match": "try",
@@ -231,23 +254,6 @@
       "why": "Supernatural horror with novel-adapted pedigree — your horror/suspense lane plus the supernatural hook that lands for you (Sandman, Dead Boy Detectives, Kaos, all 4★)."
     },
     {
-      "title": "Nemesis",
-      "platform": "Netflix",
-      "date": "Thu May 14, 2026 — STREAMING NOW",
-      "format": "limited series",
-      "runtime": "limited episode count",
-      "match": "try",
-      "genres": [
-        "thriller",
-        "drama"
-      ],
-      "tags": [
-        "limited series"
-      ],
-      "about": "Limited info available — Netflix-released thriller limited series; plot details not widely surfaced in search results.",
-      "why": "Filed as 'try' pending more detail — thrillers have landed for you (Slow Horses, Man on Fire). Browse if you've cleared the higher-confidence picks."
-    },
-    {
       "title": "Citadel S2",
       "platform": "Amazon Prime Video",
       "date": "Wed May 6, 2026 — STREAMING NOW",
@@ -292,8 +298,8 @@
       "platform": "Crunchyroll",
       "date": "Mon May 25, 2026 — STREAMING NOW (weekly Mondays)",
       "format": "anime series — episode 9 of 13",
-      "runtime": "~25 min",
-      "match": "try",
+      "runtime": "~24 min",
+      "match": "strong",
       "genres": [
         "anime",
         "fantasy",
@@ -301,31 +307,32 @@
       ],
       "tags": [
         "weekly drop",
-        "Spring 2026 simulcast"
+        "manga adaptation",
+        "world-building"
       ],
-      "about": "Manga-adapted fantasy anime — novice witch Coco learns magic from her mentor Qifrey. New episodes Mondays at 7am PT.",
-      "why": "Fantasy + supernatural + 25-min episodes — three taste signals. Tone is gentler/lighter than your dark-humor favorites, so 'try' rather than 'strong'."
+      "about": "Adaptation of Kamome Shirahama's award-winning manga about Coco, a girl who accidentally learns magic was once accessible to everyone — and now apprentices under witches who keep magical knowledge tightly held. New ep weekly Mondays at 7am PT. Ep 10 lands Mon Jun 1.",
+      "why": "Manga/novel adaptation + world-building + fantasy + 24-min runtime — four hits in one. Pre-bed sized."
     },
     {
-      "title": "Re:ZERO S4 — Ep 7",
+      "title": "Re:ZERO S4 — Ep 8",
       "platform": "Crunchyroll",
       "date": "Wed May 27, 2026 — STREAMING NOW (weekly Wednesdays)",
-      "format": "anime series — episode 7 of cour 1 (11 eps); cour 2 resumes August",
-      "runtime": "~25 min",
-      "match": "try",
+      "format": "anime series — episode 8 of 11 (Loss Arc cour 1)",
+      "runtime": "~24 min",
+      "match": "strong",
       "genres": [
         "anime",
+        "dark fantasy",
         "isekai",
-        "fantasy",
-        "dark"
+        "psychological"
       ],
       "tags": [
         "weekly drop",
-        "Spring 2026 simulcast",
-        "Crunchyroll Award winner"
+        "novel adaptation",
+        "plot twists"
       ],
-      "about": "Subaru Natsuki's death-loop journey continues into Season 4. 19 episodes total across 2 cours; cour 1 is 11 eps through July, cour 2 is 8 eps starting August. S3 just won Best Isekai at the 10th Crunchyroll Anime Awards.",
-      "why": "Dark fantasy anime with twisty mythology — fits your supernatural/world-building signals. Filed 'try' because the isekai loop format can feel slow if it doesn't hook you in the first couple eps."
+      "about": "S4 cour 1 'Loss Arc' (Ep 1 = April 8, Ep 11 finale = Jun 17). Subaru's time-loop nightmare deepens against a new wave of threats. Cour 2 'Recapture Arc' resumes Aug 12 (8 eps). New ep weekly Wednesdays — Ep 9 lands Wed Jun 3.",
+      "why": "Time-loop sci-fi/fantasy with dense world-building and plot twists that pay off — your repeat-hit signals. 24-min eps fit your nightly window."
     }
   ],
   "critics": [
@@ -370,27 +377,40 @@
       "why": "A rare unanimous critic pick on a binge-ready anime — and adult animation has consistently landed for you."
     },
     {
-      "title": "Shrinking S3",
-      "platform": "Apple TV+",
-      "date": "Completed Wed Apr 8, 2026 — STREAMING NOW (full season binge-ready)",
-      "format": "comedy-drama series — season 3",
-      "runtime": "10 eps x ~30 min",
+      "title": "Lord of the Flies",
+      "platform": "Netflix",
+      "date": "Mon May 4, 2026 — STREAMING NOW (limited series)",
+      "format": "limited series",
+      "runtime": "limited episode count",
       "match": "strong",
       "genres": [
-        "comedy",
         "drama",
-        "ensemble"
+        "survival",
+        "psychological"
       ],
       "tags": [
-        "91% RT",
-        "Bill Lawrence",
-        "30-min episodes"
+        "95% RT",
+        "Jack Thorne",
+        "novel adaptation",
+        "LGBTQ+ subtext"
       ],
-      "about": "Bill Lawrence's grief-tinged comedy with Jason Segel, Harrison Ford, Jessica Williams, and Michael Urie — therapists living messily through their own breakdowns. S3 closes the arc started in S1.",
-      "why": "30-min ensemble comedy with substance underneath — exactly your 'light(ish) tone with substance' signal. Already off the weekly drip; now binge-ready."
+      "about": "Jack Thorne's adaptation of Golding's 1954 novel — 95% on Rotten Tomatoes across 41 critic reviews and 83 on Metacritic (universal acclaim). Hollywood Reporter, Variety, and Roger Ebert all positive — praised for the child ensemble, Marc Munden's hallucinatory direction (saturated greens by day, surreal reds by night), and a thoughtful queer subtext addition in Simon's diary.",
+      "why": "Critic consensus stacked across high-prestige outlets — and the signal mix (novel adaptation + ensemble + LGBTQ+ subtext) is unusually direct for your taste profile. Heavier than your usual pre-bed sci-fi, so save it for a focused viewing window."
     }
   ],
   "upcoming_alerts": [
+    {
+      "title": "Widow's Bay — Ep 8 'Your Baggage'",
+      "platform": "Apple TV+",
+      "date": "Wed Jun 3, 2026 (Apple TV+ subscribers may see it Tue Jun 2 9pm ET)",
+      "note": "WATCHLIST + active weekly. Next ep after the May 27 double-drop. 10-ep season; finale lands Wed Jun 17."
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed — Ep 4",
+      "platform": "Apple TV+",
+      "date": "Wed Jun 3, 2026",
+      "note": "Weekly continuation of Tatiana Maslany's dark comedy thriller (10 eps total through Jul 15). Pairs with the Widow's Bay drop for a Wednesday Apple TV+ double-bill."
+    },
     {
       "title": "The Legend of Vox Machina S4",
       "platform": "Amazon Prime Video",
@@ -401,7 +421,7 @@
       "title": "Your Friends & Neighbors S2 — Season Finale (Ep 10)",
       "platform": "Apple TV+",
       "date": "Fri Jun 5, 2026",
-      "note": "WATCHLIST. Season 2 wraps with Ep 10. Note: you logged 'Ep 9' as watched May 25 at 3.5★; Apple's published schedule dates Ep 9 'Propaganda from the Cowardly' to Fri May 29 — if the May 25 log was an Ep 8/9 slip, the May 29 episode may still be ahead of you. Either way, the Jun 5 finale closes the season."
+      "note": "WATCHLIST. Season 2 wraps with Ep 10. You logged Ep 9 as watched; Jun 5 finale closes the season."
     },
     {
       "title": "Cape Fear",
@@ -413,7 +433,7 @@
       "title": "Rick and Morty S9",
       "platform": "Adult Swim now; HBO Max + Hulu from Jun 15 (off your 4 platforms)",
       "date": "Premiered Sun May 24, 2026 (Adult Swim); streaming Jun 15, 2026 (HBO Max + Hulu)",
-      "note": "LOVED-LIST continuation. 10 episodes weekly through Jul 26. NOT on Netflix / Apple TV+ / Prime / Crunchyroll — US streaming is HBO Max and Hulu, both off your 4 platforms. Awareness only unless you add one of those services."
+      "note": "LOVED-LIST continuation. 10 episodes weekly through Jul 26 — Ep 2 'Rick's Days, Seven Nights' airs Sun May 31. NOT on Netflix / Apple TV+ / Prime / Crunchyroll — US streaming is HBO Max and Hulu, both off your 4 platforms. Awareness only unless you add one of those services."
     },
     {
       "title": "Sugar S2",
@@ -431,7 +451,7 @@
       "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
       "platform": "Crunchyroll — streaming date TBD",
       "date": "2026 (no US streaming date announced)",
-      "note": "WATCHLIST + LOVED-LIST. Re-checked May 27 via JustWatch and Crunchyroll news: still NOT streaming — no offer found, theatrical-only. Crunchyroll has confirmed a 2026 streaming window but no date. Becomes hero candidate the moment a date is announced."
+      "note": "WATCHLIST + LOVED-LIST. Re-checked May 28 via JustWatch: still NOT streaming — zero offers, theatrical + Blu-ray buy only. Press articles continue to claim April 9 streaming but JustWatch is ground truth and disagrees. Crunchyroll has confirmed a 2026 streaming window but no US date. Becomes hero candidate the moment a date is announced."
     }
   ]
 }
