@@ -436,6 +436,30 @@
         "mildly entertaining"
       ],
       "date": "2026-05-25"
+    },
+    {
+      "title": "The Boroughs",
+      "rating": 4,
+      "tags": "watchlist pick, Duffer Brothers, supernatural, 94% RT, binge-ready",
+      "tags_array": [
+        "watchlist pick",
+        "Duffer Brothers",
+        "supernatural",
+        "94% RT",
+        "binge-ready"
+      ],
+      "date": "2026-05-30"
+    },
+    {
+      "title": "Widow's Bay — Eps 6 & 7 'Our History' / 'Seasickness'",
+      "rating": 4,
+      "tags": "watchlist, weekly drop, period horror turn",
+      "tags_array": [
+        "watchlist",
+        "weekly drop",
+        "period horror turn"
+      ],
+      "date": "2026-05-30"
     }
   ],
   "known_favorites": [
@@ -457,5 +481,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-05-25T13:53:20Z"
+  "synced_at": "2026-05-30T13:27:01Z"
 }
