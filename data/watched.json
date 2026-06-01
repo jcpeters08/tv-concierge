@@ -460,6 +460,17 @@
         "period horror turn"
       ],
       "date": "2026-05-30"
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed — Ep 3 'Chunnel'",
+      "rating": 3.5,
+      "tags": "weekly drop, Tatiana Maslany, 30-min episode",
+      "tags_array": [
+        "weekly drop",
+        "Tatiana Maslany",
+        "30-min episode"
+      ],
+      "date": "2026-05-31"
     }
   ],
   "known_favorites": [
@@ -481,5 +492,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-05-30T13:27:01Z"
+  "synced_at": "2026-06-01T15:00:09Z"
 }

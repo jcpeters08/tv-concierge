@@ -1,13 +1,4 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": [
-    {
-      "kind": "watched",
-      "title": "Maximum Pleasure Guaranteed — Ep 3 'Chunnel'",
-      "rating": 3.5,
-      "tags": "weekly drop, Tatiana Maslany, 30-min episode",
-      "date": "2026-05-31",
-      "ts": "2026-05-31T03:05:01.329Z"
-    }
-  ]
+  "entries": []
 }
