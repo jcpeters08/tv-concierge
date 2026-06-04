@@ -18,3 +18,6 @@ __pycache__/
 .env
 .env.local
 *.pat
+
+# Claude Code worktrees / local agent state
+.claude/

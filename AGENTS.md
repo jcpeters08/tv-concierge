@@ -1,6 +1,6 @@
-# CLAUDE.md — TV Concierge
+# AGENTS.md — TV Concierge
 
-If you're a new Claude session opening this repo, read this first.
+If you're a new Codex session opening this repo, read this first.
 
 ## What this is
 
@@ -66,10 +66,10 @@ This repo's bootstrap commit seeded the data layer only. The web app (`index.htm
 ## Where to look for more
 
 - `README.md` — bootstrap layout, build-out checklist, vault build brief pointer
-- Vault `Web-App-Build-Brief.md` — the full spec for Claude Code
+- Vault `Web-App-Build-Brief.md` — the full spec for Codex
 - `git log --oneline -30` — what's been built
 - Related: pt-tracker (the cousin project — same architecture, more mature; mine it for patterns)
 
-## CLAUDE.md update workflow
+## AGENTS.md update workflow
 
-On material changes, the active session proactively offers an update. Say "update CLAUDE.md" anytime for explicit invocation.
+On material changes, the active session proactively offers an update. Say "update AGENTS.md" anytime for explicit invocation.
