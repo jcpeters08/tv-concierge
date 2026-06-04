@@ -471,6 +471,18 @@
         "30-min episode"
       ],
       "date": "2026-05-31"
+    },
+    {
+      "title": "Star City",
+      "rating": 2,
+      "tags": "For All Mankind universe, spin-off, Ronald D. Moore, RT Certified Fresh",
+      "tags_array": [
+        "For All Mankind universe",
+        "spin-off",
+        "Ronald D. Moore",
+        "RT Certified Fresh"
+      ],
+      "date": "2026-06-02"
     }
   ],
   "known_favorites": [
@@ -492,5 +504,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-06-01T15:00:09Z"
+  "synced_at": "2026-06-03T14:01:45Z"
 }
