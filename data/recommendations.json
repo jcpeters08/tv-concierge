@@ -1,31 +1,31 @@
 {
   "source": "Curated by the TV Concierge daily scheduled task. Verified against Apple TV+, Netflix, Crunchyroll, and Prime Video release pages plus JustWatch for current streaming claims. Excludes titles in watched.json and not-interested.json.",
-  "generated_at": "2026-06-08T16:05:31Z",
+  "generated_at": "2026-06-09T18:15:59Z",
   "week_label": "Jun 8 – Jun 14, 2026",
   "hero": {
-    "title": "Your Friends & Neighbors — Series Finale (S2 Ep 10)",
+    "title": "Your Friends & Neighbors — S2 Finale (Ep 10 'The Night of the Hunter')",
     "platform": "Apple TV+",
     "date": "2026-06-05",
-    "format": "Season finale (S2 complete; S3 already renewed)",
+    "format": "Season finale (S2 complete; S3 filming in NY, target April 2027)",
     "runtime": "~50 min",
     "match": "strong",
     "genres": ["Dark comedy", "Drama", "Mystery"],
     "tags": ["watchlist now-streaming", "Jon Hamm", "ensemble", "season closer"],
-    "about": "A neighborhood Father's Day gathering at the country club becomes the season's reckoning — every long-running thread Coop has been pulling lands here.",
-    "why": "You're at Ep 9 and the finale dropped Friday 6/5 on Apple TV+ — your watchlist pinned this one for a reason. Witty, sour, ensemble-driven, ~50-min runtime: your before-bed sweet spot. (Tier 2 hero: watchlist title that just became streamable.)"
+    "about": "Coop, Nick, and Barney deal with the fallout from the penultimate ep. A neighborhood night that doesn't end the way anyone planned.",
+    "why": "You logged Ep 9 last week and the finale dropped Friday 6/5 on Apple TV+ — your watchlist pin pays off here. Witty, sour, ensemble-driven, ~50-min runtime: your bedtime sweet spot. (Tier 2 hero: watchlist title that just became streamable.)"
   },
   "new_this_week": [
     {
-      "title": "Your Friends & Neighbors — Series Finale (S2 Ep 10)",
+      "title": "Your Friends & Neighbors — S2 Finale (Ep 10)",
       "platform": "Apple TV+",
       "date": "2026-06-05",
-      "format": "Weekly — S2 closer",
+      "format": "Season closer",
       "runtime": "~50 min",
       "match": "strong",
       "genres": ["Dark comedy", "Drama"],
       "tags": ["watchlist", "witty banter", "ensemble cast"],
-      "about": "Country-club Father's Day brunch goes off the rails.",
-      "why": "Watchlist finale, now streaming — next up from where you stopped."
+      "about": "Your Friends & Neighbors closes its second season with the fallout from Ep 9.",
+      "why": "Watchlist finale, now streaming. Next up from where you left off."
     },
     {
       "title": "Resident Alien — Final Season (S4, all 10 eps)",
@@ -36,8 +36,8 @@
       "match": "strong",
       "genres": ["Sci-Fi", "Comedy"],
       "tags": ["off-beat humor", "Alan Tudyk", "supernatural", "binge-ready"],
-      "about": "Alan Tudyk's grumpy alien-pretending-to-be-a-small-town-doctor wraps up his run. Final season hits Netflix all at once on 6/6 (originally aired on Syfy in 2025).",
-      "why": "Sci-fi + dark humor + supernatural mythology — lights up all your favorite signals. Binge-ready, ~42-min episodes for late nights."
+      "about": "Alan Tudyk's grumpy alien-pretending-to-be-a-small-town-doctor wraps up his run. The full final season hit Netflix all at once on 6/6 (originally aired on Syfy in 2025). Netflix US now has all 4 seasons.",
+      "why": "Sci-fi + dark humor + supernatural — lights up your favorite signals. Binge-ready, ~42-min episodes. If you never started S1, it's all there now."
     },
     {
       "title": "Devil May Cry — S2 (8 eps)",
@@ -49,7 +49,7 @@
       "genres": ["Animated action", "Supernatural", "Fantasy"],
       "tags": ["world building", "supernatural", "stylized action", "binge-ready"],
       "about": "Adi Shankar's animated take returns: a war between worlds ignites as Dante squares off against his estranged twin brother Vergil. Eight episodes, all available.",
-      "why": "Supernatural mythology + stylish 30-min episodes fits your bedtime cadence. If S1 didn't land, skip — it's the same DNA, just bigger."
+      "why": "Supernatural mythology + stylish 30-min episodes — fits your bedtime cadence. Still available from last month; mentioning again since it slots cleanly into your taste lane."
     },
     {
       "title": "The Witness",
@@ -60,20 +60,8 @@
       "match": "try",
       "genres": ["True crime", "Drama"],
       "tags": ["100% RT", "Jordan Bolger", "grief-forward", "weighty"],
-      "about": "Three-part series about the aftermath of the 1992 murder of Rachel Nickell, told from the perspective of her young son (the only witness) and his father. 100% on Rotten Tomatoes; #2 on Netflix US in its first days.",
-      "why": "Critic darling. Heavier than your usual lane (sad drama, weighty true-crime), but the ~3-hour total runtime makes it a contained one-or-two-night watch instead of a long commitment. Try-rated, not strong."
-    },
-    {
-      "title": "Office Romance",
-      "platform": "Netflix",
-      "date": "2026-06-05",
-      "format": "Feature film",
-      "runtime": "~100 min",
-      "match": "try",
-      "genres": ["Romantic comedy"],
-      "tags": ["light tone", "Jennifer Lopez", "easy watch"],
-      "about": "Jennifer Lopez workplace rom-com about colleagues forced into a fake relationship for a corporate retreat.",
-      "why": "Out of lane for sci-fi/horror, but a low-effort, light-tone option for a night when you don't want to think. Skip if you want substance."
+      "about": "Three-part series about the aftermath of the 1992 murder of Rachel Nickell, told from the perspective of her young son (the only witness) and his father. 100% on Rotten Tomatoes; #2 on Netflix US within days.",
+      "why": "Critic darling. Heavier than your usual lane (sad drama / weighty true-crime), but the ~3-hour total runtime makes it a contained one-or-two-night watch instead of a long commitment. Try-rated, not strong."
     },
     {
       "title": "Cape Fear — Ep 3 'Phantom Sensations'",
@@ -83,12 +71,12 @@
       "runtime": "~55 min",
       "match": "strong",
       "genres": ["Thriller", "Suspense"],
-      "tags": ["Javier Bardem", "slow-build menace", "remake"],
-      "about": "Javier Bardem-led series remake of the Scorsese/De Niro film. Bowden family is back in the crosshairs. New episode every Friday through July 31.",
-      "why": "Horror/suspense from your top genres + Bardem doing villain work. Eps 1-2 dropped together 6/5, so you can start now and be perfectly paced for Ep 3 Friday."
+      "tags": ["Javier Bardem", "Amy Adams", "slow-build menace", "remake"],
+      "about": "Javier Bardem-led series remake of the Scorsese/De Niro film. Max asks Anna to represent him in a hearing; the Bowden family's grip on normal keeps slipping. New episode every Friday through 7/31.",
+      "why": "Horror/suspense from your top genres + Bardem-Adams firepower. Eps 1-2 dropped together 6/5, so you can start now and be paced for Ep 3 Friday."
     },
     {
-      "title": "Widow's Bay — Ep 9",
+      "title": "Widow's Bay — Ep 9 'Emergency Shelter'",
       "platform": "Apple TV+",
       "date": "2026-06-10",
       "format": "Weekly — penultimate ep",
@@ -96,11 +84,11 @@
       "match": "strong",
       "genres": ["Supernatural", "Mystery", "Horror"],
       "tags": ["supernatural", "weekly drop", "watchlist"],
-      "about": "Penultimate episode of the season — the Beach Reads / Our History setup pays off before the 6/17 finale.",
-      "why": "You're caught up through Eps 6-7. Wednesday drop, finale follows next week."
+      "about": "Penultimate episode of the season — the chase setup from Ep 8 'Your Baggage' pays off before the 6/17 finale.",
+      "why": "You're caught up through Eps 6-7. Wednesday drop; finale follows next week."
     },
     {
-      "title": "Maximum Pleasure Guaranteed — Ep 5",
+      "title": "Maximum Pleasure Guaranteed — Ep 5 'Scamboy'",
       "platform": "Apple TV+",
       "date": "2026-06-10",
       "format": "Weekly — mid-season",
@@ -108,11 +96,11 @@
       "match": "strong",
       "genres": ["Dark comedy", "Thriller"],
       "tags": ["Tatiana Maslany", "dark humor", "30-min episodes"],
-      "about": "Maslany's divorced fact-checker keeps getting pulled deeper into the murder-and-blackmail-and-youth-soccer web. Weekly Wednesday drop.",
-      "why": "Dark humor + thriller + 30-min eps — your peak format. You've rated Eps 1-3 in your watched list; this is the next one."
+      "about": "Maslany's divorced fact-checker gets pulled deeper — this week Paula, Rudy, and Geri end up in a terrifying standoff. Weekly Wednesday drop.",
+      "why": "Dark humor + thriller + 30-min eps — peak format for you. You've rated Eps 1-3; this is next."
     },
     {
-      "title": "Star City — Ep 4",
+      "title": "Star City — Ep 4 'Dark Forest'",
       "platform": "Apple TV+",
       "date": "2026-06-12",
       "format": "Weekly — mid-season",
@@ -120,11 +108,11 @@
       "match": "strong",
       "genres": ["Sci-Fi", "Thriller", "Period"],
       "tags": ["Soviet space race", "paranoia", "conspiracy"],
-      "about": "Apple's Soviet-side space-race conspiracy thriller. Ep 1-2 dropped 5/29, Ep 3 last Friday, Ep 4 this Friday.",
-      "why": "Sci-fi + suspense + period paranoia. You logged the series start; keep going — it's been getting strong word-of-mouth."
+      "about": "Fame begins to take its toll on Anastasia; Irina tracks a crucial lead. Apple's Soviet-side space-race conspiracy thriller continues weekly.",
+      "why": "Sci-fi + suspense + period paranoia. You logged the series start; keep going."
     },
     {
-      "title": "The Legend of Vox Machina — S4 Eps 4-6",
+      "title": "The Legend of Vox Machina — S4 Eps 4-6 (incl. 'We Are His Blood')",
       "platform": "Amazon Prime Video",
       "date": "2026-06-10",
       "format": "Weekly — 3 eps drop together",
@@ -132,19 +120,19 @@
       "match": "strong",
       "genres": ["Animated fantasy", "Comedy"],
       "tags": ["Critical Role", "fantasy world", "ensemble", "30-min episodes"],
-      "about": "S4 picks up a year after the Chroma Conclave; Vox Machina has to reunite when a long-slumbering evil resurfaces. Eps 1-3 dropped 6/3, Eps 4-6 land 6/10.",
-      "why": "Fantasy world-building + dirty-humor ensemble + ~25-min episodes. Strong fit even if you haven't kept up with S1-3 (each season is reasonably self-contained)."
+      "about": "S4 picks up a year after the Chroma Conclave; Vox Machina has to reunite when a long-slumbering evil resurfaces. Eps 4-6 land 6/10; finale 6/24.",
+      "why": "Fantasy world-building + dirty-humor ensemble + ~25-min episodes."
     },
     {
-      "title": "Clarkson's Farm — S5 Eps 1-4",
+      "title": "Clarkson's Farm — S5 Eps 5-6",
       "platform": "Amazon Prime Video",
-      "date": "2026-06-03",
-      "format": "4 eps now, more 6/10 & 6/17",
+      "date": "2026-06-10",
+      "format": "Weekly — 2 eps now, finale eps 7-8 on 6/17",
       "runtime": "~50 min/ep",
       "match": "try",
       "genres": ["Reality", "Comedy"],
       "tags": ["dry British humor", "low-stakes", "easy watch"],
-      "about": "Clarkson decides this is the year of big changes at Diddly Squat — 8 eps total, dropping 4/3/3 across June.",
+      "about": "Clarkson's year of big changes at Diddly Squat continues. Eps 1-4 dropped 6/3; Eps 5-6 land 6/10; finale 7-8 on 6/17.",
       "why": "Dry British humor checks a key box even if reality isn't your usual genre. Drop-in, drop-out comfort watch."
     },
     {
@@ -156,8 +144,8 @@
       "match": "strong",
       "genres": ["Anime", "Fantasy", "Sci-Fi"],
       "tags": ["isekai", "weekly drop", "cour 1 penultimate"],
-      "about": "Subaru's Loss Arc is one episode away from the cour 1 finale (which hits 6/17 — see upcoming alerts).",
-      "why": "Anime fantasy with serious world-building, 25-min runtime, weekly cadence. You're already in the season."
+      "about": "Subaru's Loss Arc is one episode away from the cour 1 finale on 6/17.",
+      "why": "Anime fantasy with serious world-building, 25-min runtime. You're already in the season."
     },
     {
       "title": "I Am Frankelda",
@@ -167,9 +155,21 @@
       "runtime": "~100 min",
       "match": "try",
       "genres": ["Animation", "Fantasy", "Horror"],
-      "tags": ["Mexican stop-motion", "gothic", "spooky-cute"],
-      "about": "Ambriz brothers' stop-motion musical fantasy — the first feature from the team behind 'Frankelda's Book of Spooks.' Drops 6/12.",
-      "why": "Mexican animation, gothic-fantasy aesthetic, Spanish-language original — lands at the intersection of your fantasy/horror interest and your Spanish habit. Try-rated since musical animation is a stretch from your defaults."
+      "tags": ["Mexican stop-motion", "gothic", "del Toro produced"],
+      "about": "Ambriz brothers' stop-motion musical dark fantasy — Mexico's first all-stop-motion feature, with Guillermo del Toro as creative guide. Streams in original Spanish + English dub.",
+      "why": "Lands at the intersection of your fantasy/horror interest and your Spanish habit. Try-rated since musical animation is a stretch from your defaults."
+    },
+    {
+      "title": "Office Romance",
+      "platform": "Netflix",
+      "date": "2026-06-05",
+      "format": "Feature film",
+      "runtime": "~100 min",
+      "match": "skip",
+      "genres": ["Romantic comedy"],
+      "tags": ["JLo", "Brett Goldstein", "underwhelming RT"],
+      "about": "Jennifer Lopez plus Brett Goldstein workplace rom-com about a CEO and her new lawyer falling for each other. Reviews landed mixed-to-low.",
+      "why": "Out of lane for sci-fi/horror, and the RT score didn't help. Flagging so you see it; skip unless you want background TV."
     },
     {
       "title": "Sweet Magnolias — S5",
@@ -181,7 +181,7 @@
       "genres": ["Drama", "Romance"],
       "tags": ["small-town drama", "long-running"],
       "about": "S5 of the Southern small-town friendship drama.",
-      "why": "Flagged for completeness — not in your lane (slow-paced relationship drama, neither sci-fi nor comedy nor horror). Skip unless you want background TV."
+      "why": "Listed for completeness — not in your lane."
     },
     {
       "title": "Every Year After",
@@ -193,7 +193,7 @@
       "genres": ["Romance", "Drama"],
       "tags": ["YA romance", "novel adaptation"],
       "about": "Based on Carley Fortune's 'Every Summer After.' Teens-into-adults secret romance.",
-      "why": "Out of lane (straight romance/drama). Listed so you can see what's new, not as a pick."
+      "why": "Out of lane. Listed so you can see what's new, not as a pick."
     }
   ],
   "critics": [
@@ -218,7 +218,7 @@
       "match": "strong",
       "genres": ["Sci-Fi", "Comedy"],
       "tags": ["final season", "cult favorite", "off-beat humor"],
-      "about": "The sci-fi-comedy with Alan Tudyk's alien-pretending-to-be-a-small-town-doctor closes out its run. All 10 final-season episodes hit Netflix 6/6 after their 2025 Syfy airing.",
+      "about": "The sci-fi-comedy with Alan Tudyk's alien-pretending-to-be-a-small-town-doctor closes out its run. All 10 final-season episodes hit Netflix 6/6 after their 2025 Syfy airing. Netflix US has all 4 seasons now.",
       "why": "Critic-validated send-off in your strongest taste lane (sci-fi + dark humor + supernatural)."
     },
     {
@@ -229,8 +229,8 @@
       "runtime": "~55 min/ep",
       "match": "strong",
       "genres": ["Thriller", "Suspense", "Drama"],
-      "tags": ["Javier Bardem", "psychological", "remake"],
-      "about": "Bardem and Amy Brenneman headline Apple's series remake. Rotten Tomatoes' Most Anticipated TV of June 2026 list led with this; reviews lean fresh.",
+      "tags": ["Javier Bardem", "Amy Adams", "psychological", "remake"],
+      "about": "Bardem and Amy Adams headline Apple's series remake. Rotten Tomatoes' Most Anticipated TV of June 2026 list led with this; reviews lean fresh.",
       "why": "Bardem doing slow-burn menace + Apple's prestige production. Premium-tier suspense on a platform you already have."
     }
   ],
@@ -245,7 +245,13 @@
       "title": "Re:ZERO S4 — Ep 11 (Cour 1 finale, Loss Arc closer)",
       "platform": "Crunchyroll",
       "date": "2026-06-17",
-      "note": "Cour 2 'Recapture Arc' premieres 8/12 — expect a mid-season gap."
+      "note": "After Ep 11 the show goes on break. Cour 2 'Recapture Arc' premieres 8/12 — expect a mid-season gap."
+    },
+    {
+      "title": "Clarkson's Farm — S5 Eps 7-8 (finale)",
+      "platform": "Amazon Prime Video",
+      "date": "2026-06-17",
+      "note": "Closes out the Diddly Squat season."
     },
     {
       "title": "I Will Find You (Harlan Coben, 8-ep miniseries; Britt Lower co-stars)",
@@ -257,7 +263,7 @@
       "title": "Sugar — S2 (Colin Farrell)",
       "platform": "Apple TV+",
       "date": "2026-06-19",
-      "note": "Weekly Fridays through 8/7. S1's sci-fi twist made it a perfect fit on paper."
+      "note": "Weekly Fridays through 8/7. S1's sci-fi twist made it a fit on paper."
     },
     {
       "title": "Cape Fear — Ep 4",
@@ -269,13 +275,7 @@
       "title": "Avatar: The Last Airbender — S2 (live-action)",
       "platform": "Netflix",
       "date": "2026-06-25",
-      "note": "All-at-once drop."
-    },
-    {
-      "title": "The Bear — Final Season (S5) [NOT on your platforms]",
-      "platform": "Hulu / Disney+",
-      "date": "2026-06-25",
-      "note": "All 8 eps drop 6/25. Critically loved but only on Hulu/Disney+ — flagging for awareness only."
+      "note": "All 7 eps drop at once. Ba Sing Se arc; Toph arrives (played by Miyako)."
     },
     {
       "title": "Camp Snoopy — S2",
@@ -287,7 +287,7 @@
       "title": "Notes From the Last Row (Korean psychological thriller, Choi Min-sik)",
       "platform": "Netflix",
       "date": "2026-06-26",
-      "note": "6-ep miniseries from the 'Oldboy' star — obsession/literary-thriller setup, dark tone."
+      "note": "6-ep miniseries from the 'Oldboy' star — obsession-thriller setup adapted from Juan Mayorga's Spanish play. Dark tone."
     },
     {
       "title": "Re:ZERO S4 Cour 2 (Recapture Arc)",
@@ -298,14 +298,14 @@
     {
       "title": "Slow Horses — S6 (Joe Country + Slough House)",
       "platform": "Apple TV+",
-      "date": "TBD (Sept/Oct 2026 window)",
-      "note": "Filmed and in post-production. First time the show adapts two novels in one season. S7 already greenlit."
+      "date": "TBD (fall 2026 window per cast quotes)",
+      "note": "First time the show adapts two novels in one season. S7 already greenlit."
     },
     {
       "title": "Foundation — S4",
       "platform": "Apple TV+",
-      "date": "TBD (late 2026 / early 2027)",
-      "note": "Filming started in Prague Jan 2026. New showrunners Goldberg & Kob taking over from Goyer."
+      "date": "TBD (2027)",
+      "note": "Filming started in Prague Jan 2026 per Dexerto/Mac Observer. New showrunners Goldberg & Kob taking over from Goyer."
     },
     {
       "title": "Murderbot — S2",
@@ -317,31 +317,37 @@
       "title": "Severance — S3",
       "platform": "Apple TV+",
       "date": "TBD (Summer 2027 target)",
-      "note": "Filming Apr-Dec 2026; Apple committed to a 4-season plan and bought production from Fifth Season for ~$70M."
+      "note": "Filming Apr-Dec 2026. Apple committed to a 4-season plan and bought production from Fifth Season."
+    },
+    {
+      "title": "The Last of Us — S3 [NOT on your platforms]",
+      "platform": "HBO Max",
+      "date": "TBD (2027)",
+      "note": "Filming in BC paused June 2026 for the World Cup; resumes late June. Confirmed 2027 release per HBO. Abby-focused. Flagging because it's on your Loved list (HBO Max is not in your 4-platform set)."
     },
     {
       "title": "Black Mirror — S8",
       "platform": "Netflix",
-      "date": "TBD (late 2027 most credible)",
-      "note": "Renewal confirmed Jan 2026 by Brooker. An 'April 11, 2026' premiere claim circulated on aggregator sites but isn't corroborated by Netflix or Brooker; treating as unverified — realistic window is late 2027 based on past production gaps."
+      "date": "TBD (late 2027 / early 2028 most credible)",
+      "note": "Renewal confirmed Jan 2026 by Brooker on Tudum. No cast or premiere window yet — 18-24 months out per Brooker's writing-phase comments."
     },
     {
       "title": "Rick and Morty — S9 streaming debut [NOT on your platforms]",
-      "platform": "Hulu / HBO Max",
+      "platform": "HBO Max / Hulu",
       "date": "2026-06-15",
-      "note": "Aired on Adult Swim 5/24; streaming moves up to 6/15 on Hulu + HBO Max. None of your 4 platforms have it."
+      "note": "Aired on Adult Swim 5/24; weekly streaming moves up to 6/15 on HBO Max + Hulu. None of your 4 platforms have it. 10 eps; finale 7/26."
     },
     {
       "title": "Solar Opposites — S6 (Final) [NOT on your platforms]",
-      "platform": "Hulu",
-      "date": "TBD 2026",
-      "note": "Confirmed final season; Hulu-exclusive. Flagging because it's on your Loved list."
+      "platform": "Disney+ / Hulu",
+      "date": "Streaming now (Disney+/Hulu per JustWatch)",
+      "note": "Confirmed final season; Disney+/Hulu-exclusive. Flagging because it's on your Loved list."
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
-      "platform": "Crunchyroll",
-      "date": "Streaming status disputed — see note",
-      "note": "News sources (incl. Crunchyroll editorial) say streaming since 4/9/2026, but JustWatch returns no offer as of this run. Per the project rule, JustWatch wins until corroborated by an on-platform watch page. Re-verify next refresh. Stays on your watchlist."
+      "platform": "Crunchyroll (eventually)",
+      "date": "Streaming status: STILL THEATRICAL-ONLY",
+      "note": "Re-verified 6/9 on JustWatch — no streaming offer in the US. Crunchyroll confirms 2026 release but no exact date; streaming announcement likely at Crunchyroll's Anime Expo panel on 7/3 or AnimeJapan 2026. Stays on your watchlist."
     },
     {
       "title": "Good Omens — Series Finale (already streaming)",
