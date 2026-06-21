@@ -1,281 +1,197 @@
 {
-  "source": "Curated by the TV Concierge daily scheduled task. Verified against Apple TV+, Netflix, Crunchyroll, and Prime Video release pages plus official platform PR for current streaming claims. Excludes titles in watched.json and not-interested.json.",
-  "generated_at": "2026-06-16T13:47:41Z",
-  "week_label": "Jun 15 – Jun 21, 2026",
+  "source": "Curated by the TV Concierge daily scheduled task. Verified against JustWatch and official platform PR for current streaming claims. Excludes titles in watched.json and not-interested.json.",
+  "generated_at": "2026-06-21T13:55:00Z",
+  "week_label": "Jun 22 – Jun 28, 2026",
   "hero": {
-    "title": "Widow's Bay — Series Finale (Ep 10 'We Hope You Enjoyed Your Time!')",
-    "platform": "Apple TV+",
-    "date": "2026-06-16",
-    "format": "S1 finale (10 of 10); S2 already renewed (creator Katie Dippold on multi-year deal)",
-    "runtime": "~50 min",
+    "title": "The Legend of Vox Machina — S4 Final Drop (Eps 10–12)",
+    "platform": "Amazon Prime Video",
+    "date": "2026-06-24",
+    "format": "Full S4 binge available 6/24 (12 eps, three-episode weekly rollout completes this Wednesday)",
+    "runtime": "~30 min/ep",
     "match": "strong",
-    "genres": ["Supernatural", "Mystery", "Horror"],
-    "tags": ["watchlist payoff", "supernatural", "Matthew Rhys", "ensemble"],
-    "about": "The Old Storm crests and the islanders face a final reckoning. Tom must decide whether sparing Ruth Livingston dooms the island, or accept the cost of breaking the curse. Closes the S1 arc; S2 is already greenlit.",
-    "why": "Drops tonight at 9 PT / 11 CT (nominal 6/17). You logged Eps 6–7 ('Our History' / 'Seasickness') at 4⭐ on 5/30 and Ep 9 dropped 6/10 — you're squarely on cadence. Tier 2 hero: watchlist title that completes this week. Supernatural/mystery is in your top lane and the ~50-min runtime fits the bedtime slot."
+    "genres": ["Adult animation", "Fantasy", "Comedy"],
+    "tags": ["ensemble cast", "witty banter", "world building", "dark humor + fantasy"],
+    "about": "A year after the Chroma Conclave, Vox Machina has scattered, chasing love, family, and purpose — until a long-slumbering evil reunites them for one more campaign. The final three episodes drop Wednesday 6/24, completing the full season.",
+    "why": "Sits squarely in your Rick and Morty / Solar Opposites / Foundation lane: adult animated fantasy, ensemble, witty banter, real world-building, ~30-min episodes — every signal that lands for you. The full season is binge-ready as of 6/24, so it's the right call instead of pacing weekly."
   },
   "new_this_week": [
     {
-      "title": "Widow's Bay — Series Finale (Ep 10 'We Hope You Enjoyed Your Time!')",
-      "platform": "Apple TV+",
-      "date": "2026-06-16",
-      "format": "Season closer (9 PT Tue 6/16 / nominal 6/17)",
-      "runtime": "~50 min",
+      "title": "The Legend of Vox Machina — S4 Final Drop (Eps 10–12)",
+      "platform": "Amazon Prime Video",
+      "date": "2026-06-24",
+      "format": "Full 12-ep season binge available 6/24",
+      "runtime": "~30 min/ep",
       "match": "strong",
-      "genres": ["Supernatural", "Mystery"],
-      "tags": ["watchlist", "supernatural", "ensemble"],
-      "about": "The Bay holds its breath as the storm passes. Last chapter of S1.",
-      "why": "Your active watchlist payoff — start here."
+      "genres": ["Adult animation", "Fantasy", "Comedy"],
+      "tags": ["ensemble", "witty banter", "world building"],
+      "about": "Vox Machina reunites to face a long-slumbering evil. S4 finale arc wraps Wednesday.",
+      "why": "Your bedtime sweet spot: 30-min adult-animated fantasy with the Critical Role ensemble. Binge-ready."
     },
     {
-      "title": "Maximum Pleasure Guaranteed — Ep 6 'Rosebuds'",
+      "title": "Avatar: The Last Airbender (Live-Action) — S2",
+      "platform": "Netflix",
+      "date": "2026-06-25",
+      "format": "Full season — 7 eps drop at once (12am PT Thu)",
+      "runtime": "~55 min/ep",
+      "match": "strong",
+      "genres": ["Fantasy", "Adventure"],
+      "tags": ["world building", "ensemble", "binge-ready", "book/source adaptation"],
+      "about": "Aang and friends push deeper into the Earth Kingdom and the city of Ba Sing Se, with Toph (Miyako) joining the live-action cast. Early word out of the Tudum sneak peek is more positive than S1.",
+      "why": "World-building, ensemble cast, and a full-season binge — exactly your match-strong lane. Skip nothing: this is the binge headline of the week alongside Vox Machina."
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed — Ep 7",
       "platform": "Apple TV+",
-      "date": "2026-06-17",
-      "format": "Weekly Wed — mid-season",
+      "date": "2026-06-24",
+      "format": "Weekly Wed — penultimate before 7/15 finale",
       "runtime": "~30 min",
       "match": "strong",
       "genres": ["Dark comedy", "Thriller"],
       "tags": ["Tatiana Maslany", "dark humor", "30-min episodes"],
-      "about": "The fact-checker plot tightens. Weekly Wednesdays through the 7/15 finale.",
-      "why": "Dark humor + thriller + 30-min runtime — exactly your bedtime profile. You rated through Ep 3; this puts you two episodes ahead."
+      "about": "The fact-checker plot tightens with two episodes left. Weekly Wednesdays through the 7/15 finale.",
+      "why": "Dark humor + thriller + 30-min runtime — your bedtime profile. You rated Ep 3 at 3.5⭐ on 5/31; catch up the gap and ride into the finale."
     },
     {
-      "title": "Re:ZERO -Starting Life in Another World- S4 Ep 11 (Cour 1 Finale — Loss Arc closer)",
-      "platform": "Crunchyroll",
-      "date": "2026-06-17",
-      "format": "Weekly simulcast — closing chapter of Cour 1",
-      "runtime": "~24 min",
-      "match": "strong",
-      "genres": ["Anime", "Fantasy", "Dark drama"],
-      "tags": ["world building", "plot twists", "isekai"],
-      "about": "Subaru's Loss Arc closes. Cour 2 (Recapture Arc) returns 8/12.",
-      "why": "Mythology + plot twists + your established Re:ZERO investment. 7 AM PT global simulcast confirmed."
-    },
-    {
-      "title": "Clarkson's Farm — S5 Eps 7 & 8 (Season Finale)",
-      "platform": "Amazon Prime Video",
-      "date": "2026-06-17",
-      "format": "Double-drop closes the season (12am PT / 3am ET)",
-      "runtime": "~45 min/ep",
-      "match": "strong",
-      "genres": ["Documentary", "Comedy"],
-      "tags": ["dry British humor", "ensemble", "season closer"],
-      "about": "Jeremy, Kaleb, and Charlie wrap the Diddly Squat year.",
-      "why": "Dry British humor is in your wheelhouse. If you're behind on Eps 5–6 (dropped 6/10), catch up first, then run the finale."
-    },
-    {
-      "title": "I Will Find You",
-      "platform": "Netflix",
-      "date": "2026-06-18",
-      "format": "Limited series — 8 eps, full drop",
-      "runtime": "~50 min/ep",
-      "match": "strong",
-      "genres": ["Thriller", "Mystery"],
-      "tags": ["Britt Lower", "Harlan Coben", "binge-ready", "plot twists"],
-      "about": "A father (Sam Worthington) wrongfully imprisoned for his son's murder learns the boy may be alive, and breaks out to find the truth. Britt Lower plays his investigative-journalist sister-in-law; Milo Ventimiglia, Logan Browning, Chi McBride co-star. Showrunner Robert Hull adapts Coben's 2023 bestseller.",
-      "why": "Britt Lower (Severance) + Coben's twisty plotting + binge-ready in one Thursday night. Coben's Netflix track record + the prison-break thriller cadence is exactly your match-strong lane."
-    },
-    {
-      "title": "Sugar — S2 Premiere",
+      "title": "Sugar — S2 Ep 2 'Downer Town'",
       "platform": "Apple TV+",
-      "date": "2026-06-19",
-      "format": "8-ep S2 — Ep 1 drops Fri, weekly through 8/7",
+      "date": "2026-06-26",
+      "format": "Weekly Fri — 8-ep S2 through 8/7",
       "runtime": "~45 min",
-      "match": "strong",
-      "genres": ["Neo-noir mystery", "Sci-Fi"],
-      "tags": ["Colin Farrell", "noir + sci-fi twist", "world building"],
-      "about": "PI John Sugar returns post-alien-reveal; a missing-brother case for a pro boxer pulls him back into the alien-network mythology. New cast: Jin Ha, Raymond Lee, Tony Dalton, Laura Donnelly, Sasha Calle.",
-      "why": "Noir + sci-fi mythology + Farrell-led — exactly your blend. The 2-year wait between seasons is over."
+      "match": "try",
+      "genres": ["Neo-noir", "Mystery", "Sci-Fi"],
+      "tags": ["Colin Farrell", "detective", "twist sci-fi premise"],
+      "about": "Sugar's search for Ji pulls him into dangerous territory while Danny resorts to desperate measures.",
+      "why": "S1 was the neo-noir-with-a-secret show; if you didn't pick up S1, queue Ep 1 first. Match-try because the genre fit is strong but you haven't logged S1 yet."
     },
     {
-      "title": "Cape Fear — Ep 4 'Pierced'",
+      "title": "Cape Fear — Ep 5 'Faith'",
       "platform": "Apple TV+",
-      "date": "2026-06-19",
-      "format": "Weekly Fri — Ep 4 of 10",
-      "runtime": "~55 min",
-      "match": "strong",
-      "genres": ["Thriller", "Suspense"],
-      "tags": ["Javier Bardem", "Amy Adams", "Patrick Wilson", "slow-build menace"],
-      "about": "Antosca's remake keeps tightening; the Bowdens fray further. Weekly Fridays through 7/31. Scorsese + Spielberg as EPs.",
-      "why": "Horror/suspense in your top genres + Bardem/Adams firepower. If you're current through Ep 3, you're on cadence."
-    },
-    {
-      "title": "Star City — Ep 6",
-      "platform": "Apple TV+",
-      "date": "2026-06-19",
-      "format": "Weekly Fri",
+      "date": "2026-06-26",
+      "format": "Weekly Fri (drops 9pm ET Thu 6/25)",
       "runtime": "~50 min",
       "match": "try",
-      "genres": ["Sci-Fi", "Period drama"],
-      "tags": ["Cold War sci-fi", "world building"],
-      "about": "Continuing weekly drop of the Soviet-era space drama. Limited info available on this specific episode.",
-      "why": "You logged Star City recently — keep cadence if you're enjoying it."
+      "genres": ["Thriller", "Suspense"],
+      "tags": ["psychological thriller", "remake", "weekly"],
+      "about": "Apple's psychological-thriller remake of the Scorsese/Cady-family story. Now into the back half of its run.",
+      "why": "Horror/suspense is in your top lane and the weekly thriller cadence is friendly to bedtime. Try Ep 1 first — match-try until you've sampled."
     },
     {
-      "title": "America's Sweethearts: Dallas Cowboys Cheerleaders — S3",
-      "platform": "Netflix",
-      "date": "2026-06-16",
-      "format": "Documentary series",
-      "runtime": "~45 min/ep",
-      "match": "skip",
-      "genres": ["Documentary", "Reality"],
-      "tags": ["docu-soap"],
-      "about": "Behind-the-scenes of DCC squad selection and tour.",
-      "why": "Outside your top lanes — flagging only because it's a marquee Netflix drop this week."
-    },
-    {
-      "title": "The Amazing Digital Circus — The Last Act (Ep 9 Finale)",
-      "platform": "Netflix",
-      "date": "2026-06-19",
-      "format": "Series finale (hour-long); arrives same-day on YouTube",
-      "runtime": "~60 min",
+      "title": "ONE PIECE — Elbaph Arc Ep 1167",
+      "platform": "Crunchyroll",
+      "date": "2026-06-21",
+      "format": "Weekly Sun simulcast (7:15am PT)",
+      "runtime": "~24 min",
       "match": "try",
-      "genres": ["Animation", "Surreal comedy"],
-      "tags": ["psychedelic visuals", "indie animation"],
-      "about": "Caine is gone, the circus dark; the cast face the truth of the Digital Circus's history. Combines Ep 8 with a new hour-long finale.",
-      "why": "Surreal/psychedelic visuals fall in your 'what misses' lane — but it's the cultural water-cooler finale and ~60 min. Try-only."
+      "genres": ["Anime", "Fantasy", "Adventure"],
+      "tags": ["epic scope", "ensemble", "long runner"],
+      "about": "Elbaph Arc continues — the Straw Hats on the giants' island. Weekly Sundays on Crunchyroll; Netflix US gets the same ep one week later (6/27 for this one).",
+      "why": "Fantasy + ensemble + world-building, but it's a long-runner with a high on-ramp. Match-try — only worth starting if you want a sprawling commitment. Otherwise skip."
+    },
+    {
+      "title": "Heroine? Saint? No, I'm an All-Works Maid (And Proud of It) — S1 Premiere",
+      "platform": "Crunchyroll",
+      "date": "2026-06-24",
+      "format": "Weekly simulcast — Summer 2026 season opener",
+      "runtime": "~24 min",
+      "match": "try",
+      "genres": ["Anime", "Isekai", "Comedy"],
+      "tags": ["isekai", "comedy", "summer-season opener"],
+      "about": "A maid in an isekai world insists she's just the help while everyone else assumes she's the hero. Light, comedic, and the first show out of Crunchyroll's Summer 2026 lineup — a full week ahead of the July rush.",
+      "why": "Lighter isekai-comedy lane; sample Ep 1 and bail if the humor reads juvenile (one of your misses). Match-try with a clear off-ramp."
+    },
+    {
+      "title": "The American Experiment — 5-Part Doc Series",
+      "platform": "Netflix",
+      "date": "2026-06-24",
+      "format": "Full 5-ep documentary series drop",
+      "runtime": "~50 min/ep",
+      "match": "skip",
+      "genres": ["Documentary", "History"],
+      "tags": ["Tom Hanks EP", "America 250", "political doc"],
+      "about": "A reexamination of the American founding for the 250th anniversary, featuring Hillary Clinton, Mike Pence, Al Gore, Kamala Harris, and historians across the spectrum. Directed by Brian Knappenberger, executive-produced by Tom Hanks.",
+      "why": "Listed for completeness — high-profile Netflix drop this week — but documentary/political reflection isn't in your loved lane. Skip unless you specifically want something contemplative."
     }
   ],
   "critics": [
     {
-      "title": "Sugar — S2 Premiere",
+      "title": "The Studio — S1 (Apple TV+)",
       "platform": "Apple TV+",
-      "date": "2026-06-19",
-      "format": "S2 8-ep weekly",
-      "runtime": "~45 min",
+      "date": "available now",
+      "format": "S1 — 10 eps available; S2 in production",
+      "runtime": "~30 min",
       "match": "strong",
-      "genres": ["Neo-noir mystery", "Sci-Fi"],
-      "tags": ["Colin Farrell", "S1 was critically loved"],
-      "about": "Returning Apple TV+ crown jewel — Farrell back as the PI with an alien secret.",
-      "why": "S1 was one of Apple TV+'s best-reviewed dramas; the return is one of June's most-anticipated picks across multiple critic guides."
+      "genres": ["Comedy", "Satire"],
+      "tags": ["Seth Rogen", "Hollywood satire", "ensemble", "30-min episodes", "Emmy winner"],
+      "about": "Seth Rogen plays an embattled studio head juggling corporate demands and his own taste. Cringe-comedy ensemble.",
+      "why": "Won Outstanding Comedy + Lead Actor at the 77th Emmys and sits at 92% RT. 30-min ensemble cringe-comedy with witty banter — your wheelhouse, sitting unwatched in your Apple TV+ library."
     },
     {
-      "title": "Cape Fear",
+      "title": "Slow Horses — Catch up on S1–S5 (Apple TV+)",
       "platform": "Apple TV+",
-      "date": "2026-06-05",
-      "format": "10-ep limited series — weekly Fridays through 7/31",
-      "runtime": "~55 min/ep",
+      "date": "available now",
+      "format": "5 seasons, ~6 eps each",
+      "runtime": "~45 min/ep",
       "match": "strong",
-      "genres": ["Thriller", "Suspense"],
-      "tags": ["Javier Bardem", "Amy Adams", "Antosca", "Scorsese/Spielberg EPs"],
-      "about": "Nick Antosca's reimagining of the 1962/1991 classic. Bardem as Max Cady, Adams + Patrick Wilson as the Bowdens.",
-      "why": "Lands squarely in your Horror/Suspense priority and is one of June's marquee adult dramas across critic roundups."
+      "genres": ["Espionage", "Dark comedy", "Thriller"],
+      "tags": ["Gary Oldman", "dry British humor", "ensemble", "book adaptation"],
+      "about": "Mick Herron's Slough House — MI5's cast-offs run by Jackson Lamb. S6 lands 9/16/2026 (six weekly eps through 10/21).",
+      "why": "On your Loved list. S6 drops Sep 16 — a rewatch of any prior season fits your dry-British-humor + ensemble + book-adaptation profile and keeps you cued up for the new run."
     },
     {
-      "title": "I Will Find You",
-      "platform": "Netflix",
-      "date": "2026-06-18",
-      "format": "Limited series — 8 eps, full drop Thursday",
-      "runtime": "~50 min/ep",
-      "match": "strong",
-      "genres": ["Thriller", "Mystery"],
-      "tags": ["Britt Lower", "Harlan Coben", "binge-ready"],
-      "about": "Coben's first US-set Netflix series. A man imprisoned for his son's murder learns the boy may be alive.",
-      "why": "Pre-launch critical buzz is strong; Coben's Netflix track record + Britt Lower casting put it on critics' June shortlists."
+      "title": "Mr. & Mrs. Smith — S1 (Prime Video)",
+      "platform": "Amazon Prime Video",
+      "date": "available now",
+      "format": "Limited series — 8 eps",
+      "runtime": "~45 min/ep",
+      "match": "try",
+      "genres": ["Spy", "Action-comedy", "Drama"],
+      "tags": ["Donald Glover", "Maya Erskine", "binge-ready", "witty banter"],
+      "about": "Two strangers paired as married spies. Glover and Erskine carry a dry, character-first reimagining of the premise. 93% RT, S2 in production.",
+      "why": "Critic-validated (93% RT) and on a platform you have. The spy / witty-banter combo borrows from your Spy and Slow Horses lanes. Sample one episode."
     }
   ],
   "upcoming_alerts": [
     {
-      "title": "Cape Fear — Ep 5",
-      "platform": "Apple TV+",
-      "date": "2026-06-26",
-      "note": "Weekly Friday cadence through 7/31."
+      "title": "Rick and Morty — S9 (currently airing weekly on HBO Max & Hulu)",
+      "platform": "HBO Max / Hulu (NOT currently on your platforms)",
+      "date": "2026-05-24 to 2026-07-26",
+      "note": "Loved-list continuation flagged. S9 premiered 5/24 on Adult Swim and started streaming weekly on HBO Max + Hulu 6/15. Neither service is in your active set; rent-per-episode via Apple TV is also not an option for this title. Decision point: add HBO Max for the run, wait for a bundle deal, or hold for full-season streaming later."
     },
     {
-      "title": "Sugar — S2 Ep 2",
-      "platform": "Apple TV+",
-      "date": "2026-06-26",
-      "note": "Weekly Fridays through 8/7."
-    },
-    {
-      "title": "Avatar: The Last Airbender — S2 (live-action)",
-      "platform": "Netflix",
-      "date": "2026-06-25",
-      "note": "Live-action S2 of the Netflix reimagining."
-    },
-    {
-      "title": "Notes From the Last Row",
-      "platform": "Netflix",
-      "date": "2026-06-26",
-      "note": "Korean psychological thriller starring Choi Min-sik."
-    },
-    {
-      "title": "Camp Snoopy — S2",
-      "platform": "Apple TV+",
-      "date": "2026-06-26",
-      "note": "Family-friendly carry-forward."
-    },
-    {
-      "title": "Re:ZERO S4 — Cour 2 (Recapture Arc)",
-      "platform": "Crunchyroll",
-      "date": "2026-08-12",
-      "note": "Returns after the 6/17 Cour 1 finale."
-    },
-    {
-      "title": "Slow Horses — S6 (Joe Country + Slough House)",
+      "title": "Slow Horses — S6 (Apple TV+)",
       "platform": "Apple TV+",
       "date": "2026-09-16",
-      "note": "CONFIRMED via apple.com/tv-pr — 6 eps, weekly Wednesdays through 10/21. Lamb returns; Kristin Scott Thomas as Taverner; Hugo Weaving + Lenny Rush joining."
+      "note": "Confirmed by Apple TV PR — 6 weekly eps Wed 9/16 through 10/21 finale. Adapts Joe Country + Slough House. Loved-list continuation; this is your headline fall pick."
     },
     {
-      "title": "Foundation — S4",
+      "title": "Demon Slayer: Infinity Castle (Film 1)",
+      "platform": "Streaming TBD",
+      "date": "2026 (date not yet confirmed)",
+      "note": "Still theatrical-only as of 6/21. Crunchyroll has confirmed a 2026 streaming window but no firm date; speculation points to a reveal at Crunchyroll's summer event (Anime Nights sneak peek was 6/15). Will surface here the moment a date lands. On your watchlist."
+    },
+    {
+      "title": "Severance — S3 (Apple TV+)",
       "platform": "Apple TV+",
-      "date": "TBD (late 2026 or 2027)",
-      "note": "No new official date this week."
+      "date": "mid-to-late 2027 (no confirmed date)",
+      "note": "Production runs Apr–Dec 2026 in NY (Kogonada producing-directing). Apple Studios now sole production company. Realistic premiere: June or September 2027."
     },
     {
-      "title": "Murderbot — S2",
-      "platform": "Apple TV+",
-      "date": "TBD (late 2026 / early 2027)",
-      "note": "Renewed; no firm date yet."
-    },
-    {
-      "title": "Severance — S3",
-      "platform": "Apple TV+",
-      "date": "TBD (Summer 2027 target)",
-      "note": "In production."
-    },
-    {
-      "title": "Black Mirror — S8",
-      "platform": "Netflix",
-      "date": "TBD (late 2027 / early 2028 most credible)",
-      "note": "No new official date this week."
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle (Part 1)",
-      "platform": "Crunchyroll (eventual)",
-      "date": "2026 streaming date TBD",
-      "note": "Crunchyroll confirms a 2026 release but has not set a date. Industry projections cite ~June 2026 digital VOD, September/October 2026 subscription streaming — UNCONFIRMED. JustWatch still shows no US streaming offer; film remains theatrical-only. Watch Crunchyroll's summer events (Anime Nights Sneak Peek aired in theaters 6/15)."
-    },
-    {
-      "title": "Rick and Morty — S9 (streaming debut)",
-      "platform": "Hulu / HBO Max (NOT on your platforms)",
-      "date": "2026-06-15",
-      "note": "Started streaming 6/15 on Hulu + HBO Max, two months ahead of August target. Adult Swim linear started 5/24. Not on a service you subscribe to."
-    },
-    {
-      "title": "Solar Opposites — S6 (Final)",
-      "platform": "Disney+ / Hulu (NOT on your platforms)",
-      "date": "Currently streaming on Disney+/Hulu per JustWatch",
-      "note": "Final season is out, but not on a service you subscribe to."
-    },
-    {
-      "title": "The Last of Us — S3",
+      "title": "The Last of Us — S3 (HBO Max)",
       "platform": "HBO Max (NOT on your platforms)",
-      "date": "TBD (2027)",
-      "note": "Still HBO-only."
+      "date": "2027",
+      "note": "Filming in Vancouver Mar–Nov 2026 (brief Jun–Jul pause for World Cup). Casey Bloys confirmed 2027 release. Loved-list continuation but platform is the gating issue."
     },
     {
-      "title": "Your Friends & Neighbors — S3",
-      "platform": "Apple TV+",
-      "date": "TBD (filming targeted ~April 2027)",
-      "note": "Renewed; long runway before next season."
+      "title": "Black Mirror — S8 (Netflix)",
+      "platform": "Netflix",
+      "date": "late 2027 / early 2028",
+      "note": "Confirmed renewed by Brooker on Tudum in Jan 2026; still in early writing. Realistic window 18–24 months out. Loved-list continuation."
     },
     {
-      "title": "Widow's Bay — S2",
+      "title": "Foundation — S4 (Apple TV+)",
       "platform": "Apple TV+",
-      "date": "TBD",
-      "note": "Renewed with creator on multi-year deal; no premiere date yet."
+      "date": "TBD (filming Jan–Jul 2026)",
+      "note": "Renewed Sep 2025; principal photography wraps summer 2026 in Prague. No premiere date set yet. Loved-list continuation."
     }
   ]
 }

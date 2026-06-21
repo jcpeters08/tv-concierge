@@ -483,6 +483,20 @@
         "RT Certified Fresh"
       ],
       "date": "2026-06-02"
+    },
+    {
+      "title": "Widow's Bay — Series Finale (Ep 10 'We Hope You Enjoyed Your Time!')",
+      "rating": 4,
+      "tags": "watchlist payoff, supernatural, Matthew Rhys, ensemble, humorous, plot twist",
+      "tags_array": [
+        "watchlist payoff",
+        "supernatural",
+        "Matthew Rhys",
+        "ensemble",
+        "humorous",
+        "plot twist"
+      ],
+      "date": "2026-06-19"
     }
   ],
   "known_favorites": [
@@ -504,5 +518,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-06-03T14:01:45Z"
+  "synced_at": "2026-06-21T13:49:53Z"
 }
