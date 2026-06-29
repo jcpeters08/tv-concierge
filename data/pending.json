@@ -1,10 +1,4 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": [
-    {
-      "kind": "pin",
-      "title": "The Legend of Vox Machina — S4 (Complete, 12 eps)",
-      "ts": "2026-06-29T05:35:50.654Z"
-    }
-  ]
+  "entries": []
 }
