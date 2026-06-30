@@ -1,7 +1,7 @@
 {
   "source": "Refreshed by daily scheduled task. Loved-list cross-check + watchlist availability check + critics scan, then taste-matched against taste-profile.json.",
-  "synced_at": "2026-06-29T13:30:00Z",
-  "generated_at": "2026-06-29T13:30:00Z",
+  "synced_at": "2026-06-30T13:30:00Z",
+  "generated_at": "2026-06-30T13:30:00Z",
   "week_label": "Jun 29 – Jul 5, 2026",
   "hero": {
     "title": "Silo — S3 (Premiere)",
@@ -39,6 +39,18 @@
       "tags": ["Maslany-led", "dark humor"],
       "about": "Paula hits rock bottom but can't let the investigation go; Rudy suspects Geri's keeping secrets. Third-to-last episode (finale 7/15).",
       "why": "You're caught up through Ep 7 at 4⭐ — heading into the final stretch."
+    },
+    {
+      "title": "Enola Holmes 3",
+      "platform": "Netflix",
+      "date": "2026-07-01",
+      "format": "Feature film",
+      "runtime": "~125 min",
+      "match": "try",
+      "genres": ["Mystery", "Adventure"],
+      "tags": ["Millie Bobby Brown", "Henry Cavill", "Helena Bonham Carter", "Sherlock"],
+      "about": "Enola heads to Malta to get married; the wedding goes sideways when Sherlock disappears and a Moriarty-tied case pulls her back in. Henry Cavill returns as Sherlock; Himesh Patel joins as Dr. Watson.",
+      "why": "Light mystery + ensemble cast + witty banter fit your signals. New director (Philip Barantini) is the wildcard; previous two films landed solid 75–90% RT."
     },
     {
       "title": "Sugar — S2 Ep 3 'Watch Face'",
@@ -89,52 +101,16 @@
       "why": "Supernatural + mythology themes match your taste signals. Sample Ep 1 to commit or pass."
     },
     {
-      "title": "Batman: Caped Crusader — S2",
-      "platform": "Amazon Prime Video",
+      "title": "Heroine? Saint? No, I'm an All-Works Maid — Ep 2",
+      "platform": "Crunchyroll",
       "date": "2026-07-01",
-      "format": "Season drop",
-      "runtime": "~25 min × 10",
+      "format": "Weekly, simulcast",
+      "runtime": "~24 min",
       "match": "try",
-      "genres": ["Adult Animation", "Noir"],
-      "tags": ["Bruce Timm", "Matt Reeves EP", "J.J. Abrams EP"],
-      "about": "Spiritual successor to the 1990s Batman: The Animated Series returns. Bruce Timm anchors the look; Reeves/Abrams produce.",
-      "why": "S1 was a strong noir reinterpretation. Adult animation + ensemble cast hit your signals."
-    },
-    {
-      "title": "Ride or Die",
-      "platform": "Amazon Prime Video",
-      "date": "2026-07-XX",
-      "format": "Full season drop",
-      "runtime": "TBD",
-      "match": "try",
-      "genres": ["Action Comedy"],
-      "tags": ["Octavia Spencer", "Hannah Waddingham"],
-      "about": "A woman discovers her best friend is a professional assassin. Buddy action comedy.",
-      "why": "Waddingham + Spencer ensemble has comedy upside. Limited critic data yet — sample to commit."
-    },
-    {
-      "title": "The Ghost in the Shell (new anime)",
-      "platform": "Amazon Prime Video",
-      "date": "2026-07-XX",
-      "format": "Series",
-      "runtime": "~25 min × eps",
-      "match": "try",
-      "genres": ["Sci-Fi", "Cyberpunk"],
-      "tags": ["Section 9", "Major Motoko Kusanagi"],
-      "about": "Brand-new anime take on the Ghost in the Shell franchise. Major Kusanagi returns.",
-      "why": "Cyberpunk sci-fi with a long pedigree. Limited info available pre-release; worth sampling Ep 1."
-    },
-    {
-      "title": "I Will Find You — Limited Series (binge-ready)",
-      "platform": "Netflix",
-      "date": "2026-06-18",
-      "format": "8-ep limited",
-      "runtime": "~50 min × 8",
-      "match": "try",
-      "genres": ["Thriller", "Mystery"],
-      "tags": ["Harlan Coben", "Britt Lower", "Sam Worthington"],
-      "about": "A father wrongly imprisoned for his son's murder learns the child may still be alive. Adapted from Coben's 2023 novel.",
-      "why": "Mixed RT (58% critics / 64% audience) but Netflix's biggest 2026 debut. Britt Lower (Severance) is the draw."
+      "genres": ["Comedy", "Isekai"],
+      "tags": ["light tone"],
+      "about": "Summer 2026 simulcast kickoff title that landed a week ahead of the July rush.",
+      "why": "Light tone + comedy — possible 24-min filler if anime queue is thin."
     },
     {
       "title": "Cape Fear — Ep 6",
@@ -149,28 +125,40 @@
       "why": "Bardem is the draw; pacing is the wildcard. Reasonable bedtime suspense at 50 min."
     },
     {
-      "title": "Heroine? Saint? No, I'm an All-Works Maid — Ep 2",
-      "platform": "Crunchyroll",
-      "date": "2026-07-01",
-      "format": "Weekly, simulcast",
-      "runtime": "~24 min",
+      "title": "I Will Find You — Limited Series (binge-ready)",
+      "platform": "Netflix",
+      "date": "2026-06-18",
+      "format": "8-ep limited",
+      "runtime": "~50 min × 8",
       "match": "try",
-      "genres": ["Comedy", "Isekai"],
-      "tags": ["light tone"],
-      "about": "Summer 2026 simulcast kickoff title that landed a week ahead of the July rush.",
-      "why": "Light tone + comedy — possible 24-min filler if anime queue is thin."
+      "genres": ["Thriller", "Mystery"],
+      "tags": ["Harlan Coben", "Britt Lower", "Sam Worthington"],
+      "about": "A father wrongly imprisoned for his son's murder learns the child may still be alive. Adapted from Coben's 2023 novel.",
+      "why": "Mixed RT (58% critics / 64% audience) but Netflix's biggest 2026 debut. Britt Lower (Severance) is the draw."
+    },
+    {
+      "title": "Ride or Die",
+      "platform": "Amazon Prime Video",
+      "date": "2026-07-15",
+      "format": "Limited series",
+      "runtime": "TBD",
+      "match": "try",
+      "genres": ["Action Comedy"],
+      "tags": ["Octavia Spencer", "Hannah Waddingham"],
+      "about": "A woman discovers her best friend (Spencer) is an international assassin. Waddingham co-stars in this buddy action-comedy.",
+      "why": "Waddingham + Spencer ensemble has comedy upside. Limited critic data yet — sample to commit."
     },
     {
       "title": "Trying — S5 Premiere",
       "platform": "Apple TV+",
       "date": "2026-07-08",
-      "format": "Weekly Wed",
+      "format": "Weekly Wed, 8 eps",
       "runtime": "~30 min",
       "match": "try",
       "genres": ["Comedy", "Drama"],
       "tags": ["British", "family"],
       "about": "Nikki and Jason face fallout when Princess and Tyler's biological mother turns up at their door.",
-      "why": "Dry British humor + 30-min episodes match your signals. Pin for next week."
+      "why": "Dry British humor + 30-min episodes match your signals. Premiere is next Wed — pin if you want a reminder."
     },
     {
       "title": "Lucky — Premiere (Eps 1 & 2)",
@@ -237,10 +225,22 @@
   ],
   "upcoming_alerts": [
     {
+      "title": "Your Friends & Neighbors — S2 (NOW STREAMING — complete)",
+      "platform": "Apple TV+",
+      "date": "2026-06-05",
+      "note": "S2 finale 'The Night of the Hunter' dropped 6/5; all 10 eps available. You're pinned at Ep 7 — the rest of the season is binge-ready. S3 already renewed."
+    },
+    {
+      "title": "The Legend of Vox Machina — S4 (NOW STREAMING — complete, 12 eps)",
+      "platform": "Amazon Prime Video",
+      "date": "Currently streaming",
+      "note": "Tier-3 critic-validated full binge (you pinned this 6/29). Still on the shortlist if you want a quick all-at-once option this week."
+    },
+    {
       "title": "Trying — S5 Premiere",
       "platform": "Apple TV+",
       "date": "2026-07-08",
-      "note": "Weekly Wed. British dry-humor comedy."
+      "note": "Weekly Wed, 8 eps. British dry-humor comedy."
     },
     {
       "title": "Lucky — Premiere (Eps 1 & 2)",
@@ -252,7 +252,13 @@
       "title": "The Dink",
       "platform": "Apple TV+",
       "date": "2026-07-24",
-      "note": "Ben Stiller + Patton Oswalt underdog comedy."
+      "note": "Ben Stiller + Patton Oswalt underdog pickleball comedy."
+    },
+    {
+      "title": "Batman: Caped Crusader — S2 (all 10 eps drop at once)",
+      "platform": "Amazon Prime Video",
+      "date": "2026-07-31",
+      "note": "Full-season drop. Bruce Timm + Reeves + Abrams; Joker, Riddler debut. Adult animation noir."
     },
     {
       "title": "Re:ZERO -Starting Life in Another World- S4 Part 2 (Recapture Arc)",
@@ -264,7 +270,7 @@
       "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle (Film 1)",
       "platform": "Crunchyroll (expected) — TBD",
       "date": "TBD — not yet on JustWatch",
-      "note": "Industry chatter cites a 7/29 streaming date, but the original source was a retracted Prime Video Canada listing and Crunchyroll U.S. has yet to officially confirm. JustWatch still shows the film as not available for streaming. Watch for an official Crunchyroll / Anime Expo announcement."
+      "note": "Crunchyroll + Ufotable host an Infinity Castle panel at Anime Expo 7/3 — official streaming announcement likely. Until then, JustWatch still shows no streaming offer."
     },
     {
       "title": "Slow Horses — S6",
@@ -276,7 +282,7 @@
       "title": "Foundation — S4",
       "platform": "Apple TV+",
       "date": "Mid–late 2027 (estimated)",
-      "note": "Filming kicked off January 2026 in Prague. No official date yet."
+      "note": "Filming Jan–Jul 2026 in Prague. New showrunner Ian Goldberg. No official date yet."
     },
     {
       "title": "Severance — S3",
