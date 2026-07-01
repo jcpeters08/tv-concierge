@@ -1,7 +1,7 @@
 {
   "source": "Refreshed by daily scheduled task. Loved-list cross-check + watchlist availability check + critics scan, then taste-matched against taste-profile.json.",
-  "synced_at": "2026-06-30T13:30:00Z",
-  "generated_at": "2026-06-30T13:30:00Z",
+  "synced_at": "2026-07-01T13:38:08Z",
+  "generated_at": "2026-07-01T13:38:08Z",
   "week_label": "Jun 29 – Jul 5, 2026",
   "hero": {
     "title": "Silo — S3 (Premiere)",
@@ -10,10 +10,21 @@
     "format": "10-ep season, weekly Fridays through 9/4",
     "runtime": "~55 min × 10",
     "match": "strong",
-    "genres": ["Sci-Fi", "Dystopian", "Mystery"],
-    "tags": ["book adaptation", "world building", "ensemble cast", "Rebecca Ferguson"],
+    "genres": [
+      "Sci-Fi",
+      "Dystopian",
+      "Mystery"
+    ],
+    "tags": [
+      "book adaptation",
+      "world building",
+      "ensemble cast",
+      "Rebecca Ferguson"
+    ],
     "about": "Juliette returns from her forced exile with her memory wiped, while the silo recovers from rebellion and confronts a deadlier new threat. An origin-story thread set centuries earlier expands the world. S4 is already locked as the final season.",
-    "why": "You rated Silo S1–S2 at 4.5⭐ — this is a direct continuation of a watched favorite. Sci-fi + world-building + book adaptation lands every box your taste profile asks for, and Friday weekly drops give you a steady bedtime cadence through Labor Day."
+    "why": "You rated Silo S1–S2 at 4.5⭐ and just pinned S3 to your watchlist — the biggest hit on your platforms this week. Sci-fi + world-building + book adaptation lands every box your taste profile asks for, and Friday weekly drops give you a steady bedtime cadence through Labor Day.",
+    "priority_tier": 2,
+    "priority_reason": "Watchlist title becoming streamable this week (pinned 2026-07-01, drops 2026-07-03)"
   },
   "new_this_week": [
     {
@@ -23,8 +34,14 @@
       "format": "Weekly Fri, 10 eps",
       "runtime": "~55 min",
       "match": "strong",
-      "genres": ["Sci-Fi", "Dystopian"],
-      "tags": ["world building", "book adaptation"],
+      "genres": [
+        "Sci-Fi",
+        "Dystopian"
+      ],
+      "tags": [
+        "world building",
+        "book adaptation"
+      ],
       "about": "Season 3 premiere. Juliette returns memory-wiped; the silo faces a new threat as the prequel timeline opens.",
       "why": "You're 4.5⭐ on S1–S2 — this is the must-watch this week."
     },
@@ -33,11 +50,17 @@
       "platform": "Apple TV+",
       "date": "2026-07-01",
       "format": "Weekly Wed, 10-ep limited",
-      "runtime": "~30 min",
+      "runtime": "~45 min",
       "match": "strong",
-      "genres": ["Dark Comedy", "Drama"],
-      "tags": ["Maslany-led", "dark humor"],
-      "about": "Paula hits rock bottom but can't let the investigation go; Rudy suspects Geri's keeping secrets. Third-to-last episode (finale 7/15).",
+      "genres": [
+        "Dark Comedy",
+        "Drama"
+      ],
+      "tags": [
+        "Maslany-led",
+        "dark humor"
+      ],
+      "about": "Paula hits rock bottom but can't let the investigation go; Rudy suspects Geri's keeping secrets. Third-to-last episode (Ep 9 7/8, finale 'Queens' 7/15).",
       "why": "You're caught up through Ep 7 at 4⭐ — heading into the final stretch."
     },
     {
@@ -47,260 +70,390 @@
       "format": "Feature film",
       "runtime": "~125 min",
       "match": "try",
-      "genres": ["Mystery", "Adventure"],
-      "tags": ["Millie Bobby Brown", "Henry Cavill", "Helena Bonham Carter", "Sherlock"],
-      "about": "Enola heads to Malta to get married; the wedding goes sideways when Sherlock disappears and a Moriarty-tied case pulls her back in. Henry Cavill returns as Sherlock; Himesh Patel joins as Dr. Watson.",
-      "why": "Light mystery + ensemble cast + witty banter fit your signals. New director (Philip Barantini) is the wildcard; previous two films landed solid 75–90% RT."
+      "genres": [
+        "Mystery",
+        "Adventure"
+      ],
+      "tags": [
+        "Millie Bobby Brown",
+        "Henry Cavill",
+        "Helena Bonham Carter",
+        "Sherlock"
+      ],
+      "about": "Third outing for the young sleuth. Darker, more sophisticated tone per early reviews; opened at 67–73% on Rotten Tomatoes (fresh but mixed).",
+      "why": "British mystery with a Sherlock-adjacent premise and a strong ensemble — light-ish tone with substance. Not a home run per critics but easy bedtime fare."
     },
     {
       "title": "Sugar — S2 Ep 3 'Watch Face'",
       "platform": "Apple TV+",
       "date": "2026-07-03",
-      "format": "Weekly Fri, 8 eps",
-      "runtime": "~40 min",
+      "format": "Weekly Fri, 8 eps through 8/7",
+      "runtime": "~45 min",
       "match": "try",
-      "genres": ["Mystery", "Neo-noir"],
-      "tags": ["Colin Farrell", "detective"],
-      "about": "Sugar's investigation deepens. Apple TV+'s sleek neo-noir continues weekly through 8/7.",
-      "why": "Limited info available pre-release; easy 40-min bedtime option if S2 has hooked you."
-    },
-    {
-      "title": "Mushoku Tensei: Jobless Reincarnation — S3 Premiere (Eps 1 & 2)",
-      "platform": "Crunchyroll",
-      "date": "2026-07-05",
-      "format": "Double-ep premiere, weekly Sun after",
-      "runtime": "~24 min × 2",
-      "match": "try",
-      "genres": ["Fantasy", "Isekai"],
-      "tags": ["Studio Bind return", "Eris Training Arc", "global simulcast"],
-      "about": "S3 opens the Eris Training Arc with a double premiere — Eris returns as a Sword King. Studio Bind back; director Ryosuke Shibuya returning.",
-      "why": "Top-rated isekai on Crunchyroll. Fantasy + world-building line up with your taste profile."
-    },
-    {
-      "title": "Daemons of the Shadow Realm — Ep 13 (Cour 2 Premiere)",
-      "platform": "Crunchyroll",
-      "date": "2026-07-04",
-      "format": "Weekly Sat, ~12 eps",
-      "runtime": "~24 min",
-      "match": "try",
-      "genres": ["Dark Fantasy", "Action"],
-      "tags": ["Hiromu Arakawa (FMA creator)", "supernatural"],
-      "about": "Cour 2 launches with a new OP/ED ('back shot' / 'Kujaku'). Continuation from the FMA creator's dark action series.",
-      "why": "Supernatural / mythology pings your taste profile. Saturday cadence works as weekend filler."
-    },
-    {
-      "title": "BLACK TORCH — Ep 1 (Premiere)",
-      "platform": "Crunchyroll",
-      "date": "2026-07-04",
-      "format": "Weekly Sat, simulcast",
-      "runtime": "~24 min",
-      "match": "try",
-      "genres": ["Supernatural", "Action"],
-      "tags": ["mononoke", "shinobi"],
-      "about": "Jiro, a reluctant shinobi who can communicate with animals, meets the powerful mononoke cat Rago.",
-      "why": "Supernatural + mythology themes match your taste signals. Sample Ep 1 to commit or pass."
-    },
-    {
-      "title": "Heroine? Saint? No, I'm an All-Works Maid — Ep 2",
-      "platform": "Crunchyroll",
-      "date": "2026-07-01",
-      "format": "Weekly, simulcast",
-      "runtime": "~24 min",
-      "match": "try",
-      "genres": ["Comedy", "Isekai"],
-      "tags": ["light tone"],
-      "about": "Summer 2026 simulcast kickoff title that landed a week ahead of the July rush.",
-      "why": "Light tone + comedy — possible 24-min filler if anime queue is thin."
+      "genres": [
+        "Neo-noir",
+        "Sci-Fi",
+        "Mystery"
+      ],
+      "tags": [
+        "Colin Farrell",
+        "detective",
+        "alien twist"
+      ],
+      "about": "Danny gets a lead on Ji as Sugar meets a new admirer. S2 leans harder into the alien-detective premise from S1's late-season pivot.",
+      "why": "Neo-noir detective with a sci-fi twist and a great lead — sits right in your wheelhouse. Weekly drop, easy bedtime cadence."
     },
     {
       "title": "Cape Fear — Ep 6",
       "platform": "Apple TV+",
       "date": "2026-07-03",
-      "format": "Weekly Fri, 10-ep limited (finale 7/31)",
-      "runtime": "~50 min",
+      "format": "Weekly Fri, 10 eps through 7/31",
+      "runtime": "~55 min",
       "match": "try",
-      "genres": ["Thriller", "Suspense"],
-      "tags": ["Javier Bardem", "Scorsese/Spielberg EPs"],
-      "about": "Antosca's update of the Scorsese / De Niro film continues weekly through 7/31.",
-      "why": "Bardem is the draw; pacing is the wildcard. Reasonable bedtime suspense at 50 min."
+      "genres": [
+        "Psychological Thriller",
+        "Drama"
+      ],
+      "tags": [
+        "Javier Bardem",
+        "Amy Adams",
+        "Patrick Wilson",
+        "Scorsese/Spielberg producers"
+      ],
+      "about": "Modern reimagining of the Cape Fear thriller. Bardem plays Max Cady opposite Amy Adams and Patrick Wilson.",
+      "why": "Critic-praised (Rotten Tomatoes calls Bardem 'manic charisma') — suspense in your wheelhouse. Halfway through the run."
     },
     {
-      "title": "I Will Find You — Limited Series (binge-ready)",
-      "platform": "Netflix",
-      "date": "2026-06-18",
-      "format": "8-ep limited",
-      "runtime": "~50 min × 8",
+      "title": "Mushoku Tensei: Jobless Reincarnation — S3 Premiere (Eps 1 & 2)",
+      "platform": "Crunchyroll",
+      "date": "2026-07-05",
+      "format": "Simulcast weekly, ~24 eps split-cour",
+      "runtime": "~24 min",
       "match": "try",
-      "genres": ["Thriller", "Mystery"],
-      "tags": ["Harlan Coben", "Britt Lower", "Sam Worthington"],
-      "about": "A father wrongly imprisoned for his son's murder learns the child may still be alive. Adapted from Coben's 2023 novel.",
-      "why": "Mixed RT (58% critics / 64% audience) but Netflix's biggest 2026 debut. Britt Lower (Severance) is the draw."
+      "genres": [
+        "Isekai",
+        "Fantasy",
+        "Adventure"
+      ],
+      "tags": [
+        "long-awaited return",
+        "world building",
+        "book adaptation"
+      ],
+      "about": "Rudeus's saga continues after a long wait between seasons. S3 kicks off with a two-episode drop.",
+      "why": "World-building + book adaptation + fantasy — checks your taste boxes if you're open to isekai."
     },
     {
-      "title": "Ride or Die",
-      "platform": "Amazon Prime Video",
-      "date": "2026-07-15",
-      "format": "Limited series",
-      "runtime": "TBD",
+      "title": "Daemons of the Shadow Realm — Ep 13 (Cour 2 Premiere)",
+      "platform": "Crunchyroll",
+      "date": "2026-07-04",
+      "format": "Simulcast weekly",
+      "runtime": "~24 min",
       "match": "try",
-      "genres": ["Action Comedy"],
-      "tags": ["Octavia Spencer", "Hannah Waddingham"],
-      "about": "A woman discovers her best friend (Spencer) is an international assassin. Waddingham co-stars in this buddy action-comedy.",
-      "why": "Waddingham + Spencer ensemble has comedy upside. Limited critic data yet — sample to commit."
+      "genres": [
+        "Dark Fantasy",
+        "Action"
+      ],
+      "tags": [
+        "Hiromu Arakawa",
+        "supernatural",
+        "twins"
+      ],
+      "about": "Cour 2 opens after the mid-season break. Yuru and Asa's origin story deepens.",
+      "why": "Supernatural / mythology thread from the Fullmetal Alchemist author — dark-fantasy taste-match."
     },
     {
-      "title": "Trying — S5 Premiere",
-      "platform": "Apple TV+",
-      "date": "2026-07-08",
-      "format": "Weekly Wed, 8 eps",
-      "runtime": "~30 min",
+      "title": "BLACK TORCH — Ep 1 (Premiere)",
+      "platform": "Crunchyroll",
+      "date": "2026-07-04",
+      "format": "Simulcast weekly",
+      "runtime": "~24 min",
       "match": "try",
-      "genres": ["Comedy", "Drama"],
-      "tags": ["British", "family"],
-      "about": "Nikki and Jason face fallout when Princess and Tyler's biological mother turns up at their door.",
-      "why": "Dry British humor + 30-min episodes match your signals. Premiere is next Wed — pin if you want a reminder."
-    },
-    {
-      "title": "Lucky — Premiere (Eps 1 & 2)",
-      "platform": "Apple TV+",
-      "date": "2026-07-15",
-      "format": "Weekly Wed, 7-ep limited (finale 8/19)",
-      "runtime": "~50 min",
-      "match": "try",
-      "genres": ["Crime Thriller", "Heist"],
-      "tags": ["Anya Taylor-Joy", "Annette Bening", "Timothy Olyphant", "Jonathan Tropper created"],
-      "about": "A multi-million-dollar heist goes sideways; con artist Lucky goes on the run from the FBI and a crime boss — sitting on a $390M winning lottery ticket.",
-      "why": "Created by Jonathan Tropper (Your Friends & Neighbors). Heist + ensemble fits your taste. Two weeks out — pin for a late-July binge."
+      "genres": [
+        "Supernatural",
+        "Action"
+      ],
+      "tags": [
+        "shonen",
+        "shinobi",
+        "mononoke"
+      ],
+      "about": "Jiro, a reluctant shinobi who can talk to animals, meets a powerful mononoke cat named Rago. Summer 2026 shonen premiere.",
+      "why": "Supernatural + action + off-beat lead — worth a try-week look."
     },
     {
       "title": "Elle (Legally Blonde prequel)",
       "platform": "Amazon Prime Video",
       "date": "2026-07-01",
-      "format": "Season",
-      "runtime": "~45 min × eps",
+      "format": "Series",
+      "runtime": "~30 min",
       "match": "skip",
-      "genres": ["Comedy", "Teen Drama"],
-      "tags": ["1990s Seattle"],
-      "about": "Young Elle Woods in a 1990s Seattle high school.",
-      "why": "Teen-drama prequel of a franchise outside your top genres — easy pass."
-    }
-  ],
-  "critics": [
-    {
-      "title": "Silo — S3",
-      "platform": "Apple TV+",
-      "date": "2026-07-03",
-      "format": "10-ep season, weekly Fri through 9/4",
-      "runtime": "~55 min × 10",
-      "match": "strong",
-      "genres": ["Sci-Fi", "Dystopian"],
-      "tags": ["S1: 86% RT", "S2: 95% RT", "book adaptation"],
-      "about": "Critic-loved sci-fi with consistently strong reviews across S1–S2. S4 already greenlit as the final season — momentum is real.",
-      "why": "Your hero pick is also the critics' pick. Convergence makes this a high-confidence start."
+      "genres": [
+        "Comedy",
+        "Coming-of-Age"
+      ],
+      "tags": [
+        "Elle Woods origin",
+        "1990s Seattle"
+      ],
+      "about": "Young Elle Woods breaks boundaries by wearing pink in a 1990s Seattle high school. Prequel to the Reese Witherspoon films.",
+      "why": "Broad-appeal comedy but leans juvenile/YA — likely a miss for your taste. Included for completeness."
     },
     {
-      "title": "Maximum Pleasure Guaranteed — S1 (in progress)",
-      "platform": "Apple TV+",
-      "date": "Weekly Wed, finale 7/15",
-      "format": "10-ep limited",
-      "runtime": "~30 min × 10",
-      "match": "strong",
-      "genres": ["Dark Comedy", "Drama"],
-      "tags": ["Tatiana Maslany", "Apple's standout 2026 original"],
-      "about": "Maslany-led dark comedy that critics have rallied behind as one of the year's best Apple originals.",
-      "why": "You're already in it at 4⭐ — critics confirm your read. Stay current; Ep 8 'Hallidays' lands Wed 7/1."
-    },
-    {
-      "title": "Mushoku Tensei: Jobless Reincarnation — S3",
-      "platform": "Crunchyroll",
-      "date": "2026-07-05",
-      "format": "Double-ep premiere, weekly Sun after",
-      "runtime": "~24 min × eps",
+      "title": "Worst Neighbor Ever",
+      "platform": "Netflix",
+      "date": "2026-07-01",
+      "format": "Docuseries",
+      "runtime": "~45 min × ep",
       "match": "try",
-      "genres": ["Fantasy", "Isekai"],
-      "tags": ["Crunchyroll top-rated isekai", "Studio Bind"],
-      "about": "Crunchyroll's flagship isekai returns after a 2.5-year gap. Studio Bind, returning director.",
-      "why": "Crunchyroll's highest-rated returning series this summer. Fantasy + world-building match your profile."
-    }
-  ],
-  "upcoming_alerts": [
-    {
-      "title": "Your Friends & Neighbors — S2 (NOW STREAMING — complete)",
-      "platform": "Apple TV+",
-      "date": "2026-06-05",
-      "note": "S2 finale 'The Night of the Hunter' dropped 6/5; all 10 eps available. You're pinned at Ep 7 — the rest of the season is binge-ready. S3 already renewed."
+      "genres": [
+        "True Crime",
+        "Docuseries"
+      ],
+      "tags": [
+        "spinoff of Worst Roommate Ever"
+      ],
+      "about": "True-crime spinoff exploring nightmare neighbor stories.",
+      "why": "Not the main lane, but light true-crime can be easy bedtime filler."
     },
     {
-      "title": "The Legend of Vox Machina — S4 (NOW STREAMING — complete, 12 eps)",
+      "title": "Ride or Die",
       "platform": "Amazon Prime Video",
-      "date": "Currently streaming",
-      "note": "Tier-3 critic-validated full binge (you pinned this 6/29). Still on the shortlist if you want a quick all-at-once option this week."
+      "date": "2026-07-15",
+      "format": "Feature film",
+      "runtime": "~110 min",
+      "match": "try",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "tags": [
+        "Octavia Spencer",
+        "Hannah Waddingham",
+        "buddy assassin"
+      ],
+      "about": "A woman discovers her best friend is a professional assassin.",
+      "why": "Buddy comedy + action — Waddingham brings the wit. Two-week horizon pin."
     },
     {
       "title": "Trying — S5 Premiere",
       "platform": "Apple TV+",
       "date": "2026-07-08",
-      "note": "Weekly Wed, 8 eps. British dry-humor comedy."
+      "format": "Weekly Wed, 8 eps through 8/26",
+      "runtime": "~30 min",
+      "match": "try",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "tags": [
+        "British",
+        "warmth",
+        "30-min eps"
+      ],
+      "about": "Nikki and Jason continue navigating parenthood. Season 5 opens next week.",
+      "why": "British warmth, 30-min eps, light-with-substance — a bedtime fit."
     },
     {
       "title": "Lucky — Premiere (Eps 1 & 2)",
       "platform": "Apple TV+",
       "date": "2026-07-15",
-      "note": "7-ep limited, weekly Wed (finale 8/19). Anya Taylor-Joy heist; created by Jonathan Tropper (Your Friends & Neighbors)."
+      "format": "Limited series",
+      "runtime": "~50 min",
+      "match": "try",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "tags": [
+        "Anya Taylor-Joy",
+        "Annette Bening",
+        "Timothy Olyphant",
+        "book adaptation"
+      ],
+      "about": "A young woman who left the criminal life behind is pulled back in for one final escape. Based on Marissa Stapley's novel.",
+      "why": "Book adaptation + stacked cast + heist-adjacent thriller — worth the pin-ahead."
+    },
+    {
+      "title": "Heartstopper Forever (Series Finale Film)",
+      "platform": "Netflix",
+      "date": "2026-07-17",
+      "format": "Feature film (series finale)",
+      "runtime": "~110 min",
+      "match": "skip",
+      "genres": [
+        "Romance",
+        "Coming-of-Age",
+        "LGBTQ+"
+      ],
+      "tags": [
+        "series finale",
+        "LGBTQ+"
+      ],
+      "about": "The Heartstopper saga wraps as a feature film after three seasons.",
+      "why": "LGBTQ+ inclusive lands, but the YA tone typically misses for you. Flagged in case."
+    },
+    {
+      "title": "Little House on the Prairie",
+      "platform": "Netflix",
+      "date": "2026-07-09",
+      "format": "Series reboot",
+      "runtime": "~50 min × ep",
+      "match": "skip",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "tags": [
+        "reboot",
+        "family"
+      ],
+      "about": "Reboot of the classic 1970s series.",
+      "why": "Wholesome family drama, not your lane. Included for calendar completeness."
+    }
+  ],
+  "critics": [
+    {
+      "title": "Cape Fear",
+      "platform": "Apple TV+",
+      "date": "2026-06-05",
+      "format": "10-ep series, weekly Fri through 7/31",
+      "runtime": "~55 min",
+      "match": "try",
+      "genres": [
+        "Psychological Thriller",
+        "Drama"
+      ],
+      "tags": [
+        "Javier Bardem",
+        "Amy Adams",
+        "critic-fresh",
+        "Scorsese/Spielberg producers"
+      ],
+      "about": "Modern series adaptation of the Cape Fear thriller. Bardem as Max Cady opposite Amy Adams and Patrick Wilson.",
+      "why": "Rotten Tomatoes flags Bardem's 'manic charisma' — genre-elevated suspense on your platform. Six episodes in; can catch up or wait for the finale binge."
+    },
+    {
+      "title": "For All Mankind — currently streaming",
+      "platform": "Apple TV+",
+      "date": "2026-06-01",
+      "format": "5 completed seasons + S6 in development",
+      "runtime": "~60 min × ep",
+      "match": "try",
+      "genres": [
+        "Sci-Fi",
+        "Alt-History",
+        "Drama"
+      ],
+      "tags": [
+        "ensemble cast",
+        "world building",
+        "critic-favorite"
+      ],
+      "about": "Alt-history space race — the show critics keep calling 'one of TV's most compelling sci-fi sagas.' All 5 seasons available for a deep binge.",
+      "why": "World-building + ensemble + sci-fi — hits your core signals. If you want a big backlog binge instead of weekly drops, this is the pick."
+    },
+    {
+      "title": "The Vampire Lestat",
+      "platform": "AMC+ (rental via Apple TV — heads up)",
+      "date": "2026-06-15",
+      "format": "Series",
+      "runtime": "~55 min",
+      "match": "try",
+      "genres": [
+        "Supernatural",
+        "Horror",
+        "Drama"
+      ],
+      "tags": [
+        "Sam Reid",
+        "Jacob Anderson",
+        "critic-favorite",
+        "gothic"
+      ],
+      "about": "Anne Rice adaptation follow-up. Sam Reid's Lestat gets described as 'snarling, campy, magnetic.'",
+      "why": "Supernatural + gothic + ensemble — hits your taste, but note this lives on AMC+ (not one of your 4 core services). Would require a rental/add-on if you want in."
+    }
+  ],
+  "upcoming_alerts": [
+    {
+      "title": "The Legend of Vox Machina — S4 (NOW STREAMING)",
+      "platform": "Amazon Prime Video",
+      "date": "2026-06-24",
+      "note": "All 12 episodes now available (weekly rollout ended 6/24). Watchlist pin — go binge."
+    },
+    {
+      "title": "Your Friends & Neighbors — S2 (NOW STREAMING)",
+      "platform": "Apple TV+",
+      "date": "2026-06-27",
+      "note": "Season 2 now fully available. Watchlist pin."
+    },
+    {
+      "title": "Trying — S5",
+      "platform": "Apple TV+",
+      "date": "2026-07-08",
+      "note": "Weekly Wed through 8/26. British warm comedy — bedtime fit."
+    },
+    {
+      "title": "Lucky",
+      "platform": "Apple TV+",
+      "date": "2026-07-15",
+      "note": "Limited-series premiere (Eps 1–2). Anya Taylor-Joy + Annette Bening + Timothy Olyphant, book adaptation."
+    },
+    {
+      "title": "Ride or Die",
+      "platform": "Amazon Prime Video",
+      "date": "2026-07-15",
+      "note": "Buddy-assassin comedy — Octavia Spencer + Hannah Waddingham."
+    },
+    {
+      "title": "Heartstopper Forever",
+      "platform": "Netflix",
+      "date": "2026-07-17",
+      "note": "Series finale film — LGBTQ+ but likely YA-leaning for your taste."
     },
     {
       "title": "The Dink",
       "platform": "Apple TV+",
       "date": "2026-07-24",
-      "note": "Ben Stiller + Patton Oswalt underdog pickleball comedy."
+      "note": "Tennis-prodigy-turned-country-club-coach comedy."
     },
     {
-      "title": "Batman: Caped Crusader — S2 (all 10 eps drop at once)",
+      "title": "72 Hours (Kevin Hart)",
+      "platform": "Netflix",
+      "date": "2026-07-24",
+      "note": "Kevin Hart Netflix original comedy — action-adjacent."
+    },
+    {
+      "title": "Batman: Caped Crusader — S2",
       "platform": "Amazon Prime Video",
       "date": "2026-07-31",
-      "note": "Full-season drop. Bruce Timm + Reeves + Abrams; Joker, Riddler debut. Adult animation noir."
-    },
-    {
-      "title": "Re:ZERO -Starting Life in Another World- S4 Part 2 (Recapture Arc)",
-      "platform": "Crunchyroll",
-      "date": "2026-08-12",
-      "note": "8 episodes, weekly through finale on 9/30."
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle (Film 1)",
-      "platform": "Crunchyroll (expected) — TBD",
-      "date": "TBD — not yet on JustWatch",
-      "note": "Crunchyroll + Ufotable host an Infinity Castle panel at Anime Expo 7/3 — official streaming announcement likely. Until then, JustWatch still shows no streaming offer."
+      "note": "Bruce Timm / Matt Reeves / J.J. Abrams-produced spiritual successor to BTAS. Season 2 drop."
     },
     {
       "title": "Slow Horses — S6",
       "platform": "Apple TV+",
       "date": "2026-09-16",
-      "note": "Confirmed: 6 eps, weekly Wed, finale 10/21. Based on Joe Country + Slough House. Loved-list pickup."
+      "note": "Loved-list favorite. 6-ep season based on 'Joe Country' + 'Slough House' — weekly Wed through 10/21. Diana Taverner revenge scheme sends the Slough House on the run. S7 already filmed."
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
+      "platform": "TBD (Crunchyroll expected)",
+      "date": "TBD",
+      "note": "Loved-list continuation. Streaming date still unconfirmed — 7/29 date leaked via Prime CA was retracted. Crunchyroll/Ufotable Anime Expo panel 7/3 5-6pm PT is the likely announcement window. Watchlist pin — will flag NOW STREAMING immediately when confirmed."
     },
     {
       "title": "Foundation — S4",
       "platform": "Apple TV+",
-      "date": "Mid–late 2027 (estimated)",
-      "note": "Filming Jan–Jul 2026 in Prague. New showrunner Ian Goldberg. No official date yet."
+      "date": "2027 (mid-late)",
+      "note": "Loved-list continuation. Filming began Jan 2026 in Prague. Est. premiere ~July 2027 (following the S1→S2→S3 two-year cadence)."
     },
     {
-      "title": "Severance — S3",
-      "platform": "Apple TV+",
-      "date": "Summer 2027 (estimated)",
-      "note": "Filming April–December 2026. Apple has confirmed a four-season plan."
-    },
-    {
-      "title": "Black Mirror — S8",
-      "platform": "Netflix",
-      "date": "Late 2027 (estimated)",
-      "note": "Renewed January 2026; Brooker confirmed early writing phase."
-    },
-    {
-      "title": "Rick and Morty — S9 (airing now)",
-      "platform": "HBO Max / Hulu (NOT on your platforms)",
-      "date": "Weekly through 7/26/2026",
-      "note": "S9 is airing on Adult Swim with HBO Max + Hulu next-day streaming. Awareness only — off your services."
+      "title": "Rick and Morty — S9 (Off-platform)",
+      "platform": "HBO Max / Hulu",
+      "date": "2026-06-15 (streaming)",
+      "note": "Loved-list, but landed on HBO Max/Hulu, not your 4 core services. Would require a rental/add-on if you want in this season."
     }
   ]
 }
