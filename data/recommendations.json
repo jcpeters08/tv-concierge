@@ -1,7 +1,7 @@
 {
   "source": "Refreshed by daily scheduled task. Loved-list cross-check + watchlist availability check + critics scan, then taste-matched against taste-profile.json.",
-  "synced_at": "2026-07-01T13:38:08Z",
-  "generated_at": "2026-07-01T13:38:08Z",
+  "synced_at": "2026-07-02T13:25:44Z",
+  "generated_at": "2026-07-02T13:25:44Z",
   "week_label": "Jun 29 – Jul 5, 2026",
   "hero": {
     "title": "Silo — S3 (Premiere)",
@@ -22,9 +22,9 @@
       "Rebecca Ferguson"
     ],
     "about": "Juliette returns from her forced exile with her memory wiped, while the silo recovers from rebellion and confronts a deadlier new threat. An origin-story thread set centuries earlier expands the world. S4 is already locked as the final season.",
-    "why": "You rated Silo S1–S2 at 4.5⭐ and just pinned S3 to your watchlist — the biggest hit on your platforms this week. Sci-fi + world-building + book adaptation lands every box your taste profile asks for, and Friday weekly drops give you a steady bedtime cadence through Labor Day.",
+    "why": "You rated Silo S1–S2 at 4.5⭐ and pinned S3 to your watchlist — the biggest hit on your platforms this week, and it drops TOMORROW. S3 opens at 100% on Rotten Tomatoes (up from 88% S1, 92% S2). Sci-fi + world-building + book adaptation lands every box your taste profile asks for, and Friday weekly drops give you a steady bedtime cadence through Labor Day.",
     "priority_tier": 2,
-    "priority_reason": "Watchlist title becoming streamable this week (pinned 2026-07-01, drops 2026-07-03)"
+    "priority_reason": "Watchlist title becoming streamable tomorrow (drops 2026-07-03) — also 100% RT critic-validated"
   },
   "new_this_week": [
     {
@@ -43,7 +43,7 @@
         "book adaptation"
       ],
       "about": "Season 3 premiere. Juliette returns memory-wiped; the silo faces a new threat as the prequel timeline opens.",
-      "why": "You're 4.5⭐ on S1–S2 — this is the must-watch this week."
+      "why": "You're 4.5⭐ on S1–S2 — 100% Rotten Tomatoes on S3 debut. Must-watch tomorrow."
     },
     {
       "title": "Maximum Pleasure Guaranteed — Ep 8 'Hallidays'",
@@ -60,8 +60,8 @@
         "Maslany-led",
         "dark humor"
       ],
-      "about": "Paula hits rock bottom but can't let the investigation go; Rudy suspects Geri's keeping secrets. Third-to-last episode (Ep 9 7/8, finale 'Queens' 7/15).",
-      "why": "You're caught up through Ep 7 at 4⭐ — heading into the final stretch."
+      "about": "Paula hits rock bottom but can't let the investigation go; Rudy suspects Geri's keeping secrets. Ep 8 dropped yesterday (7/1); Ep 9 lands 7/8, finale 'Queens' 7/15.",
+      "why": "You're caught up through Ep 7 at 4⭐ — Ep 8 is ready to watch tonight."
     },
     {
       "title": "Enola Holmes 3",
@@ -80,8 +80,8 @@
         "Helena Bonham Carter",
         "Sherlock"
       ],
-      "about": "Third outing for the young sleuth. Darker, more sophisticated tone per early reviews; opened at 67–73% on Rotten Tomatoes (fresh but mixed).",
-      "why": "British mystery with a Sherlock-adjacent premise and a strong ensemble — light-ish tone with substance. Not a home run per critics but easy bedtime fare."
+      "about": "Third outing for the young sleuth — this time in Malta, where her wedding gets interrupted by a kidnapping plot. Darker, more sophisticated tone per early reviews. Opened at 67–73% on Rotten Tomatoes (fresh but mixed). Dropped 7/1.",
+      "why": "British mystery, Sherlock-adjacent, strong ensemble — light-ish tone with substance. Available now."
     },
     {
       "title": "Sugar — S2 Ep 3 'Watch Face'",
@@ -311,6 +311,26 @@
       ],
       "about": "Reboot of the classic 1970s series.",
       "why": "Wholesome family drama, not your lane. Included for calendar completeness."
+    },
+    {
+      "title": "Ghost in the Shell (Science SARU)",
+      "platform": "Amazon Prime Video",
+      "date": "2026-07-07",
+      "format": "Anime series",
+      "runtime": "~24 min",
+      "match": "try",
+      "genres": [
+        "Sci-Fi",
+        "Cyberpunk",
+        "Action"
+      ],
+      "tags": [
+        "Science SARU",
+        "Masamune Shirow adaptation",
+        "world building"
+      ],
+      "about": "First Science SARU adaptation of the Ghost in the Shell franchise, kicking off Prime Video's summer 2026 anime slate.",
+      "why": "Cyberpunk sci-fi + world-building + fresh studio take — sits right in your taste lane. Anime on Prime, not Crunchyroll, so easy to catch."
     }
   ],
   "critics": [
@@ -378,6 +398,18 @@
   ],
   "upcoming_alerts": [
     {
+      "title": "Good Omens — Series Finale (90-min episode) (NOW STREAMING)",
+      "platform": "Amazon Prime Video",
+      "date": "2026-05-13",
+      "note": "Watchlist item — dropped as a single 90-min feature-length finale. Aziraphale + Crowley wrap the saga. Go watch, then rate."
+    },
+    {
+      "title": "Widow's Bay — Ep 4 'Beach Reads' (NOW STREAMING)",
+      "platform": "Apple TV+",
+      "date": "2026-05-13",
+      "note": "Watchlist pin — Ep 4 aired 5/13 and has been available since. Series has continued past this episode."
+    },
+    {
       "title": "The Legend of Vox Machina — S4 (NOW STREAMING)",
       "platform": "Amazon Prime Video",
       "date": "2026-06-24",
@@ -441,7 +473,7 @@
       "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
       "platform": "TBD (Crunchyroll expected)",
       "date": "TBD",
-      "note": "Loved-list continuation. Streaming date still unconfirmed — 7/29 date leaked via Prime CA was retracted. Crunchyroll/Ufotable Anime Expo panel 7/3 5-6pm PT is the likely announcement window. Watchlist pin — will flag NOW STREAMING immediately when confirmed."
+      "note": "Loved-list continuation. Streaming date still unconfirmed as of 2026-07-02 — 7/29 date leaked via Prime CA was retracted. Crunchyroll/Ufotable Anime Expo panel TOMORROW (7/3, 5-6pm PT, Peacock Theater LA) is the likely announcement window. Watchlist pin — will flag NOW STREAMING immediately when confirmed."
     },
     {
       "title": "Foundation — S4",
