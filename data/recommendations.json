@@ -1,343 +1,343 @@
 {
-  "generated_at": "2026-07-04T16:20:00Z",
-  "week_label": "Jun 29 – Jul 5, 2026",
+  "generated_at": "2026-07-05T16:20:00Z",
+  "week_label": "Jul 6 – Jul 12, 2026",
   "source": "Daily scheduled task refresh. Built from taste-profile.json + web search of the last 4 weeks of releases, weighed against watched.json and watchlist.json; excludes titles in not-interested.json.",
   "hero": {
-    "title": "Silo — S3 (Premiere, Ep 1 streaming)",
-    "platform": "Apple TV+",
-    "date": "2026-07-03",
-    "format": "10-ep season, weekly Fridays through 9/4; Ep 2 'It's All Good' drops 7/10",
-    "runtime": "~55 min × 10",
+    "title": "The Legend of Vox Machina — S4 (Complete, 12 eps)",
+    "platform": "Amazon Prime Video",
+    "date": "2026-06-24",
+    "format": "12-ep season, full binge available",
+    "runtime": "~28 min × 12",
     "match": "strong",
-    "genres": ["Sci-Fi", "Dystopian", "Mystery"],
-    "tags": ["book adaptation", "world building", "ensemble cast", "Rebecca Ferguson"],
-    "about": "Juliette returns from her forced exile with her memory wiped, now the silo's mayor. A prequel timeline set centuries earlier explores how the world ended. S4 is already locked as the final season.",
-    "why": "You rated Silo S1–S2 at 4.5⭐ and pinned S3 to your watchlist — Ep 1 has been streaming since 3am ET Friday. S3 opened at 100% on Rotten Tomatoes ('a masterful dystopian tale with expertly driven character arcs') and hit #1 on Apple TV's global chart in 97 countries within 24 hours. Sci-fi + world-building + book adaptation hits every taste-profile box. Ep 2 lands Friday 7/10 — a perfect Sat-night start-your-Silo-weekend hero.",
+    "genres": ["Fantasy", "Animated", "Adult Comedy"],
+    "tags": ["watchlist", "witty banter", "ensemble cast", "world building", "dark humor + fantasy combo"],
+    "about": "Vox Machina takes on the second half of Vecna's arc — a darker, more emotional stretch that critics are calling the boldest season yet. Adapted from Critical Role's original D&D campaign; Sam Riegel returns as showrunner alongside the Critical Role cast.",
+    "why": "It's on your watchlist and just finished dropping — the last 3 eps landed 6/24, so you can start it tonight and binge without waiting. S4 set a Rotten Tomatoes record: fourth consecutive 100% RT season (no other Prime original has done that), 94% audience. Fantasy + witty banter + ensemble + adult-animated with dark humor = the Solar Opposites / Good Omens / Rick and Morty overlap that consistently lands 4★+ for you.",
     "priority_tier": 2,
-    "priority_reason": "Watchlist title still just-became-streamable (Ep 1 dropped 2026-07-03) — reinforced by 100% RT + #1 global streaming chart. Demon Slayer: Infinity Castle would be a Tier-1 Loved-list continuation, but its confirmed 7/28 date is still 24 days out — surfaced prominently in upcoming_alerts instead."
+    "priority_reason": "Watchlist title that just became fully streamable (complete season available 2026-06-24 → 11 days ago). Beats yesterday's Silo S3 hero on 'actionable tonight' — Silo Ep 2 doesn't drop until Fri 7/10, but Vox Machina is a full 12-ep binge ready right now. Demon Slayer: Infinity Castle would be Tier-1 Loved-list continuation, but its confirmed 7/28 streaming date is still 23 days out — held for upcoming_alerts."
   },
   "new_this_week": [
     {
       "title": "Silo — S3 Ep 2 'It's All Good'",
       "platform": "Apple TV+",
       "date": "2026-07-10",
-      "format": "Weekly Fri, 10 eps",
+      "format": "Weekly Fri, 10 eps through 9/4",
       "runtime": "~55 min",
       "match": "strong",
       "genres": ["Sci-Fi", "Dystopian"],
-      "tags": ["world building", "book adaptation"],
+      "tags": ["watchlist", "world building", "book adaptation"],
       "about": "Billings investigates a disappearance; Daniel Keene has a run-in with a reporter. Drops 3am ET Friday.",
-      "why": "Direct continuation of your just-launched hero — you're 4.5⭐ on S1–S2, and the season is holding 100% RT after Ep 1."
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle (Chapter I)",
-      "platform": "Crunchyroll (also Apple TV, Prime Video, and Netflix in Asia)",
-      "date": "2026-07-28",
-      "format": "Theatrical film, first of the Infinity Castle trilogy",
-      "runtime": "~155 min",
-      "match": "strong",
-      "genres": ["Anime", "Action", "Supernatural"],
-      "tags": ["Loved-list continuation", "watchlist", "book/manga adaptation", "Ufotable"],
-      "about": "The Hashira and Tanjiro's team plunge into Muzan's Infinity Castle for the final arc. Chapter I is the first installment of the trilogy that closes out the series.",
-      "why": "Loved-list continuation AND on your watchlist. Streaming date CONFIRMED at Anime Expo 2026 (7/3) after a year of speculation — worldwide on Crunchyroll 7/28 at 8am PT, subs + English theatrical dub, also up on Apple TV / Prime Video same day. Highest-priority mark-your-calendar."
+      "why": "You rated S1–S2 at 4.5★ and pinned S3 to your watchlist. S3 opened at 100% RT and hit #1 on Apple TV+ global chart in 97 countries in 24 hours. If you haven't started Ep 1 (dropped 7/3), Fri 7/10 is a natural two-episode kickoff."
     },
     {
       "title": "Trying — S5 Premiere",
       "platform": "Apple TV+",
       "date": "2026-07-08",
-      "format": "8-ep season, weekly through 8/26",
+      "format": "8-ep season, weekly Wed through 8/26",
       "runtime": "~30 min",
       "match": "strong",
       "genres": ["Comedy", "Drama"],
-      "tags": ["British", "witty banter", "warm-hearted"],
-      "about": "Nikki and Jason return for a fifth run of the adoption-into-parenting comedy. Weekly Wednesdays through late August.",
-      "why": "Dry British comedy in 30-min episodes = your sweet spot before bed. S1–S4 have averaged in the 90s on RT."
+      "tags": ["British", "witty banter", "warm-hearted", "30-min episodes"],
+      "about": "Nikki and Jason return; the biological mother of the kids turns up on their doorstep. Weekly Wednesdays through late August.",
+      "why": "Dry British comedy in 30-min episodes = your bedtime sweet spot. S1–S4 have averaged 90%+ on RT and the audience score is even higher."
+    },
+    {
+      "title": "Cape Fear — Ep 7",
+      "platform": "Apple TV+",
+      "date": "2026-07-10",
+      "format": "Weekly Fri, 10-ep S1 through 7/31",
+      "runtime": "~50 min",
+      "match": "try",
+      "genres": ["Thriller", "Suspense", "Drama"],
+      "tags": ["Javier Bardem", "Amy Adams", "Scorsese exec producer"],
+      "about": "The Bowden family's cat-and-mouse with Max Cady continues. Ep 7 drops Fri.",
+      "why": "Horror/suspense box, prestige cast, tight 10-ep run. Try Ep 1 if you're not in already — currently sitting in the 80s on RT."
     },
     {
       "title": "Maximum Pleasure Guaranteed — Ep 9 'Erroneous'",
       "platform": "Apple TV+",
       "date": "2026-07-08",
       "format": "Weekly Wed, 10-ep S1",
-      "runtime": "~40 min",
+      "runtime": "~35 min",
       "match": "try",
-      "genres": ["Comedy", "Drama"],
-      "tags": ["ensemble", "workplace comedy"],
-      "about": "Custody hearings, conspiracy theories thickening, and an attack that pulls the fact-checkers back in. Penultimate episode before the 7/15 finale.",
-      "why": "You've stuck with it through Ep 8 — worth finishing the season."
+      "genres": ["Comedy Thriller", "Crime"],
+      "tags": ["Tatiana Maslany", "dark comedy"],
+      "about": "Penultimate episode. Weekly Wednesdays.",
+      "why": "You caught up through Ep 7 last week (3.5★ average). Ep 9 continues the setup toward finale — worth staying on if it's still clicking."
     },
     {
-      "title": "Cape Fear — Ep 7",
-      "platform": "Apple TV+",
-      "date": "2026-07-10",
-      "format": "Weekly Fri, 10-ep S1",
-      "runtime": "~50 min",
-      "match": "try",
-      "genres": ["Thriller", "Suspense"],
-      "tags": ["remake", "psychological"],
-      "about": "Weekly Friday drop of the Apple thriller (Ep 6 'Possum' just landed 7/3).",
-      "why": "Suspense with critic pedigree — pairs cleanly with Silo Fridays."
+      "title": "The Ghost in the Shell (Science SARU)",
+      "platform": "Amazon Prime Video",
+      "date": "2026-07-07",
+      "format": "Weekly Tue premieres",
+      "runtime": "~24 min × 12",
+      "match": "strong",
+      "genres": ["Sci-Fi", "Anime", "Cyberpunk"],
+      "tags": ["reboot", "Dandadan studio", "world building"],
+      "about": "Science SARU's fresh take on Motoko Kusanagi and Section 9. First non-Production I.G. GITS in 30 years; endorsed by original creator Masamune Shirow.",
+      "why": "Sci-fi + world-building + anime = triple hit on your taste graph. Science SARU's Dandadan was a critical darling — this is their swing at an all-time franchise. Premieres on Prime Video worldwide except Japan/Vietnam."
     },
     {
-      "title": "Sugar — S2 Ep 4",
-      "platform": "Apple TV+",
-      "date": "2026-07-10",
-      "format": "Weekly Fri",
-      "runtime": "~45 min",
+      "title": "BLACK TORCH",
+      "platform": "Crunchyroll",
+      "date": "2026-07-04",
+      "format": "Weekly Sat simulcast",
+      "runtime": "~24 min",
       "match": "try",
-      "genres": ["Neo-noir", "Mystery"],
-      "tags": ["Colin Farrell", "genre twist"],
-      "about": "Colin Farrell's PI-with-a-secret continues into S2's back half.",
-      "why": "S1's mid-season twist earned taste-profile signals; S2 is holding a similar shape."
+      "genres": ["Anime", "Action", "Supernatural"],
+      "tags": ["Weekly Shonen Jump", "shonen action"],
+      "about": "A ninja descendant who can speak to animals bonds with a legendary demon cat. Simulcast Sat.",
+      "why": "Supernatural/mythology + action shonen — Ep 1 drops this week, low-commitment test at 24 min."
     },
     {
       "title": "Grand Blue Dreaming — S3 Premiere",
       "platform": "Crunchyroll",
       "date": "2026-07-06",
-      "format": "Weekly, cour 1",
-      "runtime": "~24 min",
+      "format": "Weekly Mon simulcast",
+      "runtime": "~24 min × 12",
       "match": "try",
       "genres": ["Anime", "Comedy"],
-      "tags": ["gag anime", "college life"],
-      "about": "Iori and the diving club return after a 7-year wait. Broad slapstick comedy set at a Japanese seaside university.",
-      "why": "Comedy anime with an ensemble cast — a lighter Crunchyroll counterweight to your Demon Slayer wait."
+      "tags": ["ensemble", "off-beat humor"],
+      "about": "The Izu diving-club crew returns after a seven-year gap. Same absurdist comedy tone.",
+      "why": "Off-beat/quirky comedy — matches signals_what_lands. Only proceed if Ep 1 doesn't lean into juvenile drinking humor, which is the show's known weak spot."
     },
     {
-      "title": "BLACK TORCH — Weekly episodes",
-      "platform": "Crunchyroll",
-      "date": "2026-07-04",
-      "format": "Weekly Sat, cour 1",
-      "runtime": "~24 min",
-      "match": "try",
-      "genres": ["Anime", "Action", "Supernatural"],
-      "tags": ["shonen", "yokai"],
-      "about": "A ninja descendant fuses with a black cat spirit and gets pulled into a supernatural bureau's war on evil spirits. Ep 1 dropped today.",
-      "why": "Supernatural/mythology + shonen action — a stopgap while Infinity Castle waits."
-    },
-    {
-      "title": "Mushoku Tensei: Jobless Reincarnation — S3 (weekly)",
-      "platform": "Crunchyroll",
-      "date": "2026-07-05",
-      "format": "Weekly Sun",
-      "runtime": "~24 min",
-      "match": "try",
-      "genres": ["Anime", "Fantasy", "Isekai"],
-      "tags": ["world building", "book adaptation"],
-      "about": "The isekai heavyweight returns after the double-episode premiere on 7/5.",
-      "why": "Deep world-building + long-form adaptation — your kind of Sunday anime."
-    },
-    {
-      "title": "Ghost in the Shell (Science SARU)",
-      "platform": "Amazon Prime Video",
-      "date": "2026-07-07",
-      "format": "Series, full drop",
-      "runtime": "~30 min episodes",
-      "match": "strong",
-      "genres": ["Sci-Fi", "Anime", "Cyberpunk"],
-      "tags": ["world building", "adaptation", "philosophical"],
-      "about": "Science SARU's new take on the Ghost in the Shell franchise arrives Tuesday on Prime.",
-      "why": "Sci-fi world-building with a heady philosophical bent — matches the Foundation / Severance vein."
-    },
-    {
-      "title": "Lucky — Premiere (Eps 1 & 2)",
+      "title": "Lucky",
       "platform": "Apple TV+",
       "date": "2026-07-15",
-      "format": "8-ep season, double-ep premiere then weekly",
-      "runtime": "~45 min",
+      "format": "Limited series premiere",
+      "runtime": "TBD",
       "match": "try",
-      "genres": ["Comedy", "Drama"],
-      "tags": ["Apple original", "character-driven"],
-      "about": "New Apple TV+ dramedy — full premiere details still light. Two-episode drop to open.",
-      "why": "Apple original + character-driven — worth a look on premiere day. Limited info available; assess after the pilot."
+      "genres": ["Thriller", "Drama"],
+      "tags": ["Anya Taylor-Joy", "Annette Bening", "Timothy Olyphant", "book adaptation"],
+      "about": "Adapted from Marissa Stapley's novel; a young woman flees the crime family she was raised in.",
+      "why": "Book adaptation + ensemble prestige cast + suspense — one to mark for next week."
+    },
+    {
+      "title": "Heartstopper Forever (Series Finale Film)",
+      "platform": "Netflix",
+      "date": "2026-07-17",
+      "format": "Feature film finale",
+      "runtime": "~110 min (est.)",
+      "match": "try",
+      "genres": ["Drama", "Romance", "Coming-of-Age"],
+      "tags": ["LGBTQ+ inclusive", "book adaptation", "light(ish) tone with substance"],
+      "about": "Alice Oseman adapts the final graphic novel and the Nick & Charlie novella into a movie that closes the series.",
+      "why": "LGBTQ+ inclusive + book adaptation = two direct signals_what_lands hits. Might edge into 'sad drama' territory (lower priority) so labeled 'try' — good for a lighter bedtime night."
     },
     {
       "title": "Ride or Die",
       "platform": "Amazon Prime Video",
       "date": "2026-07-15",
-      "format": "Series, full drop",
-      "runtime": "~40 min",
+      "format": "8-ep season",
+      "runtime": "TBD",
       "match": "try",
-      "genres": ["Comedy", "Action"],
-      "tags": ["ensemble", "witty banter"],
-      "about": "Hannah Waddingham + Octavia Spencer lead a comedy-with-action series they also EP.",
-      "why": "Waddingham's Ted Lasso comedic chops + Octavia Spencer = your ensemble/witty-banter wheelhouse."
+      "genres": ["Action", "Comedy", "Thriller"],
+      "tags": ["Octavia Spencer", "Hannah Waddingham", "witty banter"],
+      "about": "Two old best friends discover one has been an elite international assassin — cue chaos across Europe.",
+      "why": "Witty banter + suspense + prestige cast. Hannah Waddingham's presence is a Ted-Lasso-adjacent quality tell."
     },
     {
       "title": "The Dink",
       "platform": "Apple TV+",
       "date": "2026-07-24",
-      "format": "Film",
-      "runtime": "~100 min",
+      "format": "Comedy series premiere",
+      "runtime": "~30 min",
       "match": "try",
       "genres": ["Comedy", "Sports"],
-      "tags": ["dry humor", "underdog"],
-      "about": "Former tennis prodigy Dusty Boyd falls into pickleball after a career-ending injury. Sports comedy film.",
-      "why": "Low-stakes sports comedy premise — a light option for a bedtime slot."
+      "tags": ["30-min episodes", "underdog"],
+      "about": "A washed-up former tennis prodigy is reduced to coaching unruly kids at his father's country club.",
+      "why": "30-min comedy with a light premise. Test-episode candidate."
     },
     {
-      "title": "72 Hours (Kevin Hart)",
+      "title": "The Hawk",
       "platform": "Netflix",
-      "date": "2026-07-24",
-      "format": "Film",
-      "runtime": "~100 min",
+      "date": "2026-07-16",
+      "format": "Comedy series premiere",
+      "runtime": "~30 min (est.)",
       "match": "try",
-      "genres": ["Comedy", "Action"],
-      "tags": ["Kevin Hart"],
-      "about": "Netflix action-comedy vehicle for Kevin Hart.",
-      "why": "Not your usual lane, but a Netflix comedy option if the Apple TV+ pipe runs dry."
+      "genres": ["Comedy", "Sports"],
+      "tags": ["Will Ferrell", "absurdist"],
+      "about": "Will Ferrell as Lonnie 'The Hawk' Hawkins, a fallen champion golfer.",
+      "why": "Off-beat / absurdist comedy leaning. Ferrell hits when the script has teeth — worth a pilot check."
     },
     {
       "title": "Batman: Caped Crusader — S2",
       "platform": "Amazon Prime Video",
       "date": "2026-07-31",
-      "format": "10-ep season, full drop",
-      "runtime": "~30 min",
+      "format": "Animated series, season drop",
+      "runtime": "~24 min",
       "match": "try",
-      "genres": ["Animation", "Noir", "Superhero"],
-      "tags": ["Bruce Timm", "noir"],
-      "about": "The Bruce Timm–produced 1940s-noir Batman animated series returns for S2.",
-      "why": "S1 landed at 96% RT — noir tone, adult writing. Worth a queue slot."
+      "genres": ["Animated", "Noir", "Action"],
+      "tags": ["Bruce Timm", "hard-boiled", "adult animation"],
+      "about": "Bruce Timm's noir-flavored Batman returns for a second season on Prime Video.",
+      "why": "S1 hit 96% RT. Adult-animation with dark, stylized storytelling — sits in your Solar Opposites / Vox Machina neighborhood."
     },
     {
       "title": "Enola Holmes 3",
       "platform": "Netflix",
       "date": "2026-07-01",
-      "format": "Film",
-      "runtime": "~120 min",
+      "format": "Feature film",
+      "runtime": "~130 min (est.)",
       "match": "try",
       "genres": ["Mystery", "Adventure"],
-      "tags": ["book adaptation", "franchise"],
-      "about": "Millie Bobby Brown returns as Enola. Dropped Tuesday.",
-      "why": "Now streaming — 67–73% RT range, watchable if you liked E1/E2 but not urgent."
+      "tags": ["Millie Bobby Brown", "Henry Cavill", "witty banter"],
+      "about": "Enola races to save a kidnapped Sherlock while trying to make it to her own wedding.",
+      "why": "Witty banter + mystery + Cavill Sherlock. Already streaming — good rainy-Sunday option."
     },
     {
       "title": "Little House on the Prairie (Netflix reboot)",
       "platform": "Netflix",
       "date": "2026-07-09",
-      "format": "10-ep S1",
-      "runtime": "~50 min",
+      "format": "10-ep season drop",
+      "runtime": "TBD",
       "match": "skip",
-      "genres": ["Family", "Period Drama"],
-      "tags": ["reboot", "period"],
-      "about": "Netflix's family-friendly reboot of the classic.",
-      "why": "Family period drama — no signals_what_lands overlap; safe to skip."
+      "genres": ["Drama", "Period"],
+      "tags": ["family drama"],
+      "about": "Rebecca Sonnenshine's fresh adaptation. Already renewed for S2 pre-premiere.",
+      "why": "Included only for platform completeness — outside your genre lane. Skip unless you want background."
+    },
+    {
+      "title": "The East Palace",
+      "platform": "Netflix",
+      "date": "2026-07-17",
+      "format": "Limited series",
+      "runtime": "TBD",
+      "match": "try",
+      "genres": ["Period Drama", "K-drama"],
+      "tags": ["Korean", "period"],
+      "about": "Korean period drama; palace intrigue.",
+      "why": "Foreign-language prestige — you said 'open to any language.' Try Ep 1 if the K-drama period vibe interests you."
+    },
+    {
+      "title": "Quarterback — S3",
+      "platform": "Netflix",
+      "date": "2026-07-14",
+      "format": "Sports docuseries, season drop",
+      "runtime": "~50 min × ep",
+      "match": "skip",
+      "genres": ["Documentary", "Sports"],
+      "tags": ["docuseries"],
+      "about": "Netflix's NFL QB behind-the-scenes docuseries returns.",
+      "why": "Outside your genre lane. Noted for calendar awareness."
     }
   ],
   "critics": [
     {
-      "title": "Silo — S3 (100% RT hero pick)",
+      "title": "The Legend of Vox Machina — S4",
+      "platform": "Amazon Prime Video",
+      "date": "2026-06-24",
+      "format": "12-ep complete",
+      "runtime": "~28 min × 12",
+      "match": "strong",
+      "genres": ["Fantasy", "Animated", "Adult Comedy"],
+      "tags": ["watchlist", "100% RT", "Rotten Tomatoes record"],
+      "about": "Vecna arc — darker, more emotional, still packed with the Critical Role ensemble's banter.",
+      "why": "100% RT for a fourth straight season — first Prime original to do that. Directly on your watchlist."
+    },
+    {
+      "title": "Silo — S3",
       "platform": "Apple TV+",
       "date": "2026-07-03",
-      "format": "10-ep season, weekly Fri",
+      "format": "Weekly Fri through 9/4",
       "runtime": "~55 min",
       "match": "strong",
       "genres": ["Sci-Fi", "Dystopian"],
-      "tags": ["100% RT", "book adaptation", "world building"],
-      "about": "Ep 1 debuted at 100% on Rotten Tomatoes and hit #1 on Apple TV globally within 24 hours.",
-      "why": "Critic consensus and your own S1–S2 4.5⭐ rating both point the same way."
+      "tags": ["100% RT premiere", "#1 global"],
+      "about": "Juliette returns to Silo 18 as mayor with fragmented memory; prequel timeline explores the collapse.",
+      "why": "Opened at 100% RT and #1 on Apple TV+ in 97 countries in 24 hours. Book-adaptation sci-fi that hit 4.5★ for you last time."
     },
     {
       "title": "Trying — S5",
       "platform": "Apple TV+",
       "date": "2026-07-08",
-      "format": "8-ep weekly S5",
+      "format": "Weekly Wed through 8/26",
       "runtime": "~30 min",
       "match": "strong",
       "genres": ["Comedy", "Drama"],
-      "tags": ["British", "warm-hearted", "Certified Fresh history"],
-      "about": "Nikki + Jason return for the fifth outing of the beloved adoption-family comedy.",
-      "why": "The Trying franchise has averaged in the 90s on RT across every season. British + short-episode = your bedtime sweet spot."
-    },
-    {
-      "title": "Cape Fear",
-      "platform": "Apple TV+",
-      "date": "2026-06-05",
-      "format": "10-ep weekly S1",
-      "runtime": "~50 min",
-      "match": "try",
-      "genres": ["Thriller", "Suspense"],
-      "tags": ["remake", "psychological"],
-      "about": "Apple's psychological-thriller reimagining, now mid-run through Ep 6.",
-      "why": "Critical reception has stayed steady through the mid-season stretch. Suspense fits taste-profile."
+      "tags": ["British", "warm-hearted"],
+      "about": "Nikki and Jason return with a bio-mom curveball.",
+      "why": "Consistent 90%+ RT across four prior seasons; short episodes; British comedy sweet spot."
     }
   ],
   "upcoming_alerts": [
     {
-      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle (Chapter I) — STREAMING DATE CONFIRMED",
-      "platform": "Crunchyroll (worldwide), Apple TV, Prime Video, Netflix (Asia except JP/CN/IN)",
-      "date": "2026-07-28",
-      "note": "Loved-list continuation + on your watchlist. Announced 7/3 at Anime Expo 2026 after a year of TBD limbo. Worldwide Crunchyroll drop at 8am PT — subs + English theatrical dub. First film of the Infinity Castle trilogy that closes the series."
+      "title": "The Legend of Vox Machina — S4 (NOW STREAMING, watchlist)",
+      "platform": "Amazon Prime Video",
+      "date": "2026-06-24",
+      "note": "Watchlist title — full 12-ep season available for binge. Today's hero."
     },
     {
-      "title": "Silo — S3 (NOW STREAMING)",
+      "title": "Silo — S3 (NOW STREAMING, watchlist)",
       "platform": "Apple TV+",
       "date": "2026-07-03",
-      "note": "Watchlist item + 100% RT + #1 on Apple TV global chart. Ep 2 'It's All Good' drops Fri 7/10."
+      "note": "Watchlist title — Ep 1 out, weekly Fridays through 9/4. Ep 2 'It's All Good' drops 7/10."
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle (Chapter I) — STREAMING DATE CONFIRMED",
+      "platform": "Crunchyroll (worldwide ex. Japan/China/France) + Buy on Apple TV / Prime Video / Google Play / YouTube / Fandango",
+      "date": "2026-07-28",
+      "note": "Loved-list AND watchlist. 8am PT worldwide on Crunchyroll, subs + English theatrical dub. First of the 3-part Infinity Castle trilogy. Mark your calendar."
     },
     {
       "title": "Trying — S5 Premiere",
       "platform": "Apple TV+",
       "date": "2026-07-08",
-      "note": "British 30-min comedy, weekly Wednesdays through 8/26."
+      "note": "British comedy — 8 eps, weekly Wed through 8/26."
     },
     {
       "title": "Ghost in the Shell (Science SARU)",
       "platform": "Amazon Prime Video",
       "date": "2026-07-07",
-      "note": "Sci-fi anime series reboot — Tuesday drop."
+      "note": "Weekly Tue simulcast, 12 eps."
     },
     {
       "title": "Lucky — Premiere",
       "platform": "Apple TV+",
       "date": "2026-07-15",
-      "note": "New Apple original dramedy — double-ep premiere."
+      "note": "Anya Taylor-Joy, Annette Bening, Timothy Olyphant — book adaptation limited series."
     },
     {
       "title": "Ride or Die",
       "platform": "Amazon Prime Video",
       "date": "2026-07-15",
-      "note": "Hannah Waddingham + Octavia Spencer ensemble comedy-action."
+      "note": "Octavia Spencer + Hannah Waddingham action-comedy."
+    },
+    {
+      "title": "The Hawk (Will Ferrell)",
+      "platform": "Netflix",
+      "date": "2026-07-16",
+      "note": "Golf comedy — Ferrell as fallen champ."
+    },
+    {
+      "title": "Heartstopper Forever (Finale Film)",
+      "platform": "Netflix",
+      "date": "2026-07-17",
+      "note": "Series-closing feature; LGBTQ+ inclusive."
     },
     {
       "title": "The Dink",
       "platform": "Apple TV+",
       "date": "2026-07-24",
-      "note": "Pickleball sports comedy film."
-    },
-    {
-      "title": "72 Hours (Kevin Hart)",
-      "platform": "Netflix",
-      "date": "2026-07-24",
-      "note": "Kevin Hart Netflix action-comedy."
+      "note": "30-min sports comedy premiere."
     },
     {
       "title": "Batman: Caped Crusader — S2",
       "platform": "Amazon Prime Video",
       "date": "2026-07-31",
-      "note": "Bruce Timm noir Batman animated returns; full drop."
+      "note": "Bruce Timm noir Batman — S1 was 96% RT."
     },
     {
       "title": "Slow Horses — S6",
       "platform": "Apple TV+",
       "date": "2026-09-16",
-      "note": "Loved-list continuation. Held 9/16 premiere per Apple's release calendar."
-    },
-    {
-      "title": "Widow's Bay — S2 (renewed)",
-      "platform": "Apple TV+",
-      "date": "TBD",
-      "note": "Watchlist item — S1 completed 6/17; S2 renewed 6/11. No air date yet."
-    },
-    {
-      "title": "The Boys — S5 (Final Season)",
-      "platform": "Amazon Prime Video",
-      "date": "TBD",
-      "note": "Watchlist item — final season, no confirmed air date."
+      "note": "Loved-list. 6 eps weekly Wed through 10/21; based on 'Joe Country' + 'Slough House'."
     },
     {
       "title": "Foundation — S4",
       "platform": "Apple TV+",
       "date": "2027 (mid-to-late)",
-      "note": "Loved-list. Filming Jan-May 2026; ~2027 premiere. New co-showrunners Ian Goldberg + David Kob."
+      "note": "Loved-list. Filming Jan-Jul 2026; ~2027 premiere. New co-showrunners Ian Goldberg + David Kob."
     },
     {
       "title": "Severance — S3",
@@ -347,7 +347,7 @@
     },
     {
       "title": "Rick and Morty — S9 finale 'Field of Dreams' (Off-platform)",
-      "platform": "Adult Swim (linear), Hulu / HBO Max 8/24 catch-up",
+      "platform": "Adult Swim (linear) / Hulu + HBO Max 8/24 catch-up",
       "date": "2026-07-26",
       "note": "Loved-list. Finale airs Adult Swim 11pm ET on 7/26. Hulu + HBO Max stream drop for the finale is delayed to 8/24. NOT on your subscribed services — surfacing only so you know when it lands and where."
     }
