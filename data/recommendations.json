@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T16:20:00Z",
+  "generated_at": "2026-07-06T13:15:00Z",
   "week_label": "Jul 6 – Jul 12, 2026",
   "source": "Daily scheduled task refresh. Built from taste-profile.json + web search of the last 4 weeks of releases, weighed against watched.json and watchlist.json; excludes titles in not-interested.json.",
   "hero": {
@@ -9,12 +9,22 @@
     "format": "12-ep season, full binge available",
     "runtime": "~28 min × 12",
     "match": "strong",
-    "genres": ["Fantasy", "Animated", "Adult Comedy"],
-    "tags": ["watchlist", "witty banter", "ensemble cast", "world building", "dark humor + fantasy combo"],
+    "genres": [
+      "Fantasy",
+      "Animated",
+      "Adult Comedy"
+    ],
+    "tags": [
+      "watchlist",
+      "witty banter",
+      "ensemble cast",
+      "world building",
+      "dark humor + fantasy combo"
+    ],
     "about": "Vox Machina takes on the second half of Vecna's arc — a darker, more emotional stretch that critics are calling the boldest season yet. Adapted from Critical Role's original D&D campaign; Sam Riegel returns as showrunner alongside the Critical Role cast.",
     "why": "It's on your watchlist and just finished dropping — the last 3 eps landed 6/24, so you can start it tonight and binge without waiting. S4 set a Rotten Tomatoes record: fourth consecutive 100% RT season (no other Prime original has done that), 94% audience. Fantasy + witty banter + ensemble + adult-animated with dark humor = the Solar Opposites / Good Omens / Rick and Morty overlap that consistently lands 4★+ for you.",
     "priority_tier": 2,
-    "priority_reason": "Watchlist title that just became fully streamable (complete season available 2026-06-24 → 11 days ago). Beats yesterday's Silo S3 hero on 'actionable tonight' — Silo Ep 2 doesn't drop until Fri 7/10, but Vox Machina is a full 12-ep binge ready right now. Demon Slayer: Infinity Castle would be Tier-1 Loved-list continuation, but its confirmed 7/28 streaming date is still 23 days out — held for upcoming_alerts."
+    "priority_reason": "Watchlist title, complete-season binge NOW STREAMING (available 2026-06-24 → 12 days ago). Hero HOLDS from yesterday: (1) Loved-list continuations this month = Rick and Morty S9 finale + new spinoff President Curtis 7/26, both Adult Swim / HBO Max 8/24 (off-platform for you — Tier 1 candidate but not actionable on your subs), and Demon Slayer: Infinity Castle 7/28 (Tier 1, 22 days out — held in upcoming_alerts). (2) Watchlist NOW STREAMING alternatives: Silo S3 Ep 1 dropped 7/3 (weekly Fri) — great, but only 1/10 in the tank vs. Vox Machina's full 12. (3) Actionable tonight beats waiting on episodics; a 100%-RT record-setting fantasy binge in your Solar Opposites / Good Omens / Rick and Morty neighborhood is the strongest pick you can act on this evening."
   },
   "new_this_week": [
     {
@@ -24,10 +34,17 @@
       "format": "Weekly Fri, 10 eps through 9/4",
       "runtime": "~55 min",
       "match": "strong",
-      "genres": ["Sci-Fi", "Dystopian"],
-      "tags": ["watchlist", "world building", "book adaptation"],
+      "genres": [
+        "Sci-Fi",
+        "Dystopian"
+      ],
+      "tags": [
+        "watchlist",
+        "world building",
+        "book adaptation"
+      ],
       "about": "Billings investigates a disappearance; Daniel Keene has a run-in with a reporter. Drops 3am ET Friday.",
-      "why": "You rated S1–S2 at 4.5★ and pinned S3 to your watchlist. S3 opened at 100% RT and hit #1 on Apple TV+ global chart in 97 countries in 24 hours. If you haven't started Ep 1 (dropped 7/3), Fri 7/10 is a natural two-episode kickoff."
+      "why": "You rated S1–S2 at 4.5★ and pinned S3 to your watchlist. S3 opened at 100% RT and hit #1 on Apple TV+ global chart in 97 countries in 24 hours. Ep 1 has been out since 7/3 (3 days ago) — if you haven't started yet, tonight or tomorrow catches you up before Ep 2 lands Fri 3am ET."
     },
     {
       "title": "Trying — S5 Premiere",
@@ -36,8 +53,16 @@
       "format": "8-ep season, weekly Wed through 8/26",
       "runtime": "~30 min",
       "match": "strong",
-      "genres": ["Comedy", "Drama"],
-      "tags": ["British", "witty banter", "warm-hearted", "30-min episodes"],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "tags": [
+        "British",
+        "witty banter",
+        "warm-hearted",
+        "30-min episodes"
+      ],
       "about": "Nikki and Jason return; the biological mother of the kids turns up on their doorstep. Weekly Wednesdays through late August.",
       "why": "Dry British comedy in 30-min episodes = your bedtime sweet spot. S1–S4 have averaged 90%+ on RT and the audience score is even higher."
     },
@@ -48,8 +73,16 @@
       "format": "Weekly Fri, 10-ep S1 through 7/31",
       "runtime": "~50 min",
       "match": "try",
-      "genres": ["Thriller", "Suspense", "Drama"],
-      "tags": ["Javier Bardem", "Amy Adams", "Scorsese exec producer"],
+      "genres": [
+        "Thriller",
+        "Suspense",
+        "Drama"
+      ],
+      "tags": [
+        "Javier Bardem",
+        "Amy Adams",
+        "Scorsese exec producer"
+      ],
       "about": "The Bowden family's cat-and-mouse with Max Cady continues. Ep 7 drops Fri.",
       "why": "Horror/suspense box, prestige cast, tight 10-ep run. Try Ep 1 if you're not in already — currently sitting in the 80s on RT."
     },
@@ -60,8 +93,14 @@
       "format": "Weekly Wed, 10-ep S1",
       "runtime": "~35 min",
       "match": "try",
-      "genres": ["Comedy Thriller", "Crime"],
-      "tags": ["Tatiana Maslany", "dark comedy"],
+      "genres": [
+        "Comedy Thriller",
+        "Crime"
+      ],
+      "tags": [
+        "Tatiana Maslany",
+        "dark comedy"
+      ],
       "about": "Penultimate episode. Weekly Wednesdays.",
       "why": "You caught up through Ep 7 last week (3.5★ average). Ep 9 continues the setup toward finale — worth staying on if it's still clicking."
     },
@@ -72,8 +111,16 @@
       "format": "Weekly Tue premieres",
       "runtime": "~24 min × 12",
       "match": "strong",
-      "genres": ["Sci-Fi", "Anime", "Cyberpunk"],
-      "tags": ["reboot", "Dandadan studio", "world building"],
+      "genres": [
+        "Sci-Fi",
+        "Anime",
+        "Cyberpunk"
+      ],
+      "tags": [
+        "reboot",
+        "Dandadan studio",
+        "world building"
+      ],
       "about": "Science SARU's fresh take on Motoko Kusanagi and Section 9. First non-Production I.G. GITS in 30 years; endorsed by original creator Masamune Shirow.",
       "why": "Sci-fi + world-building + anime = triple hit on your taste graph. Science SARU's Dandadan was a critical darling — this is their swing at an all-time franchise. Premieres on Prime Video worldwide except Japan/Vietnam."
     },
@@ -84,8 +131,15 @@
       "format": "Weekly Sat simulcast",
       "runtime": "~24 min",
       "match": "try",
-      "genres": ["Anime", "Action", "Supernatural"],
-      "tags": ["Weekly Shonen Jump", "shonen action"],
+      "genres": [
+        "Anime",
+        "Action",
+        "Supernatural"
+      ],
+      "tags": [
+        "Weekly Shonen Jump",
+        "shonen action"
+      ],
       "about": "A ninja descendant who can speak to animals bonds with a legendary demon cat. Simulcast Sat.",
       "why": "Supernatural/mythology + action shonen — Ep 1 drops this week, low-commitment test at 24 min."
     },
@@ -96,9 +150,15 @@
       "format": "Weekly Mon simulcast",
       "runtime": "~24 min × 12",
       "match": "try",
-      "genres": ["Anime", "Comedy"],
-      "tags": ["ensemble", "off-beat humor"],
-      "about": "The Izu diving-club crew returns after a seven-year gap. Same absurdist comedy tone.",
+      "genres": [
+        "Anime",
+        "Comedy"
+      ],
+      "tags": [
+        "ensemble",
+        "off-beat humor"
+      ],
+      "about": "The Izu diving-club crew returns after a seven-year gap. Same absurdist comedy tone. Ep 1 drops today (Mon 7/6).",
       "why": "Off-beat/quirky comedy — matches signals_what_lands. Only proceed if Ep 1 doesn't lean into juvenile drinking humor, which is the show's known weak spot."
     },
     {
@@ -108,8 +168,16 @@
       "format": "Limited series premiere",
       "runtime": "TBD",
       "match": "try",
-      "genres": ["Thriller", "Drama"],
-      "tags": ["Anya Taylor-Joy", "Annette Bening", "Timothy Olyphant", "book adaptation"],
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "tags": [
+        "Anya Taylor-Joy",
+        "Annette Bening",
+        "Timothy Olyphant",
+        "book adaptation"
+      ],
       "about": "Adapted from Marissa Stapley's novel; a young woman flees the crime family she was raised in.",
       "why": "Book adaptation + ensemble prestige cast + suspense — one to mark for next week."
     },
@@ -120,8 +188,16 @@
       "format": "Feature film finale",
       "runtime": "~110 min (est.)",
       "match": "try",
-      "genres": ["Drama", "Romance", "Coming-of-Age"],
-      "tags": ["LGBTQ+ inclusive", "book adaptation", "light(ish) tone with substance"],
+      "genres": [
+        "Drama",
+        "Romance",
+        "Coming-of-Age"
+      ],
+      "tags": [
+        "LGBTQ+ inclusive",
+        "book adaptation",
+        "light(ish) tone with substance"
+      ],
       "about": "Alice Oseman adapts the final graphic novel and the Nick & Charlie novella into a movie that closes the series.",
       "why": "LGBTQ+ inclusive + book adaptation = two direct signals_what_lands hits. Might edge into 'sad drama' territory (lower priority) so labeled 'try' — good for a lighter bedtime night."
     },
@@ -132,8 +208,16 @@
       "format": "8-ep season",
       "runtime": "TBD",
       "match": "try",
-      "genres": ["Action", "Comedy", "Thriller"],
-      "tags": ["Octavia Spencer", "Hannah Waddingham", "witty banter"],
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "tags": [
+        "Octavia Spencer",
+        "Hannah Waddingham",
+        "witty banter"
+      ],
       "about": "Two old best friends discover one has been an elite international assassin — cue chaos across Europe.",
       "why": "Witty banter + suspense + prestige cast. Hannah Waddingham's presence is a Ted-Lasso-adjacent quality tell."
     },
@@ -144,8 +228,14 @@
       "format": "Comedy series premiere",
       "runtime": "~30 min",
       "match": "try",
-      "genres": ["Comedy", "Sports"],
-      "tags": ["30-min episodes", "underdog"],
+      "genres": [
+        "Comedy",
+        "Sports"
+      ],
+      "tags": [
+        "30-min episodes",
+        "underdog"
+      ],
       "about": "A washed-up former tennis prodigy is reduced to coaching unruly kids at his father's country club.",
       "why": "30-min comedy with a light premise. Test-episode candidate."
     },
@@ -156,8 +246,14 @@
       "format": "Comedy series premiere",
       "runtime": "~30 min (est.)",
       "match": "try",
-      "genres": ["Comedy", "Sports"],
-      "tags": ["Will Ferrell", "absurdist"],
+      "genres": [
+        "Comedy",
+        "Sports"
+      ],
+      "tags": [
+        "Will Ferrell",
+        "absurdist"
+      ],
       "about": "Will Ferrell as Lonnie 'The Hawk' Hawkins, a fallen champion golfer.",
       "why": "Off-beat / absurdist comedy leaning. Ferrell hits when the script has teeth — worth a pilot check."
     },
@@ -168,8 +264,16 @@
       "format": "Animated series, season drop",
       "runtime": "~24 min",
       "match": "try",
-      "genres": ["Animated", "Noir", "Action"],
-      "tags": ["Bruce Timm", "hard-boiled", "adult animation"],
+      "genres": [
+        "Animated",
+        "Noir",
+        "Action"
+      ],
+      "tags": [
+        "Bruce Timm",
+        "hard-boiled",
+        "adult animation"
+      ],
       "about": "Bruce Timm's noir-flavored Batman returns for a second season on Prime Video.",
       "why": "S1 hit 96% RT. Adult-animation with dark, stylized storytelling — sits in your Solar Opposites / Vox Machina neighborhood."
     },
@@ -180,8 +284,15 @@
       "format": "Feature film",
       "runtime": "~130 min (est.)",
       "match": "try",
-      "genres": ["Mystery", "Adventure"],
-      "tags": ["Millie Bobby Brown", "Henry Cavill", "witty banter"],
+      "genres": [
+        "Mystery",
+        "Adventure"
+      ],
+      "tags": [
+        "Millie Bobby Brown",
+        "Henry Cavill",
+        "witty banter"
+      ],
       "about": "Enola races to save a kidnapped Sherlock while trying to make it to her own wedding.",
       "why": "Witty banter + mystery + Cavill Sherlock. Already streaming — good rainy-Sunday option."
     },
@@ -192,8 +303,13 @@
       "format": "10-ep season drop",
       "runtime": "TBD",
       "match": "skip",
-      "genres": ["Drama", "Period"],
-      "tags": ["family drama"],
+      "genres": [
+        "Drama",
+        "Period"
+      ],
+      "tags": [
+        "family drama"
+      ],
       "about": "Rebecca Sonnenshine's fresh adaptation. Already renewed for S2 pre-premiere.",
       "why": "Included only for platform completeness — outside your genre lane. Skip unless you want background."
     },
@@ -204,8 +320,14 @@
       "format": "Limited series",
       "runtime": "TBD",
       "match": "try",
-      "genres": ["Period Drama", "K-drama"],
-      "tags": ["Korean", "period"],
+      "genres": [
+        "Period Drama",
+        "K-drama"
+      ],
+      "tags": [
+        "Korean",
+        "period"
+      ],
       "about": "Korean period drama; palace intrigue.",
       "why": "Foreign-language prestige — you said 'open to any language.' Try Ep 1 if the K-drama period vibe interests you."
     },
@@ -216,8 +338,13 @@
       "format": "Sports docuseries, season drop",
       "runtime": "~50 min × ep",
       "match": "skip",
-      "genres": ["Documentary", "Sports"],
-      "tags": ["docuseries"],
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "tags": [
+        "docuseries"
+      ],
       "about": "Netflix's NFL QB behind-the-scenes docuseries returns.",
       "why": "Outside your genre lane. Noted for calendar awareness."
     }
@@ -230,8 +357,16 @@
       "format": "12-ep complete",
       "runtime": "~28 min × 12",
       "match": "strong",
-      "genres": ["Fantasy", "Animated", "Adult Comedy"],
-      "tags": ["watchlist", "100% RT", "Rotten Tomatoes record"],
+      "genres": [
+        "Fantasy",
+        "Animated",
+        "Adult Comedy"
+      ],
+      "tags": [
+        "watchlist",
+        "100% RT",
+        "Rotten Tomatoes record"
+      ],
       "about": "Vecna arc — darker, more emotional, still packed with the Critical Role ensemble's banter.",
       "why": "100% RT for a fourth straight season — first Prime original to do that. Directly on your watchlist."
     },
@@ -242,8 +377,14 @@
       "format": "Weekly Fri through 9/4",
       "runtime": "~55 min",
       "match": "strong",
-      "genres": ["Sci-Fi", "Dystopian"],
-      "tags": ["100% RT premiere", "#1 global"],
+      "genres": [
+        "Sci-Fi",
+        "Dystopian"
+      ],
+      "tags": [
+        "100% RT premiere",
+        "#1 global"
+      ],
       "about": "Juliette returns to Silo 18 as mayor with fragmented memory; prequel timeline explores the collapse.",
       "why": "Opened at 100% RT and #1 on Apple TV+ in 97 countries in 24 hours. Book-adaptation sci-fi that hit 4.5★ for you last time."
     },
@@ -254,8 +395,14 @@
       "format": "Weekly Wed through 8/26",
       "runtime": "~30 min",
       "match": "strong",
-      "genres": ["Comedy", "Drama"],
-      "tags": ["British", "warm-hearted"],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "tags": [
+        "British",
+        "warm-hearted"
+      ],
       "about": "Nikki and Jason return with a bio-mom curveball.",
       "why": "Consistent 90%+ RT across four prior seasons; short episodes; British comedy sweet spot."
     }
@@ -350,6 +497,12 @@
       "platform": "Adult Swim (linear) / Hulu + HBO Max 8/24 catch-up",
       "date": "2026-07-26",
       "note": "Loved-list. Finale airs Adult Swim 11pm ET on 7/26. Hulu + HBO Max stream drop for the finale is delayed to 8/24. NOT on your subscribed services — surfacing only so you know when it lands and where."
+    },
+    {
+      "title": "President Curtis (Rick and Morty spinoff) — S1 Premiere (Off-platform)",
+      "platform": "Adult Swim (linear) / HBO Max next-day",
+      "date": "2026-07-26",
+      "note": "Loved-list-adjacent. Keith David reprises President Andre Curtis from the R&M universe; Stephanie Beatriz + Jim Rash co-star. 10 eps. Premieres 11:30pm ET on Adult Swim right after the R&M S9 finale, streams on HBO Max the next day. NOT on your subscribed services — flagging so it's on the radar."
     }
   ]
 }
