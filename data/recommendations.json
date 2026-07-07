@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T13:15:00Z",
+  "generated_at": "2026-07-07T16:43:10Z",
   "week_label": "Jul 6 – Jul 12, 2026",
   "source": "Daily scheduled task refresh. Built from taste-profile.json + web search of the last 4 weeks of releases, weighed against watched.json and watchlist.json; excludes titles in not-interested.json.",
   "hero": {
@@ -24,7 +24,7 @@
     "about": "Vox Machina takes on the second half of Vecna's arc — a darker, more emotional stretch that critics are calling the boldest season yet. Adapted from Critical Role's original D&D campaign; Sam Riegel returns as showrunner alongside the Critical Role cast.",
     "why": "It's on your watchlist and just finished dropping — the last 3 eps landed 6/24, so you can start it tonight and binge without waiting. S4 set a Rotten Tomatoes record: fourth consecutive 100% RT season (no other Prime original has done that), 94% audience. Fantasy + witty banter + ensemble + adult-animated with dark humor = the Solar Opposites / Good Omens / Rick and Morty overlap that consistently lands 4★+ for you.",
     "priority_tier": 2,
-    "priority_reason": "Watchlist title, complete-season binge NOW STREAMING (available 2026-06-24 → 12 days ago). Hero HOLDS from yesterday: (1) Loved-list continuations this month = Rick and Morty S9 finale + new spinoff President Curtis 7/26, both Adult Swim / HBO Max 8/24 (off-platform for you — Tier 1 candidate but not actionable on your subs), and Demon Slayer: Infinity Castle 7/28 (Tier 1, 22 days out — held in upcoming_alerts). (2) Watchlist NOW STREAMING alternatives: Silo S3 Ep 1 dropped 7/3 (weekly Fri) — great, but only 1/10 in the tank vs. Vox Machina's full 12. (3) Actionable tonight beats waiting on episodics; a 100%-RT record-setting fantasy binge in your Solar Opposites / Good Omens / Rick and Morty neighborhood is the strongest pick you can act on this evening."
+    "priority_reason": "Watchlist title, complete-season binge NOW STREAMING (available 2026-06-24 -> 13 days ago). Hero HOLDS from yesterday. Today's check-ins: (1) Loved-list continuations this month = Rick and Morty S9 Ep 8 airs Sun 7/12 (off-platform, HBO Max weekly) + S9 finale 'Field of Dreams' + spinoff 'President Curtis' 7/26 (Adult Swim / HBO Max 8/24) - Tier 1 candidates but not actionable on your subs; Demon Slayer: Infinity Castle 7/28 Crunchyroll (Tier 1 confirmed - held in upcoming_alerts). (2) Watchlist NOW STREAMING alternatives: Silo S3 Ep 1 dropped 7/3 (4 days ago, weekly Fri) - great, but 1 in the tank vs. Vox Machina's full 12. (3) Fresh drops TODAY: The Ghost in the Shell (Science SARU reboot) launched today on Prime, weekly cadence - strong taste-match sci-fi/animation but just 1 ep. (4) Actionable tonight beats waiting; a 100%-RT record-setting fantasy binge in your Solar Opposites / Good Omens / Rick and Morty neighborhood remains the strongest actionable pick."
   },
   "new_this_week": [
     {
@@ -44,7 +44,27 @@
         "book adaptation"
       ],
       "about": "Billings investigates a disappearance; Daniel Keene has a run-in with a reporter. Drops 3am ET Friday.",
-      "why": "You rated S1–S2 at 4.5★ and pinned S3 to your watchlist. S3 opened at 100% RT and hit #1 on Apple TV+ global chart in 97 countries in 24 hours. Ep 1 has been out since 7/3 (3 days ago) — if you haven't started yet, tonight or tomorrow catches you up before Ep 2 lands Fri 3am ET."
+      "why": "You rated S1-S2 at 4.5* and pinned S3 to your watchlist. S3 opened at 100% RT and hit #1 on Apple TV+ global chart in 97 countries in 24 hours. Ep 1 has been out since 7/3 (4 days ago) - catch up tonight or Wed before Ep 2 lands Fri 3am ET."
+    },
+    {
+      "title": "The Ghost in the Shell (Science SARU)",
+      "platform": "Amazon Prime Video",
+      "date": "2026-07-07",
+      "format": "Weekly Tue, 12 eps",
+      "runtime": "~24 min × 12",
+      "match": "strong",
+      "genres": [
+        "Sci-Fi",
+        "Anime",
+        "Cyberpunk"
+      ],
+      "tags": [
+        "reboot",
+        "Dandadan studio",
+        "world building"
+      ],
+      "about": "Science SARU (Devilman Crybaby, DAN DA DAN) reimagines Masamune Shirow's cyberpunk classic - first non-Production I.G. adaptation in 30 years. Director Mokochan's series debut; script by EnJoe Toh (Godzilla Singular Point). Original creator Shirow has endorsed the production as potentially 'the first installment of a second generation.' Zero generative AI - deliberate hand-drawn commitment. Ep 1 available now.",
+      "why": "Just dropped TODAY on Prime. Cyberpunk sci-fi + world-building + book/manga adaptation = your sweet spot. Science SARU's dark-tone track record (Devilman Crybaby) aligns with the Solar Opposites / Rick and Morty adult-animation neighborhood that consistently lands for you. Weekly Tue cadence; if Ep 1 clicks you'll have a 12-ep runway through Sept."
     },
     {
       "title": "Trying — S5 Premiere",
@@ -103,26 +123,6 @@
       ],
       "about": "Penultimate episode. Weekly Wednesdays.",
       "why": "You caught up through Ep 7 last week (3.5★ average). Ep 9 continues the setup toward finale — worth staying on if it's still clicking."
-    },
-    {
-      "title": "The Ghost in the Shell (Science SARU)",
-      "platform": "Amazon Prime Video",
-      "date": "2026-07-07",
-      "format": "Weekly Tue premieres",
-      "runtime": "~24 min × 12",
-      "match": "strong",
-      "genres": [
-        "Sci-Fi",
-        "Anime",
-        "Cyberpunk"
-      ],
-      "tags": [
-        "reboot",
-        "Dandadan studio",
-        "world building"
-      ],
-      "about": "Science SARU's fresh take on Motoko Kusanagi and Section 9. First non-Production I.G. GITS in 30 years; endorsed by original creator Masamune Shirow.",
-      "why": "Sci-fi + world-building + anime = triple hit on your taste graph. Science SARU's Dandadan was a critical darling — this is their swing at an all-time franchise. Premieres on Prime Video worldwide except Japan/Vietnam."
     },
     {
       "title": "BLACK TORCH",
@@ -433,12 +433,6 @@
       "note": "British comedy — 8 eps, weekly Wed through 8/26."
     },
     {
-      "title": "Ghost in the Shell (Science SARU)",
-      "platform": "Amazon Prime Video",
-      "date": "2026-07-07",
-      "note": "Weekly Tue simulcast, 12 eps."
-    },
-    {
       "title": "Lucky — Premiere",
       "platform": "Apple TV+",
       "date": "2026-07-15",
@@ -496,7 +490,7 @@
       "title": "Rick and Morty — S9 finale 'Field of Dreams' (Off-platform)",
       "platform": "Adult Swim (linear) / Hulu + HBO Max 8/24 catch-up",
       "date": "2026-07-26",
-      "note": "Loved-list. Finale airs Adult Swim 11pm ET on 7/26. Hulu + HBO Max stream drop for the finale is delayed to 8/24. NOT on your subscribed services — surfacing only so you know when it lands and where."
+      "note": "Loved-list. Ep 8 'Rickuiem Mort a Dream' airs Sun 7/12 (Adult Swim 11pm ET), Ep 9 'Salute Your Morts' 7/19, finale 'Field of Dreams' 7/26. Adult Swim episodes stream weekly on Hulu and HBO Max the next day. NOT on your subscribed services - surfacing only so you know when it lands and where."
     },
     {
       "title": "President Curtis (Rick and Morty spinoff) — S1 Premiere (Off-platform)",
