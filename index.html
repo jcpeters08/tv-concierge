@@ -818,7 +818,8 @@ function renderPicks() {
   const empty = $("#picks-empty");
   const all = state.recs.new_this_week || [];
   const hidden = hiddenTitles();
-  const passing = all.filter(e => !hidden.has(e.title) && entryPasses(e));
+  const watched = watchedTitles();
+  const passing = all.filter(e => !hidden.has(e.title) && !watched.has(e.title) && entryPasses(e));
   const sorted = sortByPinned(passing);
 
   grid.innerHTML = "";
@@ -844,7 +845,12 @@ function renderCritics() {
   const grid = $("#critics-grid");
   grid.innerHTML = "";
   const list = state.recs.critics || [];
-  for (const entry of list) grid.appendChild(buildCard(entry));
+  const hidden = hiddenTitles();
+  const watched = watchedTitles();
+  for (const entry of list) {
+    if (hidden.has(entry.title) || watched.has(entry.title)) continue;
+    grid.appendChild(buildCard(entry));
+  }
 }
 
 function renderTitleList(host, titles, onRemove, removeLabel = "✕") {
