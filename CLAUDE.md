@@ -63,7 +63,7 @@ If a recommendation can't be verified to this standard, omit it or move it to `u
 ## Operational pointers
 
 - **Build brief**: `~/Documents/Jonathan's Vault/🎯 Projects/🎬 TV and Movie Concierge/Web-App-Build-Brief.md`
-- **Scheduled task**: `~/.claude/scheduled-tasks/tv-concierge-daily-sync/SKILL.md` (daily 8am CT)
+- **Scheduled task**: `~/.claude/scheduled-tasks/tv-concierge-daily-sync/SKILL.md` — **DISABLED by Jon Aug 5, 2026** (Cowork's sandboxed git kept stranding locks). Drains + rec refreshes now run on demand from interactive Claude Code sessions: `python3 scripts/sync.py` works directly here (no bridge needed outside Cowork). The SKILL.md remains the canonical procedure/protocol reference. Consequence: pending.json accumulates until someone runs a drain — check it at session start.
 - **Cowork Git bridge**: `scripts/cowork_git_bridge.py` prepares a disposable clone under `/tmp` for scheduled-task Git operations. Do not run `git pull/add/commit/push` from the Cowork-mounted repo; the sandbox mount can strand `.git/*.lock` files.
 - **Vault path**: `~/Documents/Jonathan's Vault/🎯 Projects/🎬 TV and Movie Concierge/`
 - **Auth Worker** (if deployed): Cloudflare Worker pattern — see pt-tracker's `worker/` for reference
