@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T00:39:37Z",
+  "generated_at": "2026-08-06T01:03:00Z",
   "week_label": "Aug 3 – Aug 9, 2026",
-  "source": "Ad-hoc refresh — Wed Aug 5, 2026, superseding the Aug 3 daily sync. PLATFORM CHANGE: Disney+ (with Hulu) added — the Hulu library lives inside the Disney+ app as a hub post-merger, unlocking Rick and Morty S9, Futurama S14, Solar Opposites S6, The Bear S5, Alien: Earth, WWDITS and the rest of the Hulu shelf. NEW RULES applied: no 'skip' entries ever; comedy movie + comedy series always present; new bench[] of verified catalog picks so every filter chip (genre/format/length) has 4+ options — bench stays off the default page and appears only when a filter is active. HERO: Demon Slayer Infinity Castle — Crunchyroll since Jul 28 (JustWatch-verified, 96% RT), pinned on the watchlist and unrated, so it takes the top spot over the 8/3 hero Ted Lasso S4, whose premiere Jon hid on Aug 3 (hide honored here; Ted Lasso removed entirely per no-resurface rule; Trying S5 takes the Apple comedy-weekly slot). WATCH-STATE CROSS-CHECK against live repo data: Star City rated 2-star Jun 2 (kept out of recs; For All Mankind bench note adjusted accordingly); Widow's Bay finale watched 4-star Jun 19 (no more Widow's Bay entries); MPG caught up through Ep 7 Jun 26 (entry now covers only eps 8-10); Witch Hat Atelier Ep 11 hidden Jun 7 (show dropped from bench); Vox Machina S4 and Silo S3 are pinned (Vox Machina S4 binge available in bench via Prime; Silo S3 featured). Undrained pending actions preserved for the next sync: hide Ted Lasso S4 premiere, pin Infinity Castle. VERIFICATION: 40+ JustWatch page checks this session across hero, new_this_week, and every bench entry; exclusions recorded (Game Night, Hot Fuzz, The Nice Guys, The Menu, Evil Dead Rise, Poker Face — not on the five platforms). Contradictions resolved per protocol: The Shards press said FX premiere Aug 5 but JustWatch shows Hulu from Aug 12 — JustWatch wins, upcoming_alerts. Avatar TLA S2 platform claim rests on Netflix-original status + Variety/RT (JustWatch slug 404'd). Ghost in the Shell (2026) sourced to official Amazon PR; JustWatch page not found, so no episode-count claims. Netflix Fri drops (Alley Cats, The Last House) listed as upcoming until JustWatch-checkable.",
+  "source": "Same-evening re-run — Wed Aug 5, 2026 (follows the Disney+/bench refresh earlier tonight). Jon logged five ratings via the web app: Rick and Morty S9 4★, Ride or Die 4★, Solar Opposites S6 4.5★ (all complete seasons → off active recs), and Silo S3 4.5★ + Futurama S14 4.5★ (both STILL AIRING → converted to the new weekly-tracker entries per the rule added tonight: liked-and-airing shows stay in recs with next-episode dates until the season ends — Silo Ep 6 'The Drive' Fri Aug 7 [Deadline, via 8/3 sync verification], weekly through Sep 4; Futurama Ep 3 Mon Aug 10, weekly through Sep 28). Critics row rebuilt after Ride or Die and Silo graduated to watched: Furious held, Human Vapor and Batman Caped Crusader S2 promoted. Hero unchanged: Demon Slayer Infinity Castle (pinned, unrated, streaming on Crunchyroll — JustWatch-verified earlier tonight). Bench unchanged from tonight's verified build (42 entries). Ratings are in pending.json awaiting the morning sync drain; the tracker titles are distinct from the rated titles so the app won't badge them as watched.",
   "hero": {
     "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
     "platform": "Crunchyroll",
@@ -46,32 +46,11 @@
       "why": "Watchlist arrival + Loved-list franchise. Tonight's marquee."
     },
     {
-      "title": "Rick and Morty S9",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "All 10 eps on Hulu since Jul 27, 2026 — NEW TO YOU with Disney+/Hulu",
-      "format": "adult animation series — season 9",
-      "runtime": "10 eps x ~22 min",
-      "match": "strong",
-      "genres": [
-        "comedy",
-        "sci-fi",
-        "adult animation"
-      ],
-      "tags": [
-        "Loved list",
-        "binge-ready",
-        "Hulu hub",
-        "dark humor"
-      ],
-      "about": "S9 rolled out weekly on Hulu from Jun 15 and completed Jul 27 (finale 'Field of Dreams'). All 9 seasons live in your Disney+ app's Hulu hub — JustWatch-verified.",
-      "why": "In June this was flagged 'off your 4 platforms.' Your new subscription just unlocked a full unwatched season of a Loved-list show. Easiest win on the board."
-    },
-    {
-      "title": "Silo S3",
+      "title": "Silo S3 — Ep 6 'The Drive' (Fri Aug 7)",
       "platform": "Apple TV+",
-      "date": "Eps 1–5 streaming (JustWatch-verified); Ep 6 Fri Aug 7; weekly Fridays through Sep 4",
-      "format": "sci-fi series — season 3",
-      "runtime": "10 eps x ~50 min",
+      "date": "Next ep: Fri Aug 7 — weekly Fridays through the Sep 4 finale",
+      "format": "sci-fi series — weekly tracker (you're caught up through Ep 5)",
+      "runtime": "~50 min per ep",
       "match": "strong",
       "genres": [
         "sci-fi",
@@ -79,12 +58,34 @@
         "mystery"
       ],
       "tags": [
-        "100% RT (critics)",
-        "world-building",
+        "following",
+        "you rated S3 4.5★",
+        "weekly drop",
+        "100% RT"
+      ],
+      "about": "You rated S3 at 4.5★ with five episodes out — the season keeps going: Ep 6 'The Drive' lands Friday (per Deadline), then weekly through the Sep 4 finale.",
+      "why": "New weekly-tracker rule: shows you like that are still dropping episodes stay here with the next drop date. Friday night = new Silo."
+    },
+    {
+      "title": "Futurama S14 — Ep 3 (Mon Aug 10)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Next ep: Mon Aug 10 — weekly Mondays through the Sep 28 finale",
+      "format": "adult animation series — weekly tracker (you're caught up through Ep 2)",
+      "runtime": "~22 min per ep",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "sci-fi",
+        "adult animation"
+      ],
+      "tags": [
+        "following",
+        "you rated S14 4.5★",
+        "Loved list",
         "weekly drop"
       ],
-      "about": "Season 3 of the underground-silo dystopia, now with a split-timeline structure. Critics have it at 100% — the strongest-reviewed season yet (audience is cooler at ~60%; RogerEbert.com dissents, calling it transitional).",
-      "why": "Severance-grade mystery-box sci-fi on your best platform. Five episodes banked means you can start tonight and land on the weekly cadence by Friday."
+      "about": "You rated S14 at 4.5★ off the 2-episode premiere — eight more to come, Mondays through Sep 28.",
+      "why": "Weekly tracker: new Futurama every Monday. A reliable 22-minute pre-bed slot for the next two months."
     },
     {
       "title": "Trying S5",
@@ -104,27 +105,6 @@
       ],
       "about": "Esther Smith and Rafe Spall's London adoption comedy: this season Kat — Princess and Tyler's biological mother — arrives and upends the family. Collider calls it 'still Apple TV's best comedy.'",
       "why": "Dry British 30-min comedy — two of your strongest signals — with a weekly Wednesday slot. (Replaces Ted Lasso S4 here: you hid its premiere on Aug 3, so it stays gone per the new no-resurface rule.)"
-    },
-    {
-      "title": "Ride or Die",
-      "platform": "Amazon Prime Video",
-      "date": "All 8 eps since Jul 15, 2026 — binge-ready",
-      "format": "action-comedy series — season 1",
-      "runtime": "8 eps x ~60 min",
-      "match": "strong",
-      "genres": [
-        "comedy",
-        "action",
-        "spy"
-      ],
-      "tags": [
-        "98% RT Certified Fresh",
-        "Octavia Spencer",
-        "Hannah Waddingham",
-        "binge-ready"
-      ],
-      "about": "Octavia Spencer discovers her best friend of 20 years (Hannah Waddingham) is an international assassin; a chaotic European road trip follows, with Bill Nighy along. JustWatch-verified on Prime. Note: aggregate is glowing (98%), though Variety was lukewarm.",
-      "why": "This is The Heat / Spy energy in series form — buddy action-comedy with two ensemble greats. Your comedy-series guarantee, delivered with a 98% score."
     },
     {
       "title": "Furious",
@@ -168,26 +148,6 @@
       "why": "Your comedy-movie slot for the week — an easy, warm 100 minutes. 'Try' because sports comedy is adjacent to (not inside) your usual lanes."
     },
     {
-      "title": "Futurama S14",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Premiered Mon Aug 3, 2026 (2-ep premiere); weekly Mondays through Sep 28",
-      "format": "adult animation series — season 14",
-      "runtime": "10 eps x ~22 min",
-      "match": "strong",
-      "genres": [
-        "comedy",
-        "sci-fi",
-        "adult animation"
-      ],
-      "tags": [
-        "Loved list",
-        "weekly drop",
-        "Hulu hub"
-      ],
-      "about": "S14 landed Monday with two episodes (JustWatch lists S14 E1–E2), then weekly Mondays through Sep 28. Season themes: space pirates, synthetic meat, elaborate scams. Three supersized specials follow in 2027 (Variety).",
-      "why": "You're already watching Futurama on Disney+ — good news: a brand-new season started this week, and all 14 seasons are in the same app."
-    },
-    {
       "title": "Maximum Pleasure Guaranteed — Final 3 Episodes (8–10)",
       "platform": "Apple TV+",
       "date": "Season complete since Jul 15, 2026 — 10 eps total (JustWatch-verified)",
@@ -228,27 +188,6 @@
       ],
       "about": "Noah Hawley's acclaimed FX series brings the xenomorph to Earth two years before the Nostromo. Full 8-episode season on Hulu; S2 is renewed and films in London this year (expected 2027).",
       "why": "Prestige sci-fi horror you literally could not stream before this week. Sci-fi + horror is your top-genre intersection."
-    },
-    {
-      "title": "Solar Opposites S6 (Final Season)",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "All 10 eps since Oct 13, 2025 — NEW TO YOU with Disney+/Hulu",
-      "format": "adult animation series — final season",
-      "runtime": "10 eps x ~22 min",
-      "match": "strong",
-      "genres": [
-        "comedy",
-        "sci-fi",
-        "adult animation"
-      ],
-      "tags": [
-        "Loved list",
-        "series finale",
-        "binge-ready",
-        "Hulu hub"
-      ],
-      "about": "The sixth and final season wraps the Wall and Silver Cops arcs. All six seasons are in the Hulu hub — JustWatch-verified.",
-      "why": "A Loved-list show ended its run while it was off your platforms. Now the whole conclusion is one tap away."
     },
     {
       "title": "The Bear S5 (Final Season)",
@@ -375,26 +314,6 @@
   ],
   "critics": [
     {
-      "title": "Silo S3",
-      "platform": "Apple TV+",
-      "date": "Eps 1–5 streaming; weekly Fridays through Sep 4",
-      "format": "sci-fi series — season 3",
-      "runtime": "10 eps x ~50 min",
-      "match": "strong",
-      "genres": [
-        "sci-fi",
-        "dystopian",
-        "mystery"
-      ],
-      "tags": [
-        "100% RT",
-        "Certified Fresh",
-        "world-building"
-      ],
-      "about": "RT's editorial best-of-new-TV guide has S3 at 100% critics — 'a masterful dystopian tale with expertly driven character arcs.' (See new-this-week entry.)",
-      "why": "The best-scored sci-fi season of the summer, on your platform, mid-run."
-    },
-    {
       "title": "Furious",
       "platform": "Disney+ (Hulu hub)",
       "date": "Eps 1–4 of 8; weekly through Aug 31",
@@ -415,24 +334,46 @@
       "why": "The critical consensus pick of the summer — and newly reachable on your Disney+/Hulu."
     },
     {
-      "title": "Ride or Die",
-      "platform": "Amazon Prime Video",
-      "date": "All 8 eps since Jul 15 — binge-ready",
-      "format": "action-comedy series — season 1",
-      "runtime": "8 eps x ~60 min",
+      "title": "Human Vapor",
+      "platform": "Netflix",
+      "date": "All 8 eps since Jul 2, 2026 (JustWatch-verified)",
+      "format": "sci-fi thriller series — season 1",
+      "runtime": "8 eps x ~54 min",
       "match": "strong",
       "genres": [
-        "comedy",
-        "action",
-        "spy"
+        "sci-fi",
+        "thriller",
+        "horror"
       ],
       "tags": [
-        "98% RT Certified Fresh",
-        "Octavia Spencer",
-        "Hannah Waddingham"
+        "~88% RT",
+        "Toho",
+        "Yeon Sang-ho",
+        "binge-ready"
       ],
-      "about": "98% critics / 83% audience. 'A twisty guilty pleasure… laughs, action, and charm.' (See new-this-week entry.)",
-      "why": "Critic-validated buddy action-comedy squarely in your The Heat / Spy lane."
+      "about": "Netflix's R-rated reimagining of Toho's 1960 classic by Yeon Sang-ho (Train to Busan): a detective and a reporter hunt a murderer who can turn his body to gas.",
+      "why": "Best-reviewed Netflix genre entry of the summer (~86-90% across snapshots) — critic-validated dark sci-fi."
+    },
+    {
+      "title": "Batman: Caped Crusader S2",
+      "platform": "Amazon Prime Video",
+      "date": "All 10 eps since Jul 31, 2026 (JustWatch-verified)",
+      "format": "adult animation series — season 2",
+      "runtime": "10 eps x ~25 min",
+      "match": "try",
+      "genres": [
+        "mystery",
+        "adult animation",
+        "noir"
+      ],
+      "tags": [
+        "~89% RT",
+        "Bruce Timm",
+        "30-min episodes",
+        "binge-ready"
+      ],
+      "about": "Bruce Timm's 1940s-noir Batman continues with the Riddler, Carrie Kelly, and Roxy Rocket. Ten 25-minute episodes, all at once.",
+      "why": "~89% RT animated noir — critics call S2 sharper than S1. Short-episode mystery done right."
     }
   ],
   "bench": [

@@ -51,6 +51,7 @@ If a recommendation can't be verified to this standard, omit it or move it to `u
 - **No "skip" recs.** `match` is strong/try only. If a title isn't worth Jon's time, omit it; Not-Interested titles never resurface, even as reminders.
 - **Comedy guarantee:** active recs (new_this_week + bench) always include at least one comedy movie AND one comedy series.
 - **Bench / full filter coverage:** `bench[]` holds verified catalog picks (marked `"bench": true`) so every filter chip — each genre, format (series/anime/movie), and length (30-min/1-hour) — has ≥4 picks across new_this_week + bench. The app hides bench entries on the default page and shows them only when a filter is active. Bench persists across refreshes: re-verify availability, drop watched/hidden titles, top up thin chips. Runtime strings must include per-episode minutes so the length filter can classify.
+- **Weekly trackers (added Aug 5, 2026):** when Jon rates ≥3.5★ a season that is still airing weekly (or is clearly mid-watch on one), do NOT drop it from active recs. Replace it with a tracker entry titled with the next episode — `"<Show> S<N> — Ep <M> (<Day> <Mon> <D>)"` — stating the next-drop day and the season end date. The distinct title keeps it from rendering as already-watched. Refresh the tracker each sync (verify the drop actually happened per the episode-count rule); when the season finishes airing, the show follows the normal watched rule and leaves active recs.
 
 ## Glossary
 
