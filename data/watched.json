@@ -509,6 +509,72 @@
         "weekly drop"
       ],
       "date": "2026-06-26"
+    },
+    {
+      "title": "Rick and Morty S9",
+      "rating": 4,
+      "tags": "Loved list, binge-ready, Hulu hub, dark humor, sarcastic humor",
+      "tags_array": [
+        "Loved list",
+        "binge-ready",
+        "Hulu hub",
+        "dark humor",
+        "sarcastic humor"
+      ],
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Ride or Die",
+      "rating": 4,
+      "tags": "Octavia Spencer, Hannah Waddingham, binge-ready, funny",
+      "tags_array": [
+        "Octavia Spencer",
+        "Hannah Waddingham",
+        "binge-ready",
+        "funny"
+      ],
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Futurama S14",
+      "rating": 4.5,
+      "tags": "Loved list, weekly drop, Hulu hub, favorite, goofy humor, 30 mins",
+      "tags_array": [
+        "Loved list",
+        "weekly drop",
+        "Hulu hub",
+        "favorite",
+        "goofy humor",
+        "30 mins"
+      ],
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Solar Opposites S6 (Final Season)",
+      "rating": 4.5,
+      "tags": "Loved list, series finale, binge-ready, Hulu hub, sarcasm , 30 mins",
+      "tags_array": [
+        "Loved list",
+        "series finale",
+        "binge-ready",
+        "Hulu hub",
+        "sarcasm",
+        "30 mins"
+      ],
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Silo S3",
+      "rating": 4.5,
+      "tags": "100% RT, Certified Fresh, world-building, sci fi, based on book,",
+      "tags_array": [
+        "100% RT",
+        "Certified Fresh",
+        "world-building",
+        "sci fi",
+        "based on book"
+      ],
+      "date": "2026-08-06"
     }
   ],
   "known_favorites": [
@@ -530,5 +596,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-06-27T14:20:17Z"
+  "synced_at": "2026-08-06T01:12:42Z"
 }
