@@ -57,7 +57,8 @@
     "Netflix",
     "Apple TV+",
     "Amazon Prime Video",
-    "Crunchyroll"
+    "Crunchyroll",
+    "Disney+ (with Hulu)"
   ],
   "viewing_habit": "typically 1–2 hours before bed",
   "language": "Open to any language (subs or dubs)",
@@ -68,5 +69,6 @@
     "3": "Fine/Okay — glad I watched, not memorable",
     "2": "Meh — mostly a miss",
     "1": "Abandoned — gave up or wish I had"
-  }
+  },
+  "platform_notes": "Disney+ includes the full Hulu library as an in-app hub (2026 merger; standalone Hulu app phasing out). Added Aug 5, 2026."
 }

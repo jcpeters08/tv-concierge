@@ -138,7 +138,7 @@
   }
   .card .badge.match-strong { background: #E0EFE3; color: var(--good); }
   .card .badge.match-try    { background: #F8EBD0; color: var(--warn); }
-  .card .badge.match-skip   { background: var(--bg-soft); color: var(--ink-muted); }
+  .card .badge.bench        { background: var(--bg-soft); color: var(--ink-muted); }
   .card .badge.pinned       { background: var(--accent-soft); color: var(--accent); }
   .card .badge.watched      { background: #E0EFE3; color: var(--good); }
   .card h3 { margin: 0 0 4px; font-size: 18px; }
@@ -265,6 +265,7 @@
         <span class="chip" data-value="Apple TV+">Apple TV+</span>
         <span class="chip" data-value="Prime Video">Prime Video</span>
         <span class="chip" data-value="Crunchyroll">Crunchyroll</span>
+        <span class="chip" data-value="Disney+">Disney+ (Hulu)</span>
       </div>
       <div class="filter-row" data-filter="format">
         <span class="label">Format</span>
@@ -593,19 +594,42 @@ function platformMatch(entryPlat, filterVal) {
   if (filterVal === "all") return true;
   if (!entryPlat) return false;
   if (filterVal === "Prime Video") return /prime/i.test(entryPlat);
+  if (filterVal === "Disney+") return /disney|hulu/i.test(entryPlat);
   return entryPlat.toLowerCase().includes(filterVal.toLowerCase());
+}
+
+// Entry formats are descriptive ("limited series — 8 episodes", "film",
+// "anime series — season 2"), so classify rather than compare exactly.
+function formatClass(fmt) {
+  const f = (fmt || "").toLowerCase();
+  if (!f) return "";
+  if (f.includes("anime")) return "anime";
+  if (f.includes("film") || f.includes("movie")) return "movie";
+  if (f.includes("series") || f.includes("show")) return "series";
+  return "";
 }
 
 function formatMatch(entryFmt, filterVal) {
   if (filterVal === "all") return true;
-  if (!entryFmt) return false;
-  return entryFmt.toLowerCase() === filterVal.toLowerCase();
+  return formatClass(entryFmt) === filterVal.toLowerCase();
+}
+
+// Runtimes are descriptive too ("~50 min per ep", "8 eps x ~30 min",
+// "~2h 10m"). ≤40 min per sitting counts as 30-min; longer is 1-hour.
+function lengthClass(runtime) {
+  const r = (runtime || "").toLowerCase();
+  const h = r.match(/(\d+)\s*h/);
+  const m = r.match(/(\d+)\s*min/);
+  let mins = null;
+  if (h) mins = parseInt(h[1], 10) * 60 + (m ? parseInt(m[1], 10) : 0);
+  else if (m) mins = parseInt(m[1], 10);
+  if (mins === null) return "";
+  return mins <= 40 ? "30-min" : "1-hour";
 }
 
 function lengthMatch(entryRuntime, filterVal) {
   if (filterVal === "all") return true;
-  if (!entryRuntime) return false;
-  return entryRuntime.toLowerCase() === filterVal.toLowerCase();
+  return lengthClass(entryRuntime) === filterVal.toLowerCase();
 }
 
 function genreMatch(entry, filterVal) {
@@ -672,7 +696,8 @@ function buildCard(entry) {
   if (hidden) card.classList.add("is-hidden");
 
   const badges = [];
-  if (entry.match) badges.push(`<span class="badge match-${escapeHtml(entry.match)}">${escapeHtml(entry.match)}</span>`);
+  if (entry.match && entry.match !== "skip") badges.push(`<span class="badge match-${escapeHtml(entry.match)}">${escapeHtml(entry.match)}</span>`);
+  if (entry.bench) badges.push(`<span class="badge bench">catalog</span>`);
   if (pinned) badges.push(`<span class="badge pinned">📌 pinned</span>`);
   if (watched) badges.push(`<span class="badge watched">✓ watched</span>`);
 
@@ -816,9 +841,16 @@ async function toggleHide(entry, want) {
 function renderPicks() {
   const grid = $("#picks-grid");
   const empty = $("#picks-empty");
-  const all = state.recs.new_this_week || [];
+  // Bench entries are verified catalog picks that guarantee every filter has
+  // depth — they stay off the default (unfiltered) page and join the grid
+  // only when at least one filter is active.
+  const anyFilter = Object.values(state.filters).some(v => v !== "all");
+  const fresh = state.recs.new_this_week || [];
+  const bench = anyFilter ? (state.recs.bench || []) : [];
+  const seen = new Set(fresh.map(e => e.title));
+  const all = [...fresh, ...bench.filter(e => !seen.has(e.title))];
   const hidden = hiddenTitles();
-  const passing = all.filter(e => !hidden.has(e.title) && entryPasses(e));
+  const passing = all.filter(e => e.match !== "skip" && !hidden.has(e.title) && entryPasses(e));
   const sorted = sortByPinned(passing);
 
   grid.innerHTML = "";
@@ -826,11 +858,7 @@ function renderPicks() {
 
   let emptyMsg = "";
   if (sorted.length === 0) {
-    if (state.filters.format === "movie" && !all.some(e => (e.format || "").toLowerCase() === "movie")) {
-      emptyMsg = "No movies in this week's set. Ask Claude in chat for movie picks.";
-    } else {
-      emptyMsg = "No picks match these filters. Try resetting or loosening one dimension.";
-    }
+    emptyMsg = "No picks match these filters. Try resetting or loosening one dimension.";
   }
   if (emptyMsg) {
     empty.textContent = emptyMsg;

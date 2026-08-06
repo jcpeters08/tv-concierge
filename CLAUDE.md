@@ -40,8 +40,16 @@ For each entry in `recommendations.json`:
 - **Don't trust prior `recommendations.json`** — re-verify each session. A claim that survived the last refresh may have been wrong then too.
 - **Episode counts and "Ep N" claims** → cross-check against the latest episode listed on JustWatch or the show's official platform page. Don't assume "Ep N+1 drops next week" without confirming the show is still on a weekly cadence.
 - **When a search returns contradictory signals** (e.g., "X is on Y" alongside "X is not on Y yet"), surface the contradiction and resolve it before citing. Don't pick the confident-sounding result and ignore the others.
+- **Bench entries are not exempt** — `bench[]` catalog picks get the same JustWatch re-check every refresh; titles rotate off platforms constantly.
 
 If a recommendation can't be verified to this standard, omit it or move it to `upcoming_alerts` with explicit "unverified" or "TBD" labeling. The cost of a missing pick is low; the cost of recommending something Jon can't actually watch is trust.
+
+## Recommendation content rules (added Aug 5, 2026)
+
+- **Platforms (5):** Netflix, Apple TV+, Amazon Prime Video, Crunchyroll, Disney+ — Disney+ includes the full Hulu library as an in-app hub (2026 merger; standalone Hulu app phasing out). Label Hulu-hub titles `Disney+ (Hulu hub)`; the app's "Disney+ (Hulu)" filter chip matches anything containing "disney" or "hulu".
+- **No "skip" recs.** `match` is strong/try only. If a title isn't worth Jon's time, omit it; Not-Interested titles never resurface, even as reminders.
+- **Comedy guarantee:** active recs (new_this_week + bench) always include at least one comedy movie AND one comedy series.
+- **Bench / full filter coverage:** `bench[]` holds verified catalog picks (marked `"bench": true`) so every filter chip — each genre, format (series/anime/movie), and length (30-min/1-hour) — has ≥4 picks across new_this_week + bench. The app hides bench entries on the default page and shows them only when a filter is active. Bench persists across refreshes: re-verify availability, drop watched/hidden titles, top up thin chips. Runtime strings must include per-episode minutes so the length filter can classify.
 
 ## Glossary
 
