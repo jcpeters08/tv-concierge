@@ -26,6 +26,7 @@ Same shape as pt-tracker. Web app appends to `pending.json` via the GitHub Conte
 ## Critical conventions — DON'T BREAK
 
 1. **Vault MD is source of truth.** `scripts/sync.py` re-derives `data/*.json` from vault every morning. Don't hand-edit JSON.
+1a. **`git pull` before ANY work in this repo.** The daily sync commits and pushes from a disposable `/tmp` bridge clone, so this checkout goes stale silently — on Aug 5 it was 9 weeks behind, and recs nearly shipped contradicting watch-state the remote already knew (Star City rated, Ted Lasso hidden). Local watched/watchlist/not-interested/pending are untrustworthy until pulled.
 2. **Writes are append-only to `pending.json`.** The web app NEVER writes other data files directly.
 3. **Sundays refresh recommendations.** The sync also runs web search + taste-match on Sundays to update `recommendations.json`.
 4. **JustWatch is ground truth for streaming availability — MANDATORY before claiming "streaming on X".** Past incidents: on 5/15 and again on 5/17, recommendations.json claimed Demon Slayer: Infinity Castle was on Crunchyroll since April 9 — sourced from a single speculative news article. JustWatch returned no offer; the film was theatrical-only. The same 5/17 pass mis-stated Jujutsu Kaisen S3 as "currently airing weekly" (S3 Part 1 had ended Mar 27) and Re:ZERO S3 as "currently airing weekly" (it ended Mar 2025; S4 is the current run). Rule below.
