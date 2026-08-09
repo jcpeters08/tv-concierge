@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T01:03:00Z",
-  "week_label": "Aug 3 – Aug 9, 2026",
-  "source": "Same-evening re-run — Wed Aug 5, 2026 (follows the Disney+/bench refresh earlier tonight). Jon logged five ratings via the web app: Rick and Morty S9 4★, Ride or Die 4★, Solar Opposites S6 4.5★ (all complete seasons → off active recs), and Silo S3 4.5★ + Futurama S14 4.5★ (both STILL AIRING → converted to the new weekly-tracker entries per the rule added tonight: liked-and-airing shows stay in recs with next-episode dates until the season ends — Silo Ep 6 'The Drive' Fri Aug 7 [Deadline, via 8/3 sync verification], weekly through Sep 4; Futurama Ep 3 Mon Aug 10, weekly through Sep 28). Critics row rebuilt after Ride or Die and Silo graduated to watched: Furious held, Human Vapor and Batman Caped Crusader S2 promoted. Hero unchanged: Demon Slayer Infinity Castle (pinned, unrated, streaming on Crunchyroll — JustWatch-verified earlier tonight). Bench unchanged from tonight's verified build (42 entries). Ratings are in pending.json awaiting the morning sync drain; the tracker titles are distinct from the rated titles so the app won't badge them as watched.",
+  "generated_at": "2026-08-09T03:15:00Z",
+  "week_label": "Aug 10 – Aug 16, 2026",
+  "source": "Sat Aug 8, 2026 scheduled sync — new week refresh. Pending drain: 0 entries. Loved-list cross-check ran: Demon Slayer Infinity Castle re-verified streaming on Crunchyroll (JustWatch); Silo & Futurama trackers advanced; no other loved-list continuations dropped in the last 4 weeks (Slow Horses S6 still Sep 16 official, Foundation S4 still 2027, Black Mirror S8 still unconfirmed). Watchlist availability re-check ran: Infinity Castle already flagged, no other watchlist titles newly streamable. Big Aug 12 news: Alien: Earth premieres Tue on FX/Hulu (2-ep drop) — the current entry describing it as 'S1 complete since Sep 2025' was wrong and is corrected here to reflect this Tuesday's actual premiere. Also promoted from upcoming into new_this_week: Reacher S4 (Wed Aug 12, 3-ep premiere on Prime, weekly through Sep 16) and Re:ZERO S4 Recapture Arc (Wed Aug 12 Ep 12 on Crunchyroll). Silo tracker advanced to Ep 7 'Radio' Fri Aug 14. Bench unchanged. Hero pick tier: #1 (Loved-list continuation — Demon Slayer, franchise) + #2 (watchlist now-streaming).",
   "hero": {
     "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
     "platform": "Crunchyroll",
@@ -46,10 +46,10 @@
       "why": "Watchlist arrival + Loved-list franchise. Tonight's marquee."
     },
     {
-      "title": "Silo S3 — Ep 6 'The Drive' (Fri Aug 7)",
+      "title": "Silo S3 — Ep 7 'Radio' (Fri Aug 14)",
       "platform": "Apple TV+",
-      "date": "Next ep: Fri Aug 7 — weekly Fridays through the Sep 4 finale",
-      "format": "sci-fi series — weekly tracker (you're caught up through Ep 5)",
+      "date": "Next ep: Fri Aug 14 — weekly Fridays through the Sep 4 finale (Ep 6 'The Drive' dropped Aug 7)",
+      "format": "sci-fi series — weekly tracker (you rated S3 4.5★; caught up through Ep 6)",
       "runtime": "~50 min per ep",
       "match": "strong",
       "genres": [
@@ -63,8 +63,8 @@
         "weekly drop",
         "100% RT"
       ],
-      "about": "You rated S3 at 4.5★ with five episodes out — the season keeps going: Ep 6 'The Drive' lands Friday (per Deadline), then weekly through the Sep 4 finale.",
-      "why": "New weekly-tracker rule: shows you like that are still dropping episodes stay here with the next drop date. Friday night = new Silo."
+      "about": "Ep 6 'The Drive' landed Aug 7; Ep 7 'Radio' hits this Friday. Three more after that, then the Sep 4 finale.",
+      "why": "Weekly tracker: shows you love stay here with the next drop date. Friday night = new Silo, right through Labor Day."
     },
     {
       "title": "Futurama S14 — Ep 3 (Mon Aug 10)",
@@ -169,9 +169,9 @@
       "why": "Three unwatched 30-min episodes close out a show you have at 4 stars — a one-evening finish."
     },
     {
-      "title": "Alien: Earth",
+      "title": "Alien: Earth — Series Premiere (Tue Aug 12, 2-ep drop)",
       "platform": "Disney+ (Hulu hub)",
-      "date": "S1 (8 eps) complete since Sep 2025 — NEW TO YOU with Disney+/Hulu",
+      "date": "Premieres Tue Aug 12, 2026 (2 eps day-one; weekly Tuesdays through the 8-ep season on FX + Hulu — JustWatch verified Hulu offer)",
       "format": "sci-fi horror series — season 1",
       "runtime": "8 eps x ~50 min",
       "match": "strong",
@@ -183,11 +183,52 @@
       "tags": [
         "Noah Hawley",
         "FX",
-        "new-to-you",
-        "S2 filming 2026"
+        "series premiere",
+        "weekly drop"
       ],
-      "about": "Noah Hawley's acclaimed FX series brings the xenomorph to Earth two years before the Nostromo. Full 8-episode season on Hulu; S2 is renewed and films in London this year (expected 2027).",
-      "why": "Prestige sci-fi horror you literally could not stream before this week. Sci-fi + horror is your top-genre intersection."
+      "about": "Noah Hawley (Fargo, Legion) writes the first Alien TV series: set two years before the Nostromo, corporate scientists on Earth encounter the xenomorph. 2-episode premiere Tuesday, then weekly Tuesdays.",
+      "why": "Sci-fi + horror is your top-genre intersection, from a showrunner known for great acting and twist-heavy plotting. THE big premiere of your week."
+    },
+    {
+      "title": "Reacher S4 — Season Premiere (Wed Aug 12, 3-ep drop)",
+      "platform": "Amazon Prime Video",
+      "date": "Premieres Wed Aug 12, 2026 (Eps 1-3 day-one; weekly Wednesdays through the Sep 16 finale — official Amazon PR)",
+      "format": "action-thriller series — season 4",
+      "runtime": "8 eps x ~50 min",
+      "match": "try",
+      "genres": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "tags": [
+        "Alan Ritchson",
+        "novel adaptation",
+        "weekly drop",
+        "Lee Child"
+      ],
+      "about": "Adapts Lee Child's 'Gone Tomorrow' — Reacher tangles with an undercover-terrorism conspiracy. Three-episode drop Wednesday, then weekly through Sep 16. Neagley spin-off launches the same day as the finale.",
+      "why": "Novel adaptation with propulsive plotting — your lane when you want thriller/action without homework. 'Try' rather than strong because it's brawn-first vs. your dry-witted defaults."
+    },
+    {
+      "title": "Re:ZERO S4 Recapture Arc — Ep 12 Premiere (Wed Aug 12)",
+      "platform": "Crunchyroll",
+      "date": "Ep 12 (Recapture Arc opener) premieres Wed Aug 12, 2026 — weekly Wednesdays. Season part 1 (Loss Arc, Eps 1-11) finished Jun 17.",
+      "format": "anime series — currently airing weekly",
+      "runtime": "~24 min per ep",
+      "match": "try",
+      "genres": [
+        "anime",
+        "fantasy",
+        "isekai"
+      ],
+      "tags": [
+        "weekly drop",
+        "world-building",
+        "novel adaptation"
+      ],
+      "about": "S4 part 2 opens the Recapture Arc, the back half of Arc 6 from the light novels. If you didn't watch the Loss Arc that closed in June, catch that up first — the Recapture Arc picks up mid-conflict.",
+      "why": "Deep world-building isekai on a weekly cadence — 'try' because you haven't sampled the franchise; skip if you're not up for backfilling Loss Arc first."
     },
     {
       "title": "The Bear S5 (Final Season)",
@@ -1252,29 +1293,14 @@
   ],
   "upcoming_alerts": [
     {
-      "title": "Alley Cats — Ricky Gervais animated comedy (6 eps x 15 min)",
-      "platform": "Netflix",
-      "date": "Fri Aug 7, 2026 (THR + Wikipedia + What's on Netflix)"
-    },
-    {
-      "title": "The Last House — sci-fi thriller film (Greta Lee, Wagner Moura)",
-      "platform": "Netflix",
-      "date": "Fri Aug 7, 2026 (Netflix Tudum official + Collider)"
-    },
-    {
-      "title": "Re:ZERO S4 Cour 2 'The Recapture Arc' — 8 eps, Wednesdays (catch up: cour 1 eps through the Jun 17 finale first)",
-      "platform": "Crunchyroll",
-      "date": "Wed Aug 12, 2026"
-    },
-    {
-      "title": "Reacher S4 — 3-ep premiere, then weekly through Sep 16",
-      "platform": "Amazon Prime Video",
-      "date": "Wed Aug 12, 2026 (official Amazon PR + Collider + TVGuide)"
-    },
-    {
       "title": "The Shards — Bret Easton Ellis 1981 LA serial-killer thriller (Ryan Murphy)",
       "platform": "Disney+ (Hulu hub)",
       "date": "Aug 12, 2026 per JustWatch (press said FX linear Aug 5 — JustWatch wins for streaming)"
+    },
+    {
+      "title": "Puella Magi Madoka Magica: Walpurgisnacht - Rising — theatrical anime film (Studio Shaft)",
+      "platform": "Theatrical (rental TBD)",
+      "date": "Fri Aug 28, 2026 — global theatrical premiere; streaming/rental date not yet announced"
     },
     {
       "title": "X-Men '97 S2",
