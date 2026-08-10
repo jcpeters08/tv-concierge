@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T03:15:00Z",
+  "generated_at": "2026-08-10T13:30:00Z",
   "week_label": "Aug 10 – Aug 16, 2026",
-  "source": "Sat Aug 8, 2026 scheduled sync — new week refresh. Pending drain: 0 entries. Loved-list cross-check ran: Demon Slayer Infinity Castle re-verified streaming on Crunchyroll (JustWatch); Silo & Futurama trackers advanced; no other loved-list continuations dropped in the last 4 weeks (Slow Horses S6 still Sep 16 official, Foundation S4 still 2027, Black Mirror S8 still unconfirmed). Watchlist availability re-check ran: Infinity Castle already flagged, no other watchlist titles newly streamable. Big Aug 12 news: Alien: Earth premieres Tue on FX/Hulu (2-ep drop) — the current entry describing it as 'S1 complete since Sep 2025' was wrong and is corrected here to reflect this Tuesday's actual premiere. Also promoted from upcoming into new_this_week: Reacher S4 (Wed Aug 12, 3-ep premiere on Prime, weekly through Sep 16) and Re:ZERO S4 Recapture Arc (Wed Aug 12 Ep 12 on Crunchyroll). Silo tracker advanced to Ep 7 'Radio' Fri Aug 14. Bench unchanged. Hero pick tier: #1 (Loved-list continuation — Demon Slayer, franchise) + #2 (watchlist now-streaming).",
+  "source": "Mon Aug 10, 2026 scheduled sync — daily light-touch refresh over the Aug 9 weekly rebuild. Pending drain: 0 entries. Loved-list cross-check: Futurama S14 Ep 3 verified dropping today Mon Aug 10 ('Our Flag Means Medical Coverage', Sportskeeda + TechnoSports), tracker advanced to reflect today's drop + next ep Aug 17; Silo S3 Ep 7 'Radio' re-verified for Fri Aug 14 per Apple TV schedule (Space.com + TVSeries.wiki); Demon Slayer Infinity Castle hero unchanged (still streaming on Crunchyroll since Jul 28); no other loved-list continuations dropped in last 24h. Watchlist availability re-check: no new arrivals (Infinity Castle already promoted; Slow Horses S6 still Sep 16). Alien: Earth premiere holds tomorrow Tue Aug 12 (2-ep drop on FX/Hulu, ABC + ScreenRant + TheWrap re-confirm), Reacher S4 holds Wed Aug 12, Re:ZERO S4 Ep 12 holds Wed Aug 12. Bench unchanged. Hero pick tier: #1 (Loved-list continuation — Demon Slayer, franchise) + #2 (watchlist now-streaming).",
   "hero": {
     "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
     "platform": "Crunchyroll",
@@ -67,10 +67,10 @@
       "why": "Weekly tracker: shows you love stay here with the next drop date. Friday night = new Silo, right through Labor Day."
     },
     {
-      "title": "Futurama S14 — Ep 3 (Mon Aug 10)",
+      "title": "Futurama S14 — Ep 3 'Our Flag Means Medical Coverage' (drops today, Mon Aug 10)",
       "platform": "Disney+ (Hulu hub)",
-      "date": "Next ep: Mon Aug 10 — weekly Mondays through the Sep 28 finale",
-      "format": "adult animation series — weekly tracker (you're caught up through Ep 2)",
+      "date": "Ep 3 out today Mon Aug 10 (Bender + Leela vs space pirates); Ep 4 Mon Aug 17 — weekly Mondays through the Sep 28 finale",
+      "format": "adult animation series — weekly tracker (you're caught up through Ep 2, rated S14 4.5★)",
       "runtime": "~22 min per ep",
       "match": "strong",
       "genres": [
@@ -82,10 +82,11 @@
         "following",
         "you rated S14 4.5★",
         "Loved list",
-        "weekly drop"
+        "weekly drop",
+        "tonight"
       ],
-      "about": "You rated S14 at 4.5★ off the 2-episode premiere — eight more to come, Mondays through Sep 28.",
-      "why": "Weekly tracker: new Futurama every Monday. A reliable 22-minute pre-bed slot for the next two months."
+      "about": "Ep 3 'Our Flag Means Medical Coverage' hit Hulu at midnight ET — Bender and Leela take on space pirates trying to steal cargo. Seven more eps through the Sep 28 finale.",
+      "why": "Tonight's easiest pick: a fresh 22-min Futurama drop the day you asked. Weekly tracker continues Mondays."
     },
     {
       "title": "Trying S5",
