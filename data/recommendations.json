@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T13:30:00Z",
+  "generated_at": "2026-08-11T13:15:00Z",
   "week_label": "Aug 10 – Aug 16, 2026",
-  "source": "Mon Aug 10, 2026 scheduled sync — daily light-touch refresh over the Aug 9 weekly rebuild. Pending drain: 0 entries. Loved-list cross-check: Futurama S14 Ep 3 verified dropping today Mon Aug 10 ('Our Flag Means Medical Coverage', Sportskeeda + TechnoSports), tracker advanced to reflect today's drop + next ep Aug 17; Silo S3 Ep 7 'Radio' re-verified for Fri Aug 14 per Apple TV schedule (Space.com + TVSeries.wiki); Demon Slayer Infinity Castle hero unchanged (still streaming on Crunchyroll since Jul 28); no other loved-list continuations dropped in last 24h. Watchlist availability re-check: no new arrivals (Infinity Castle already promoted; Slow Horses S6 still Sep 16). Alien: Earth premiere holds tomorrow Tue Aug 12 (2-ep drop on FX/Hulu, ABC + ScreenRant + TheWrap re-confirm), Reacher S4 holds Wed Aug 12, Re:ZERO S4 Ep 12 holds Wed Aug 12. Bench unchanged. Hero pick tier: #1 (Loved-list continuation — Demon Slayer, franchise) + #2 (watchlist now-streaming).",
+  "source": "Tue Aug 11, 2026 scheduled sync — daily light-touch refresh over the Aug 10 pass. Pending drain: 0 entries. Loved-list cross-check ran (Foundation S4 in production, no 2026 date; Severance S3 filming Apr-Dec 2026, ~mid-to-late 2027; Slow Horses S6 confirmed Sep 16, 2026 weekly Weds through Oct 21 — Apple PR + Deadline; Black Mirror S8 already dropped Apr 11, 2026; Rick and Morty S9 finished airing Jul 26 — Jon rated S9 4★ on Aug 6 so already caught up; Futurama S14 continues weekly, Solar Opposites S6 hasn't premiered yet per web despite Jon's Aug 6 4.5★ log; Demon Slayer Infinity Castle still on Crunchyroll since Jul 28) — no NEW loved-list drops in last 24h beyond what's already on the list. Watchlist availability re-check ran (Infinity Castle already promoted, Silo S3 Ep 7 confirmed Fri Aug 14, other watchlist items previously watched or still pending); no NEW arrivals. Fresh critic hit added: Sterling Point (Prime Video, premiered Aug 5, 93% RT + 87% audience, #1 globally on Prime since Aug 7 — TheWrap + Variety + THR + ScreenRant) — bumped to critics slot and new_this_week. Alien: Earth: Hulu drop is Wed Aug 12 (Python-verified day-name — was labeled Tue in yesterday's file; corrected). All bench entries carried unchanged. Hero pick tier: #1 (Loved-list continuation — Demon Slayer, franchise) + #2 (watchlist now-streaming).",
   "hero": {
     "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
     "platform": "Crunchyroll",
@@ -170,9 +170,9 @@
       "why": "Three unwatched 30-min episodes close out a show you have at 4 stars — a one-evening finish."
     },
     {
-      "title": "Alien: Earth — Series Premiere (Tue Aug 12, 2-ep drop)",
+      "title": "Alien: Earth — Series Premiere (Wed Aug 12, 2-ep drop on Hulu)",
       "platform": "Disney+ (Hulu hub)",
-      "date": "Premieres Tue Aug 12, 2026 (2 eps day-one; weekly Tuesdays through the 8-ep season on FX + Hulu — JustWatch verified Hulu offer)",
+      "date": "Streams on Hulu Wed Aug 12, 2026 (2 eps day-one after FX linear Tue Aug 11 premiere; weekly thereafter through Sep 23 — 8 eps total; ABC + Space.com + JustWatch-verified Hulu offer)",
       "format": "sci-fi horror series — season 1",
       "runtime": "8 eps x ~50 min",
       "match": "strong",
@@ -352,6 +352,28 @@
       ],
       "about": "Science SARU's new adaptation hews closer to Shirow's original manga: Major Kusanagi and Section 9 hunt the Puppet Master in 2029. Prime exclusive; check the Prime page for the latest episode.",
       "why": "Cyberpunk world-building in 24-min episodes from the studio behind Dandadan. Weekly anime slot outside Crunchyroll for a change."
+    },
+    {
+      "title": "Sterling Point",
+      "platform": "Amazon Prime Video",
+      "date": "All 8 eps since Wed Aug 5, 2026 — binge-ready (JustWatch-verified)",
+      "format": "mystery-drama limited series — 8 episodes",
+      "runtime": "8 eps x ~50 min",
+      "match": "try",
+      "genres": [
+        "mystery",
+        "drama",
+        "thriller"
+      ],
+      "tags": [
+        "93% RT critics",
+        "87% audience",
+        "#1 on Prime globally",
+        "Megan Park",
+        "binge-ready"
+      ],
+      "about": "Megan Park's (The Fallout) YA-adjacent mystery: NYC-raised twins inherit a remote Muskoka, Ontario island from an estranged grandfather. Annie (Ella Rubin) heads north to unpack why he stayed away — and finds a biological sibling she never knew. Family secrets, cliff jumps, dock evenings. Certified Fresh at 93% (Variety, THR).",
+      "why": "The critical event of the week — highest-reviewed new series of August. Plot twists + family-secret mystery + ensemble cast are three of your signals; 'try' because it skews late-teen coming-of-age vs. your usual defaults."
     }
   ],
   "critics": [
@@ -397,25 +419,25 @@
       "why": "Best-reviewed Netflix genre entry of the summer (~86-90% across snapshots) — critic-validated dark sci-fi."
     },
     {
-      "title": "Batman: Caped Crusader S2",
+      "title": "Sterling Point",
       "platform": "Amazon Prime Video",
-      "date": "All 10 eps since Jul 31, 2026 (JustWatch-verified)",
-      "format": "adult animation series — season 2",
-      "runtime": "10 eps x ~25 min",
+      "date": "All 8 eps since Wed Aug 5, 2026 — binge-ready (JustWatch-verified)",
+      "format": "mystery-drama limited series — 8 episodes",
+      "runtime": "8 eps x ~50 min",
       "match": "try",
       "genres": [
         "mystery",
-        "adult animation",
-        "noir"
+        "drama",
+        "thriller"
       ],
       "tags": [
-        "~89% RT",
-        "Bruce Timm",
-        "30-min episodes",
-        "binge-ready"
+        "93% RT critics",
+        "87% audience",
+        "#1 on Prime globally",
+        "Certified Fresh"
       ],
-      "about": "Bruce Timm's 1940s-noir Batman continues with the Riddler, Carrie Kelly, and Roxy Rocket. Ten 25-minute episodes, all at once.",
-      "why": "~89% RT animated noir — critics call S2 sharper than S1. Short-episode mystery done right."
+      "about": "Megan Park's (The Fallout) YA-adjacent island mystery: NYC-raised twins inherit a Muskoka island from an estranged grandfather; Annie uncovers a sibling she never knew existed. 93% Certified Fresh — Variety + THR + TheWrap; #1 on Prime globally since Aug 7.",
+      "why": "The highest-scoring new series of August, freshly on your Prime access. Family-secret mystery with ensemble craft — critic-validated late-summer binge."
     }
   ],
   "bench": [
