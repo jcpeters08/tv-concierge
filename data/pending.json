@@ -1,31 +1,4 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": [
-    {
-      "kind": "watched",
-      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
-      "rating": 3.5,
-      "tags": "watchlist, Loved list, 96% RT / 99% audience, supernatural, sub + dub",
-      "date": "2026-08-17",
-      "ts": "2026-08-17T02:27:11.865Z"
-    },
-    {
-      "kind": "unpin",
-      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
-      "ts": "2026-08-17T02:27:15.450Z"
-    },
-    {
-      "kind": "pin",
-      "title": "Silo S3 — Ep 7 'Radio' (Fri Aug 14)",
-      "ts": "2026-08-17T02:27:25.902Z"
-    },
-    {
-      "kind": "watched",
-      "title": "Futurama S14 — Ep 3 'Our Flag Means Medical Coverage' (drops today, Mon Aug 10)",
-      "rating": 4,
-      "tags": "following, you rated S14 4.5★, Loved list, weekly drop, tonight",
-      "date": "2026-08-17",
-      "ts": "2026-08-17T02:27:32.042Z"
-    }
-  ]
+  "entries": []
 }

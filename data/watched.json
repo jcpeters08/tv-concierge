@@ -575,6 +575,32 @@
         "based on book"
       ],
       "date": "2026-08-06"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle",
+      "rating": 3.5,
+      "tags": "watchlist, Loved list, 96% RT / 99% audience, supernatural, sub + dub",
+      "tags_array": [
+        "watchlist",
+        "Loved list",
+        "96% RT / 99% audience",
+        "supernatural",
+        "sub + dub"
+      ],
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Futurama S14 — Ep 3 'Our Flag Means Medical Coverage' (drops today, Mon Aug 10)",
+      "rating": 4,
+      "tags": "following, you rated S14 4.5★, Loved list, weekly drop, tonight",
+      "tags_array": [
+        "following",
+        "you rated S14 4.5★",
+        "Loved list",
+        "weekly drop",
+        "tonight"
+      ],
+      "date": "2026-08-17"
     }
   ],
   "known_favorites": [
@@ -596,5 +622,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-08-06T01:12:42Z"
+  "synced_at": "2026-08-18T02:09:23Z"
 }
