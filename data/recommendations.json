@@ -1,1519 +1,548 @@
 {
- "generated_at": "2026-08-18T02:20:02Z",
- "week_label": "Aug 17 – Aug 23, 2026",
- "source": "Mon Aug 17, 2026 on-demand refresh (interactive session; Sunday Aug 16 scheduled pass did not run — task disabled). Pending drain ran first: 4 entries (Infinity Castle watched 3.5★ + unpinned; Silo S3 Ep 7 pinned; Futurama S14 Ep 3 watched 4★). Verification: 5 parallel agents, JustWatch ground truth per protocol. Hero rotated — Infinity Castle watched, replaced by It's Always Sunny S18 premiering tonight (2 eps Hulu 9pm ET, 10-ep season, Mondays through Oct 12 — Variety/Deadline/TV Insider/JustWatch). Trackers advanced: Silo S3 → Ep 8 'Gray Goo' Fri Aug 21 (finale 'Troy' Sep 4); Futurama S14 → Ep 4 'Lords of the Ring' today (finale date conflicts Sep 28 vs Oct 5, left TBD). Corrections: The Shards premiered Aug 5 not Aug 12, 4 of 9 eps out (moved from alerts to active); X-Men '97 S2 already FINISHED (Jul 1–Aug 12) — prior 'mid-Aug premiere' alert was stale, now listed binge-ready; Furious actually at 6 of 8 eps (prior 1–4 was two weeks stale); Apothecary Diaries S3 does NOT start until Oct 2 (ANN) — prior 'just starting' note wrong; Frieren S2 finished Mar 27, relabeled binge-ready. New verified picks: Talamasca → Netflix Sun Aug 23 (6-ep binge); Good Fortune → Prime Fri Aug 21 (comedy film, 79% RT); Tires S3 (Netflix, Aug 13, JustWatch-verified); Untitled Home Invasion Romance (Hulu, JustWatch-verified); Link Click S3 + The Elusive Samurai S2 (Crunchyroll, airing weekly, JustWatch-verified). Dark Matter S2 upgraded to OFFICIAL Aug 28 (Apple PR + Deadline). Bench: full 42-title JustWatch re-check — 42/42 confirmed, zero moves/drops; Bear S5, Avatar S2, Batman CC S2, The Dink, Human Vapor rotated new→bench. Alerts refreshed: OMITB S6 / 3BP S2 / Foundation S4 still dateless; Severance S3 added as 2027-expected. Rejected (wrong platform or unverifiable): Lanterns, Strange New Worlds S4, Swiss Army Man (single source), The Husband (unverified).",
- "hero": {
-  "title": "It's Always Sunny in Philadelphia S18 — Season Premiere (TONIGHT, Mon Aug 17)",
-  "platform": "Disney+ (Hulu hub)",
-  "date": "Premieres TONIGHT Mon Aug 17 — 2 eps hit Hulu at 9pm ET, same night as FXX; weekly Mondays through the Oct 12 finale",
-  "format": "comedy series — season 18, 10 episodes",
-  "runtime": "10 eps x ~22 min",
-  "match": "strong",
-  "genres": [
-   "comedy"
+  "generated_at": "2026-08-19T02:19:27Z",
+  "week_label": "Aug 17 – Aug 23, 2026",
+  "source": "Refreshed by the daily scheduled task on Tue Aug 18, 2026. Loved-list cross-check, watchlist availability check, and JustWatch-anchored verification per Web-App-Build-Brief.md.",
+  "hero": {
+    "title": "Demon Slayer: Infinity Castle Chapter I — NOW STREAMING on Crunchyroll",
+    "platform": "Crunchyroll",
+    "date": "Available on Crunchyroll since Mon Jul 28, 2026 — Japanese audio + English subs AND the English theatrical dub. Also purchasable ($19.99) / rentable ($14.99) on Prime Video and Apple TV.",
+    "format": "anime film — Trilogy Part 1 of 3",
+    "runtime": "~2h 35min",
+    "match": "strong",
+    "genres": [
+      "anime",
+      "action",
+      "fantasy"
+    ],
+    "tags": [
+      "loved-list continuation",
+      "was on your watchlist",
+      "now streaming",
+      "trilogy opener",
+      "big-screen animation"
+    ],
+    "about": "The first of three theatrical films continuing the Mugen Train / Hashira Training arcs — Tanjiro and the Hashira are dragged into Muzan's dimension-warping Infinity Castle for the climactic confrontation. Widely called some of the best-animated action of the decade. Confirmed on Crunchyroll (US) per Anime News Network / Collider / Forbes coverage from Anime Expo 2026.",
+    "why": "Two hits at once: (1) direct continuation of a Loved-list favorite (Demon Slayer), and (2) it's been sitting on your Watchlist as 'HELD from last week' — now actually reachable on Crunchyroll without renting. Perfect Sci-Fi/Fantasy match with the world-building and big spectacle you gravitate to."
+  },
+  "new_this_week": [
+    {
+      "title": "Demon Slayer: Infinity Castle Chapter I — NOW STREAMING on Crunchyroll",
+      "platform": "Crunchyroll",
+      "date": "Streaming since Mon Jul 28, 2026 (JustWatch/Crunchyroll-confirmed)",
+      "format": "anime film — Trilogy Part 1 of 3",
+      "runtime": "~2h 35min",
+      "match": "strong",
+      "genres": [
+        "anime",
+        "action",
+        "fantasy"
+      ],
+      "tags": [
+        "loved-list",
+        "was on watchlist",
+        "now streaming"
+      ],
+      "about": "See hero — Demon Slayer trilogy opener, now on Crunchyroll with sub + dub.",
+      "why": "Loved-list continuation that finally left rental-only limbo. This is the one to clear off the watchlist tonight."
+    },
+    {
+      "title": "It's Always Sunny in Philadelphia S18 — Ep 3 (Mon Aug 24)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Weekly Mondays through Oct 12 finale; Eps 1–2 already dropped Mon Aug 17 on FXX + Hulu",
+      "format": "comedy series — season 18, 10 episodes",
+      "runtime": "10 eps × ~22 min",
+      "match": "strong",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "currently airing",
+        "loved-tone (mean ensemble)",
+        "30-min episodes",
+        "double-ep premiere already out"
+      ],
+      "about": "The Gang's 10-episode 18th season is officially the longest Sunny run in years. Premiere double-header 'Frank Marries a Corpse' and 'Dennis and Dee Don't Get Rich' is streaming on Hulu now; Ep 3 next Monday.",
+      "why": "Weekly tracker while the season airs. Sarcastic mean-spirited ensemble comedy in 22-min bites — dead center for you."
+    },
+    {
+      "title": "Silo S3 — Ep 8 'Gray Goo' (Fri Aug 21)",
+      "platform": "Apple TV+",
+      "date": "Fri Aug 21, 2026 at 3am ET — weekly Fridays through Sep 4 finale ('Troy', Ep 10)",
+      "format": "sci-fi series — season 3, 10 episodes",
+      "runtime": "~55 min",
+      "match": "strong",
+      "genres": [
+        "sci-fi",
+        "drama",
+        "mystery"
+      ],
+      "tags": [
+        "currently airing",
+        "penultimate stretch",
+        "Certified Fresh"
+      ],
+      "about": "Knox's father Gus finally cracks; Charlotte faces a decision that changes everything. Season 3 is Certified Fresh with Rotten Tomatoes calling it 'a masterful dystopian tale with expertly driven character arcs.'",
+      "why": "Weekly tracker on your active watchlist series — the season peak is here. Two episodes remain."
+    },
+    {
+      "title": "Futurama S14 — Ep 5 (Mon Aug 24)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Weekly Mondays; S14 premiered Mon Aug 3 with 10 eps",
+      "format": "animated comedy — season 14",
+      "runtime": "10 eps × ~22 min",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "sci-fi",
+        "animation"
+      ],
+      "tags": [
+        "loved-list",
+        "currently airing",
+        "30-min episodes"
+      ],
+      "about": "Space pirates, synthetic-meat scams, and Zoidberg's long-lost love back for another supersized run. Weekly Mondays through October.",
+      "why": "Loved-list tracker — weekly Planet Express in your ideal 22-min bedtime slot."
+    },
+    {
+      "title": "Reacher S4 — Ep 4 'Karambits and Pieces' (Wed Aug 19)",
+      "platform": "Amazon Prime Video",
+      "date": "Wed Aug 19, 2026 at 3am ET — weekly Wednesdays through Sep 16 finale",
+      "format": "action-thriller series — season 4",
+      "runtime": "~55 min",
+      "match": "try",
+      "genres": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "tags": [
+        "currently airing",
+        "adapts Gone Tomorrow",
+        "RT #1 most-anticipated of Aug"
+      ],
+      "about": "S4 adapts Lee Child's novel 'Gone Tomorrow' — Reacher gets pulled into a New York conspiracy. Premiered Aug 12 with 3 eps; five more weekly.",
+      "why": "Popcorn action-thriller — not your usual off-beat sci-fi comfort zone, but Rotten Tomatoes' #1 most-anticipated August pick if you're up for a plot-heavy hour."
+    },
+    {
+      "title": "Trying S5 — Ep 7 (Wed Aug 20)",
+      "platform": "Apple TV+",
+      "date": "Weekly Wednesdays; S5 premiered Jul 8, finale Wed Aug 26",
+      "format": "comedy-drama series — season 5, 8 episodes",
+      "runtime": "~30 min",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "dry-British-humor",
+        "30-min episodes",
+        "warm-tone",
+        "penultimate ep"
+      ],
+      "about": "Rafe Spall + Esther Smith's warm London comedy about a family building itself piece by piece; final two eps this week and next.",
+      "why": "British warmth + wit + 30-min episodes — the exact 'light tone with substance underneath' signal from your taste profile."
+    },
+    {
+      "title": "Lucky — Series Finale 'All Good Things' (Wed Aug 19)",
+      "platform": "Apple TV+",
+      "date": "Wed Aug 19, 2026 — 7-episode limited series wraps",
+      "format": "limited series — finale",
+      "runtime": "~44 min",
+      "match": "try",
+      "genres": [
+        "thriller",
+        "drama"
+      ],
+      "tags": [
+        "Anya Taylor-Joy",
+        "Timothy Olyphant",
+        "limited series",
+        "binge-ready after finale"
+      ],
+      "about": "Adapted from Marissa Stapley's 2021 novel. Anya Taylor-Joy is Lucky, a con artist tangling with the FBI and Wayne Whittaker in the finale. Annette Bening + Aunjanue Ellis-Taylor co-star.",
+      "why": "After Wed you can binge the whole 7-episode arc in ~5 hours — Taylor-Joy's presence + the twisty setup earn a look, even if crime-thriller isn't your default lane."
+    },
+    {
+      "title": "Talamasca: The Secret Order — Season 1 (Sun Aug 23)",
+      "platform": "Netflix",
+      "date": "Sun Aug 23, 2026 — all 6 eps drop at once on Netflix US (previously AMC/international only)",
+      "format": "supernatural series — season 1, 6 episodes",
+      "runtime": "6 eps × ~50 min",
+      "match": "try",
+      "genres": [
+        "supernatural",
+        "mystery",
+        "drama"
+      ],
+      "tags": [
+        "Anne Rice universe",
+        "binge-drop",
+        "one-season only"
+      ],
+      "about": "Anne Rice Immortal Universe spinoff — the Talamasca is the secret order that observes vampires, witches, and other things that shouldn't exist. AMC cancelled after S1, Netflix picked up the US streaming rights.",
+      "why": "Supernatural + mythology + book adaptation — three signals from your 'what lands' list. Six-episode one-and-done means low commitment."
+    },
+    {
+      "title": "The Shards — Ep 3 (Wed Aug 20)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Weekly Wednesdays; 9 eps total, finale Sep 9",
+      "format": "thriller series — season 1",
+      "runtime": "~55 min",
+      "match": "try",
+      "genres": [
+        "thriller",
+        "mystery",
+        "horror"
+      ],
+      "tags": [
+        "Ryan Murphy",
+        "Bret Easton Ellis adaptation",
+        "1980s LA"
+      ],
+      "about": "Ryan Murphy's adaptation of Bret Easton Ellis's autofiction novel — a serial killer, a private school in 1980s LA, and a narrator who might be involved. Weekly Wednesdays through Sep 9.",
+      "why": "Book adaptation + horror/suspense + Ryan Murphy's ensemble hand — three of your signals lined up. Worth trying Ep 1 to see if the pacing works for you."
+    },
+    {
+      "title": "Re:ZERO S4 Recapture Arc — Ep 13 (Wed Aug 19)",
+      "platform": "Crunchyroll",
+      "date": "Wed Aug 19, 2026 at 10:30am ET — weekly Wednesdays, Recapture Arc is 8 eps (through late Sep)",
+      "format": "anime series — season 4 part 2",
+      "runtime": "~24 min",
+      "match": "try",
+      "genres": [
+        "anime",
+        "fantasy",
+        "drama"
+      ],
+      "tags": [
+        "currently airing",
+        "cour 2 of 2",
+        "long runner"
+      ],
+      "about": "The Recapture Arc kicked off Aug 12 after a one-month break from the Loss Arc — Subaru returns to reclaim what was lost. Weekly Wednesdays.",
+      "why": "Fantasy world-building + long-form story — a heavier lift than your usual bedtime picks, but the arc structure means each week actually moves."
+    },
+    {
+      "title": "Good Fortune (2025 film) — hits Prime Fri Aug 21",
+      "platform": "Amazon Prime Video",
+      "date": "Fri Aug 21, 2026 — second-window streaming premiere (moved over from Starz)",
+      "format": "comedy film",
+      "runtime": "~1h 38min",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "fantasy"
+      ],
+      "tags": [
+        "Aziz Ansari directs",
+        "Keanu Reeves",
+        "Seth Rogen",
+        "life-swap premise"
+      ],
+      "about": "Aziz Ansari's directorial debut. A well-meaning angel (Keanu Reeves) swaps the lives of a struggling gig worker (Ansari) and a shallow venture capitalist (Seth Rogen) to prove wealth ≠ happiness. Backfires dramatically. Keke Palmer and Sandra Oh round out the cast.",
+      "why": "Comedy movie in your wheelhouse — Ansari's dry-observational humor + Keanu's earnest-weirdo range + a light fantasy premise. Reads as a genuine sit-and-enjoy Friday-night pick."
+    },
+    {
+      "title": "Link Click S3 — Ep 2 (Thu Aug 20)",
+      "platform": "Crunchyroll",
+      "date": "Thu Aug 20, 2026 at 11pm ET — Part 1 is 12 eps (double-ep premiere Aug 14); Part 2 in 2027",
+      "format": "anime series — season 3 part 1",
+      "runtime": "~25 min",
+      "match": "try",
+      "genres": [
+        "anime",
+        "sci-fi",
+        "mystery"
+      ],
+      "tags": [
+        "currently airing",
+        "time-travel",
+        "24-ep split cour"
+      ],
+      "about": "The photo-diving detectives are back — S3 pulled its release six weeks forward. If the time-travel-through-photographs premise from earlier seasons landed, this is the payoff arc.",
+      "why": "Sci-fi + mystery + tight 25-min episodes. Skip if you never saw S1/S2; otherwise this is a strong return."
+    },
+    {
+      "title": "Furious — Ep 5 (Mon Aug 24)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Weekly Mondays; 8 eps total, finale Mon Aug 31",
+      "format": "crime-thriller series — season 1, 8 episodes",
+      "runtime": "~50 min",
+      "match": "try",
+      "genres": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "tags": [
+        "98% RT",
+        "Emmy Rossum",
+        "Certified Fresh",
+        "female serial killer"
+      ],
+      "about": "Elizabeth Meriwether's loose Black Widow (1987) adaptation — FBI agent Alice Black (Emmy Rossum) hunts a calculating female serial killer (Lola Petticrew). Currently #1 on the Disney+ global TV chart.",
+      "why": "Not your usual sci-fi/comedy lane, but at 98% RT and Certified Fresh, it's the critic pick of the summer. Try Ep 1 and bail if the tone's too grim."
+    },
+    {
+      "title": "The Ghost in the Shell (2026) — Ep 7 (Tue Aug 18, TODAY)",
+      "platform": "Amazon Prime Video",
+      "date": "Tue Aug 18, 2026 at 10:30am ET — weekly Tuesdays",
+      "format": "anime series — season 1",
+      "runtime": "~25 min",
+      "match": "try",
+      "genres": [
+        "anime",
+        "sci-fi",
+        "cyberpunk"
+      ],
+      "tags": [
+        "currently airing",
+        "franchise reboot",
+        "cyberpunk"
+      ],
+      "about": "The 2026 anime reboot of the cyberpunk classic — Major Motoko Kusanagi and Section 9 return. Streaming free on Prime Video, faster-domestic release model.",
+      "why": "Sci-fi + world-building + 25-min episodes. Cyberpunk aesthetics may skew heavier than your usual off-beat pick, but the format is bedtime-friendly."
+    },
+    {
+      "title": "Good Omens — Series Finale (90-min Special) — NOW STREAMING",
+      "platform": "Amazon Prime Video",
+      "date": "Available since Wed May 13, 2026 — one 90-min special replacing the planned 6-ep S3",
+      "format": "fantasy comedy — series finale (single 90-min episode)",
+      "runtime": "~90 min",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "fantasy",
+        "supernatural"
+      ],
+      "tags": [
+        "loved-list",
+        "was on watchlist",
+        "now streaming",
+        "series finale"
+      ],
+      "about": "The Aziraphale/Crowley story wraps in a single 90-minute episode after Neil Gaiman exited the show; addresses the fallout from the Second Coming setup at the end of S2.",
+      "why": "Loved-list closure — this has been sitting on your watchlist. It's not the 6-episode S3 that was originally planned, but it IS the ending. Watch it, rate it, and clear it."
+    },
+    {
+      "title": "Rick and Morty S9 — Complete Season (Binge-Ready)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Complete S9 (10 eps) streaming on Hulu since Jun 15, 2026; also on HBO Max",
+      "format": "animated comedy — season 9",
+      "runtime": "10 eps × ~22 min",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "sci-fi",
+        "animation"
+      ],
+      "tags": [
+        "loved-list",
+        "complete season",
+        "30-min episodes",
+        "binge-ready"
+      ],
+      "about": "Full S9 aired May 24 – Jul 26 on Adult Swim; all 10 eps are on Hulu now, and the show's been renewed through S12.",
+      "why": "Loved-list catch-up you can binge at your own pace — no need to wait weekly. Perfect if you skipped the Adult Swim run."
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed — Complete Season (Binge-Ready)",
+      "platform": "Apple TV+",
+      "date": "Full S1 (10 eps) streaming; premiered May 20, 2026, finale Jul 15",
+      "format": "dark comedy — season 1, 10 episodes",
+      "runtime": "10 eps × ~55 min",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "mystery",
+        "thriller"
+      ],
+      "tags": [
+        "93% RT",
+        "Tatiana Maslany",
+        "dark humor",
+        "Certified Fresh"
+      ],
+      "about": "Tatiana Maslany as a divorced fact-checker who thinks she witnessed a crime, sliding into blackmail + murder + youth soccer. Ebert.com called it 'propulsive.' 93% RT.",
+      "why": "Dark humor + murder mystery + strong lead — matches your 'dark-humor + genre combo' signal, and Maslany is a knockout. Whole season available; binge or spread across a week."
+    },
+    {
+      "title": "Sterling Point — Season 1 (Binge-Ready)",
+      "platform": "Amazon Prime Video",
+      "date": "Full S1 (8 eps) dropped Wed Aug 5, 2026 — all eps at once",
+      "format": "mystery drama — season 1, 8 episodes",
+      "runtime": "8 eps × ~50 min",
+      "match": "try",
+      "genres": [
+        "mystery",
+        "drama",
+        "coming-of-age"
+      ],
+      "tags": [
+        "binge-drop",
+        "one-night watch"
+      ],
+      "about": "Coming-of-age mystery marketed as 'the perfect one-night binge.' Global TV hit on Prime.",
+      "bench": true,
+      "why": "Lower-priority coming-of-age drama — noted for filter coverage. Bench pick."
+    },
+    {
+      "title": "Tires S3 — Netflix (Binge-Ready)",
+      "platform": "Netflix",
+      "date": "Full S3 dropped Thu Aug 13, 2026",
+      "format": "workplace comedy — season 3",
+      "runtime": "~25 min per ep",
+      "match": "try",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "Shane Gillis",
+        "workplace comedy",
+        "30-min episodes",
+        "binge-drop"
+      ],
+      "about": "Shane Gillis / Steve Gerben / John McKeever's workplace comedy at Valley Forge Automotive; hit #2 on Netflix's TV Top 10 within 5 days of premiere. 89% Popcornmeter.",
+      "bench": true,
+      "why": "Bench comedy — if you want something dumb and quick between the heavier stuff. Not your usual lane, but the runtime fits bedtime."
+    }
   ],
-  "tags": [
-   "season premiere",
-   "tonight",
-   "double episode",
-   "30-min episodes"
+  "critics": [
+    {
+      "title": "Furious",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Eps 1–6 of 8 streaming (JustWatch-verified Aug 18); finale Mon Aug 31",
+      "format": "crime-thriller series",
+      "runtime": "8 eps × ~50 min",
+      "match": "try",
+      "genres": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "tags": [
+        "98% RT",
+        "Certified Fresh",
+        "Emmy Rossum"
+      ],
+      "about": "The best-reviewed drama of summer 2026 by RT consensus. Female-FBI vs. female-serial-killer setup with unusually strong lead performances.",
+      "why": "Currently top of the Disney+ global TV chart with near-universal critical praise. Not your usual off-beat sci-fi lane, but a certified-fresh pick you can access."
+    },
+    {
+      "title": "Silo S3",
+      "platform": "Apple TV+",
+      "date": "Eps 1–7 streaming; Ep 8 'Gray Goo' Fri Aug 21; finale 'Troy' Fri Sep 4",
+      "format": "sci-fi drama series",
+      "runtime": "10 eps × ~55 min",
+      "match": "strong",
+      "genres": [
+        "sci-fi",
+        "drama",
+        "mystery"
+      ],
+      "tags": [
+        "Certified Fresh",
+        "penultimate stretch",
+        "book adaptation"
+      ],
+      "about": "Rotten Tomatoes S3 blurb: 'a masterful dystopian tale with expertly driven character arcs.' Two eps left after this week.",
+      "why": "Sci-fi + world-building + book adaptation — the exact intersection of your top signals."
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed",
+      "platform": "Apple TV+",
+      "date": "Full S1 (10 eps) streaming; May 20 – Jul 15 run complete",
+      "format": "dark comedy-thriller series",
+      "runtime": "10 eps × ~55 min",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "mystery",
+        "thriller"
+      ],
+      "tags": [
+        "93% RT",
+        "Certified Fresh",
+        "Tatiana Maslany"
+      ],
+      "about": "Dark-comedy mystery with Tatiana Maslany that critics rated 93% — 'propulsive' per Roger Ebert's site.",
+      "why": "Dark humor + genre mashup + strong lead — three of your positive signals, and it's all sitting there ready to binge."
+    }
   ],
-  "about": "The Gang returns tonight with a double episode — 'Frank Marries a Corpse' and 'Dennis and Dee Don't Get Rich' — opening a 10-episode season, the longest Sunny run in years (Variety + Deadline + TV Insider + JustWatch-verified). Episodes stream on Hulu at 9pm ET the same night they air on FXX.",
-  "why": "Tonight's biggest arrival, dead-center in your wheelhouse: sarcastic, mean-spirited ensemble comedy in 22-minute bites — ideal before-bed length. Note: not streamable until 9pm ET tonight."
- },
- "new_this_week": [
-  {
-   "title": "It's Always Sunny in Philadelphia S18 — Season Premiere (TONIGHT, Mon Aug 17)",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Premieres TONIGHT Mon Aug 17 — 2 eps hit Hulu at 9pm ET, same night as FXX; weekly Mondays through the Oct 12 finale",
-   "format": "comedy series — season 18, 10 episodes",
-   "runtime": "10 eps x ~22 min",
-   "match": "strong",
-   "genres": [
-    "comedy"
-   ],
-   "tags": [
-    "season premiere",
-    "tonight",
-    "double episode",
-    "30-min episodes"
-   ],
-   "about": "S18 opens tonight with a double episode; 10 eps, weekly Mondays through Oct 12. (See hero.)",
-   "why": "Tonight's marquee — fresh 22-min sarcastic ensemble comedy."
-  },
-  {
-   "title": "Silo S3 — Ep 8 'Gray Goo' (Fri Aug 21)",
-   "platform": "Apple TV+",
-   "date": "Ep 7 'Radio' (your pin) dropped Fri Aug 14 and is waiting; Ep 8 'Gray Goo' this Fri Aug 21, then Ep 9 'Farewell' Aug 28 and the Ep 10 finale 'Troy' Fri Sep 4",
-   "format": "sci-fi series — weekly tracker (you rated S3 4.5★; Ep 7 pinned & unwatched)",
-   "runtime": "~50 min per ep",
-   "match": "strong",
-   "genres": [
-    "sci-fi",
-    "dystopian",
-    "mystery"
-   ],
-   "tags": [
-    "following",
-    "you rated S3 4.5★",
-    "weekly drop",
-    "pinned",
-    "100% RT"
-   ],
-   "about": "Ep 7 'Radio' landed Friday — it's the one you pinned. Ep 8 'Gray Goo' arrives this Friday; the season wraps Sep 4 (JustWatch + Deadline-verified).",
-   "why": "Weekly tracker: you're one behind with a fresh one landing Friday — a natural double-header night."
-  },
-  {
-   "title": "Futurama S14 — Ep 4 'Lords of the Ring' (drops today, Mon Aug 17)",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Ep 4 'Lords of the Ring' out today Mon Aug 17 (JustWatch-verified) — weekly Mondays; 10-ep season, finale late Sep/early Oct (sources conflict on Sep 28 vs Oct 5; TBD)",
-   "format": "adult animation series — weekly tracker (caught up through Ep 3, rated S14 4.5★)",
-   "runtime": "~22 min per ep",
-   "match": "strong",
-   "genres": [
-    "comedy",
-    "sci-fi",
-    "adult animation"
-   ],
-   "tags": [
-    "following",
-    "you rated S14 4.5★",
-    "Loved list",
-    "weekly drop",
-    "tonight"
-   ],
-   "about": "Ep 4 'Lords of the Ring' hit Hulu today — a Tolkien parody built on real orbital engineering. You logged Ep 3 last night; six more episodes after tonight's.",
-   "why": "You rated Ep 3 4★ yesterday and Ep 4 is already here — the Monday ritual continues."
-  },
-  {
-   "title": "Alien: Earth — Ep 3 'Metamorphosis' (Wed Aug 19)",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Eps 1–2 streaming since Wed Aug 12 (JustWatch-verified); Ep 3 'Metamorphosis' Wed Aug 19 — weekly Wednesdays through the Sep 23 finale (8 eps)",
-   "format": "sci-fi horror series — season 1",
-   "runtime": "8 eps x ~50 min",
-   "match": "strong",
-   "genres": [
-    "sci-fi",
-    "horror",
-    "thriller"
-   ],
-   "tags": [
-    "Noah Hawley",
-    "FX",
-    "series premiere",
-    "weekly drop"
-   ],
-   "about": "Noah Hawley's series opened Aug 12 with 'Neverland' and 'Mr. October'; 'Metamorphosis' lands Wednesday. Eight episodes total, weekly through Sep 23 (JustWatch + TheWrap-verified).",
-   "why": "Two eps banked, a third Wednesday — the right moment to jump in without falling behind."
-  },
-  {
-   "title": "The Shards",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Eps 1–4 of 9 streaming (JustWatch-verified; premiered Aug 5 — earlier than our prior Aug 12 alert); Ep 5 Wed Aug 19, double-drop Aug 26, finale Sep 9",
-   "format": "thriller limited series — 9 episodes",
-   "runtime": "9 eps x ~55 min (approx)",
-   "match": "try",
-   "genres": [
-    "thriller",
-    "mystery",
-    "drama"
-   ],
-   "tags": [
-    "Ryan Murphy",
-    "Bret Easton Ellis",
-    "book adaptation",
-    "1981 LA"
-   ],
-   "about": "Ryan Murphy's adaptation of Bret Easton Ellis's 1981-LA serial-killer novel has quietly been streaming since Aug 5 — four episodes up, Wednesdays through the Sep 9 finale (Wikipedia episode table + Disney+ official; 9 eps, not the 10 JustWatch's header shows).",
-   "why": "Book adaptation + slow-burn serial-killer suspense. Heavier than your usual, hence 'try' — but four eps deep is a good sampling window."
-  },
-  {
-   "title": "Reacher S4 — Ep 4 (Wed Aug 19)",
-   "platform": "Amazon Prime Video",
-   "date": "Eps 1–3 streaming since Wed Aug 12 (JustWatch-verified); Ep 4 'Karambits and Pieces' Wed Aug 19 — weekly through the Sep 16 finale (8 eps)",
-   "format": "action-thriller series — season 4",
-   "runtime": "8 eps x ~50 min",
-   "match": "try",
-   "genres": [
-    "thriller",
-    "action",
-    "crime"
-   ],
-   "tags": [
-    "Alan Ritchson",
-    "novel adaptation",
-    "weekly drop",
-    "Lee Child"
-   ],
-   "about": "The 3-ep premiere landed Aug 12; weekly singles from here, finale Sep 16. Spin-off 'Neagley' binge-drops the same day the season ends.",
-   "why": "Three eps banked if you want a big-swing action night; weekly from here."
-  },
-  {
-   "title": "Trying S5",
-   "platform": "Apple TV+",
-   "date": "Eps 1–6 of 8 out (Ep 6 'Halloween' dropped Aug 12); Ep 7 'Tuscany' Wed Aug 19, finale Wed Aug 26 (Apple PR + schedule sources; JustWatch page for S5 is stale)",
-   "format": "comedy series — season 5",
-   "runtime": "8 eps x ~30 min",
-   "match": "strong",
-   "genres": [
-    "comedy",
-    "drama"
-   ],
-   "tags": [
-    "dry British humor",
-    "30-min episodes",
-    "weekly drop"
-   ],
-   "about": "The adoption dramedy is two episodes from done — 'Tuscany' Wednesday, finale the week after.",
-   "why": "Warm British comedy nearly complete — catch up now and finish with the finale."
-  },
-  {
-   "title": "Furious",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Eps 1–6 of 8 streaming (JustWatch-verified Aug 17); final two eps rolling out weekly (drop day not listed)",
-   "format": "thriller series — season 1",
-   "runtime": "8 eps x ~50 min",
-   "match": "strong",
-   "genres": [
-    "thriller",
-    "crime",
-    "drama"
-   ],
-   "tags": [
-    "98-100% RT",
-    "Emmy Rossum",
-    "Elizabeth Meriwether",
-    "weekly drop"
-   ],
-   "about": "Forbes: the best-reviewed show of 2026 so far (100% at 37 reviews; RT guide shows 98%). Emmy Rossum FBI agent vs. calculating serial killer. Six of eight episodes are up.",
-   "why": "The critical event of the summer, and it's on your newest platform. Cat-and-mouse plotting with twist mechanics — your thriller lane at prestige level."
-  },
-  {
-   "title": "Lucky — Series Finale Wed Aug 19",
-   "platform": "Apple TV+",
-   "date": "Eps 1–6 of 7 streaming (JustWatch-verified); Ep 7 finale 'All Good Things' Wed Aug 19",
-   "format": "limited series — 7 episodes",
-   "runtime": "7 eps x ~46 min",
-   "match": "try",
-   "genres": [
-    "thriller",
-    "crime",
-    "drama"
-   ],
-   "tags": [
-    "Anya Taylor-Joy",
-    "novel adaptation",
-    "78% RT",
-    "weekly drop"
-   ],
-   "about": "Ep 6 'Wherever You Go, There You Are' dropped Aug 12; the finale lands Wednesday — the whole limited series is bingeable by Wednesday night.",
-   "why": "Complete story by midweek — good candidate for a two-night close-out."
-  },
-  {
-   "title": "Re:ZERO S4 Recapture Arc — Ep 13 (Wed Aug 19)",
-   "platform": "Crunchyroll",
-   "date": "Ep 12 opened the Recapture Arc Wed Aug 12; Ep 13 Wed Aug 19, 6am PT — weekly Wednesdays through late September (19-ep season)",
-   "format": "anime series — currently airing weekly",
-   "runtime": "~24 min per ep",
-   "match": "try",
-   "genres": [
-    "anime",
-    "fantasy",
-    "isekai"
-   ],
-   "tags": [
-    "weekly drop",
-    "world-building",
-    "novel adaptation"
-   ],
-   "about": "The Recapture Arc (eps 12–19) is underway — second cour of S4 after the spring Loss Part.",
-   "why": "Currently-airing weekly anime slot — jump in if you're caught up on the Loss Part."
-  },
-  {
-   "title": "X-Men '97 S2 — Complete Season (Binge-Ready)",
-   "platform": "Disney+",
-   "date": "All 9 eps streaming — season finished Aug 12 (Marvel + Disney+ official; our prior 'mid-Aug premiere' alert was stale — it premiered Jul 1)",
-   "format": "animation series — season 2, 9 episodes",
-   "runtime": "9 eps x ~30 min",
-   "match": "try",
-   "genres": [
-    "sci-fi",
-    "action",
-    "fantasy"
-   ],
-   "tags": [
-    "binge-ready",
-    "Marvel",
-    "90s revival",
-    "30-min episodes"
-   ],
-   "about": "The revival's second season premiered Jul 1 (3 eps day one) and wrapped Aug 12 — all nine episodes are now up on Disney+.",
-   "why": "Serialized Saturday-morning nostalgia in 30-min bites — binge-ready escapism, no weekly wait."
-  },
-  {
-   "title": "Talamasca: The Secret Order (hits Netflix Sun Aug 23)",
-   "platform": "Netflix",
-   "date": "All 6 eps land on Netflix Sun Aug 23 (Netflix title page + ScreenRant + CBR; US streaming debut of the AMC series — NOT on Netflix until Sunday)",
-   "format": "supernatural thriller series — 6 episodes (closed-ended)",
-   "runtime": "6 eps x ~60 min (approx)",
-   "match": "try",
-   "genres": [
-    "fantasy",
-    "supernatural",
-    "thriller"
-   ],
-   "tags": [
-    "Anne Rice",
-    "61% RT / 68% audience",
-    "binge-drop",
-    "AMC import"
-   ],
-   "about": "Anne Rice Immortal Universe spinoff: a secret order that surveils vampires and witches. AMC canceled it after one season, so it's a closed six-hour story — all episodes at once Sunday.",
-   "why": "Supernatural bureaucracy + mythology world-building; middling reviews (61%) keep it at 'try'."
-  },
-  {
-   "title": "Good Fortune (film — Prime Fri Aug 21)",
-   "platform": "Amazon Prime Video",
-   "date": "Hits Prime Video Fri Aug 21 (TheWrap + WhenToStream August schedules — NOT streaming until Friday; JustWatch re-check due on arrival)",
-   "format": "film",
-   "runtime": "1h 37m",
-   "match": "strong",
-   "genres": [
-    "comedy",
-    "fantasy"
-   ],
-   "tags": [
-    "79% RT / 80% audience",
-    "Keanu Reeves",
-    "Aziz Ansari",
-    "guardian angel"
-   ],
-   "about": "Aziz Ansari's directorial debut: Keanu Reeves as a well-meaning guardian angel who botches an intervention, with Seth Rogen, Keke Palmer, and Sandra Oh.",
-   "why": "Supernatural-comedy ensemble — your exact comedy-movie lane, timed for Friday night."
-  },
-  {
-   "title": "Tires S3",
-   "platform": "Netflix",
-   "date": "All 12 eps since Thu Aug 13 (JustWatch-verified) — binge-ready",
-   "format": "comedy series — season 3, 12 episodes",
-   "runtime": "12 eps x ~24 min",
-   "match": "try",
-   "genres": [
-    "comedy"
-   ],
-   "tags": [
-    "binge-ready",
-    "30-min episodes",
-    "workplace sitcom"
-   ],
-   "about": "Shane Gillis's auto-shop sitcom is back with a 12-episode season, dropped all at once last Thursday.",
-   "why": "Fresh 24-min binge comedy — though the humor skews broader/cruder than your usual, hence 'try'."
-  },
-  {
-   "title": "Untitled Home Invasion Romance (film)",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Streaming on Hulu now (JustWatch-verified; added to Hulu in August)",
-   "format": "film",
-   "runtime": "1h 25m",
-   "match": "try",
-   "genres": [
-    "comedy",
-    "thriller",
-    "crime"
-   ],
-   "tags": [
-    "79% RT critics",
-    "dark comedy",
-    "Jason Biggs directs"
-   ],
-   "about": "A staged break-in meant to spark a proposal spirals into murder farce — critics (79%) liked it far more than audiences (IMDb 5.4); reviews say it gets darker and funnier as it goes.",
-   "why": "85-minute dark-comedy gamble — low cost, twisty payoff potential."
-  },
-  {
-   "title": "Link Click S3 — currently airing (Fridays)",
-   "platform": "Crunchyroll",
-   "date": "6 S3 eps out through 'Puzzle' (JustWatch-verified); new subs Fridays",
-   "format": "anime series — currently airing weekly",
-   "runtime": "~25 min per ep",
-   "match": "try",
-   "genres": [
-    "anime",
-    "sci-fi",
-    "thriller"
-   ],
-   "tags": [
-    "time travel",
-    "plot twists",
-    "supernatural"
-   ],
-   "about": "Photo-diving time-travel suspense built on twists and dark turns. S1–S2 (12 eps each) are binge-ready on Crunchyroll if you're new; S3 is mid-run with six up.",
-   "why": "Twist-driven, dark, 25-minute episodes — a taste-profile trifecta. Start at S1 if it's new to you."
-  },
-  {
-   "title": "The Ghost in the Shell (2026) — Ep 7 (Tue Aug 18)",
-   "platform": "Amazon Prime Video",
-   "date": "Eps 1–6 streaming (JustWatch-verified); Ep 7 tomorrow Tue Aug 18 — weekly Tuesdays (10 eps)",
-   "format": "anime series — currently airing weekly",
-   "runtime": "~24 min per ep",
-   "match": "try",
-   "genres": [
-    "anime",
-    "sci-fi",
-    "cyberpunk"
-   ],
-   "tags": [
-    "weekly drop",
-    "manga adaptation",
-    "Science SARU"
-   ],
-   "about": "Science SARU's new adaptation hews closer to Shirow's original manga: Major Kusanagi and Section 9 hunt the Puppet Master in 2029. Prime exclusive; check the Prime page for the latest episode.",
-   "why": "Weekly cyberpunk slot — six eps to catch up on before tomorrow's drop."
-  },
-  {
-   "title": "Sterling Point",
-   "platform": "Amazon Prime Video",
-   "date": "All 8 eps since Wed Aug 5, 2026 — binge-ready (JustWatch re-verified Aug 17; still charting on Prime)",
-   "format": "mystery-drama limited series — 8 episodes",
-   "runtime": "8 eps x ~50 min",
-   "match": "try",
-   "genres": [
-    "mystery",
-    "drama",
-    "thriller"
-   ],
-   "tags": [
-    "93% RT / 87% audience",
-    "binge-ready",
-    "limited series"
-   ],
-   "about": "Megan Park's (The Fallout) YA-adjacent mystery: NYC-raised twins inherit a remote Muskoka, Ontario island from an estranged grandfather. Annie (Ella Rubin) heads north to unpack why he stayed away — and finds a biological sibling she never knew. Family secrets, cliff jumps, dock evenings. Certified Fresh at 93% (Variety, THR).",
-   "why": "The critical event of the week — highest-reviewed new series of August. Plot twists + family-secret mystery + ensemble cast are three of your signals; 'try' because it skews late-teen coming-of-age vs. your usual defaults."
-  },
-  {
-   "title": "Maximum Pleasure Guaranteed — Final 3 Episodes (8–10)",
-   "platform": "Apple TV+",
-   "date": "Season complete — 10 eps (JustWatch re-verified); you're caught up through Ep 7",
-   "format": "dark comedy series — season 1 close-out",
-   "runtime": "3 eps x ~30 min",
-   "match": "strong",
-   "genres": [
-    "comedy",
-    "sci-fi",
-    "dark comedy"
-   ],
-   "tags": [
-    "Tatiana Maslany",
-    "30-min episodes",
-    "finish your show",
-    "binge-ready"
-   ],
-   "about": "The Tatiana Maslany dark comedy finished its 10-episode run Jul 15 (finale 'Queens'). You caught up through Ep 7 (4-star, Jun 26); 'Hallidays' (E8), 'Erroneous' (E9), and the finale are up.",
-   "why": "Three episodes left to close out a season you've been rating 4★."
-  }
- ],
- "critics": [
-  {
-   "title": "Furious",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Eps 1–6 of 8 streaming (JustWatch-verified Aug 17)",
-   "format": "thriller series — season 1",
-   "runtime": "8 eps x ~50 min",
-   "match": "strong",
-   "genres": [
-    "thriller",
-    "crime",
-    "drama"
-   ],
-   "tags": [
-    "98-100% RT",
-    "Emmy Rossum",
-    "Certified Fresh"
-   ],
-   "about": "Forbes: the best-reviewed show of 2026 so far (100% at 37 reviews; RT guide shows 98%). Emmy Rossum FBI agent vs. calculating serial killer.",
-   "why": "The critical consensus pick of the summer — and newly reachable on your Disney+/Hulu."
-  },
-  {
-   "title": "Human Vapor",
-   "platform": "Netflix",
-   "date": "All 8 eps since Jul 2, 2026 (JustWatch-verified)",
-   "format": "sci-fi thriller series — season 1",
-   "runtime": "8 eps x ~54 min",
-   "match": "strong",
-   "genres": [
-    "sci-fi",
-    "thriller",
-    "horror"
-   ],
-   "tags": [
-    "~88% RT",
-    "Toho",
-    "Yeon Sang-ho",
-    "binge-ready"
-   ],
-   "about": "Netflix's R-rated reimagining of Toho's 1960 classic by Yeon Sang-ho (Train to Busan): a detective and a reporter hunt a murderer who can turn his body to gas.",
-   "why": "Best-reviewed Netflix genre entry of the summer (~86-90% across snapshots) — critic-validated dark sci-fi."
-  },
-  {
-   "title": "Sterling Point",
-   "platform": "Amazon Prime Video",
-   "date": "All 8 eps since Wed Aug 5, 2026 — binge-ready (JustWatch re-verified Aug 17)",
-   "format": "mystery-drama limited series — 8 episodes",
-   "runtime": "8 eps x ~50 min",
-   "match": "try",
-   "genres": [
-    "mystery",
-    "drama",
-    "thriller"
-   ],
-   "tags": [
-    "93% RT / 87% audience",
-    "binge-ready"
-   ],
-   "about": "Megan Park's (The Fallout) YA-adjacent island mystery: NYC-raised twins inherit a Muskoka island from an estranged grandfather; Annie uncovers a sibling she never knew existed. 93% Certified Fresh — Variety + THR + TheWrap; #1 on Prime globally since Aug 7.",
-   "why": "The highest-scoring new series of August, freshly on your Prime access. Family-secret mystery with ensemble craft — critic-validated late-summer binge."
-  }
- ],
- "bench": [
-  {
-   "title": "What We Do in the Shadows",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Complete series — all 6 seasons (JustWatch-verified)",
-   "format": "comedy series — complete, 61 episodes",
-   "runtime": "~25 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "comedy",
-    "horror",
-    "fantasy"
-   ],
-   "tags": [
-    "96% RT",
-    "supernatural",
-    "mockumentary",
-    "30-min episodes"
-   ],
-   "about": "Mockumentary about vampire roommates on Staten Island; series concluded in 2024 at six seasons.",
-   "why": "Deadpan supernatural ensemble comedy — the single best taste-profile match your new Hulu access unlocks. Start at S1E1."
-  },
-  {
-   "title": "The Good Place",
-   "platform": "Amazon Prime Video + Disney+ (Hulu hub)",
-   "date": "Complete series — 4 seasons (JustWatch-verified)",
-   "format": "comedy series — complete, 53 episodes",
-   "runtime": "~23 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "comedy",
-    "fantasy"
-   ],
-   "tags": [
-    "97% RT",
-    "plot twists",
-    "world-building",
-    "30-min episodes"
-   ],
-   "about": "Kristen Bell wakes up in a heaven she didn't earn; afterlife philosophy sitcom that reinvents itself every season.",
-   "why": "Built entirely on plot twists and world-building in 23-min episodes — the platonic ideal of your signals list."
-  },
-  {
-   "title": "Extraordinary",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "2 seasons (JustWatch-verified)",
-   "format": "comedy series — 2 seasons, 16 episodes",
-   "runtime": "~28 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "comedy",
-    "sci-fi"
-   ],
-   "tags": [
-    "100% RT",
-    "dry British humor",
-    "30-min episodes"
-   ],
-   "about": "In a world where everyone gets a superpower at 18, Jen is still waiting for hers. Filthy, dry British comedy.",
-   "why": "Dry British humor + superpower world-building at 100% RT — a Fleabag-adjacent gem you couldn't stream until now."
-  },
-  {
-   "title": "Shrinking",
-   "platform": "Apple TV+",
-   "date": "3 seasons (JustWatch-verified)",
-   "format": "comedy series — 3 seasons",
-   "runtime": "~35 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "comedy",
-    "drama"
-   ],
-   "tags": [
-    "93% RT",
-    "Harrison Ford",
-    "ensemble cast"
-   ],
-   "about": "Jason Segel's grieving therapist starts telling patients the truth; Harrison Ford in peak dry-wit mode. From the Ted Lasso team.",
-   "why": "Witty-banter ensemble comedy with substance underneath — your 'light(ish) tone with substance' signal, three seasons deep."
-  },
-  {
-   "title": "The Afterparty",
-   "platform": "Apple TV+",
-   "date": "Complete — 2 seasons (JustWatch-verified)",
-   "format": "comedy series — complete, 2 seasons",
-   "runtime": "~35 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "comedy",
-    "mystery"
-   ],
-   "tags": [
-    "92% RT",
-    "plot twists",
-    "ensemble cast"
-   ],
-   "about": "A whodunit where each episode retells the same murder through a different film genre, one suspect at a time.",
-   "why": "Comedy + mystery + structural gimmicks that pay off — twisty ensemble fun in short episodes."
-  },
-  {
-   "title": "Palm Springs",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Streaming on Hulu (JustWatch-verified)",
-   "format": "film",
-   "runtime": "~1h 30m",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "comedy",
-    "sci-fi",
-    "romance"
-   ],
-   "tags": [
-    "95% RT",
-    "time loop",
-    "comedy movie"
-   ],
-   "about": "Andy Samberg and Cristin Milioti stuck in a wedding-day time loop; dark edges, real plot engine.",
-   "why": "Sci-fi + off-beat comedy crossover — the best comedy movie your new Hulu access adds."
-  },
-  {
-   "title": "Free Guy",
-   "platform": "Disney+",
-   "date": "Streaming on Disney+ (JustWatch-verified)",
-   "format": "film",
-   "runtime": "~1h 55m",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "comedy",
-    "sci-fi",
-    "action"
-   ],
-   "tags": [
-    "~80% RT",
-    "Ryan Reynolds",
-    "world-building",
-    "comedy movie"
-   ],
-   "about": "A video-game NPC becomes self-aware and decides to be the hero of his own story.",
-   "why": "Broad, world-building-driven sci-fi action comedy — an easy crowd-pleaser night."
-  },
-  {
-   "title": "Bottoms",
-   "platform": "Amazon Prime Video",
-   "date": "Streaming on Prime (JustWatch-verified)",
-   "format": "film",
-   "runtime": "~1h 31m",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "comedy"
-   ],
-   "tags": [
-    "91% RT",
-    "LGBTQ+",
-    "comedy movie"
-   ],
-   "about": "Absurdist queer high-school fight-club satire with anarchic banter.",
-   "why": "Gleefully unhinged sarcastic comedy with LGBTQ+ inclusion — two of your signals; 'try' for the chaotic register."
-  },
-  {
-   "title": "The Other Guys",
-   "platform": "Netflix",
-   "date": "Streaming on Netflix (JustWatch-verified)",
-   "format": "film",
-   "runtime": "~1h 47m",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "comedy",
-    "action"
-   ],
-   "tags": [
-    "78% RT",
-    "buddy cop",
-    "comedy movie"
-   ],
-   "about": "Will Ferrell and Mark Wahlberg as desk cops thrust into a real case; Adam McKay's buddy-cop send-up.",
-   "why": "Same big-broad-cop-comedy energy as The Heat, which you loved."
-  },
-  {
-   "title": "Deadpool & Wolverine",
-   "platform": "Disney+",
-   "date": "Streaming on Disney+ (JustWatch-verified)",
-   "format": "film",
-   "runtime": "~2h 8m",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "comedy",
-    "action",
-    "sci-fi"
-   ],
-   "tags": [
-    "sarcastic humor",
-    "fourth-wall breaks",
-    "comedy movie"
-   ],
-   "about": "Reynolds and Jackman tear through the multiverse trading insults; the R-rated odd couple of the MCU.",
-   "why": "Relentless sarcastic banter and genre self-awareness — Disney+ catalog unlock; 'try' if superhero fatigue isn't in play."
-  },
-  {
-   "title": "Murderbot",
-   "platform": "Apple TV+",
-   "date": "Season 1 — 10 eps (JustWatch-verified)",
-   "format": "sci-fi comedy series — season 1",
-   "runtime": "10 eps x ~26 min",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "sci-fi",
-    "comedy"
-   ],
-   "tags": [
-    "95% RT",
-    "novel adaptation",
-    "30-min episodes",
-    "dry humor"
-   ],
-   "about": "A sarcastic security android that hacked its own governor module would rather watch soap operas than protect its humans. Adapts Martha Wells' novels.",
-   "why": "Dark humor + sci-fi in 26-min episodes from a beloved book series — this is your taste profile wearing a trench coat."
-  },
-  {
-   "title": "For All Mankind",
-   "platform": "Apple TV+",
-   "date": "5 seasons (JustWatch-verified)",
-   "format": "sci-fi series — 5 seasons",
-   "runtime": "~59 min per ep",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "sci-fi",
-    "drama",
-    "alt-history"
-   ],
-   "tags": [
-    "91% RT",
-    "world-building",
-    "Ronald D. Moore"
-   ],
-   "about": "The space race never ended: decade-spanning alt-history from Ronald D. Moore, now five seasons deep with a sixth and final season coming.",
-   "why": "The mothership of the Star City universe — warmer and more character-first than the spin-off you bounced off (2-star, Jun 2). If alt-history space appeals but the Soviet POV didn't, this is the version to try."
-  },
-  {
-   "title": "The Expanse",
-   "platform": "Amazon Prime Video",
-   "date": "Complete series — 6 seasons (JustWatch-verified)",
-   "format": "sci-fi series — complete, 6 seasons",
-   "runtime": "~45 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "sci-fi",
-    "thriller",
-    "drama"
-   ],
-   "tags": [
-    "95% RT",
-    "novel adaptation",
-    "world-building"
-   ],
-   "about": "Solar-system conspiracy epic adapted from the James S.A. Corey novels; complete at six seasons.",
-   "why": "The best completed sci-fi binge for a Foundation fan — political intrigue, hard-SF world-building, and it sticks the landing."
-  },
-  {
-   "title": "Fallout",
-   "platform": "Amazon Prime Video",
-   "date": "2 seasons (JustWatch-verified)",
-   "format": "sci-fi series — 2 seasons",
-   "runtime": "~60 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "sci-fi",
-    "comedy",
-    "action"
-   ],
-   "tags": [
-    "~93% RT",
-    "dark humor",
-    "video-game adaptation"
-   ],
-   "about": "Post-apocalyptic wasteland satire mixing gore, retro-future world-building, and deadpan comedy; Walton Goggins' Ghoul is the draw.",
-   "why": "Dark humor + sci-fi is your named favorite combo — this is The Boys-adjacent tone in a wasteland."
-  },
-  {
-   "title": "Andor",
-   "platform": "Disney+",
-   "date": "Complete series — 2 seasons (JustWatch-verified via season pages)",
-   "format": "sci-fi series — complete, 24 episodes",
-   "runtime": "~50 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "sci-fi",
-    "thriller",
-    "drama"
-   ],
-   "tags": [
-    "Certified Fresh",
-    "ensemble cast",
-    "spy thriller"
-   ],
-   "about": "The Star Wars series for people who don't watch Star Wars: a slow-burn spy thriller about how rebellions actually start. Complete at two seasons.",
-   "why": "Prestige ensemble sci-fi thriller — Slow Horses tradecraft in a galaxy far, far away. Top Disney+ core unlock."
-  },
-  {
-   "title": "Percy Jackson and the Olympians",
-   "platform": "Disney+",
-   "date": "2 seasons (JustWatch-verified)",
-   "format": "fantasy series — 2 seasons",
-   "runtime": "~40 min per ep",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "fantasy",
-    "adventure"
-   ],
-   "tags": [
-    "95% RT",
-    "greek mythology",
-    "novel adaptation"
-   ],
-   "about": "Rick Riordan's demigod adventures, faithfully adapted; S2 (Sea of Monsters) completed in early 2026.",
-   "why": "Greek-gods mythology like your 4★ Kaos, in a lighter register. 'Try' — it's family-skewed."
-  },
-  {
-   "title": "The Wheel of Time",
-   "platform": "Amazon Prime Video",
-   "date": "3 seasons (JustWatch-verified)",
-   "format": "fantasy series — 3 seasons, 24 episodes",
-   "runtime": "~64 min per ep",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "fantasy",
-    "adventure",
-    "drama"
-   ],
-   "tags": [
-    "88% RT (S3)",
-    "novel adaptation",
-    "world-building"
-   ],
-   "about": "Big-canvas adaptation of Robert Jordan's saga; S3 is its best-reviewed. Heads-up: cancelled after S3, so the show ends unresolved.",
-   "why": "Epic novel-adaptation fantasy with heavy mythology — go in knowing it stops mid-story."
-  },
-  {
-   "title": "The Legend of Vox Machina",
-   "platform": "Amazon Prime Video",
-   "date": "4 seasons — S4 completed Jun 24, 2026 (JustWatch-verified)",
-   "format": "adult animation series — 4 seasons",
-   "runtime": "~25 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "fantasy",
-    "comedy",
-    "adult animation"
-   ],
-   "tags": [
-    "~95% RT",
-    "D&D",
-    "30-min episodes",
-    "dark humor"
-   ],
-   "about": "Foul-mouthed D&D mercenaries with real serialized stakes; S4 finished its run in June (it was in your June alerts).",
-   "why": "Adult-animation fantasy with dark humor in 25-min episodes — four of your signals; S4 is fresh and binge-ready."
-  },
-  {
-   "title": "Agatha All Along",
-   "platform": "Disney+",
-   "date": "1 season — 9 eps (JustWatch-verified)",
-   "format": "fantasy series — season 1",
-   "runtime": "9 eps x ~39 min",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "fantasy",
-    "mystery"
-   ],
-   "tags": [
-    "~87% RT",
-    "supernatural",
-    "LGBTQ+",
-    "plot twists"
-   ],
-   "about": "Kathryn Hahn's witch assembles a coven to walk the Witches' Road; twist-driven and notably queer Marvel spinoff.",
-   "why": "Witchy supernatural mystery with twists and LGBTQ+ inclusion — the Marvel entry most aligned with your signals."
-  },
-  {
-   "title": "Midnight Mass",
-   "platform": "Netflix",
-   "date": "Limited series — 7 eps (JustWatch-verified)",
-   "format": "horror limited series",
-   "runtime": "7 eps x ~64 min",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "horror",
-    "drama"
-   ],
-   "tags": [
-    "87% RT",
-    "supernatural",
-    "Mike Flanagan",
-    "plot twists"
-   ],
-   "about": "An isolated island congregation gets a miracle-working new priest; slow-burn theological horror with a monster twist.",
-   "why": "Supernatural horror with a twist that recontextualizes everything — Flanagan's best, in your horror/suspense lane."
-  },
-  {
-   "title": "The Haunting of Hill House",
-   "platform": "Netflix",
-   "date": "Limited series — 10 eps (JustWatch-verified)",
-   "format": "horror limited series",
-   "runtime": "10 eps x ~58 min",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "horror",
-    "drama"
-   ],
-   "tags": [
-    "93% RT",
-    "supernatural",
-    "novel adaptation",
-    "ensemble cast"
-   ],
-   "about": "Mike Flanagan's time-jumping haunted-family saga, loosely adapting Shirley Jackson; craft and twists over jump scares.",
-   "why": "Ensemble + novel adaptation + supernatural — three signals in the genre's modern benchmark."
-  },
-  {
-   "title": "The Fall of the House of Usher",
-   "platform": "Netflix",
-   "date": "Limited series — 8 eps (JustWatch-verified)",
-   "format": "horror limited series",
-   "runtime": "8 eps x ~62 min",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "horror",
-    "mystery"
-   ],
-   "tags": [
-    "91% RT",
-    "supernatural",
-    "dark humor",
-    "Edgar Allan Poe"
-   ],
-   "about": "A pharma dynasty's heirs die one by one, each death remixing a Poe story; a shape-shifting demon collects the debt.",
-   "why": "Dark humor + supernatural + ensemble body-count plotting — Flanagan at his most wicked."
-  },
-  {
-   "title": "Ready or Not",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Streaming on Hulu (JustWatch-verified)",
-   "format": "film",
-   "runtime": "~1h 36m",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "horror",
-    "comedy"
-   ],
-   "tags": [
-    "89% RT",
-    "supernatural",
-    "horror-comedy"
-   ],
-   "about": "A bride's wedding night becomes a lethal game of hide-and-seek with her satanic in-laws. Gory, funny, fast.",
-   "why": "Horror-comedy in the Widow's Bay register — scares and laughs in one 96-minute sitting."
-  },
-  {
-   "title": "Nope",
-   "platform": "Netflix",
-   "date": "Streaming on Netflix (JustWatch-verified)",
-   "format": "film",
-   "runtime": "~2h 10m",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "sci-fi",
-    "horror",
-    "thriller"
-   ],
-   "tags": [
-    "Jordan Peele",
-    "83% RT",
-    "world-building"
-   ],
-   "about": "Jordan Peele's UFO western: ranch-owning siblings try to film the impossible thing in the sky.",
-   "why": "Sci-fi horror with Peele's twist mechanics — carried over from June's list, re-verified still on Netflix."
-  },
-  {
-   "title": "The Night Agent",
-   "platform": "Netflix",
-   "date": "3 seasons (JustWatch-verified)",
-   "format": "thriller series — 3 seasons",
-   "runtime": "~51 min per ep",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "thriller",
-    "action"
-   ],
-   "tags": [
-    "82% RT",
-    "spy",
-    "binge-ready"
-   ],
-   "about": "A low-level FBI agent manning a dead phone line gets pulled into a White House conspiracy; three propulsive seasons.",
-   "why": "Twist-machine spy thriller — your Mission: Impossible / Slow Horses lane in binge form."
-  },
-  {
-   "title": "Dept. Q",
-   "platform": "Netflix",
-   "date": "Season 1 — 9 eps (JustWatch-verified)",
-   "format": "crime mystery series — season 1",
-   "runtime": "9 eps x ~55 min",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "mystery",
-    "thriller",
-    "drama"
-   ],
-   "tags": [
-    "~87% RT",
-    "dry humor",
-    "ensemble cast"
-   ],
-   "about": "An abrasive Edinburgh detective is banished to a basement cold-case unit with a team of misfits.",
-   "why": "Slow Horses-adjacent prickly-ensemble energy — dry wit over a twisty cold case. Direct hit for a Loved-list pattern."
-  },
-  {
-   "title": "Glass Onion: A Knives Out Mystery",
-   "platform": "Netflix",
-   "date": "Streaming on Netflix (JustWatch-verified)",
-   "format": "film",
-   "runtime": "~2h 19m",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "mystery",
-    "comedy"
-   ],
-   "tags": [
-    "92% RT",
-    "plot twists",
-    "ensemble cast"
-   ],
-   "about": "Benoit Blanc skewers a tech-billionaire's murder-mystery weekend on a Greek island.",
-   "why": "Twisty, very funny ensemble whodunit — mystery + comedy + payoff twists in one movie night."
-  },
-  {
-   "title": "Only Murders in the Building",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "5 seasons streaming (JustWatch-verified); S6 filming in London — no date announced",
-   "format": "comedy-mystery series — 5 seasons",
-   "runtime": "~35 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "mystery",
-    "comedy"
-   ],
-   "tags": [
-    "95% RT",
-    "ensemble cast",
-    "30-min episodes"
-   ],
-   "about": "Steve Martin, Martin Short, and Selena Gomez's true-crime-podcast trio; a new building murder every season. S6 (London) lands later this year.",
-   "why": "Witty banter + a twist-per-season mystery engine in 35-min episodes — and starting now gets you caught up before S6."
-  },
-  {
-   "title": "A Good Girl's Guide to Murder",
-   "platform": "Netflix",
-   "date": "2 seasons (JustWatch-verified)",
-   "format": "mystery series — 2 seasons",
-   "runtime": "~45 min per ep",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "mystery",
-    "thriller"
-   ],
-   "tags": [
-    "83% RT",
-    "novel adaptation",
-    "binge-ready"
-   ],
-   "about": "Emma Myers' Pip digs into closed cases from Holly Jackson's bestselling trilogy; S2 adapts 'Good Girl, Bad Blood.'",
-   "why": "Plot-twisty novel-adaptation mystery, carried from June — 'try' for the YA tilt."
-  },
-  {
-   "title": "Lord of the Flies",
-   "platform": "Netflix",
-   "date": "Limited series — 4 eps (JustWatch-verified)",
-   "format": "drama limited series",
-   "runtime": "4 eps x ~55 min",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "drama",
-    "thriller"
-   ],
-   "tags": [
-    "96% RT",
-    "novel adaptation",
-    "Jack Thorne",
-    "LGBTQ+ subtext"
-   ],
-   "about": "Jack Thorne's hallucinatory 4-part Golding adaptation, carried over from June's list and re-verified on Netflix.",
-   "why": "96% RT + novel adaptation + ensemble + LGBTQ+ subtext — four signals stacked; heavier than your default, but short."
-  },
-  {
-   "title": "Shōgun",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "Season 1 — 10 eps (JustWatch-verified); S2 targeting 2027",
-   "format": "drama series — season 1",
-   "runtime": "10 eps x ~59 min",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "drama",
-    "historical"
-   ],
-   "tags": [
-    "99% RT",
-    "novel adaptation",
-    "world-building",
-    "Emmy winner"
-   ],
-   "about": "The Emmy-sweeping feudal-Japan power-intrigue epic from James Clavell's novel; S2 films now for 2027.",
-   "why": "Dense political world-building + novel adaptation at 99% RT — the best drama your new platform adds."
-  },
-  {
-   "title": "Bad Sisters",
-   "platform": "Apple TV+",
-   "date": "2 seasons (JustWatch-verified)",
-   "format": "dark comedy-drama series — 2 seasons",
-   "runtime": "~51 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "drama",
-    "comedy",
-    "thriller"
-   ],
-   "tags": [
-    "88% RT",
-    "dark humor",
-    "ensemble cast",
-    "Sharon Horgan"
-   ],
-   "about": "Five Irish sisters plot the demise of a loathsome brother-in-law; Sharon Horgan's black-comedy thriller.",
-   "why": "Fleabag-adjacent dark wit stretched over a did-they-do-it structure — drama-length but never grim."
-  },
-  {
-   "title": "The Diplomat",
-   "platform": "Netflix",
-   "date": "3 seasons (JustWatch-verified)",
-   "format": "political drama series — 3 seasons",
-   "runtime": "~49 min per ep",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "drama",
-    "thriller"
-   ],
-   "tags": [
-    "92% RT",
-    "witty banter",
-    "ensemble cast"
-   ],
-   "about": "Keri Russell as a crisis-magnet US ambassador to the UK; fast, talky, and twisty.",
-   "why": "Sharp-dialogue political intrigue that stays fun — drama without the sad."
-  },
-  {
-   "title": "Frieren: Beyond Journey's End",
-   "platform": "Crunchyroll",
-   "date": "Both seasons complete on Crunchyroll — S2 (10 eps) finaled Mar 27, 2026 (JustWatch-verified)",
-   "format": "anime series — 2 seasons binge-ready (38 eps)",
-   "runtime": "~25 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "anime",
-    "fantasy",
-    "drama"
-   ],
-   "tags": [
-    "100% RT (S1)",
-    "world-building",
-    "binge-ready"
-   ],
-   "about": "The quiet, devastating post-adventure fantasy — an elf mage outliving her hero party. S2's Divine Revolte arc wrapped in March; both seasons are binge-ready.",
-   "why": "The best-reviewed fantasy anime of the decade — melancholy-but-warm, gorgeous world-building. Start with S1."
-  },
-  {
-   "title": "The Apothecary Diaries",
-   "platform": "Crunchyroll",
-   "date": "S1–S2 complete on Crunchyroll (48 eps, JustWatch-verified); S3 premieres Fri Oct 2 (ANN — prior 'S3 just starting' note was wrong; nothing from S3 is watchable yet)",
-   "format": "anime series — 2 seasons binge-ready",
-   "runtime": "~23 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "anime",
-    "mystery",
-    "drama"
-   ],
-   "tags": [
-    "episodic mysteries",
-    "binge-ready",
-    "novel adaptation"
-   ],
-   "about": "Palace-intrigue mystery anime — a poison-tester solving cases in the rear court. 48 episodes binge-ready; S3 arrives Oct 2.",
-   "why": "Mystery-of-the-week plotting with a sarcastic lead — anime's answer to your witty-banter signal."
-  },
-  {
-   "title": "Dandadan",
-   "platform": "Crunchyroll + Netflix",
-   "date": "2 seasons complete — 24 eps (JustWatch-verified)",
-   "format": "anime series — 2 seasons binge-ready",
-   "runtime": "~24 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "anime",
-    "sci-fi",
-    "comedy"
-   ],
-   "tags": [
-    "100% RT",
-    "supernatural",
-    "binge-ready"
-   ],
-   "about": "Aliens vs. ghosts vs. two bantering teens; Science SARU's chaotic, gorgeous genre mash-up.",
-   "why": "Supernatural + sci-fi + genuinely funny banter at 100% RT — the exact intersection of your top genres."
-  },
-  {
-   "title": "Delicious in Dungeon",
-   "platform": "Netflix",
-   "date": "S1 complete — 24 eps (JustWatch-verified; Netflix only, not Crunchyroll)",
-   "format": "anime series — season 1 binge-ready",
-   "runtime": "~26 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "anime",
-    "fantasy",
-    "comedy"
-   ],
-   "tags": [
-    "100% RT",
-    "world-building",
-    "binge-ready"
-   ],
-   "about": "Adventurers cook and eat the monsters they slay while descending to save their party member; deadpan D&D food comedy with real depth.",
-   "why": "Off-beat comedy + fantasy world-building — Studio Trigger making a monster-ecology cookbook into great TV."
-  },
-  {
-   "title": "One Punch Man",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "3 seasons — all aired (JustWatch-verified; Hulu only)",
-   "format": "anime series — 3 seasons",
-   "runtime": "~24 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "anime",
-    "action",
-    "comedy"
-   ],
-   "tags": [
-    "superhero satire",
-    "dark humor",
-    "binge-ready"
-   ],
-   "about": "Saitama wins every fight in one punch and is desperately bored about it. Note: S1 is the classic; S3's animation drew criticism.",
-   "why": "You rated One Punch Man 4★ before — all three seasons now live in your Hulu hub, not Crunchyroll."
-  },
-  {
-   "title": "Dorohedoro",
-   "platform": "Netflix + Crunchyroll",
-   "date": "2 seasons — S2 (11 eps) completed May 27, 2026 (JustWatch-verified)",
-   "format": "anime series — 2 seasons binge-ready",
-   "runtime": "~25 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "anime",
-    "dark fantasy",
-    "action"
-   ],
-   "tags": [
-    "dark humor",
-    "post-apocalypse",
-    "binge-ready"
-   ],
-   "about": "Caiman and Nikaido unravel his reptilian curse across an irradiated sorcerer-scarred city; S2 wrapped in May.",
-   "why": "Dark humor + post-apocalyptic fantasy in 25-min episodes — carried from June's list, re-verified."
-  },
-  {
-   "title": "Devil May Cry",
-   "platform": "Netflix",
-   "date": "2 seasons — 16 eps (JustWatch-verified)",
-   "format": "adult animation series — 2 seasons",
-   "runtime": "~30 min per ep",
-   "match": "strong",
-   "bench": true,
-   "genres": [
-    "adult animation",
-    "action",
-    "fantasy"
-   ],
-   "tags": [
-    "100% RT (S2)",
-    "video-game adaptation",
-    "binge-ready"
-   ],
-   "about": "Adi Shankar's demon-hunter saga; S2 (Dante vs. Vergil) held 100% across 13 reviews.",
-   "why": "Adult animation + action in your Solar Opposites lane — June pick, re-verified, both seasons ready."
-  },
-  {
-   "title": "Saga of Tanya the Evil S2",
-   "platform": "Crunchyroll",
-   "date": "Airing weekly Wednesdays — Ep 6 'Decoy' out Aug 12; Ep 7 Wed Aug 19 (12 eps; JustWatch-verified)",
-   "format": "anime series — currently airing weekly",
-   "runtime": "~24 min per ep",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "anime",
-    "dark fantasy",
-    "action"
-   ],
-   "tags": [
-    "weekly drop",
-    "isekai",
-    "alt-history"
-   ],
-   "about": "First new season in nine years: a ruthless salaryman reincarnated as a child soldier-mage in a WWI-esque empire. New eps Wednesdays.",
-   "why": "Dark-fantasy isekai with war-room plotting — a weekly Crunchyroll slot while Re:ZERO is between cours."
-  },
-  {
-   "title": "Mushoku Tensei: Jobless Reincarnation S3",
-   "platform": "Crunchyroll",
-   "date": "Airing weekly Sundays — Ep 8 'The Flying Fortress' dropped Sun Aug 16, opening the Chaos Breaker arc; Ep 9 Sun Aug 23 (14 eps; JustWatch-verified)",
-   "format": "anime series — currently airing weekly",
-   "runtime": "~24 min per ep",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "anime",
-    "fantasy",
-    "isekai"
-   ],
-   "tags": [
-    "weekly drop",
-    "world-building"
-   ],
-   "about": "The isekai genre's gold standard for long-arc payoff returns for season 3; new eps Sundays, dub running since Jul 18.",
-   "why": "Deep world-building fantasy on a weekly cadence — 'try' if you want a second airing anime alongside the Wednesday slots."
-  },
-  {
-   "title": "The Bear S5 (Final Season)",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "All 8 eps since Jun 25, 2026 (JustWatch re-verified Aug 17)",
-   "format": "comedy-drama series — final season",
-   "runtime": "8 eps x ~35 min",
-   "match": "try",
-   "genres": [
-    "comedy",
-    "drama"
-   ],
-   "tags": [
-    "final season",
-    "Hulu hub",
-    "binge-ready",
-    "ensemble cast"
-   ],
-   "about": "The kitchen saga's final season dropped complete in June (finale 'The Original Beef of Chicagoland'). All 5 seasons on Hulu and Disney+.",
-   "why": "Great acting and ensemble chemistry — squarely your signals — but it runs more stress-and-feelings than your escapism default, hence 'try.'",
-   "bench": true
-  },
-  {
-   "title": "Avatar: The Last Airbender S2 (live-action)",
-   "platform": "Netflix",
-   "date": "All 7 eps since Jun 25, 2026 (JustWatch re-verified Aug 17)",
-   "format": "fantasy series — season 2",
-   "runtime": "7 eps x ~50 min",
-   "match": "try",
-   "genres": [
-    "fantasy",
-    "adventure"
-   ],
-   "tags": [
-    "71% RT (franchise-high)",
-    "world-building",
-    "binge-ready"
-   ],
-   "about": "Team Avatar crosses the Earth Kingdom to Ba Sing Se; Aang learns earthbending from Toph while Azula hunts Zuko. Best-reviewed season of the live-action run.",
-   "why": "Big world-building fantasy in a binge package. 'Try' — reviews are good-not-great and it skews a touch younger.",
-   "bench": true
-  },
-  {
-   "title": "Batman: Caped Crusader S2",
-   "platform": "Amazon Prime Video",
-   "date": "All 10 eps since Jul 31, 2026 (JustWatch re-verified Aug 17)",
-   "format": "adult animation series — season 2",
-   "runtime": "10 eps x ~25 min",
-   "match": "try",
-   "genres": [
-    "mystery",
-    "adult animation",
-    "noir"
-   ],
-   "tags": [
-    "~89% RT",
-    "Bruce Timm",
-    "30-min episodes",
-    "binge-ready"
-   ],
-   "about": "Bruce Timm's 1940s-noir Batman continues with the Riddler, Carrie Kelly, and Roxy Rocket. Ten 25-minute episodes, all at once.",
-   "why": "Short-episode animated noir mystery — detective plotting in your pre-bed format.",
-   "bench": true
-  },
-  {
-   "title": "The Dink",
-   "platform": "Apple TV+",
-   "date": "Streaming on Apple TV+ since Fri Jul 24, 2026 (JustWatch re-verified Aug 17)",
-   "format": "film",
-   "runtime": "~1h 42m",
-   "match": "try",
-   "genres": [
-    "comedy",
-    "sports"
-   ],
-   "tags": [
-    "85% RT",
-    "Jake Johnson",
-    "Ed Harris",
-    "comedy movie"
-   ],
-   "about": "Jake Johnson as a washed-up tennis prodigy coaching at his father's (Ed Harris) country club who finds redemption in the paddle-court game sweeping the country. Ben Stiller produces; reviews say charming if formulaic.",
-   "why": "Your comedy-movie slot for the week — an easy, warm 100 minutes. 'Try' because sports comedy is adjacent to (not inside) your usual lanes.",
-   "bench": true
-  },
-  {
-   "title": "Human Vapor",
-   "platform": "Netflix",
-   "date": "All 8 eps since Jul 2, 2026 (JustWatch re-verified Aug 17)",
-   "format": "sci-fi thriller series — season 1",
-   "runtime": "8 eps x ~54 min",
-   "match": "strong",
-   "genres": [
-    "sci-fi",
-    "thriller",
-    "horror"
-   ],
-   "tags": [
-    "~88% RT",
-    "Toho",
-    "Yeon Sang-ho",
-    "binge-ready"
-   ],
-   "about": "Netflix's R-rated reimagining of Toho's 1960 classic by Yeon Sang-ho (Train to Busan): a detective and a reporter hunt a murderer who can turn his body to gas.",
-   "why": "Dark sci-fi with a monster-mystery engine and twists — your dark-humor-adjacent thriller lane, well reviewed (~86–90% across snapshots).",
-   "bench": true
-  },
-  {
-   "title": "The Elusive Samurai S2",
-   "platform": "Crunchyroll",
-   "date": "Airing weekly Fridays — 5 S2 eps out through 'The Unyielding' (JustWatch-verified); S1 (12 eps) binge-ready",
-   "format": "anime series — currently airing weekly",
-   "runtime": "~23 min per ep",
-   "match": "try",
-   "bench": true,
-   "genres": [
-    "anime",
-    "action",
-    "comedy"
-   ],
-   "tags": [
-    "historical",
-    "inventive visuals",
-    "30-min episodes"
-   ],
-   "about": "Acclaimed historical shonen — a boy heir hunted after a coup, told with wildly inventive visuals that swing between comedy and real stakes.",
-   "why": "Fresh pick for the anime chip: catch S1 first, then join S2 mid-run."
-  }
- ],
- "upcoming_alerts": [
-  {
-   "title": "Dark Matter S2 — Blake Crouch multiverse thriller, 10 eps weekly Fridays",
-   "platform": "Apple TV+",
-   "date": "Fri Aug 28, 2026 — OFFICIAL (Apple TV+ PR + Deadline); 1-ep premiere, weekly through Oct 30"
-  },
-  {
-   "title": "Puella Magi Madoka Magica: Walpurgisnacht - Rising — theatrical anime film (Studio Shaft)",
-   "platform": "Theatrical (rental TBD)",
-   "date": "Fri Aug 28, 2026 — global theatrical incl. IMAX (ANN + IMDb); streaming/rental TBD"
-  },
-  {
-   "title": "Slow Horses S6 — 6 eps, weekly Wednesdays through Oct 21 (LOVED LIST)",
-   "platform": "Apple TV+",
-   "date": "Wed Sep 16, 2026 — OFFICIAL (Apple PR + Deadline + Variety); re-confirmed Aug 17"
-  },
-  {
-   "title": "The Apothecary Diaries S3 — cour 1 (cour 2 April 2027)",
-   "platform": "Crunchyroll",
-   "date": "Fri Oct 2, 2026 — announced Aug 15 at franchise event (ANN + Anime Corner)"
-  },
-  {
-   "title": "Only Murders in the Building S6 (London season)",
-   "platform": "Disney+ (Hulu hub)",
-   "date": "No date announced — filming since May; aggregators speculate Oct-Nov 2026 (unverified)"
-  },
-  {
-   "title": "3 Body Problem S2",
-   "platform": "Netflix",
-   "date": "Netflix says 2026, no date announced (production wrapped Feb 2026)"
-  },
-  {
-   "title": "Foundation S4 (LOVED LIST)",
-   "platform": "Apple TV+",
-   "date": "2027 — in production, no date (THR)"
-  },
-  {
-   "title": "Severance S3 (LOVED LIST)",
-   "platform": "Apple TV+",
-   "date": "2027 expected — filming began late Jul 2026, runs through Dec (Apple/Ben Stiller tease); definitively not a 2026 title"
-  }
- ]
+  "upcoming_alerts": [
+    {
+      "title": "Dark Matter S2 — Blake Crouch multiverse thriller, 10 eps weekly Fridays",
+      "platform": "Apple TV+",
+      "date": "Fri Aug 28, 2026",
+      "note": "OFFICIAL (Apple TV+ PR + Deadline); 1-ep premiere, weekly through Oct 30"
+    },
+    {
+      "title": "Puella Magi Madoka Magica: Walpurgisnacht — Rising",
+      "platform": "Theatrical (Studio Shaft)",
+      "date": "Fri Aug 28, 2026",
+      "note": "Global theatrical incl. IMAX (ANN + IMDb); streaming/rental TBD"
+    },
+    {
+      "title": "Slow Horses S6 — 6 eps, weekly Wednesdays through Oct 21 (LOVED LIST)",
+      "platform": "Apple TV+",
+      "date": "Wed Sep 16, 2026",
+      "note": "OFFICIAL — Apple TV PR trailer released Aug 18 (MacDailyNews); adapts Joe Country + Slough House. S7 already renewed for 2027."
+    },
+    {
+      "title": "Silo S3 — Series Finale 'Troy' (Ep 10)",
+      "platform": "Apple TV+",
+      "date": "Fri Sep 4, 2026",
+      "note": "Season 3 wraps after 10 weekly eps; S4 renewal status is what to watch for next"
+    },
+    {
+      "title": "Solar Opposites — Final Season S6 (10 eps binge-drop) (LOVED LIST)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Tue Oct 13, 2026",
+      "note": "OFFICIAL — Hulu PR + Deadline. All 10 eps at once; announced as the final season."
+    },
+    {
+      "title": "The Apothecary Diaries S3 — cour 1 (cour 2 April 2027)",
+      "platform": "Crunchyroll",
+      "date": "Fri Oct 2, 2026",
+      "note": "Announced Aug 15 at franchise event (ANN + Anime Corner)"
+    },
+    {
+      "title": "Black Mirror S8 (LOVED LIST)",
+      "platform": "Netflix",
+      "date": "Late 2026 or early 2027",
+      "note": "Charlie Brooker confirmed renewal Jan 2026 (Deadline + Variety); no episode count or exact date yet. In production."
+    },
+    {
+      "title": "Only Murders in the Building S6 (London season)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "No date announced",
+      "note": "Filming since May 2026; aggregators speculate Oct-Nov 2026 (unverified)"
+    },
+    {
+      "title": "3 Body Problem S2",
+      "platform": "Netflix",
+      "date": "2026 (no date announced)",
+      "note": "Production wrapped Feb 2026"
+    },
+    {
+      "title": "Foundation S4 (LOVED LIST)",
+      "platform": "Apple TV+",
+      "date": "Late 2026 – 2027 window",
+      "note": "Renewed Sep 2025; filming began Jan 5, 2026 in Prague. Ian Goldberg + David Kob showrunners after Goyer departure. THR reporting."
+    },
+    {
+      "title": "Severance S3 (LOVED LIST)",
+      "platform": "Apple TV+",
+      "date": "Summer 2027 (expected)",
+      "note": "Filming Apr–Dec 2026 per Apple TV News Hub; Kogonada directing this season, not Stiller. Definitively not a 2026 title."
+    },
+    {
+      "title": "The Last of Us S3 (LOVED LIST)",
+      "platform": "HBO Max",
+      "date": "2027 (HBO-confirmed window)",
+      "note": "Casey Bloys confirmed 2027 in Jul 2025; production began Vancouver Mar 2026. Abby POV, ~9 eps."
+    }
+  ]
 }
