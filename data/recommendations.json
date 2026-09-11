@@ -1,35 +1,56 @@
 {
-  "generated_at": "2026-09-02T20:55:00Z",
-  "week_label": "Aug 31 – Sep 6, 2026",
-  "source": "Daily sync 2026-09-02: Loved-list cross-check (Rick & Morty S10 confirmed May 2027; Slow Horses S6 Sep 16 confirmed; Futurama S15 Sep 25 in upcoming; The Last of Us S3 2027 noted); Watchlist re-check; fresh platform sweeps for Aug 31 – Sep 6; Reacher/Shards/Re:ZERO/Link Click/Dark Matter/IASIP trackers advanced; Futurama S14 tracker added (mid-season, LOVED LIST); Mandalorian & Grogu movie live on Disney+ today.",
+  "generated_at": "2026-09-11T11:42:31Z",
+  "week_label": "Sep 7 – 13, 2026",
+  "source": "Daily sync 2026-09-11: hero pivoted to Last Seen (fresh Apple TV+ Sep 9 premiere, Slow Horses-adjacent). Loved-list cross-check ran — Slow Horses S6 confirmed Wed Sep 16 (Apple TV+ press + JustWatch); Futurama S14 mid-run (Ep 8 Mon Sep 14 next); no NEW Loved-list drops in last 4 weeks (Rick & Morty S9 rated Aug 6, Solar Opposites S6 rated Aug 6). Watchlist re-check — all pins already watched, no fresh availability. Platform sweeps for Sep 7–13: Fauda S5 (Netflix Sep 8), Stavros Halkias: Uncle Stav (Netflix Sep 8), Last Seen (Apple TV+ Sep 9), Chad Powers S2 (Hulu Sep 3 binge). Removed stale upcoming_alerts entries: Solar Opposites S6 (already watched 8/6) and Futurama S15 Sep 25 (unverified — no confirmed date, only actively airing S14 confirmed). Trackers advanced: Futurama S14 → Ep 8 Mon 9/14, Reacher S4 → Ep 8 Wed 9/16 (finale), Dark Matter S2 → Ep 3 Fri 9/11, The Shards → Ep 8 Wed 9/16 (schedule-verified), IASIP S18 → Ep 6 Mon 9/14, Re:ZERO S4 → Ep 17 Wed 9/16, Link Click S3 → Ep 6 Thu 9/11.",
   "hero": {
-    "title": "The Gentlemen — Season 2",
-    "platform": "Netflix",
-    "date": "Full 8-ep binge drop — Thu Sep 3, 2026 (tomorrow)",
-    "format": "series — season 2, 8 episodes, full binge drop",
-    "runtime": "8 eps × ~55 min",
+    "title": "Last Seen — Series Premiere",
+    "platform": "Apple TV+",
+    "date": "2-ep premiere live Wed Sep 9, 2026 — weekly Wednesdays through Oct 7",
+    "format": "series — 6 eps, weekly (2 live now)",
+    "runtime": "6 × ~55 min",
     "match": "strong",
     "genres": [
+      "thriller",
       "crime",
-      "comedy",
       "drama",
-      "action"
+      "mystery"
     ],
     "tags": [
-      "dry-british-humor",
-      "witty-banter",
-      "ensemble",
-      "guy-ritchie",
-      "binge-drop"
+      "australian-crime",
+      "slow-horses-cousin",
+      "character-driven",
+      "book-adaptation",
+      "weekly-drop"
     ],
-    "about": "Guy Ritchie's slick British crime series returns after a one-year time jump. Aristocrat Eddie Horniman and Susie Glass push Bobby's empire out from the English countryside to the Italian lakes while navigating a rocky romance and a widening underworld. All 8 eps drop at once.",
-    "why": "You rated The Gentlemen S1 at 4.5★, and this is the direct continuation from the same creator. Multiple taste levers at once — dry British humor, witty banter, quirky ensemble, dark humor with substance. Ritchie's tone is the closest cousin to Slow Horses / Spy on your Loved list. Full-drop lets you binge in 30–60 min chunks before bed."
+    "about": "Australian crime thriller from Kris Mrksa, adapting Ryan David Jahn's novel The Dispatcher. Patrick Brammall stars as Ian Ridley, a former detective who becomes convinced that a random distress call could be his daughter — eleven years after she disappeared. First two eps live; weekly Wednesdays.",
+    "why": "You loved Slow Horses (Loved list) and Silo (4.5⭐) — this is the same Apple TV+ prestige-thriller pocket: character-first, quiet, patient, values people over plot twists (per Roger Ebert). Early RT is strong (82–100% range as reviews come in). Already #4 worldwide on Apple TV. Two 55-min eps is a perfect 2-night bedtime binge to catch up before Slow Horses S6 drops next Wednesday."
   },
   "new_this_week": [
     {
-      "title": "The Gentlemen S2",
+      "title": "Last Seen — Series Premiere (Eps 1–2)",
+      "platform": "Apple TV+",
+      "date": "Wed Sep 9, 2026 — 2 eps live, weekly through Oct 7",
+      "format": "series — 6 eps",
+      "runtime": "6 × ~55 min",
+      "match": "strong",
+      "genres": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "tags": [
+        "slow-horses-cousin",
+        "character-driven",
+        "australian-crime",
+        "weekly-drop"
+      ],
+      "about": "See hero — Aussie crime-thriller adaptation of The Dispatcher; former detective chases an 11-year-old missing-persons case.",
+      "why": "Slow Horses cousin from the same platform. Early critical love, bedtime-friendly hour eps."
+    },
+    {
+      "title": "The Gentlemen S2 — Full Binge Live",
       "platform": "Netflix",
-      "date": "Thu Sep 3, 2026 — full 8-ep drop",
+      "date": "Thu Sep 3, 2026 — all 8 eps live",
       "format": "series — 8 eps",
       "runtime": "8 × ~55 min",
       "match": "strong",
@@ -40,400 +61,425 @@
       ],
       "tags": [
         "dry-british-humor",
-        "ensemble",
         "guy-ritchie",
+        "ensemble",
         "binge-drop"
       ],
-      "about": "See hero — Ritchie's British crime ensemble, S2 full-binge drop.",
-      "why": "Direct continuation of your 4.5★ Gentlemen S1. Bingeable in ~55-min chunks."
+      "about": "Guy Ritchie's British crime series returns after a year jump. Eddie and Susie push Bobby's empire from the English countryside to the Italian lakes.",
+      "why": "You rated S1 at 4.5⭐. Ritchie's tone is your Slow Horses / Spy sweet spot. 81% RT on S2, better than S1's 75%. Full drop = binge on your schedule."
     },
     {
-      "title": "The Mandalorian & Grogu",
-      "platform": "Disney+",
-      "date": "Tue Sep 2, 2026 — streaming today",
-      "format": "movie",
-      "runtime": "~2h",
+      "title": "Fauda S5 — Full Season Binge",
+      "platform": "Netflix",
+      "date": "Tue Sep 8, 2026 — full season live globally",
+      "format": "series — full season binge drop",
+      "runtime": "~55 min eps",
       "match": "try",
       "genres": [
-        "sci-fi",
-        "fantasy",
-        "action"
+        "thriller",
+        "action",
+        "drama"
       ],
       "tags": [
-        "star-wars",
-        "world-building",
-        "escapism"
+        "israeli-thriller",
+        "morally-complex",
+        "binge-drop",
+        "sub-preferred"
       ],
-      "about": "Jon Favreau's post-Return-of-the-Jedi feature follows Din Djarin and Grogu through a bounty gone sideways. Fresh off a $345M theatrical run, hitting Disney+ today with IMAX Enhanced.",
-      "why": "Sci-fi/fantasy with tight world-building — lands your escapism + world-building lanes even if Star Wars sits softer than Foundation. Movie-length; single-sitting."
+      "about": "Two years after Oct 7, Doron and his team confront personal demons while pursuing a rogue revenge mission in Marseille. S1–4 sit at 100% RT; S5 reviews still coming in — 'gripping and emotionally exhausting.'",
+      "why": "You liked Slow Horses' spy machinery and The Boys' morally-fraught stakes. Fauda is heavier and less quippy — 'try' rather than 'strong' — but the pedigree is bulletproof."
+    },
+    {
+      "title": "Stavros Halkias: Uncle Stav",
+      "platform": "Netflix",
+      "date": "Tue Sep 8, 2026 — 1-hr stand-up special live",
+      "format": "stand-up special",
+      "runtime": "~60 min",
+      "match": "try",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "stand-up",
+        "dirtbag-humor",
+        "one-hour",
+        "bite-sized"
+      ],
+      "about": "Halkias' second Netflix hour, directed by Matt Johnson (Tony). Fresh off becoming an uncle, he riffs on healthcare, aging, and being a 'dirtbag' role model. Tapes at The Lyric in Baltimore.",
+      "why": "Off-beat / sarcastic / crude comedy in a single-sitting hour — fits your 30-min-to-hour bedtime window. Ends before you'd nod off."
+    },
+    {
+      "title": "Chad Powers S2 — Full Binge Live",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Wed Sep 3, 2026 — all 6 eps live",
+      "format": "series — 6 eps",
+      "runtime": "6 × ~30 min",
+      "match": "try",
+      "genres": [
+        "comedy",
+        "sports"
+      ],
+      "tags": [
+        "glen-powell",
+        "ensemble",
+        "30-min",
+        "binge-drop"
+      ],
+      "about": "Glen Powell's football comedy returns. People start catching on to Russ Holliday's Chad Powers alter ego as the Catfish push for the College Football Playoff. 6-ep binge drop.",
+      "why": "30-min comedy binges hit your bedtime rhythm (Solar Opposites / Futurama slot). Powell's easy charm, ensemble energy."
     },
     {
       "title": "Mayday",
       "platform": "Apple TV+",
-      "date": "Fri Sep 4, 2026 — series premiere",
-      "format": "series — limited",
-      "runtime": "~50 min eps",
-      "match": "strong",
+      "date": "Fri Sep 4, 2026 — film live",
+      "format": "film",
+      "runtime": "~2 hr",
+      "match": "try",
       "genres": [
-        "comedy",
         "action",
-        "spy-thriller"
+        "comedy",
+        "spy"
       ],
       "tags": [
-        "dry-british-humor-adjacent",
-        "buddy-comedy",
-        "spy-thriller-flip"
+        "ryan-reynolds",
+        "kenneth-branagh",
+        "cold-war",
+        "buddy-comedy"
       ],
-      "about": "Ryan Reynolds and Kenneth Branagh team up in a genre-bending buddy comedy that flips the spy thriller on its head.",
-      "why": "Spy-comedy hybrid lands the Slow Horses / Spy lane with a lighter tone. Reynolds banter + Branagh gravitas is exactly your quirky-ensemble sweet spot."
+      "about": "Cold War buddy-comedy: hotshot US Navy pilot Troy 'Assassin' Kelly (Reynolds) gets stranded in Russian territory and is rescued by a gruff ex-KGB agent (Branagh) with a soft spot for American culture.",
+      "why": "Reynolds' quippy-banter mode + Branagh gravitas = your Guy Ritchie / Slow Horses tonal cousin, one-film sit. 81% RT — Reynolds' best in a decade."
     },
     {
-      "title": "Reacher S4 — Ep 7 (Wed Sep 9)",
+      "title": "Dark Matter S2 — Ep 3 (Fri Sep 11)",
+      "platform": "Apple TV+",
+      "date": "Fri Sep 11, 2026 — new ep tonight, 12am PT",
+      "format": "series — weekly (S2 is 10 eps)",
+      "runtime": "~55 min",
+      "match": "strong",
+      "genres": [
+        "sci-fi",
+        "thriller",
+        "drama"
+      ],
+      "tags": [
+        "multiverse",
+        "book-adaptation",
+        "weekly-drop",
+        "cerebral"
+      ],
+      "about": "'Everything Beautiful, Everything Terrible' — Jason's obsession with the Box tests his marriage; Ryan and Amanda step into a world that has been changed forever.",
+      "why": "S1 landed for you as your sci-fi + thriller sweet spot. Weekly Fridays through mid-November."
+    },
+    {
+      "title": "Reacher S4 — Ep 8 'Cut' (Wed Sep 16) — SEASON FINALE",
       "platform": "Amazon Prime Video",
-      "date": "Wed Sep 9, 2026 — weekly drop (finale Sep 16)",
-      "format": "series — S4 weekly, 8 eps total",
+      "date": "Wed Sep 16, 2026 — season finale, 12:01am PT",
+      "format": "series — weekly (season finale)",
       "runtime": "~55 min",
       "match": "try",
       "genres": [
-        "thriller",
         "action",
-        "mystery"
-      ],
-      "tags": [
-        "weekly-tracker",
-        "penultimate-episode"
-      ],
-      "about": "Ep 6 dropped today Wed Sep 2 at 3am ET. Ep 7 is next Wed Sep 9; finale Ep 8 lands Wed Sep 16.",
-      "why": "You're mid-season on Reacher. Two eps to go — worth keeping the thread."
-    },
-    {
-      "title": "Dark Matter S2 — Ep 2 (Fri Sep 4)",
-      "platform": "Apple TV+",
-      "date": "Fri Sep 4, 2026 — 12am ET",
-      "format": "series — S2 weekly, 10 eps",
-      "runtime": "~1 hr",
-      "match": "strong",
-      "genres": [
-        "sci-fi",
-        "thriller"
-      ],
-      "tags": [
-        "weekly-tracker",
-        "multiverse",
-        "world-building"
-      ],
-      "about": "Season 2 kicked off; Ep 2 'A Perfect World' drops Fri Sep 4. Season runs weekly through fall.",
-      "why": "Sci-fi world-building + multiverse mystery — your Foundation / Severance lane."
-    },
-    {
-      "title": "It's Always Sunny in Philadelphia S18 — Ep 5 'The Gang Goes to the Ren Faire' (Mon Sep 7)",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Mon Sep 7, 2026 — Hulu day-after-FX",
-      "format": "series — S18 weekly (expanded season)",
-      "runtime": "~22 min",
-      "match": "strong",
-      "genres": [
-        "comedy"
-      ],
-      "tags": [
-        "weekly-tracker",
-        "dark-humor",
-        "off-beat"
-      ],
-      "about": "Ep 5 finds the gang at a Renaissance Faire; Mac/Dennis/Dee chase recognition, Charlie learns lute, Frank tries to seize control.",
-      "why": "Dark humor + 22-min bites = perfect bedtime slot."
-    },
-    {
-      "title": "The Shards — Ep 7 (Wed Sep 9)",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Wed Sep 9, 2026 — 9pm ET on FX/Hulu",
-      "format": "series — limited, weekly",
-      "runtime": "~1 hr",
-      "match": "try",
-      "genres": [
-        "horror",
-        "suspense",
-        "drama"
-      ],
-      "tags": [
-        "weekly-tracker",
-        "supernatural-lite",
-        "80s"
-      ],
-      "about": "Ryan Murphy adapts Bret Easton Ellis's 1980s LA prep-school serial-killer mystery. Ep 6 dropped tonight Sep 2; Ep 7 next Wed.",
-      "why": "Horror/suspense + slow-build mystery in your Barbarian lane."
-    },
-    {
-      "title": "Re:ZERO S4 (Recapture Arc) — Ep 16 (Wed Sep 9)",
-      "platform": "Crunchyroll",
-      "date": "Wed Sep 9, 2026 — same-day sub + simuldub",
-      "format": "anime — S4 weekly, 19 eps, Recapture Arc",
-      "runtime": "~24 min",
-      "match": "try",
-      "genres": [
-        "anime",
-        "fantasy",
-        "drama"
-      ],
-      "tags": [
-        "weekly-tracker",
-        "isekai",
-        "world-building"
-      ],
-      "about": "Ep 15 drops today Wed Sep 2; Ep 16 next week. Recapture Arc runs through the Sep 30 finale (Ep 19).",
-      "why": "Isekai fantasy with heavy world-building — same lane as Demon Slayer for escapism, though slower pace."
-    },
-    {
-      "title": "Link Click S3 — Ep 5 (Thu Sep 4)",
-      "platform": "Crunchyroll",
-      "date": "Thu Sep 4, 2026 — weekly Crunchyroll drop",
-      "format": "anime — S3 Part 1, 12 eps weekly",
-      "runtime": "~24 min",
-      "match": "try",
-      "genres": [
-        "anime",
-        "sci-fi",
-        "mystery"
-      ],
-      "tags": [
-        "weekly-tracker",
-        "time-travel",
-        "plot-twists"
-      ],
-      "about": "S3 launched Aug 14 with a double-premiere. Part 1 runs 12 eps; Part 2 holds till 2027.",
-      "why": "Time-travel donghua with real-neuroscience plot mechanics — plot-twists-that-pay-off lane."
-    },
-    {
-      "title": "Futurama S14 — Ep 6 (Mon Sep 7)",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Mon Sep 7, 2026 — weekly Hulu drop",
-      "format": "series — S14 weekly, 10 eps",
-      "runtime": "~22 min",
-      "match": "strong",
-      "genres": [
-        "comedy",
-        "sci-fi",
-        "animation"
-      ],
-      "tags": [
-        "weekly-tracker",
-        "LOVED-LIST",
-        "off-beat",
-        "dark-humor-sci-fi"
-      ],
-      "about": "S14 launched Aug 3 with weekly Monday drops through the Sep 28 finale ('Final Ending: The Last Conclusion'). You rated S14 4.5★ mid-run; keep the thread.",
-      "why": "LOVED-LIST continuation. Dark humor + sci-fi combo in a 22-min bedtime bite."
-    },
-    {
-      "title": "The Runner",
-      "platform": "Amazon Prime Video",
-      "date": "Streaming in Sept 2026 (Prime Original)",
-      "format": "movie",
-      "runtime": "~1h 45m",
-      "match": "try",
-      "genres": [
         "thriller",
-        "drama"
+        "crime"
       ],
       "tags": [
-        "single-mother-in-peril",
-        "phone-thriller"
+        "weekly-drop",
+        "season-finale",
+        "action"
       ],
-      "about": "Gal Gadot as a high-powered London lawyer who gets a call from a mysterious man who claims to have her son.",
-      "why": "Contained thriller in movie form — try-tier for you (lacks the humor + sci-fi you skew toward, but the plot-twist mechanic could land)."
+      "about": "S4 finale drops next Wednesday. Wraps the season Ep 7 kicked off last week.",
+      "why": "You're mid-season. Finale week — worth clearing the queue for."
     },
     {
-      "title": "Talamasca: The Secret Order — Season 1",
-      "platform": "Netflix",
-      "date": "Streaming Sept 2026",
-      "format": "series — Season 1",
-      "runtime": "~55-min eps",
+      "title": "The Shards — Ep 8 (Wed Sep 16)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Wed Sep 16, 2026 — 9pm ET on FX / next day on Hulu",
+      "format": "series — weekly (10-ep S1)",
+      "runtime": "~55 min",
       "match": "try",
       "genres": [
-        "supernatural",
         "horror",
-        "mystery",
-        "drama"
+        "thriller",
+        "period"
       ],
       "tags": [
-        "anne-rice",
-        "supernatural",
-        "mythology"
+        "bret-easton-ellis",
+        "80s-horror",
+        "weekly-drop",
+        "slow-burn"
       ],
-      "about": "AMC's Anne Rice Immortal Universe expands with the secret order tracking supernatural beings across history.",
-      "why": "Supernatural / mythology themes lane (Sandman / Kaos / Dead Boy Detectives)."
+      "about": "Bret Easton Ellis' semi-autobiographical LA period thriller — 1980s prep-school students stalked by 'The Trawler.' 2 eps left after Sep 16 (Ep 9 Sep 23, finale Sep 30).",
+      "why": "Slow-burn horror with real ensemble character work. Ends this month — worth catching up if you've been holding it."
     },
     {
-      "title": "Chad Powers S2",
+      "title": "It's Always Sunny in Philadelphia S18 — Ep 6 (Mon Sep 14)",
       "platform": "Disney+ (Hulu hub)",
-      "date": "Streaming Sept 3, 2026",
-      "format": "series — S2",
-      "runtime": "~30 min",
-      "match": "try",
+      "date": "Mon Sep 14, 2026 — Hulu day-after-FX",
+      "format": "series — weekly (30-min)",
+      "runtime": "~22 min",
+      "match": "strong",
       "genres": [
         "comedy"
       ],
       "tags": [
-        "off-beat",
-        "underdog",
+        "dark-humor",
+        "30-min",
+        "weekly-drop",
+        "ensemble"
+      ],
+      "about": "S18 continues its 10-ep weekly rollout (premiered Aug 17). Ep 6 lands Monday.",
+      "why": "Dark-humor ensemble comedy in a 22-min bite — perfect one-episode bedtime slot."
+    },
+    {
+      "title": "Futurama S14 — Ep 8 (Mon Sep 14)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Mon Sep 14, 2026 — weekly Hulu drop (finale Sep 28)",
+      "format": "series — weekly (30-min, 10-ep season)",
+      "runtime": "~22 min",
+      "match": "strong",
+      "genres": [
+        "animation",
+        "comedy",
+        "sci-fi"
+      ],
+      "tags": [
+        "loved-list",
+        "weekly-drop",
         "30-min"
       ],
-      "bench": true,
-      "about": "Glen Powell's disguised-QB comedy returns for S2. 30-min episodes.",
-      "why": "30-min sitcom bites; you liked Extraordinary S1-2. Try-tier."
+      "about": "S14 continues after Ep 7 ('Lord Nibbler in the Nothingverse', Sep 7). 3 eps to go until the Sep 28 finale.",
+      "why": "Loved list. You rated the season 4.5⭐. 22-min chapter is your safest bedtime bet."
+    },
+    {
+      "title": "Re:ZERO S4 (Recapture Arc) — Ep 17 (Wed Sep 16)",
+      "platform": "Crunchyroll",
+      "date": "Wed Sep 16, 2026 — same-day sub + simuldub",
+      "format": "series — weekly",
+      "runtime": "~24 min",
+      "match": "try",
+      "genres": [
+        "anime",
+        "isekai",
+        "drama"
+      ],
+      "tags": [
+        "weekly-drop",
+        "sub-preferred",
+        "long-arc"
+      ],
+      "about": "Recapture Arc continues the S4 rollout that began April; Wed cadence into the fall.",
+      "why": "One weekly anime slot open on Wed. Skippable if you're behind."
+    },
+    {
+      "title": "Link Click S3 — Ep 6 (Thu Sep 11)",
+      "platform": "Crunchyroll",
+      "date": "Thu Sep 11, 2026 — weekly Crunchyroll drop",
+      "format": "series — weekly",
+      "runtime": "~24 min",
+      "match": "try",
+      "genres": [
+        "anime",
+        "sci-fi",
+        "mystery"
+      ],
+      "tags": [
+        "time-loop",
+        "weekly-drop",
+        "sub + dub"
+      ],
+      "about": "Chinese donghua that broadcast S3 starting Aug 14. Time-travel mystery.",
+      "why": "One-off tonight if you want a bite-sized anime hit."
+    },
+    {
+      "title": "The Mandalorian & Grogu",
+      "platform": "Disney+",
+      "date": "Streaming since Tue Sep 2, 2026",
+      "format": "film",
+      "runtime": "~2 hr",
+      "match": "try",
+      "genres": [
+        "sci-fi",
+        "action",
+        "adventure"
+      ],
+      "tags": [
+        "star-wars",
+        "one-sitting"
+      ],
+      "about": "Feature-length Mandalorian outing. Now on Disney+.",
+      "why": "One-sitting sci-fi if the mood's more comfort-food than cerebral."
     },
     {
       "title": "Good Fortune",
       "platform": "Amazon Prime Video",
-      "date": "Streaming since Fri Aug 21, 2026 (film)",
-      "format": "movie",
-      "runtime": "~1h 39min",
+      "date": "Streaming since Fri Aug 21, 2026",
+      "format": "film",
+      "runtime": "~1h 45m",
       "match": "strong",
       "genres": [
-        "fantasy",
-        "comedy"
+        "comedy",
+        "fantasy"
       ],
       "tags": [
-        "off-beat",
         "ensemble",
-        "supernatural-lite"
+        "one-sitting",
+        "off-beat-humor"
       ],
-      "bench": true,
-      "about": "Keanu Reeves as a bumbling angel meddling in Aziz Ansari's gig worker's life + Seth Rogen. 79% RT / 80% audience.",
-      "why": "Off-beat quirky ensemble comedy with a supernatural hook — Fleabag / Solar Opposites lane in 100-min movie form."
+      "about": "Ensemble comedy-fantasy film with quirky premise. Full film binge on Prime.",
+      "why": "Comedy movie fills your one-sitting comedy slot. Off-beat humor lands for you.",
+      "bench": true
     },
     {
-      "title": "The Legend of Vox Machina S4 (Complete, 12 eps) — Binge-Ready",
+      "title": "The Legend of Vox Machina S4 (12 eps, complete) — Binge-Ready",
       "platform": "Amazon Prime Video",
       "date": "All 12 eps live (S4 completed June 24, 2026)",
-      "format": "animated series — season 4, 12 eps",
+      "format": "series — animated, 12 eps",
       "runtime": "~30 min eps",
       "match": "try",
       "genres": [
-        "fantasy",
         "animation",
-        "action",
+        "fantasy",
         "comedy"
       ],
       "tags": [
-        "dnd",
         "adult-animation",
-        "ensemble"
+        "d&d",
+        "30-min",
+        "binge-ready"
       ],
-      "bench": true,
-      "about": "Post-Chroma-Conclave reunion arc — Vox Machina fractured, then reforms to face a slumbering evil. S4 is a full 12-ep drop and binge-ready.",
-      "why": "Fantasy + adult animation ensemble (Rick & Morty / Solar Opposites cousin). 30-min bedtime bites."
+      "about": "Critical Role's D&D-adjacent animated fantasy. Sword-and-sorcery with adult humor.",
+      "why": "30-min animated fantasy — bench fill for your Solar Opposites-shaped hole.",
+      "bench": true
     },
     {
-      "title": "Alien (1979) — Just Added to Netflix",
+      "title": "Alien (1979) — On Netflix",
       "platform": "Netflix",
-      "date": "Streaming (Netflix Sci-fi/Horror lineup)",
-      "format": "movie",
-      "runtime": "~1h 57min",
+      "date": "Streaming (Netflix horror/sci-fi lineup)",
+      "format": "film",
+      "runtime": "~1h 57m",
       "match": "try",
       "genres": [
-        "sci-fi",
         "horror",
-        "suspense"
+        "sci-fi"
       ],
       "tags": [
         "classic",
+        "one-sitting",
         "slow-burn-horror"
       ],
-      "bench": true,
-      "about": "Ridley Scott's original haunted-house-in-space. Ripley vs. xenomorph.",
-      "why": "Sci-fi + horror combo, top of your genre stack."
+      "about": "Ridley Scott's original chest-burster. Available on Netflix now.",
+      "why": "Horror bench fill; classic worth a re-watch or first-watch.",
+      "bench": true
     },
     {
-      "title": "Aliens (1986) — Just Added to Netflix",
+      "title": "Aliens (1986) — On Netflix",
       "platform": "Netflix",
-      "date": "Streaming (Netflix Sci-fi/Horror lineup)",
-      "format": "movie",
-      "runtime": "~2h 17min",
+      "date": "Streaming (Netflix horror/sci-fi lineup)",
+      "format": "film",
+      "runtime": "~2h 17m",
       "match": "try",
       "genres": [
-        "sci-fi",
         "action",
+        "sci-fi",
         "horror"
       ],
       "tags": [
-        "classic",
-        "ensemble"
+        "cameron",
+        "action-horror",
+        "one-sitting"
       ],
-      "bench": true,
-      "about": "James Cameron's action-heavy sequel. Colonial Marines, terrifying set-pieces.",
-      "why": "Sci-fi action + horror; longer sitting."
+      "about": "Cameron's sequel — marines, xenomorphs, Ripley reloaded. On Netflix.",
+      "why": "Action-horror sci-fi bench fill for a Saturday-night slot.",
+      "bench": true
     },
     {
       "title": "American Classic",
       "platform": "Amazon Prime Video",
-      "date": "MGM+ original streaming in Sept 2026 via Prime",
+      "date": "Streaming since Tue Sep 1, 2026 — full binge live",
       "format": "series",
-      "runtime": "~1 hr eps",
+      "runtime": "~55 min eps",
       "match": "try",
       "genres": [
         "drama",
         "comedy"
       ],
       "tags": [
-        "character-piece"
+        "small-town",
+        "ensemble",
+        "prime-original"
       ],
-      "bench": true,
-      "about": "Kevin Kline as a Broadway star who returns home to put on a play.",
-      "why": "Actor-driven character piece. Try-tier — light drama with performance."
+      "about": "Exiled Broadway star Richard Bean returns to his family's small-town theater — hope, chaos, and buried secrets follow.",
+      "why": "Drama-comedy bench pick — quieter register for a low-energy night.",
+      "bench": true
     },
     {
-      "title": "JoJo's Bizarre Adventure: Steel Ball Run — mid-season on Netflix",
+      "title": "JoJo's Bizarre Adventure: Steel Ball Run — Mid-Season",
       "platform": "Netflix",
       "date": "Weekly Fridays (premiered Mar 19, 2026)",
-      "format": "anime — ONA, weekly",
-      "runtime": "~24 min",
+      "format": "anime series — weekly",
+      "runtime": "~24 min eps",
       "match": "try",
       "genres": [
         "anime",
         "action",
-        "fantasy",
         "adventure"
       ],
       "tags": [
         "shonen",
-        "long-run",
-        "netflix-original-anime"
+        "weekly-drop",
+        "long-arc"
       ],
-      "bench": true,
-      "about": "David Production adapts Steel Ball Run — the 1890s trans-America horse race storyline of Part 7. Netflix ONA (not Crunchyroll), weekly Fridays. Already ~24+ weeks in — treat as a mid-series pickup.",
-      "why": "Shonen action anime on a platform you have — fills the anime chip alongside Re:ZERO and Link Click. Try-tier due to mid-run entry."
+      "about": "The seventh JoJo saga, on Netflix. Weekly Fridays.",
+      "why": "Bench anime — pick up if you're between simulcasts.",
+      "bench": true
     },
     {
       "title": "The Apothecary Diaries S3 — Season Premiere",
       "platform": "Crunchyroll",
       "date": "Thu Oct 2, 2026 — split-cour, Part 1 through late Dec",
-      "format": "anime — S3, split-cour",
-      "runtime": "~24 min",
+      "format": "anime series — weekly",
+      "runtime": "~24 min eps",
       "match": "try",
       "genres": [
         "anime",
         "mystery",
-        "drama",
-        "period"
+        "historical"
       ],
       "tags": [
-        "mystery-of-the-week",
-        "world-building",
-        "period-china"
+        "fall-2026-simulcast",
+        "sub-preferred",
+        "long-arc"
       ],
-      "bench": true,
-      "about": "Maomao returns to the imperial court in the third season of the hit mystery-of-the-week anime. Season runs as split-cour — Part 1 fall 2026, Part 2 April 2027.",
-      "why": "Character-driven mystery anime with a strong world-building lane. Weekly Thursdays."
+      "about": "S3 confirmed as the Fall 2026 Crunchyroll flagship simulcast, Oct 2 premiere.",
+      "why": "Anime bench — advance-planning for October simulcasts.",
+      "bench": true
     }
   ],
   "critics": [
     {
-      "title": "The Gentlemen S2",
+      "title": "Last Seen (Apple TV+)",
+      "platform": "Apple TV+",
+      "date": "Wed Sep 9, 2026 — Eps 1–2 live",
+      "format": "series — 6 eps weekly",
+      "runtime": "~55 min",
+      "match": "strong",
+      "genres": [
+        "thriller",
+        "crime"
+      ],
+      "tags": [
+        "character-driven",
+        "australian-crime"
+      ],
+      "about": "See hero.",
+      "why": "Early RT 82–100% range; #4 worldwide on Apple TV within a day. Roger Ebert praised character-first storytelling."
+    },
+    {
+      "title": "The Gentlemen S2 (Netflix)",
       "platform": "Netflix",
-      "date": "Thu Sep 3, 2026 — full drop",
+      "date": "Thu Sep 3, 2026 — full binge live",
       "format": "series — 8 eps",
-      "runtime": "8 × ~55 min",
+      "runtime": "~55 min",
       "match": "strong",
       "genres": [
         "crime",
@@ -441,153 +487,131 @@
       ],
       "tags": [
         "guy-ritchie",
-        "critics-highlight"
+        "dry-british-humor"
       ],
-      "about": "Netflix's biggest returning original of September per Tom's Guide / Variety / TVGuide.",
-      "why": "Critical hype + strong Gentlemen S1 taste alignment. Double-lock."
-    },
-    {
-      "title": "Slow Horses S6 — Season Premiere",
-      "platform": "Apple TV+",
-      "date": "Wed Sep 16, 2026 — 6 eps weekly through Oct 21",
-      "format": "series — S6, 6 eps weekly",
-      "runtime": "~50 min",
-      "match": "strong",
-      "genres": [
-        "spy-thriller",
-        "drama",
-        "comedy"
-      ],
-      "tags": [
-        "LOVED-LIST",
-        "critics-highlight",
-        "gary-oldman"
-      ],
-      "about": "The Emmy/BAFTA-winning espionage drama returns with Sir Gary Oldman as Jackson Lamb. Apple TV Press-confirmed premiere Sep 16.",
-      "why": "LOVED LIST. Every critic's top-3 September pick. Two weeks out — get ready."
-    },
-    {
-      "title": "The Mandalorian & Grogu",
-      "platform": "Disney+",
-      "date": "Tue Sep 2, 2026 — streaming today",
-      "format": "movie",
-      "runtime": "~2h",
-      "match": "try",
-      "genres": [
-        "sci-fi",
-        "fantasy"
-      ],
-      "tags": [
-        "critics-highlight",
-        "star-wars",
-        "IMAX-enhanced"
-      ],
-      "about": "Jon Favreau's post-RotJ feature; strong 'best Star Wars since Andor' word-of-mouth. Available in IMAX Enhanced on Disney+.",
-      "why": "Movie-length sci-fi/fantasy critical pick that just went live on a platform you have."
-    }
-  ],
-  "upcoming_alerts": [
-    {
-      "title": "Last Seen — Series Premiere (Ep 1)",
-      "platform": "Apple TV+",
-      "date": "Wed Sep 9, 2026",
-      "note": "OFFICIAL (Apple TV Press + 9to5Mac); Australian dispatcher-daughter-missing thriller, weekly."
+      "about": "See new_this_week.",
+      "why": "81% RT, up from S1's 75%. Bigger, bloodier — critics call it a step up."
     },
     {
       "title": "Slow Horses S6 — Season Premiere (LOVED LIST)",
       "platform": "Apple TV+",
+      "date": "Wed Sep 16, 2026 — 6 eps weekly through Oct 21",
+      "format": "series — 6 eps weekly",
+      "runtime": "~55 min",
+      "match": "strong",
+      "genres": [
+        "thriller",
+        "spy",
+        "drama",
+        "comedy"
+      ],
+      "tags": [
+        "loved-list",
+        "dry-british-humor",
+        "gary-oldman",
+        "weekly-drop"
+      ],
+      "about": "S6 based on Herron's Joe Country + Slough House books. Slow Horses on the run as Diana Taverner drags them into a fatal game of retaliation. Lenny Rush (BAFTA winner) joins.",
+      "why": "Loved list. Prior 5 seasons at 100% RT. 5 days out — the event of the month."
+    }
+  ],
+  "upcoming_alerts": [
+    {
+      "title": "Slow Horses S6 — Season Premiere (LOVED LIST)",
+      "platform": "Apple TV+",
       "date": "Wed Sep 16, 2026",
-      "note": "Apple TV Press-confirmed. 6 eps weekly through Oct 21. Gary Oldman + Jack Lowden return."
+      "note": "6 eps weekly through Oct 21. Confirmed via Apple TV press + Deadline."
+    },
+    {
+      "title": "Reacher S4 — Ep 8 'Cut' (SEASON FINALE)",
+      "platform": "Amazon Prime Video",
+      "date": "Wed Sep 16, 2026"
     },
     {
       "title": "Neagley (Reacher spinoff) — Full Season Drop",
       "platform": "Amazon Prime Video",
       "date": "Wed Sep 16, 2026",
-      "note": "Amazon MGM Studios press-confirmed. Frances Neagley solo spinoff."
+      "note": "Full binge — Maria Sten (Frances Neagley) headlines."
+    },
+    {
+      "title": "The Love Hypothesis",
+      "platform": "Amazon Prime Video",
+      "date": "Wed Sep 23, 2026",
+      "note": "Ali Hazelwood novel adaptation, Lili Reinhart + Tom Bateman."
     },
     {
       "title": "Brothers",
       "platform": "Apple TV+",
       "date": "Wed Sep 23, 2026",
-      "note": "Matthew McConaughey + Woody Harrelson as fictionalized versions of themselves who might actually be brothers. Apple TV Press."
+      "note": "Matthew McConaughey + Woody Harrelson buddy-comedy."
     },
     {
       "title": "A Different World (reboot)",
       "platform": "Netflix",
-      "date": "Thu Sep 24, 2026",
-      "note": "Reboot of the classic 80s/90s sitcom. Netflix September slate."
-    },
-    {
-      "title": "Futurama S15 — Season Premiere (LOVED LIST)",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Fri Sep 25, 2026",
-      "note": "S14 finale is Sep 28 — verify no gap. Loved-list continuation."
+      "date": "Thu Sep 24, 2026"
     },
     {
       "title": "Futurama S14 — Season Finale 'Final Ending: The Last Conclusion'",
       "platform": "Disney+ (Hulu hub)",
       "date": "Mon Sep 28, 2026",
-      "note": "10-ep season closer. Wiki-confirmed date; one source floated Oct 5 — Wiki is authoritative."
+      "note": "LOVED LIST season wraps."
     },
     {
-      "title": "Solar Opposites S6 — FINAL SEASON (LOVED LIST)",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Tue Oct 13, 2026",
-      "note": "All 10 eps at once. Final season. Alien diamond-machine broken → aliens on a budget."
+      "title": "The Apothecary Diaries S3 — Season Premiere",
+      "platform": "Crunchyroll",
+      "date": "Thu Oct 2, 2026",
+      "note": "Fall 2026 simulcast flagship."
+    },
+    {
+      "title": "Firefly Wedding — Fall 2026 Anime Premiere",
+      "platform": "Crunchyroll",
+      "date": "Thu Oct 9, 2026",
+      "note": "noitaminA-block anime, Fall 2026 simulcast."
     },
     {
       "title": "The Diplomat S3",
       "platform": "Netflix",
-      "date": "Fri Oct 16, 2026",
-      "note": "Political thriller returning. Tracking."
+      "date": "Fri Oct 16, 2026"
     },
     {
       "title": "The Terminal List S2 — All 8 eps drop at once",
       "platform": "Amazon Prime Video",
-      "date": "Wed Oct 21, 2026",
-      "note": "Chris Pratt returns. Full-drop, bingeable."
+      "date": "Wed Oct 21, 2026"
     },
     {
       "title": "Only Murders in the Building S6 (London season)",
       "platform": "Disney+ (Hulu hub)",
-      "date": "Tue Dec 8, 2026",
-      "note": "Weekly Tuesdays. London setting shift."
+      "date": "Tue Dec 8, 2026"
     },
     {
       "title": "Rick and Morty S10 (LOVED LIST)",
       "platform": "Adult Swim / Max (check availability)",
-      "date": "May 2027 (Adult Swim-confirmed window)",
-      "note": "LOVED LIST continuation. Adult Swim + Max primary — verify streaming path (Hulu carried older seasons)."
+      "date": "May 2027 (Adult Swim-confirmed window)"
     },
     {
       "title": "Foundation S4 (LOVED LIST)",
       "platform": "Apple TV+",
-      "date": "Mid-to-late 2027 window",
-      "note": "LOVED LIST. Production ongoing."
+      "date": "Mid-to-late 2027 window"
     },
     {
       "title": "Severance S3 (LOVED LIST)",
       "platform": "Apple TV+",
-      "date": "2027 (June–September window expected)",
-      "note": "LOVED LIST. In production."
+      "date": "2027 (June–September window expected)"
     },
     {
       "title": "Black Mirror S8 (LOVED LIST)",
       "platform": "Netflix",
-      "date": "Late 2027 or early 2028",
-      "note": "LOVED LIST. Charlie Brooker confirmed renewal."
+      "date": "Late 2027 or early 2028"
     },
     {
       "title": "The Last of Us S3 (LOVED LIST)",
       "platform": "HBO Max (not in current platforms)",
-      "date": "2027",
-      "note": "LOVED LIST. Filming Mar 2 – Nov 27, 2026 in Vancouver. Craig Mazin solo showrunner. Would need HBO Max access."
+      "date": "2027"
     },
     {
       "title": "Demon Slayer: Infinity Castle Part 2 (LOVED LIST)",
       "platform": "Theatrical (Ufotable)",
-      "date": "2027 (theatrical)",
-      "note": "Part 2 of the Infinity Castle trilogy; Part 1 you rated 3.5★."
+      "date": "2027 (theatrical)"
     }
   ]
 }
