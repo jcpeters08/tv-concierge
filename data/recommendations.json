@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T23:15:00Z",
-  "week_label": "Sep 14 – 20, 2026",
-  "source": "Derived by the daily scheduled task from taste-profile.json + this-week's platform release calendars, verified against JustWatch and RT where possible.",
+  "generated_at": "2026-09-19T13:57:56Z",
+  "week_label": "Sep 21 – 27, 2026",
+  "source": "Derived by the daily scheduled task from taste-profile.json + this-week's platform release calendars, verified against JustWatch, Rotten Tomatoes, and platform PR where possible.",
   "hero": {
-    "title": "Slow Horses S6 — Season Premiere",
+    "title": "Slow Horses S6 — Ep 2 'Daddy Issues'",
     "platform": "Apple TV+",
-    "date": "Wed Sep 16, 2026 — Ep 1 live now, weekly Wednesdays through Oct 21",
+    "date": "Wed Sep 23, 2026 — new ep 12am PT / 3am ET; weekly Wednesdays through Oct 21",
     "format": "series — 6 eps weekly",
-    "runtime": "6 × ~55 min",
+    "runtime": "~55 min",
     "match": "strong",
     "genres": [
       "thriller",
@@ -23,14 +23,14 @@
       "weekly-drop",
       "book-adaptation"
     ],
-    "about": "Season 6 adapts Mick Herron's Joe Country and Slough House. Ep 1 'Circle of Life' finds the Slow Horses on the run as Diana Taverner drags them into a fatal game of retaliation and revenge. Gary Oldman, Jack Lowden and Olivia Cooke return; BAFTA winner Lenny Rush joins the ensemble.",
-    "why": "Loved-list series that stops the presses. Ep 1 debuted at 100% on Rotten Tomatoes — a new series record (8.9/10 average across 10+ reviews). The prior five seasons have all sat at 100%. Six 55-min episodes weekly is a perfect bedtime cadence. This is the event of the month."
+    "about": "Ep 2 brings Frank Harkness (Hugo Weaving) back into River Cartwright's orbit as a string of suspicious murders puts Lamb's team on high alert. Season 6 adapts Mick Herron's Joe Country and Slough House (novels 6 & 7).",
+    "why": "Loved-list, still the event of the month. Ep 1 debuted at 100% RT / 8.9 avg from 28 reviews — a new series record. Three of six seasons now hold 100%. Perfect ~55-min bedtime cadence on Wednesdays."
   },
   "new_this_week": [
     {
-      "title": "Slow Horses S6 — Ep 1 'Circle of Life'",
+      "title": "Slow Horses S6 — Ep 2 'Daddy Issues'",
       "platform": "Apple TV+",
-      "date": "Wed Sep 16, 2026 — live now; Ep 2 'Daddy Issues' Wed Sep 23",
+      "date": "Wed Sep 23, 2026 — new ep; Ep 3 Wed Sep 30",
       "format": "series — 6 eps weekly",
       "runtime": "~55 min",
       "match": "strong",
@@ -49,58 +49,35 @@
         "book-adaptation"
       ],
       "about": "See hero.",
-      "why": "Loved list, 100% RT record, weekly Wednesdays through Oct 21. Start here.",
+      "why": "Loved list. Season 6 sitting at 100% RT with a new series-record average.",
       "bench": false
     },
     {
-      "title": "Neagley — Full Season Binge Live",
-      "platform": "Amazon Prime Video",
-      "date": "Wed Sep 16, 2026 — all 8 eps live",
-      "format": "series — 8 eps binge",
-      "runtime": "8 × ~45–55 min",
+      "title": "Futurama S14 — Ep 9 'A New New York Yankee in King Elfo's Court' (LOVED LIST)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Mon Sep 21, 2026 — next-day Hulu drop; season finale 'Final Ending: The Last Conclusion' Mon Sep 28",
+      "format": "series — 30-min eps",
+      "runtime": "~22 min",
       "match": "strong",
       "genres": [
-        "action",
-        "thriller",
-        "crime",
-        "mystery"
-      ],
-      "tags": [
-        "reacher-spinoff",
-        "female-lead",
-        "binge-ready",
-        "action-drama"
-      ],
-      "about": "Maria Sten headlines as Frances Neagley, a Chicago PI and former Army 110th Special Investigations Unit member investigating the suspicious death of an old friend. Alan Ritchson guest-stars as Reacher. All 8 episodes drop the same day as the Reacher S4 finale.",
-      "why": "90% RT (higher franchise-record start than Reacher S1's 92%). Same action-thriller pocket as Reacher — competent, patient, character-driven. Full binge means you control the pacing.",
-      "bench": false
-    },
-    {
-      "title": "Dark Matter S2 — Ep 4 'Stars, Hide Your Fires'",
-      "platform": "Apple TV+",
-      "date": "Fri Sep 18, 2026 — new ep tonight, 12am PT; weekly through Oct 30",
-      "format": "series — 10 eps weekly",
-      "runtime": "~55 min",
-      "match": "strong",
-      "genres": [
+        "comedy",
         "sci-fi",
-        "thriller",
-        "drama"
+        "animation"
       ],
       "tags": [
-        "world-building",
-        "book-adaptation",
-        "multiverse",
-        "weekly-drop"
+        "loved-list",
+        "weekly-drop",
+        "bedtime-friendly",
+        "30-min"
       ],
-      "about": "Blake Crouch's multiverse thriller continues. Ep 4 follows Ryan, Amanda and Jason 2 trying to return the original Ryan to his own world.",
-      "why": "Strong sci-fi with book-adaptation pedigree — hits your Foundation/Silo pocket. Weekly Fridays; 6 eps still to go after tonight.",
+      "about": "A time-machine failure sends Fry sideways in time to a medieval land. You rated S14 4.5⭐ and Ep 3 4⭐.",
+      "why": "Loved list. Penultimate ep before the Sep 28 season finale — finish the season on a two-Monday cadence.",
       "bench": false
     },
     {
-      "title": "Last Seen — Ep 3 (Wed Sep 16)",
+      "title": "Last Seen — Ep 4 'The Truth'",
       "platform": "Apple TV+",
-      "date": "Wed Sep 16, 2026 — weekly Wednesdays through Oct 7",
+      "date": "Wed Sep 23, 2026 — new ep; weekly through Oct 7",
       "format": "series — 6 eps weekly",
       "runtime": "~55 min",
       "match": "strong",
@@ -116,76 +93,57 @@
         "character-driven",
         "book-adaptation"
       ],
-      "about": "Kris Mrksa's Australian crime thriller (adapting Ryan David Jahn's The Dispatcher). Patrick Brammall plays a former detective who becomes convinced a random distress call is his daughter — eleven years after she disappeared.",
-      "why": "Last week's hero, still weekly on Apple TV+. Character-first prestige thriller in the Slow Horses/Silo pocket. Three eps live now — easy 2-night catch-up.",
+      "about": "Pressure mounts and relationships are tested as Ian leads the police to Henry and Jenna's door. Australian thriller adapting Ryan David Jahn's The Dispatcher.",
+      "why": "Character-first prestige thriller in the Slow Horses / Silo pocket. Four eps live now — easy 2-night catch-up ahead of Ep 4 landing Wednesday.",
       "bench": false
     },
     {
-      "title": "Futurama S14 — Ep 9 (Mon Sep 21) — WEEKLY TRACKER",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Mon Sep 21, 2026 — next weekly Hulu drop; season finale 'Final Ending: The Last Conclusion' Mon Sep 28",
-      "format": "series — 30-min eps",
-      "runtime": "~22 min",
-      "match": "strong",
-      "genres": [
-        "comedy",
-        "sci-fi",
-        "animation"
-      ],
-      "tags": [
-        "loved-list",
-        "weekly-drop",
-        "bedtime-friendly",
-        "30-min"
-      ],
-      "about": "You rated S14 4.5⭐ and Ep 3 'Our Flag Means Medical Coverage' 4⭐. Season is still airing weekly — two eps left before the finale.",
-      "why": "Loved list. 30-min sci-fi comedy — the exact bedtime slot. Only two eps left; finish the season with the Sep 28 series-arc finale.",
-      "bench": false
-    },
-    {
-      "title": "It's Always Sunny in Philadelphia S18 — Ep 7 (Mon Sep 21)",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Mon Sep 21, 2026 — next-day on Hulu after FXX; weekly through Oct 12",
+      "title": "Dark Matter S2 — Ep 5 'Love and Be Loved'",
+      "platform": "Apple TV+",
+      "date": "Fri Sep 25, 2026 — new ep 12am PT; weekly Fridays through Oct 30",
       "format": "series — 10 eps weekly",
-      "runtime": "~22 min",
-      "match": "try",
-      "genres": [
-        "comedy"
-      ],
-      "tags": [
-        "dark-comedy",
-        "long-runner",
-        "30-min",
-        "bedtime-friendly"
-      ],
-      "about": "The Gang returns for a ten-episode season — first double-digit run since S14 in 2019. Six eps have aired; four to go, wrapping Oct 12.",
-      "why": "Dark-comedy 22-min slot for when Slow Horses is too intense. Steady ratings; catch up in a few nights.",
-      "bench": false
-    },
-    {
-      "title": "The Gentlemen S2 — Full Binge Live",
-      "platform": "Netflix",
-      "date": "Thu Sep 3, 2026 — all 8 eps live",
-      "format": "series — 8 eps binge",
       "runtime": "~55 min",
       "match": "strong",
       "genres": [
-        "crime",
-        "comedy",
-        "thriller"
+        "sci-fi",
+        "thriller",
+        "drama"
       ],
       "tags": [
-        "guy-ritchie",
-        "dry-british-humor",
-        "witty-banter",
-        "binge-ready"
+        "world-building",
+        "book-adaptation",
+        "multiverse",
+        "weekly-drop"
       ],
-      "about": "The Guy Ritchie crime saga returns. Theo James and cast expand the Horniman-Windsor operation as new players circle the estate. All 8 eps out.",
-      "why": "You rated S1 4.5⭐. S2 lands at 81% RT (up from S1's 75%). Same dry-British-humor + crime pocket you loved.",
+      "about": "Blake Crouch's multiverse thriller continues. Half of Season 2 in the bag by Friday; five eps still ahead.",
+      "why": "Foundation/Silo sci-fi pocket, book-adaptation pedigree. Weekly Fridays keep the cadence honest.",
       "bench": false
     },
     {
-      "title": "Re:ZERO S4 (Recapture Arc) — Ep 18 (Wed Sep 23)",
+      "title": "Neagley — Full Season Binge Live",
+      "platform": "Amazon Prime Video",
+      "date": "Live since Wed Sep 16, 2026 — all 8 eps out",
+      "format": "series — 8 eps binge",
+      "runtime": "8 × ~45–55 min",
+      "match": "strong",
+      "genres": [
+        "action",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "tags": [
+        "reacher-spinoff",
+        "female-lead",
+        "binge-ready",
+        "action-drama"
+      ],
+      "about": "Maria Sten (Frances Neagley) investigates the suspicious death of an old friend; Alan Ritchson guest-stars as Reacher. Chicago PI, ex-Army 110th Special Investigations Unit.",
+      "why": "90% RT — franchise-record start ahead of Reacher S1 (92% from 74 reviews). Reacher-adjacent action-thriller in a controlled 8-ep binge.",
+      "bench": false
+    },
+    {
+      "title": "Re:ZERO S4 (Recapture Arc) — Ep 18",
       "platform": "Crunchyroll",
       "date": "Wed Sep 23, 2026 — same-day sub + simuldub; season finale Ep 19 Wed Sep 30",
       "format": "anime — weekly",
@@ -202,14 +160,78 @@
         "weekly-drop",
         "arc-finale-close"
       ],
-      "about": "The Recapture Arc, S4's 8-ep second half, wraps this month. Ep 17 aired Sep 16; Ep 18 next Wed; finale Sep 30.",
-      "why": "Anime bedtime slot with an arc finale in reach. If it's not your thing, jump to the Sep 30 finale for closure.",
+      "about": "S4's Recapture Part (Eps 12–19) wraps this month. Ep 18 airs Wed; finale next Wed.",
+      "why": "Anime bedtime slot with an arc finale one week out. Skip to the Sep 30 finale if the mid-arc is losing you.",
       "bench": false
+    },
+    {
+      "title": "It's Always Sunny in Philadelphia S18 — Ep 7",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Mon Sep 21, 2026 — next-day on Hulu after FXX; weekly through Oct 12",
+      "format": "series — 10 eps weekly",
+      "runtime": "~22 min",
+      "match": "try",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "dark-comedy",
+        "long-runner",
+        "30-min",
+        "bedtime-friendly"
+      ],
+      "about": "The Gang's ten-episode S18 (first double-digit run since S14) drops Ep 7 Monday. Three eps to go after this, wrapping Oct 12.",
+      "why": "Dark-comedy 22-min slot when Slow Horses is too intense. Steady-ratings backup plan.",
+      "bench": false
+    },
+    {
+      "title": "The Gentlemen S2 — Full Binge Live",
+      "platform": "Netflix",
+      "date": "Live since Thu Sep 3, 2026 — all 8 eps out",
+      "format": "series — 8 eps binge",
+      "runtime": "~55 min",
+      "match": "strong",
+      "genres": [
+        "crime",
+        "comedy",
+        "thriller"
+      ],
+      "tags": [
+        "guy-ritchie",
+        "dry-british-humor",
+        "witty-banter",
+        "binge-ready"
+      ],
+      "about": "The Guy Ritchie crime saga returns. Theo James and cast expand the Horniman-Windsor operation. All 8 eps out.",
+      "why": "You rated S1 4.5⭐. S2 sits at 81% RT (up from S1's 75%). Same dry-British-humor + crime pocket.",
+      "bench": false
+    },
+    {
+      "title": "Good Fortune",
+      "platform": "Amazon Prime Video",
+      "date": "Live since Fri Aug 21, 2026 — full film available",
+      "format": "movie",
+      "runtime": "~100 min",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "fantasy"
+      ],
+      "tags": [
+        "aziz-ansari",
+        "seth-rogen",
+        "keanu-reeves",
+        "off-beat-comedy",
+        "supernatural"
+      ],
+      "about": "Aziz Ansari's directorial feature — bumbling angel (Keanu Reeves) swaps a struggling Angeleno with a rich tech guy. Comedy with a supernatural spine.",
+      "why": "Signals hit hard: off-beat/quirky humor, supernatural, ensemble cast. Comedy-movie slot this week.",
+      "bench": true
     },
     {
       "title": "Chad Powers S2 — Full Binge Live",
       "platform": "Disney+ (Hulu hub)",
-      "date": "Wed Sep 3, 2026 — all 6 eps live",
+      "date": "Live since Wed Sep 3, 2026 — all 6 eps out",
       "format": "series — 6 eps binge",
       "runtime": "~30 min",
       "match": "try",
@@ -223,55 +245,14 @@
         "30-min",
         "binge-ready"
       ],
-      "about": "Glen Powell's disguise-as-a-walk-on-QB comedy returns for six half-hour episodes. Lighter counter-programming to the Apple TV+ slate.",
-      "why": "6 × 30-min binge for a low-lift comedy week. Not a taste home-run but fits the light-comedy slot.",
-      "bench": false
-    },
-    {
-      "title": "Stavros Halkias: Uncle Stav",
-      "platform": "Netflix",
-      "date": "Tue Sep 8, 2026 — 1-hr stand-up special live",
-      "format": "special — stand-up",
-      "runtime": "~60 min",
-      "match": "try",
-      "genres": [
-        "comedy",
-        "stand-up"
-      ],
-      "tags": [
-        "stand-up",
-        "one-and-done",
-        "1-hour"
-      ],
-      "about": "Stavros Halkias's second Netflix hour — Cum Town / Stavvy's World alum, self-effacing bit-heavy delivery.",
-      "why": "One-hour comedy palate cleanser between weekly thriller drops.",
-      "bench": false
-    },
-    {
-      "title": "Fauda S5 — Full Season Binge",
-      "platform": "Netflix",
-      "date": "Tue Sep 8, 2026 — full season live globally",
-      "format": "series — binge",
-      "runtime": "~40 min",
-      "match": "try",
-      "genres": [
-        "thriller",
-        "action",
-        "drama"
-      ],
-      "tags": [
-        "israeli-import",
-        "high-tension",
-        "binge-ready"
-      ],
-      "about": "The Israeli undercover-unit thriller returns for a fifth season. Subtitled Arabic/Hebrew.",
-      "why": "Subtitle-comfortable thriller in the Slow-Horses / prestige-spy pocket. Full-binge option if you want an off-Apple night.",
-      "bench": false
+      "about": "Glen Powell's disguise-as-a-walk-on-QB comedy — six half-hour eps.",
+      "why": "6 × 30-min binge for a low-lift comedy week.",
+      "bench": true
     },
     {
       "title": "Mayday",
       "platform": "Apple TV+",
-      "date": "Fri Sep 4, 2026 — film live",
+      "date": "Live since Fri Sep 4, 2026 — film available",
       "format": "movie",
       "runtime": "~110 min",
       "match": "try",
@@ -286,14 +267,14 @@
         "80s-set",
         "movie-night"
       ],
-      "about": "Ryan Reynolds action-comedy set in 1980s Soviet Russia, opposite Kenneth Branagh. Apple TV+ film.",
-      "why": "One-and-done Apple TV+ movie night when you don't want a series commitment.",
-      "bench": false
+      "about": "Ryan Reynolds 80s-Soviet action-comedy opposite Kenneth Branagh.",
+      "why": "One-and-done Apple TV+ movie night when you don't want another weekly commitment.",
+      "bench": true
     },
     {
-      "title": "The Shards — Ep 9 (Wed Sep 23)",
+      "title": "The Shards",
       "platform": "Disney+ (Hulu hub)",
-      "date": "Wed Sep 23, 2026 — 9pm ET on FX / next day on Hulu",
+      "date": "New ep Wed Sep 23, 2026 — 9pm ET FX / next day on Hulu",
       "format": "series — 10 eps weekly",
       "runtime": "~55 min",
       "match": "try",
@@ -311,34 +292,54 @@
       ],
       "about": "Bret Easton Ellis adaptation, 80s LA prep-school killer story. Weekly on FX/Hulu, into the final third.",
       "why": "Horror/suspense taste-fit; final stretch of a serialized mystery.",
-      "bench": false
+      "bench": true
     },
     {
-      "title": "Good Fortune",
-      "platform": "Amazon Prime Video",
-      "date": "Streaming since Fri Aug 21, 2026 — full film live",
+      "title": "Signal One",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Streaming on Hulu (US) — released to VOD Jun 2026",
       "format": "movie",
-      "runtime": "~100 min",
-      "match": "strong",
+      "runtime": "~110 min",
+      "match": "try",
       "genres": [
-        "comedy",
-        "fantasy"
+        "sci-fi",
+        "thriller"
       ],
       "tags": [
-        "aziz-ansari",
-        "seth-rogen",
-        "keanu-reeves",
-        "off-beat-comedy",
-        "supernatural"
+        "first-contact",
+        "seti",
+        "ideas-first",
+        "movie-night"
       ],
-      "about": "Aziz Ansari's directorial feature — a bumbling angel (Keanu Reeves) swaps a struggling Los Angeleno with a rich tech guy. Comedy with a supernatural spine.",
-      "why": "Signals hit hard: off-beat/quirky humor, supernatural/mythology, ensemble cast. Comedy-movie slot for this refresh.",
+      "about": "Written/directed by Jonathan Sobol. Dr. Annika Kask (Isabelle Fuhrman) joins a tech billionaire's secret Caribbean-island project — the LITTLEMOUTH device is designed to communicate with extraterrestrial intelligence. Signals arrive; things get strange. Also stars Dennis Quaid, Josh Hutcherson, David Thewlis.",
+      "why": "First-contact sci-fi with an ideas-first bent (Roger Ebert liked it more than most). Reviews are mixed — a talky sci-fi rather than an action showcase — but it fits the sci-fi movie slot.",
+      "bench": true
+    },
+    {
+      "title": "Fauda S5 — Full Season Binge",
+      "platform": "Netflix",
+      "date": "Live since Tue Sep 8, 2026 — full season available",
+      "format": "series — binge",
+      "runtime": "~40 min",
+      "match": "try",
+      "genres": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "tags": [
+        "israeli-import",
+        "high-tension",
+        "binge-ready"
+      ],
+      "about": "The Israeli undercover-unit thriller returns for a fifth season. Subtitled Arabic/Hebrew.",
+      "why": "Subtitle-friendly thriller in the Slow-Horses / prestige-spy pocket. Full-binge alternative to weekly-drop Apple shows.",
       "bench": true
     },
     {
       "title": "The Legend of Vox Machina S4 — Full Season Binge",
       "platform": "Amazon Prime Video",
-      "date": "All 12 eps live (S4 completed June 24, 2026)",
+      "date": "All 12 eps live (S4 complete since June 2026)",
       "format": "series — 12 eps binge",
       "runtime": "~28 min",
       "match": "try",
@@ -355,8 +356,8 @@
         "binge-ready",
         "30-min"
       ],
-      "about": "The animated Critical Role adaptation's fourth season is complete on Prime — Vox Machina's continuing D&D adventures.",
-      "why": "Fantasy + comedy in a 30-min animated slot. On your watchlist. Full-binge available.",
+      "about": "The animated Critical Role adaptation's fourth season is complete on Prime.",
+      "why": "Fantasy + comedy in a 30-min animated slot. On your watchlist.",
       "bench": true
     },
     {
@@ -376,7 +377,7 @@
         "atmospheric"
       ],
       "about": "Ridley Scott's original 1979 sci-fi horror aboard the Nostromo.",
-      "why": "Horror/suspense + sci-fi filter coverage. Classic if you haven't rewatched in a while.",
+      "why": "Horror/suspense + sci-fi filter coverage.",
       "bench": true
     },
     {
@@ -403,7 +404,7 @@
     {
       "title": "American Classic",
       "platform": "Amazon Prime Video",
-      "date": "Streaming since Tue Sep 1, 2026 — full binge live",
+      "date": "Live since Tue Sep 1, 2026 — full binge available",
       "format": "series — binge",
       "runtime": "~30 min",
       "match": "try",
@@ -417,7 +418,27 @@
         "bedtime-friendly"
       ],
       "about": "Prime Video's low-key ensemble comedy-drama — full season binge.",
-      "why": "30-min comedy slot on Prime — bench cover for that filter chip.",
+      "why": "30-min comedy slot on Prime for the chip.",
+      "bench": true
+    },
+    {
+      "title": "Stavros Halkias: Uncle Stav",
+      "platform": "Netflix",
+      "date": "Live since Tue Sep 8, 2026 — 1-hr stand-up special",
+      "format": "special — stand-up",
+      "runtime": "~60 min",
+      "match": "try",
+      "genres": [
+        "comedy",
+        "stand-up"
+      ],
+      "tags": [
+        "stand-up",
+        "one-and-done",
+        "1-hour"
+      ],
+      "about": "Stavros Halkias's second Netflix hour — bit-heavy, self-effacing.",
+      "why": "One-hour comedy palate cleanser between weekly thriller drops.",
       "bench": true
     },
     {
@@ -438,7 +459,7 @@
         "weekly-drop",
         "over-the-top"
       ],
-      "about": "The Steel Ball Run arc of JoJo's, a transcontinental horse race with supernatural stakes. Weekly on Netflix.",
+      "about": "The Steel Ball Run arc — transcontinental horse race with supernatural stakes. Weekly on Netflix.",
       "why": "Anime action filter cover — pick up mid-run or start from Ep 1.",
       "bench": true
     }
@@ -447,7 +468,7 @@
     {
       "title": "Slow Horses S6 (Apple TV+)",
       "platform": "Apple TV+",
-      "date": "Wed Sep 16, 2026 — Ep 1 live; weekly Wednesdays through Oct 21",
+      "date": "Ep 2 Wed Sep 23, 2026; weekly Wednesdays through Oct 21",
       "format": "series — 6 eps weekly",
       "runtime": "~55 min",
       "match": "strong",
@@ -463,12 +484,12 @@
         "gary-oldman"
       ],
       "about": "See hero.",
-      "why": "100% RT — new series record on Rotten Tomatoes, with 8.9/10 average. Fifth 100% RT season in a row is now sixth. Roger Ebert / Forbes coverage is uniformly glowing."
+      "why": "100% RT / 8.9 avg from 28 reviews — new series record. Third season out of six to hold 100%. Forbes/AV Club raves; called one of the show's strongest seasons yet."
     },
     {
       "title": "Neagley (Prime Video)",
       "platform": "Amazon Prime Video",
-      "date": "Wed Sep 16, 2026 — 8 eps live",
+      "date": "All 8 eps live since Wed Sep 16, 2026",
       "format": "series — 8 eps binge",
       "runtime": "~50 min",
       "match": "strong",
@@ -482,12 +503,12 @@
         "female-lead"
       ],
       "about": "See new_this_week.",
-      "why": "90% RT — a franchise-record start ahead of Reacher S1. Metacritic 69/100. Critics say Maria Sten can carry the show; some say the plot is thin — see for yourself in a single weekend."
+      "why": "90% RT from 20 reviews — a franchise-record start (ahead of Reacher S1's 92% from 74). Critics love Maria Sten's lead; some flag a thin central plot — you'll know inside two eps."
     },
     {
       "title": "Last Seen (Apple TV+)",
       "platform": "Apple TV+",
-      "date": "Wed Sep 9, 2026 — 3 eps live; weekly through Oct 7",
+      "date": "Ep 4 Wed Sep 23, 2026; weekly through Oct 7",
       "format": "series — 6 eps weekly",
       "runtime": "~55 min",
       "match": "strong",
@@ -500,57 +521,57 @@
         "australian-crime"
       ],
       "about": "See new_this_week.",
-      "why": "Strong early RT band (82–100% depending on tracker), consistently praised for character-first storytelling. Roger Ebert called it prestige-first, plot-second — the Slow Horses / Silo pocket."
+      "why": "Hollywood Reporter and Apple TV Press coverage both lean positive — character-first storytelling in the Slow Horses / Silo pocket. Six eps means a controlled commitment."
     }
   ],
   "upcoming_alerts": [
     {
-      "title": "Slow Horses S6 — Ep 2 'Daddy Issues' (LOVED LIST)",
-      "platform": "Apple TV+",
-      "date": "Wed Sep 23, 2026",
-      "note": "Weekly Wednesdays through the Oct 21 finale."
-    },
-    {
-      "title": "The Savant — Series Premiere (2-ep drop)",
-      "platform": "Apple TV+",
-      "date": "Fri Sep 26, 2026",
-      "note": "Jessica Chastain limited series — 8 eps total, weekly. Domestic-terror thriller inspired by 2019 Cosmo investigation."
-    },
-    {
       "title": "Futurama S14 — Season Finale 'Final Ending: The Last Conclusion' (LOVED LIST)",
       "platform": "Disney+ (Hulu hub)",
       "date": "Mon Sep 28, 2026",
-      "note": "Loved-list season wraps."
+      "note": "Loved-list season wraps. Fry and his brother sneak into a PG-13 movie as kids with shocking consequences for the future."
+    },
+    {
+      "title": "Mononoke The Movie: Chapter III – The Curse of the Serpent",
+      "platform": "Netflix",
+      "date": "Tue Sep 29, 2026",
+      "note": "Final chapter of the anime-film trilogy set in the Ōoku, worldwide Netflix drop. Supernatural horror-mystery."
     },
     {
       "title": "Re:ZERO S4 — Season Finale (Ep 19)",
       "platform": "Crunchyroll",
       "date": "Wed Sep 30, 2026",
-      "note": "Recapture Arc wraps; overall S4 total 19 eps."
+      "note": "Recapture Arc wraps; S4 total 19 eps."
+    },
+    {
+      "title": "Slow Horses S6 — Ep 3 (LOVED LIST)",
+      "platform": "Apple TV+",
+      "date": "Wed Sep 30, 2026",
+      "note": "Weekly Wednesdays through the Oct 21 finale."
     },
     {
       "title": "The Apothecary Diaries S3 — Season Premiere",
       "platform": "Crunchyroll",
-      "date": "Thu Oct 2, 2026",
+      "date": "Fri Oct 2, 2026",
       "note": "Fall 2026 simulcast flagship. Split-cour — Part 1 through late Dec, Part 2 April 2027."
     },
     {
       "title": "Firefly Wedding — Fall 2026 Anime Premiere",
       "platform": "Crunchyroll",
-      "date": "Thu Oct 9, 2026",
-      "note": "noitaminA-block anime, Fall 2026 simulcast."
+      "date": "Fri Oct 9, 2026",
+      "note": "Fuji TV noitaminA-block premiere (Thu late night JST); Crunchyroll simulcast lands Fri US-time."
     },
     {
       "title": "It's Always Sunny in Philadelphia S18 — Season Finale (Ep 10)",
       "platform": "Disney+ (Hulu hub)",
       "date": "Mon Oct 12, 2026",
-      "note": "Season wraps after 10-ep run."
+      "note": "Season wraps after the 10-ep run."
     },
     {
       "title": "Solar Opposites S6 (Final Season) — Full Binge (LOVED LIST)",
       "platform": "Disney+ (Hulu hub)",
       "date": "Tue Oct 13, 2026",
-      "note": "All 10 eps drop at once. Series-ending final season."
+      "note": "All 10 eps drop at once. Series-ending final season — aliens live on a budget."
     },
     {
       "title": "The Diplomat S4 — Full Season Drop",
@@ -568,7 +589,7 @@
       "title": "The Terminal List S2 — Full Season Drop",
       "platform": "Amazon Prime Video",
       "date": "Wed Oct 21, 2026",
-      "note": "All 8 eps drop at once. Chris Pratt returns."
+      "note": "All 8 eps drop at once. Chris Pratt returns; based on Jack Carr's True Believer."
     },
     {
       "title": "Dark Matter S2 — Season Finale (Ep 10)",
@@ -577,22 +598,34 @@
       "note": "Weekly wrap of Season 2."
     },
     {
+      "title": "The Savant — Series Premiere (Apple TV+, Jessica Chastain)",
+      "platform": "Apple TV+",
+      "date": "TBD — still no confirmed 2026 start date as of mid-Aug 2026 (July target slipped)",
+      "note": "8-ep limited series; Chastain plays an undercover investigator infiltrating online hate groups. Apple has yet to lock a new premiere date after the Sep 2025 postponement."
+    },
+    {
       "title": "Only Murders in the Building S6 (London season)",
       "platform": "Disney+ (Hulu hub)",
       "date": "Tue Dec 8, 2026",
-      "note": "Series moves to London for S6."
+      "note": "10 eps weekly on Tuesdays; the trio investigates the apparent murder of Cinda Canning (Tina Fey) in London."
     },
     {
       "title": "Rick and Morty S10 (LOVED LIST)",
-      "platform": "Adult Swim / Max (check availability)",
+      "platform": "Adult Swim / HBO Max (not on current platforms)",
       "date": "May 2027 (Adult Swim-confirmed window)",
-      "note": "Not on current platforms; may require rental."
+      "note": "100th episode falls in this season. Requires rental or a platform you don't currently have."
     },
     {
       "title": "Vought Rising (The Boys prequel)",
       "platform": "Amazon Prime Video",
       "date": "2027 (window TBD)",
       "note": "Jensen Ackles + Aya Cash lead a 1950s Vought origin thriller."
+    },
+    {
+      "title": "Widow's Bay S2 (Apple TV+)",
+      "platform": "Apple TV+",
+      "date": "2027+ (filming starts April 2027)",
+      "note": "Matthew Rhys returns; S1 finale you rated 4⭐. Way out — but locked in."
     },
     {
       "title": "Foundation S4 (LOVED LIST)",
@@ -603,7 +636,7 @@
     {
       "title": "Severance S3 (LOVED LIST)",
       "platform": "Apple TV+",
-      "date": "2027 (June–September window expected)"
+      "date": "2027 (Jun–Sep window expected)"
     },
     {
       "title": "Black Mirror S8 (LOVED LIST)",
