@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:57:56Z",
+  "generated_at": "2026-09-20T16:32:56Z",
   "week_label": "Sep 21 – 27, 2026",
   "source": "Derived by the daily scheduled task from taste-profile.json + this-week's platform release calendars, verified against JustWatch, Rotten Tomatoes, and platform PR where possible.",
   "hero": {
@@ -51,6 +51,30 @@
       "about": "See hero.",
       "why": "Loved list. Season 6 sitting at 100% RT with a new series-record average.",
       "bench": false
+    },
+    {
+      "title": "Brothers — Series Premiere (Eps 1 & 2)",
+      "platform": "Apple TV+",
+      "date": "Wed Sep 23, 2026 — 2-episode premiere; weekly Wednesdays through Nov 4 (8 eps total)",
+      "format": "series",
+      "runtime": "~30 min/ep · 8 eps",
+      "match": "strong",
+      "genres": [
+        "Comedy",
+        "Mystery"
+      ],
+      "tags": [
+        "Matthew McConaughey",
+        "Woody Harrelson",
+        "Lee Eisenberg showrunner",
+        "half-hour comedy",
+        "witty banter",
+        "dark humor",
+        "self-aware",
+        "Apple TV+ prestige comedy"
+      ],
+      "about": "McConaughey and Harrelson play fictionalized versions of themselves. After Woody's daughter's engagement collapses, he decamps to Matthew's Austin ranch to heal — until Matthew's mother (Holland Taylor) accidentally lets slip a long-buried secret that the two lifelong friends might actually be brothers. From Little America showrunner Lee Eisenberg.",
+      "why": "McConaughey/Harrelson reunion + Lee Eisenberg on writing + 30-min half-hour comedy on Apple TV+ ticks nearly every signal_what_lands box: witty banter, off-beat humor, ensemble, dry chemistry, prestige comedy. Same broad energy as Loved-list Fleabag's showbiz self-awareness and Slow Horses' comic timing. Two-episode premiere makes it an easy sample; if it lands, follow weekly."
     },
     {
       "title": "Futurama S14 — Ep 9 'A New New York Yankee in King Elfo's Court' (LOVED LIST)",
@@ -442,9 +466,9 @@
       "bench": true
     },
     {
-      "title": "JoJo's Bizarre Adventure: Steel Ball Run — Currently Airing",
+      "title": "JoJo's Bizarre Adventure: Steel Ball Run — STAGE 2 Premiere",
       "platform": "Netflix",
-      "date": "Weekly Fridays (premiered Mar 19, 2026)",
+      "date": "Fri Sep 25, 2026 — STAGE 2 resumes with new episodes weekly on Netflix; STAGE 1 finished summer 2026",
       "format": "anime — weekly",
       "runtime": "~24 min",
       "match": "try",
