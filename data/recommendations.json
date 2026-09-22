@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:05:40Z",
+  "generated_at": "2026-09-22T18:07:09Z",
   "week_label": "Sep 21 – 27, 2026",
   "source": "Derived by the daily scheduled task from taste-profile.json + this-week's platform release calendars, verified against JustWatch, Rotten Tomatoes, and platform PR where possible.",
   "hero": {
@@ -486,6 +486,56 @@
       "about": "The Steel Ball Run arc — transcontinental horse race with supernatural stakes. Weekly on Netflix.",
       "why": "Anime action filter cover — pick up mid-run or start from Ep 1.",
       "bench": true
+    },
+    {
+      "title": "Adults S2 — Full Season Binge Live",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Live since Thu Aug 27, 2026 — all 8 eps out on Hulu",
+      "format": "series — 8 eps binge",
+      "runtime": "~28 min",
+      "match": "try",
+      "genres": [
+        "comedy",
+        "dark-comedy"
+      ],
+      "tags": [
+        "100-percent-RT",
+        "ensemble",
+        "twenty-somethings",
+        "queens-NYC",
+        "30-min",
+        "bedtime-friendly",
+        "critics-pick"
+      ],
+      "about": "FX/Hulu ensemble comedy: five twenty-somethings share Samir's childhood home in Queens (Samir, Billie, Issa, Anton, Paul Baker). Season 2 continues the friend-group chaos — created by Ben Kronengold and Rebecca Shaw.",
+      "why": "100% RT critic score / 98% audience — highest combined score of any 2026 series. Ensemble-cast, half-hour, dark-comedy fits your ‘off-beat + witty banter’ signal; low-commitment binge if Sunny leaves you wanting more.",
+      "bench": true
+    },
+    {
+      "title": "Unabomber",
+      "platform": "Netflix",
+      "date": "Fri Sep 25, 2026 — new film drops globally on Netflix",
+      "format": "movie",
+      "runtime": "~120 min",
+      "match": "try",
+      "genres": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "tags": [
+        "russell-crowe",
+        "shailene-woodley",
+        "jacob-tremblay",
+        "biographical",
+        "manhunt",
+        "netflix-original",
+        "movie-night",
+        "R-rated"
+      ],
+      "about": "R-rated Netflix Original: Jacob Tremblay plays teenage Ted Kaczynski, Russell Crowe plays Harvard psychologist Henry Murray (whose abusive experiments broke him), Shailene Woodley plays a fictional FBI agent using the manifesto to hunt him. Directed by Janus Metz Pedersen (Borg vs. McEnroe).",
+      "why": "Suspense angle fits your ‘Horror/Suspense’ genre — psychological-manhunt shape, prestige cast. Reviews not yet in, so ‘try’ not ‘strong’; drop it fast if the pacing goes slow-burn arty.",
+      "bench": true
     }
   ],
   "critics": [
@@ -549,6 +599,12 @@
     }
   ],
   "upcoming_alerts": [
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba — Infinity Castle NOW STREAMING on Netflix",
+      "platform": "Netflix",
+      "date": "Mon Sep 28, 2026 — global Netflix drop (theatrical/CR release already rated 3.5⭐ Aug 17)",
+      "note": "Loved-list continuation. You already caught this on Crunchyroll; the Netflix release is informational only — the arc-2 sequel remains a 2027 theatrical project."
+    },
     {
       "title": "Futurama S14 — Season Finale 'Final Ending: The Last Conclusion' (LOVED LIST)",
       "platform": "Disney+ (Hulu hub)",
