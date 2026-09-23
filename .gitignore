@@ -21,3 +21,7 @@ __pycache__/
 
 # Claude Code worktrees / local agent state
 .claude/
+
+# Sandbox cleanup markers (device-bash cannot delete these)
+data/.recommendations.pre-pull-*
+data/.recommendations.stale-*

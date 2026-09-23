@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T18:07:09Z",
+  "generated_at": "2026-09-23T19:51:29Z",
   "week_label": "Sep 21 – 27, 2026",
-  "source": "Derived by the daily scheduled task from taste-profile.json + this-week's platform release calendars, verified against JustWatch, Rotten Tomatoes, and platform PR where possible.",
+  "source": "Refreshed by the daily scheduled task on Wed Sep 23, 2026. Loved-list cross-check + watchlist availability check + broad new-release scan per Web-App-Build-Brief.md. Hero unchanged (Slow Horses S6 Ep 2 aired late Tue Sep 22 / early Wed Sep 23 PT); Brothers demoted to 'try' after mixed premiere reviews; added Argentine horror miniseries My Sad Dead.",
   "hero": {
     "title": "Slow Horses S6 — Ep 2 'Daddy Issues'",
     "platform": "Apple TV+",
-    "date": "Wed Sep 23, 2026 — new ep 12am PT / 3am ET; weekly Wednesdays through Oct 21",
+    "date": "Aired Wed Sep 23, 2026 (12am PT / released Tue night ET); Ep 3 Wed Sep 30",
     "format": "series — 6 eps weekly",
     "runtime": "~55 min",
     "match": "strong",
@@ -23,14 +23,14 @@
       "weekly-drop",
       "book-adaptation"
     ],
-    "about": "Ep 2 brings Frank Harkness (Hugo Weaving) back into River Cartwright's orbit as a string of suspicious murders puts Lamb's team on high alert. Season 6 adapts Mick Herron's Joe Country and Slough House (novels 6 & 7).",
-    "why": "Loved-list, still the event of the month. Ep 1 debuted at 100% RT / 8.9 avg from 28 reviews — a new series record. Three of six seasons now hold 100%. Perfect ~55-min bedtime cadence on Wednesdays."
+    "about": "Coordinated killings targeting people connected to Slough House pull Lamb's team deeper into a widening conspiracy involving media personality Damien Cantor and MI5's Diana Taverner. Adapts Mick Herron's Joe Country and Slough House (novels 6 & 7). Ends on a cliffhanger.",
+    "why": "Loved-list, still the event of the season. Ep 1 debuted at 100% RT / 8.9 avg (28 reviews) — a series record; three of six seasons now hold 100%. Ep 2's first critical read (Vulture, 4/5) calls the season 'cumulatively darker and more consequential.' Perfect ~55-min bedtime cadence on Wednesdays."
   },
   "new_this_week": [
     {
       "title": "Slow Horses S6 — Ep 2 'Daddy Issues'",
       "platform": "Apple TV+",
-      "date": "Wed Sep 23, 2026 — new ep; Ep 3 Wed Sep 30",
+      "date": "Aired Wed Sep 23, 2026; weekly through Oct 21 (Ep 3 Wed Sep 30)",
       "format": "series — 6 eps weekly",
       "runtime": "~55 min",
       "match": "strong",
@@ -58,7 +58,7 @@
       "date": "Wed Sep 23, 2026 — 2-episode premiere; weekly Wednesdays through Nov 4 (8 eps total)",
       "format": "series",
       "runtime": "~30 min/ep · 8 eps",
-      "match": "strong",
+      "match": "try",
       "genres": [
         "Comedy",
         "Mystery"
@@ -74,7 +74,7 @@
         "Apple TV+ prestige comedy"
       ],
       "about": "McConaughey and Harrelson play fictionalized versions of themselves. After Woody's daughter's engagement collapses, he decamps to Matthew's Austin ranch to heal — until Matthew's mother (Holland Taylor) accidentally lets slip a long-buried secret that the two lifelong friends might actually be brothers. From Little America showrunner Lee Eisenberg.",
-      "why": "McConaughey/Harrelson reunion + Lee Eisenberg on writing + 30-min half-hour comedy on Apple TV+ ticks nearly every signal_what_lands box: witty banter, off-beat humor, ensemble, dry chemistry, prestige comedy. Same broad energy as Loved-list Fleabag's showbiz self-awareness and Slow Horses' comic timing. Two-episode premiere makes it an easy sample; if it lands, follow weekly."
+      "why": "McConaughey/Harrelson reunion + Lee Eisenberg (Little America) + 30-min half-hour comedy on Apple TV+ still hit several 'what lands' signals: witty banter, ensemble chemistry, prestige framing. Critical read after the 2-ep premiere is mixed-to-cool, though — Hollywood Reporter, Variety, AV Club and Slant all call the writing 'half-baked' and say the chemistry is doing most of the work. Worth sampling the 2-ep drop; skip weekly if it doesn't click by Ep 2."
     },
     {
       "title": "Futurama S14 — Ep 9 'A New New York Yankee in King Elfo's Court' (LOVED LIST)",
@@ -535,6 +535,29 @@
       ],
       "about": "R-rated Netflix Original: Jacob Tremblay plays teenage Ted Kaczynski, Russell Crowe plays Harvard psychologist Henry Murray (whose abusive experiments broke him), Shailene Woodley plays a fictional FBI agent using the manifesto to hunt him. Directed by Janus Metz Pedersen (Borg vs. McEnroe).",
       "why": "Suspense angle fits your ‘Horror/Suspense’ genre — psychological-manhunt shape, prestige cast. Reviews not yet in, so ‘try’ not ‘strong’; drop it fast if the pacing goes slow-burn arty.",
+      "bench": true
+    },
+    {
+      "title": "My Sad Dead — Miniseries",
+      "platform": "Netflix",
+      "date": "Thu Sep 24, 2026 — full miniseries drop",
+      "format": "miniseries",
+      "runtime": "limited series",
+      "match": "try",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Argentine"
+      ],
+      "tags": [
+        "argentine-horror",
+        "supernatural",
+        "grief",
+        "limited-series",
+        "subtitled"
+      ],
+      "about": "Argentine supernatural horror miniseries. Limited info available beyond the Netflix Sep 24 US drop — the show follows a mourner tormented by the dead who won't stay buried. Subtitled from Spanish.",
+      "why": "Fits your horror/suspense chip. Netflix has quietly become a home for strong LatAm horror — worth a sample given the short miniseries commitment. Bench: not enough critical read yet to promote higher.",
       "bench": true
     }
   ],
