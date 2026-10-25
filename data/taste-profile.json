@@ -1,5 +1,4 @@
 {
-  "synced_at": "2026-04-28T19:54:25Z",
   "source": "Parsed from vault Overview.md (🎯 Projects/🎬 TV and Movie Concierge/Overview.md). Re-synced by the daily scheduled task.",
   "top_genres": [
     "Sci-Fi",
@@ -13,6 +12,7 @@
   "loved": [
     "Foundation",
     "Severance",
+    "Silo",
     "Rick and Morty",
     "Solar Opposites",
     "Futurama",
@@ -70,5 +70,6 @@
     "2": "Meh — mostly a miss",
     "1": "Abandoned — gave up or wish I had"
   },
-  "platform_notes": "Disney+ includes the full Hulu library as an in-app hub (2026 merger; standalone Hulu app phasing out). Added Aug 5, 2026."
+  "platform_notes": "Disney+ includes the full Hulu library as an in-app hub (2026 merger; standalone Hulu app phasing out). Added Aug 5, 2026.",
+  "synced_at": "2026-10-25T02:23:59Z"
 }

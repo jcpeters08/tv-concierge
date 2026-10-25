@@ -601,6 +601,20 @@
         "tonight"
       ],
       "date": "2026-08-17"
+    },
+    {
+      "title": "Silo S1–S3 (all seasons to date)",
+      "rating": 5,
+      "tags": "Loved list, watched it all, sci-fi, world-building, based on books, great acting",
+      "tags_array": [
+        "Loved list",
+        "watched it all",
+        "sci-fi",
+        "world-building",
+        "based on books",
+        "great acting"
+      ],
+      "date": "2026-10-24"
     }
   ],
   "known_favorites": [
@@ -622,5 +636,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-08-18T02:09:23Z"
+  "synced_at": "2026-10-25T02:23:59Z"
 }
