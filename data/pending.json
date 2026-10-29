@@ -1,4 +1,13 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": []
+  "entries": [
+    {
+      "kind": "watched",
+      "title": "Small Prophets S1 — Ep 5 'Who's Gonna Make Me Laugh?' (Wed Oct 28)",
+      "rating": 3,
+      "tags": "dry-british-humor, supernatural, mackenzie-crook, michael-palin, 30-min, weekly-drop, critics-pick",
+      "date": "2026-10-29",
+      "ts": "2026-10-29T01:52:31.901Z"
+    }
+  ]
 }
