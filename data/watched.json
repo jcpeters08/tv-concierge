@@ -615,6 +615,52 @@
         "great acting"
       ],
       "date": "2026-10-24"
+    },
+    {
+      "title": "Small Prophets S1 — Ep 5 'Who's Gonna Make Me Laugh?' (Wed Oct 28)",
+      "rating": 3,
+      "tags": "dry-british-humor, supernatural, mackenzie-crook, michael-palin, 30-min, weekly-drop, critics-pick",
+      "tags_array": [
+        "dry-british-humor",
+        "supernatural",
+        "mackenzie-crook",
+        "michael-palin",
+        "30-min",
+        "weekly-drop",
+        "critics-pick"
+      ],
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Helluva Boss S3 — Eps 6 & 7, Part 1 Finale (Wed Oct 28)",
+      "rating": 4.5,
+      "tags": "adult-animation, supernatural, demons, dark-humor, lgbtq, musical, weekly-drop, 30-min",
+      "tags_array": [
+        "adult-animation",
+        "supernatural",
+        "demons",
+        "dark-humor",
+        "lgbtq",
+        "musical",
+        "weekly-drop",
+        "30-min"
+      ],
+      "date": "2026-11-14"
+    },
+    {
+      "title": "Haunted Hotel S2 — Full Season Live",
+      "rating": 4,
+      "tags": "adult-animation, supernatural, ghosts, dark-humor, halloween-week, 30-min, binge-ready",
+      "tags_array": [
+        "adult-animation",
+        "supernatural",
+        "ghosts",
+        "dark-humor",
+        "halloween-week",
+        "30-min",
+        "binge-ready"
+      ],
+      "date": "2026-11-14"
     }
   ],
   "known_favorites": [
@@ -636,5 +682,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-10-25T02:23:59Z"
+  "synced_at": "2026-11-16T02:43:03Z"
 }
