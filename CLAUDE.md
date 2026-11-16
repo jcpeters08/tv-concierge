@@ -64,6 +64,11 @@ If a recommendation can't be verified to this standard, omit it or move it to `u
 
 - **Build brief**: `~/Documents/Jonathan's Vault/🎯 Projects/🎬 TV and Movie Concierge/Web-App-Build-Brief.md`
 - **Scheduled task**: `~/.claude/scheduled-tasks/tv-concierge-daily-sync/SKILL.md` — **DISABLED by Jon Aug 5, 2026** (Cowork's sandboxed git kept stranding locks). Drains + rec refreshes now run on demand from interactive Claude Code sessions: `python3 scripts/sync.py` works directly here (no bridge needed outside Cowork). The SKILL.md remains the canonical procedure/protocol reference. Consequence: pending.json accumulates until someone runs a drain — check it at session start.
+- **Verification scripts (added Nov 15, 2026)** — pure stdlib, run from the repo root. Use these for the refresh instead of one web fetch or agent per title; keep agents for what needs reading (reviews, forward-date sourcing, loved-list news).
+  - `scripts/jw.py` — JustWatch US via its GraphQL endpoint. `title "<name>"` / `check titles.json` verify subscription offers on the five platforms, real leaving dates (`LEAVES`, taken from the subscription offer itself), and per-episode availability; `new <start> <end>` and `upcoming` list arrivals and coming-soon titles per platform for discovery. Run `--help`; the module docstring lists the known gaps (UTC dates run a day late; Crunchyroll simulcasts can show only under "Crunchyroll Amazon Channel").
+  - `scripts/tvmaze.py "<show>" --season N` — episode titles and air dates, the second source for weekly trackers.
+  - `scripts/rt.py tv/<slug>/s02 m/<slug>` — current Tomatometer, review count and audience score.
+  - A refresh that rebuilds `recommendations.json` from the previous one must read the old file with `git show HEAD:data/recommendations.json`, not the working tree, or a second run reads its own output.
 - **Cowork Git bridge**: `scripts/cowork_git_bridge.py` prepares a disposable clone under `/tmp` for scheduled-task Git operations. Do not run `git pull/add/commit/push` from the Cowork-mounted repo; the sandbox mount can strand `.git/*.lock` files.
 - **Vault path**: `~/Documents/Jonathan's Vault/🎯 Projects/🎬 TV and Movie Concierge/`
 - **Auth Worker** (if deployed): Cloudflare Worker pattern — see pt-tracker's `worker/` for reference
