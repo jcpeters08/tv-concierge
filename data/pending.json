@@ -1,4 +1,13 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": []
+  "entries": [
+    {
+      "kind": "watched",
+      "title": "Bridesmaids — Now on Netflix",
+      "rating": 4,
+      "tags": "paul-feig, melissa-mccarthy, kristen-wiig, ensemble, movie-night, catalog",
+      "date": "2026-11-19",
+      "ts": "2026-11-19T01:47:26.717Z"
+    }
+  ]
 }
