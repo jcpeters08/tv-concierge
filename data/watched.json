@@ -661,6 +661,32 @@
         "binge-ready"
       ],
       "date": "2026-11-14"
+    },
+    {
+      "title": "Bridesmaids — Now on Netflix",
+      "rating": 4,
+      "tags": "paul-feig, melissa-mccarthy, kristen-wiig, ensemble, movie-night, catalog",
+      "tags_array": [
+        "paul-feig",
+        "melissa-mccarthy",
+        "kristen-wiig",
+        "ensemble",
+        "movie-night",
+        "catalog"
+      ],
+      "date": "2026-11-19"
+    },
+    {
+      "title": "Pluribus S1",
+      "rating": 5,
+      "tags": "vince-gilligan, rhea-seehorn, high-concept, sci-fi-dark-humor",
+      "tags_array": [
+        "vince-gilligan",
+        "rhea-seehorn",
+        "high-concept",
+        "sci-fi-dark-humor"
+      ],
+      "date": "2026-11-22"
     }
   ],
   "known_favorites": [
@@ -682,5 +708,5 @@
     "Fast X",
     "Die Hard"
   ],
-  "synced_at": "2026-11-16T02:43:03Z"
+  "synced_at": "2026-11-22T23:07:59Z"
 }
