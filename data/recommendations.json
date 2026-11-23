@@ -1,34 +1,78 @@
 {
-  "generated_at": "2026-11-18T18:05:02Z",
-  "week_label": "Nov 16 – 22, 2026",
-  "source": "Refreshed by daily sync task on Nov 18, 2026. Hero promoted to Slow Horses S6 under Tier-1 priority (Loved-list continuation within 4-week window).",
+  "generated_at": "2026-11-23T00:24:28Z",
+  "week_label": "Nov 23 – 29, 2026",
+  "source": "Weekly refresh on Sun Nov 22, 2026 (interactive Claude Code session). Every streaming claim checked against JustWatch the same day, episode dates cross-checked with TVmaze, scores from Rotten Tomatoes; forward drops sourced from Amazon/TVLine where noted. scripts/check_recs.py --online run before commit. Hero: Obsession, the best-reviewed new arrival on your platforms.",
   "hero": {
-    "title": "Slow Horses S6 — Complete Season, Binge-Ready (finale aired Wed Oct 21)",
-    "platform": "Apple TV+",
-    "date": "All 6 eps live — finale Ep 6 'Judgement Day' dropped Wed Oct 21, 2026; S6 ran weekly Wednesdays Sep 16 – Oct 21",
-    "format": "series — 6 eps, complete",
-    "runtime": "6 × ~50 min",
+    "title": "Obsession — New on Netflix",
+    "platform": "Netflix",
+    "date": "On Netflix since Tue Nov 17, 2026 (JustWatch)",
+    "format": "movie",
+    "runtime": "~1h 49m",
     "match": "strong",
     "genres": [
-      "thriller",
-      "spy",
-      "drama",
-      "comedy",
-      "mystery",
-      "crime"
+      "horror",
+      "fantasy",
+      "thriller"
     ],
     "tags": [
-      "loved-list",
-      "dry-british-humor",
-      "gary-oldman",
-      "binge-ready",
-      "book-adaptation",
-      "season-complete"
+      "curry-barker",
+      "michael-johnston",
+      "inde-navarrette",
+      "wish-gone-wrong",
+      "certified-fresh",
+      "new-to-streaming"
     ],
-    "about": "Season 6 adapts Mick Herron's Joe Country and Slough House: Diana Taverner drags the Slow Horses into a cycle of payback that puts the whole team on the run, with Lamb forced into an uneasy alliance while mercenaries close in. The six-episode run finished Oct 21; Season 7 (adapting Bad Actors) and Season 8 (Clown Town) are both already confirmed.",
-    "why": "Loved list — you rated the series 4★ — and you haven't logged Season 6 yet. The whole season is complete, so it's a two- or three-night binge rather than a weekly wait. 98% on Rotten Tomatoes (42 reviews), Metascore 85. Critics' fair warning: the finale is the bleakest, most violent episode the show has made, and it ends on a cliffhanger. Tier-1 pick (Loved-list continuation inside the 4-week window)."
+    "about": "A hopeless romantic breaks the mysterious 'One Wish Willow' to win his crush's heart, gets exactly what he asked for, and then learns what it costs. Michael Johnston and Inde Navarrette star; Curry Barker directs.",
+    "why": "Horror/suspense and fantasy are two of your top four genres, and this is the best-reviewed new arrival on your platforms this week: 93% on Rotten Tomatoes across 331 reviews (Certified Fresh) and 94% from audiences. One tight 109-minute sitting, so it fits the before-bed window."
   },
   "new_this_week": [
+    {
+      "title": "Obsession — New on Netflix",
+      "platform": "Netflix",
+      "date": "On Netflix since Tue Nov 17, 2026 (JustWatch)",
+      "format": "movie",
+      "runtime": "~1h 49m",
+      "match": "strong",
+      "genres": [
+        "horror",
+        "fantasy",
+        "thriller"
+      ],
+      "tags": [
+        "curry-barker",
+        "michael-johnston",
+        "inde-navarrette",
+        "wish-gone-wrong",
+        "certified-fresh",
+        "new-to-streaming"
+      ],
+      "about": "A hopeless romantic breaks the mysterious 'One Wish Willow' to win his crush's heart, gets exactly what he asked for, and then learns what it costs. Michael Johnston and Inde Navarrette star; Curry Barker directs.",
+      "why": "Horror/suspense and fantasy are two of your top four genres, and this is the best-reviewed new arrival on your platforms this week: 93% on Rotten Tomatoes across 331 reviews (Certified Fresh) and 94% from audiences. One tight 109-minute sitting, so it fits the before-bed window."
+    },
+    {
+      "title": "Blade Runner 2099 — All 8 Eps Drop Wed Nov 25",
+      "platform": "Amazon Prime Video",
+      "date": "All 8 eps drop Wed Nov 25, 2026 (Amazon's announcement + TVLine; JustWatch and TVmaze list the same date)",
+      "format": "series — limited, 8 eps",
+      "runtime": "8 eps — per-episode runtime not listed yet",
+      "match": "strong",
+      "genres": [
+        "sci-fi",
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "tags": [
+        "blade-runner",
+        "michelle-yeoh",
+        "hunter-schafer",
+        "limited-series",
+        "binge-drop",
+        "world-building"
+      ],
+      "about": "Set fifty years after Blade Runner 2049. Hunter Schafer and Michelle Yeoh lead; Jonathan van Tulleken directs.",
+      "why": "Sci-fi is your #1 genre and world-building is a top signal, and the whole season lands at once — a Thanksgiving-weekend binge. Reviews aren't out yet, so this is a strong genre fit, not a critic-validated pick."
+    },
     {
       "title": "Slow Horses S6 — Complete Season, Binge-Ready (finale aired Wed Oct 21)",
       "platform": "Apple TV+",
@@ -53,7 +97,146 @@
         "season-complete"
       ],
       "about": "Season 6 adapts Mick Herron's Joe Country and Slough House: Diana Taverner drags the Slow Horses into a cycle of payback that puts the whole team on the run, with Lamb forced into an uneasy alliance while mercenaries close in. The six-episode run finished Oct 21; Season 7 (adapting Bad Actors) and Season 8 (Clown Town) are both already confirmed.",
-      "why": "Loved list — you rated the series 4★ — and you haven't logged Season 6 yet. The whole season is complete, so it's a two- or three-night binge rather than a weekly wait. 98% on Rotten Tomatoes (42 reviews), Metascore 85. Critics' fair warning: the finale is the bleakest, most violent episode the show has made, and it ends on a cliffhanger. Tier-1 pick (Loved-list continuation inside the 4-week window)."
+      "why": "Loved list — you rated the series 4★ — and you haven't logged Season 6 yet. The whole season is out, so it's a two- or three-night binge. 98% on Rotten Tomatoes (42 reviews, Certified Fresh). Fair warning: the finale is the bleakest, most violent episode the show has made, and it ends on a cliffhanger."
+    },
+    {
+      "title": "The Rings of Power S3 — Finale, Eps 7–8 (Wed Nov 25)",
+      "platform": "Amazon Prime Video",
+      "date": "Eps 1–4 dropped Wed Nov 11, 2026 and Eps 5–6 Wed Nov 18; the two-episode finale (Eps 7–8) drops Wed Nov 25 (TVmaze + JustWatch)",
+      "format": "series — 8 eps, finale this week",
+      "runtime": "8 × ~65 min",
+      "match": "try",
+      "genres": [
+        "fantasy",
+        "action",
+        "drama",
+        "adventure"
+      ],
+      "tags": [
+        "tolkien",
+        "weekly-drop",
+        "world-building",
+        "epic-scale",
+        "fantasy",
+        "big-budget"
+      ],
+      "about": "The Second Age barrels toward the forging of the One Ring. Sauron tightens his grip, Númenor fractures, and the dwarves wake something ancient under Khazad-dûm. Charlie Vickers, Morfydd Clark, Sophia Nomvete, and Charles Edwards return; this season leans harder into war, politics, and the Rings themselves.",
+      "why": "Six episodes are out, so you can catch up before the finale. Season 3 is the best-reviewed of the three — 86% on Rotten Tomatoes (73 reviews, Certified Fresh), though audiences are cooler at 63%. World-building and book lore are strong signals for you; the pacing complaints are real. Match stays 'try'."
+    },
+    {
+      "title": "Nocturne — Ep 6 'Only Connect' (Fri Nov 27)",
+      "platform": "Apple TV+",
+      "date": "Weekly Fridays since Fri Oct 30, 2026 (Eps 1–2 premiered together); Ep 5 'Solitude' dropped Fri Nov 20. Ep 6 Fri Nov 27 per JustWatch and episode guides (TVmaze lists Wed Nov 25). Finale (Ep 10) Fri Dec 25",
+      "format": "series — 10 eps, weekly",
+      "runtime": "10 × ~55 min",
+      "match": "strong",
+      "genres": [
+        "thriller",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "tags": [
+        "liev-schreiber",
+        "stephen-graham",
+        "zazie-beetz",
+        "serial-killer",
+        "weekly-drop",
+        "ensemble-cast"
+      ],
+      "about": "Ex-military detective (Liev Schreiber) hunts a methodical serial killer (Stephen Graham) across the Pacific Northwest. Zazie Beetz co-stars as his partner. Created by Jonathan Tropper.",
+      "why": "Taut genre thriller with an ensemble you already like (Schreiber, Graham, Beetz) — 84% on Rotten Tomatoes (43 reviews, Certified Fresh). Five episodes are out, so it's an easy catch-up over the long weekend. Not a Loved-list hit, so Tier-4."
+    },
+    {
+      "title": "Phony — Ep 7 'What Comes Up?' (Tue Nov 24)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Weekly Tuesdays on Hulu since Tue Oct 20, 2026; Eps 1–6 out, Ep 7 Tue Nov 24, finale (Ep 8) Tue Dec 1 (TVmaze + JustWatch)",
+      "format": "series — 8 eps, weekly",
+      "runtime": "8 × ~28 min",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "thriller",
+        "mystery",
+        "drama"
+      ],
+      "tags": [
+        "connie-britton",
+        "sam-nivola",
+        "30-min",
+        "impostor-mystery",
+        "weekly-drop"
+      ],
+      "about": "After waking up from a freak car accident, Sonny (Sam Nivola) becomes convinced his mother (Connie Britton) has been replaced by an impostor.",
+      "why": "Half-hour episodes, a darkly comic paranoia hook, and 94% on Rotten Tomatoes (16 reviews). Six episodes are out, so two evenings catch you up before the last two drop live."
+    },
+    {
+      "title": "Rivals S2 — Ep 11 (Wed Nov 25)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Weekly Wednesdays; 10 of 12 eps out, Ep 11 Wed Nov 25, finale (Ep 12) Wed Dec 2 (TVmaze + JustWatch). Season 1 is also on Hulu",
+      "format": "series — 12 eps, weekly",
+      "runtime": "12 × ~55 min",
+      "match": "try",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "tags": [
+        "david-tennant",
+        "aidan-turner",
+        "jilly-cooper",
+        "book-adaptation",
+        "1980s",
+        "ensemble"
+      ],
+      "about": "1986 Britain, inside the cutthroat world of regional TV, where deals get made in boardrooms and bedrooms. David Tennant and Aidan Turner lead; adapted from Jilly Cooper's novel.",
+      "why": "Book adaptation with a big, game ensemble and a satirical streak — 95% on Rotten Tomatoes for Season 2 (37 reviews, Certified Fresh). Racy and soapy by design, which is why it's 'try'. If Season 1 is new to you, start there."
+    },
+    {
+      "title": "The Lowdown S2 — Finale, Ep 8 'The Tower' (Wed Nov 25)",
+      "platform": "Disney+ (Hulu hub)",
+      "date": "Season finale airs Wed Nov 25, 2026 on FX and streams on Hulu Thu Nov 26 (TVmaze + JustWatch); Ep 7 'Hot Weeners!' is out now",
+      "format": "series — 8 eps, finale this week",
+      "runtime": "8 × ~50 min",
+      "match": "try",
+      "genres": [
+        "drama",
+        "mystery",
+        "crime"
+      ],
+      "tags": [
+        "ethan-hawke",
+        "sterlin-harjo",
+        "tulsa",
+        "weekly-drop",
+        "noir-tinged"
+      ],
+      "about": "Sterlin Harjo's (Reservation Dogs) follow-up: Ethan Hawke plays a rumpled Tulsa 'truthstorian' who keeps pulling at threads that powerful people would prefer stay tied.",
+      "why": "Quiet, character-driven mystery that your 'great acting' and 'light(ish) tone with substance underneath' signals favor — 100% on Rotten Tomatoes for Season 2 (16 reviews). Seven episodes are out; the finale lands Thanksgiving. Tier-4."
+    },
+    {
+      "title": "They Will Kill You — New on Prime",
+      "platform": "Amazon Prime Video",
+      "date": "On Prime Video since Fri Nov 20, 2026; the Prime offer runs through Feb 12, 2027 (JustWatch)",
+      "format": "movie",
+      "runtime": "~1h 34m",
+      "match": "try",
+      "genres": [
+        "horror",
+        "comedy",
+        "action",
+        "thriller"
+      ],
+      "tags": [
+        "zazie-beetz",
+        "patricia-arquette",
+        "horror-comedy",
+        "cult",
+        "kirill-sokolov"
+      ],
+      "about": "A woman answers an ad for a housekeeper in a mysterious New York high-rise, unaware that people keep disappearing there and that the building may be in the grip of a Satanic cult. Zazie Beetz and Patricia Arquette star.",
+      "why": "Horror plus comedy hits two of your top genres at once. Critics were mixed — 66% on Rotten Tomatoes (180 reviews) — but audiences liked it more (76%). A go-for-the-ride Friday-night movie, not a prestige pick."
     },
     {
       "title": "Black Doves S2 — Full Season Live (6 eps)",
@@ -80,38 +263,14 @@
         "critics-pick"
       ],
       "about": "Joe Barton's London spy thriller returns. Helen Webb (Keira Knightley) is a politician's wife who has spent a decade passing her husband's secrets to the Black Doves, a spies-for-hire outfit; Sam (Ben Whishaw) is the champagne-dry triggerman who keeps her alive. In Season 2 their handler Reed (Sarah Lancashire) has to fight off a plot against her own position inside the organisation. Sam Riley, Neve Campbell and Ambika Mod join the cast.",
-      "why": "The closest thing on your platforms to Slow Horses: a violent, very funny British spy thriller that runs on banter, with Whishaw's weary gay hitman as its heart. 96% on Rotten Tomatoes (26 reviews), Metascore 83. You haven't logged Season 1, which is also six episodes on Netflix and set at Christmas — so start there. Twelve episodes in all."
+      "why": "The closest thing on your platforms to Slow Horses: a violent, very funny British spy thriller that runs on banter, with Whishaw's weary gay hitman as its heart. 97% on Rotten Tomatoes for Season 2 (32 reviews, Certified Fresh). You haven't logged Season 1, which is also six episodes on Netflix and set at Christmas — so start there."
     },
     {
-      "title": "Nocturne — Weekly on Apple TV+ (Ep 5 of 10 out Fri Nov 20)",
-      "platform": "Apple TV+",
-      "date": "Premiered Fri Oct 30, 2026 with Eps 1–2; weekly after that. Ep 5 'Solitude' drops Fri Nov 20. Ep 6: TVmaze says Wed Nov 25, JustWatch says Fri Nov 27. Finale (Ep 10) Fri Dec 25",
-      "format": "series — 10 eps, weekly",
-      "runtime": "10 × ~55 min",
-      "match": "strong",
-      "genres": [
-        "thriller",
-        "crime",
-        "drama",
-        "mystery"
-      ],
-      "tags": [
-        "liev-schreiber",
-        "stephen-graham",
-        "zazie-beetz",
-        "serial-killer",
-        "weekly-drop",
-        "ensemble-cast"
-      ],
-      "about": "Ex-military detective (Liev Schreiber) hunts a methodical serial killer (Stephen Graham) across the Pacific Northwest. Zazie Beetz co-stars as his partner. Created by Jonathan Tropper.",
-      "why": "Taut genre thriller with an ensemble you already like (Schreiber, Graham, Beetz). You haven't logged any of it yet, and five episodes are out, so it's an easy weekend catch-up. Reviews lean positive; not a Loved-list hit, so Tier-4."
-    },
-    {
-      "title": "Cunk on Cinema — New on Netflix (3 eps)",
+      "title": "Cunk on Cinema — New on Netflix (6 short eps)",
       "platform": "Netflix",
-      "date": "On Netflix since Sun Nov 15, 2026 — JustWatch lists three ~29-minute episodes",
-      "format": "series — mockumentary, 3 eps, complete",
-      "runtime": "3 × ~29 min",
+      "date": "On Netflix since Mon Nov 16, 2026 — JustWatch lists six ~14-minute episodes",
+      "format": "series — mockumentary, 6 eps, complete",
+      "runtime": "6 × ~15 min",
       "match": "strong",
       "genres": [
         "comedy"
@@ -124,143 +283,123 @@
         "binge-ready"
       ],
       "about": "Philomena Cunk (Diane Morgan) returns to interview real film experts with aggressively confident nonsense questions about the history of cinema, from the Lumières to the Marvel era.",
-      "why": "Dry British humor is a top signal on your taste profile and these three 29-minute episodes are a perfect bedtime binge. Same house as Charlie Brooker (Black Mirror) and Annie Griffin. Tier-4."
+      "why": "Dry British humor is a top signal on your taste profile, and the whole thing runs about 90 minutes — one bedtime binge. 86% on Rotten Tomatoes (14 reviews)."
     },
     {
-      "title": "The Rings of Power S3 — Now 2 Eps Deep (weekly through Nov 25 finale)",
-      "platform": "Amazon Prime Video",
-      "date": "Premiered Wed Nov 11, 2026; weekly Wednesdays; Ep 3 drops Wed Nov 18, finale (Eps 7–8) Wed Nov 25",
-      "format": "series — 8 eps, weekly then double finale",
-      "runtime": "8 × ~65 min",
+      "title": "Guarding Stars — New on Netflix",
+      "platform": "Netflix",
+      "date": "On Netflix since Thu Nov 19, 2026 (JustWatch)",
+      "format": "movie",
+      "runtime": "~1h 50m",
       "match": "try",
       "genres": [
-        "fantasy",
-        "action",
-        "drama",
-        "adventure"
+        "comedy",
+        "romance",
+        "drama"
       ],
       "tags": [
-        "tolkien",
-        "weekly-drop",
-        "world-building",
-        "epic-scale",
-        "fantasy",
-        "big-budget"
+        "leighton-meester",
+        "jared-padalecki",
+        "andie-macdowell",
+        "rom-com",
+        "fake-dating"
       ],
-      "about": "The Second Age barrels toward the forging of the One Ring. Sauron tightens his grip, Númenor fractures, and the dwarves wake something ancient under Khazad-dûm. Charlie Vickers, Morfydd Clark, Sophia Nomvete, and Charles Edwards return; this season leans harder into war, politics, and the Rings themselves.",
-      "why": "Reviews are split — ~65% on Rotten Tomatoes — but critics agree S3 is the darkest and most focused of the three. World-building and book-adjacent lore are strong signals for you; the pacing complaints are real. Weekly, not binge. Match set to 'try' not 'strong'."
+      "about": "A bodyguard assigned to protect a reclusive movie star from a stalker has to pose as his girlfriend on his family's ranch, and the job gets complicated. Leighton Meester and Jared Padalecki star.",
+      "why": "This week's easy comedy movie: 92% on Rotten Tomatoes (13 reviews), though audiences are cooler at 72%. Low effort, low stakes."
     },
     {
-      "title": "Madden — New Movie on Prime (included with Prime)",
-      "platform": "Amazon Prime Video",
-      "date": "Dropped today, Wed Nov 18, 2026 (Amazon newsroom + Variety)",
-      "format": "film",
-      "runtime": "~2h 10m",
+      "title": "Alien (1979) — Last Chance on Netflix (leaves Mon Nov 30)",
+      "platform": "Netflix",
+      "date": "On Netflix through Mon Nov 30, 2026 — the Netflix subscription offer itself ends that day (JustWatch, re-checked Nov 22). Aliens (1986) stays on Hulu",
+      "format": "movie",
+      "runtime": "~1h 57m",
       "match": "try",
       "genres": [
-        "drama",
-        "biography",
-        "comedy"
+        "sci-fi",
+        "horror",
+        "thriller"
       ],
       "tags": [
-        "nicolas-cage",
-        "christian-bale",
-        "john-mulaney",
-        "kathryn-hahn",
-        "david-o-russell",
-        "sports"
+        "classic",
+        "sci-fi-horror",
+        "atmospheric",
+        "last-chance",
+        "catalog"
       ],
-      "about": "David O. Russell's John Madden biopic. Nicolas Cage as Madden, Christian Bale as Al Davis, with John Mulaney and Kathryn Hahn. Included with Prime after a short awards-qualifying theatrical run.",
-      "why": "You don't usually love sports films, but the cast reads like a Russell-signature ensemble and Mulaney is a wild-card bet on your 'witty-banter' signal. Reviews embargoed as of filing — flag, not a push. Tier-4."
+      "about": "Ridley Scott's original sci-fi horror aboard the Nostromo.",
+      "why": "Two top genres at once; 93% RT, Metascore 89. Slow-burn first act, so pick a night you want dread — and make it this month, because it leaves Netflix on Nov 30."
     },
     {
-      "title": "Vienna Game — Limited Series (6 eps)",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "All 6 eps dropped today, Wed Nov 18, 2026 (JustWatch + TheWrap's Hulu list)",
-      "format": "series — 6 eps, complete",
-      "runtime": "6 × ~50 min",
-      "match": "try",
-      "genres": [
-        "drama",
-        "period",
-        "political",
-        "satire"
-      ],
-      "tags": [
-        "german-language",
-        "subtitled",
-        "period",
-        "political-intrigue",
-        "limited-series"
-      ],
-      "about": "German-language period satire set at the 1814 Congress of Vienna: a noblewoman tries to steer the peace talks while carrying on with a Bonapartist spy.",
-      "why": "You're open to subs, and 'witty banter' + 'ensemble cast' + political intrigue is a potential fit. No English reviews yet. Tier-4 wild-card."
-    },
-    {
-      "title": "The Lowdown — New Ep This Week (Ep 7 'The Pit', finale next week)",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Weekly Wednesdays; Ep 7 drops Wed Nov 18, finale Wed Nov 25",
-      "format": "series — 8 eps, weekly",
-      "runtime": "8 × ~50 min",
-      "match": "try",
-      "genres": [
-        "drama",
-        "mystery",
-        "crime"
-      ],
-      "tags": [
-        "ethan-hawke",
-        "sterlin-harjo",
-        "tulsa",
-        "weekly-drop",
-        "noir-tinged"
-      ],
-      "about": "Sterlin Harjo's (Reservation Dogs) follow-up: Ethan Hawke plays a rumpled Tulsa 'truthstorian' who keeps pulling at threads that powerful people would prefer stay tied.",
-      "why": "Flavor of quiet, character-driven mystery that your 'great acting' and 'light(ish) tone with substance underneath' signals favor. Tier-4; weekly — one ep to catch up, one still coming."
-    },
-    {
-      "title": "Percy Jackson and the Olympians S3 — Premiere Week",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Season premiere Fri Nov 20, 2026 (Disney+ press + TVLine); batch vs weekly not confirmed",
-      "format": "series — 8 eps planned",
-      "runtime": "8 × ~45 min",
-      "match": "skip",
-      "genres": [
-        "fantasy",
-        "adventure",
-        "family"
-      ],
-      "tags": [
-        "ya",
-        "mythology",
-        "family-skewing"
-      ],
-      "about": "The third season of the Disney+ adaptation of Rick Riordan's Titan's Curse book — Percy and friends chase the lost goddess Artemis.",
-      "why": "'Mythology themes' is a plus, but this skews explicitly YA/family — closer to the 'juvenile / kiddy humor' miss signal. Flag, don't push."
-    },
-    {
-      "title": "Death Stranding: Mosquito — Anime Short Series",
+      "title": "The Apothecary Diaries S3 — Ep 9 (Fri Nov 27)",
       "platform": "Crunchyroll",
-      "date": "On Crunchyroll since early November 2026 — limited run",
-      "format": "anime limited series",
-      "runtime": "short-form",
+      "date": "Fri Nov 27, 2026 — weekly Fridays on Crunchyroll since Oct 2; 8 eps out (Ep 8 'Hemp and Folk Religion' aired Fri Nov 20); Part 1 ends with Ep 12 on Fri Dec 18 (TVmaze)",
+      "format": "anime — weekly",
+      "runtime": "~24 min per ep",
       "match": "try",
       "genres": [
         "anime",
-        "sci-fi",
-        "action"
+        "mystery",
+        "drama",
+        "historical",
+        "animation"
       ],
       "tags": [
-        "kojima-adjacent",
-        "sci-fi",
-        "limited-series",
-        "short-form"
+        "simulcast",
+        "weekly-drop",
+        "court-intrigue",
+        "novel-adaptation",
+        "sub-and-dub",
+        "catalog"
       ],
-      "about": "Short anime spin-off from the Death Stranding universe, a lone courier navigates a bleak post-apocalypse. Standalone from the games.",
-      "why": "Sci-fi + world-building, short-form so low commitment. Reviews are thin. Tier-4."
+      "about": "Maomao, a sharp-tongued apothecary's daughter kidnapped into service in the imperial rear palace, solves poisonings and court intrigues with pharmacology and deadpan logic. Season 3 picks up after the Shi clan arc.",
+      "why": "Mystery-of-the-week structure with a dry, sarcastic lead and 24-minute episodes; IMDb 8.6 and the most popular show of the fall season in CBR's mid-term poll. You haven't logged S1–S2 (48 eps, also on Crunchyroll), so this is a catch-up proposition rather than a tracker."
+    },
+    {
+      "title": "Steel Ball Run: JoJo's Bizarre Adventure — Ep 10, Season Finale (Fri Nov 27)",
+      "platform": "Netflix",
+      "date": "Fri Nov 27, 2026 on Netflix — the 10th and last episode JustWatch and TVmaze both list for this season (last week's listing said 12 eps ending Dec 4; the two sources now agree on 10)",
+      "format": "anime — weekly, finale this week",
+      "runtime": "~23 min per ep",
+      "match": "try",
+      "genres": [
+        "anime",
+        "action",
+        "adventure",
+        "fantasy",
+        "comedy",
+        "animation"
+      ],
+      "tags": [
+        "supernatural",
+        "long-runner",
+        "weekly-drop",
+        "over-the-top",
+        "alternate-history"
+      ],
+      "about": "1890: a cross-continental horse race from San Diego to New York with a $50 million purse. Paraplegic ex-jockey Johnny Joestar enters after a brush with Gyro Zeppeli, whose spinning steel balls briefly let Johnny stand.",
+      "why": "Camp, off-beat humor and supernatural powers in an alternate-history America — a fresh jumping-on point for the franchise. IMDb 9.3; the run wraps Dec 4, so it will be bingeable in three weeks."
     }
   ],
   "critics": [
+    {
+      "title": "Obsession",
+      "platform": "Netflix",
+      "date": "On Netflix since Nov 17, 2026",
+      "format": "movie",
+      "runtime": "~1h 49m",
+      "match": "strong",
+      "genres": [
+        "horror",
+        "fantasy",
+        "thriller"
+      ],
+      "tags": [
+        "critics-pick",
+        "certified-fresh"
+      ],
+      "about": "A wish on the 'One Wish Willow' comes true, at a sinister price.",
+      "why": "93% on Rotten Tomatoes across 331 reviews (Certified Fresh), 94% audience — the best-reviewed new arrival on your platforms this week."
+    },
     {
       "title": "Slow Horses S6",
       "platform": "Apple TV+",
@@ -281,7 +420,27 @@
         "season-complete"
       ],
       "about": "The Slow Horses hit their most brutal season yet as Diana Taverner pulls them into a cycle of retaliation.",
-      "why": "98% on Rotten Tomatoes (42 reviews), Metascore 85. This is both your Loved-list hero and one of the most critic-praised shows of the season. Also the Hero above."
+      "why": "98% on Rotten Tomatoes for Season 6 (42 reviews, Certified Fresh). Also the Loved-list pick in new_this_week above."
+    },
+    {
+      "title": "Black Doves S2",
+      "platform": "Netflix",
+      "date": "All 6 eps live since Nov 5, 2026",
+      "format": "series — 6 eps, complete",
+      "runtime": "6 × ~52 min",
+      "match": "strong",
+      "genres": [
+        "thriller",
+        "spy",
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "critics-pick",
+        "certified-fresh"
+      ],
+      "about": "Keira Knightley and Ben Whishaw's London spies-for-hire thriller returns.",
+      "why": "97% on Rotten Tomatoes for Season 2 (32 reviews, Certified Fresh). Also in new_this_week above."
     }
   ],
   "bench": [
@@ -426,29 +585,6 @@
       "bench": true
     },
     {
-      "title": "Bridesmaids — Now on Netflix",
-      "platform": "Netflix",
-      "date": "On Netflix since Sun Nov 1, 2026 (JustWatch-verified Nov 15); it left Prime Video at the end of October",
-      "format": "movie",
-      "runtime": "~2h 5m (R)",
-      "match": "strong",
-      "genres": [
-        "comedy",
-        "romance"
-      ],
-      "tags": [
-        "paul-feig",
-        "melissa-mccarthy",
-        "kristen-wiig",
-        "ensemble",
-        "movie-night",
-        "catalog"
-      ],
-      "about": "Broke and spiraling, Annie (Kristen Wiig) becomes maid of honor for her best friend (Maya Rudolph) and wages a one-sided war with the bride's perfect new friend (Rose Byrne). Melissa McCarthy steals every scene.",
-      "why": "The Paul Feig + Melissa McCarthy team behind The Heat and Spy on your Loved list, in the same sarcastic, banter-heavy register. 89% on Rotten Tomatoes (294 reviews), Metascore 75.",
-      "bench": true
-    },
-    {
       "title": "The Legend of Vox Machina — S4 (Complete, 12 eps)",
       "platform": "Amazon Prime Video",
       "date": "All 12 eps live on Prime (season completed Wed Jun 24, 2026); Season 5, the final one, has no date yet",
@@ -498,30 +634,6 @@
       ],
       "about": "From Quinn Shephard (Under the Bridge). In 2004, a Halloween initiation for a Catholic-school dance troupe goes wrong and new girl Grace ends up in a coma — and as the girls start reporting prophetic visions, the whole town tips into hysteria. Kristina Bogic, Sara Boustany and Shirley Chen lead, with Nnamdi Asomugha as the school's priest.",
       "why": "Spooky Catholic horror with a queer storyline and some wry humour — think Mean Girls crossed with The Crucible. 86% on Rotten Tomatoes (22 reviews), Metascore 73, and a 98% audience score. Critics' caveat: it runs long and the ending doesn't fully land, and it's teen-centred, so a 'try'.",
-      "bench": true
-    },
-    {
-      "title": "Stick S2 — Ep 4 'The Boog' (Wed Nov 18)",
-      "platform": "Apple TV+",
-      "date": "Wed Nov 18, 2026 — weekly Wednesdays; 3 of 10 eps live since the two-ep premiere Wed Nov 4; finale Ep 10 Wed Dec 30",
-      "format": "series — 10 eps weekly",
-      "runtime": "~30 min per ep",
-      "match": "try",
-      "genres": [
-        "comedy",
-        "sports",
-        "drama"
-      ],
-      "tags": [
-        "owen-wilson",
-        "golf",
-        "feel-good",
-        "ensemble",
-        "30-min",
-        "weekly-drop"
-      ],
-      "about": "Owen Wilson is Pryce Cahill, a golfer whose career ended in an on-course meltdown and who goes all in on mentoring Santi (Peter Dager), a teenage phenom. Marc Maron and Mariana Treviño co-star; Season 2 is three episodes in.",
-      "why": "Half-hour comfort comedy with a strong ensemble: Season 2 is at 100% on Rotten Tomatoes (13 reviews), Metascore 72, and RogerEbert.com calls it a big step up. It's the feel-good sports-comedy family of Ted Lasso, whose S4 premiere you hid — so only a 'try'. Season 1 (10 eps) is on Apple TV+.",
       "bench": true
     },
     {
@@ -616,30 +728,6 @@
       ],
       "about": "A restless West Texas woman (Samara Weaving) runs off with a charming con man (Kyle Gallner) to look for her estranged mother; their small scams escalate into bank robberies across the Southeast. Directed by Adam Rehmeier, with Kyra Sedgwick.",
       "why": "A lovers-on-the-run crime story with real momentum: 90% on Rotten Tomatoes (84 reviews), Metascore 75, with the leads' chemistry getting the credit. Not a comedy and outside your top genres, so a 'try' for a thriller night.",
-      "bench": true
-    },
-    {
-      "title": "Police Squad! — New on Netflix (Complete Series)",
-      "platform": "Netflix",
-      "date": "Added to Netflix Sun Nov 1, 2026 — all 6 eps, the only season made (JustWatch-verified Nov 15)",
-      "format": "series — 6 eps, complete",
-      "runtime": "6 × ~24 min",
-      "match": "strong",
-      "genres": [
-        "comedy",
-        "crime"
-      ],
-      "tags": [
-        "deadpan",
-        "leslie-nielsen",
-        "parody",
-        "naked-gun",
-        "30-min",
-        "bedtime-friendly",
-        "catalog"
-      ],
-      "about": "The 1982 cop-show parody from the Airplane! team, with Leslie Nielsen as the gloriously oblivious Det. Frank Drebin. Cancelled after six episodes, it was reborn on film as The Naked Gun.",
-      "why": "Deadpan absurdism at maximum joke density, in six 24-minute episodes — two and a half hours for the whole series, and one of the most rewatchable comedies ever made.",
       "bench": true
     },
     {
@@ -743,9 +831,9 @@
       "bench": true
     },
     {
-      "title": "Firefly Wedding — Ep 7 (Fri Nov 20)",
+      "title": "Firefly Wedding — Ep 8 (Fri Nov 27)",
       "platform": "Crunchyroll",
-      "date": "Fri Nov 20, 2026 (~9am PT) — Crunchyroll simulcast, weekly Fridays; 6 of 12 eps live (Ep 6 'Honest Feelings' aired Fri Nov 13); finale projected Fri Dec 25",
+      "date": "Fri Nov 27, 2026 — Crunchyroll simulcast, weekly Fridays; 7 of 12 eps out (Ep 7 'A Devil and His Heart' aired Fri Nov 20); finale Fri Dec 25 (TVmaze + JustWatch)",
       "format": "anime — weekly",
       "runtime": "~23 min per ep",
       "match": "try",
@@ -766,32 +854,6 @@
       ],
       "about": "Meiji-era noblewoman Satoko Kirigaya is terminally ill and wants to marry well before she dies. When the assassin Shinpei Gotō kidnaps her, she talks her way out by proposing marriage — and he takes the vow dead seriously. From David Production (JoJo).",
       "why": "A twisty premise, dark humor layered over a tight thriller, and 23-minute episodes; six banked eps is a two-evening catch-up. LiveChart 7.8, and it ranked #2 in Anime Corner's week-6 fall poll.",
-      "bench": true
-    },
-    {
-      "title": "JoJo's Bizarre Adventure: Steel Ball Run — Ep 10 (Fri Nov 20)",
-      "platform": "Netflix",
-      "date": "Fri Nov 20, 2026 — weekly Fridays on Netflix; 9 of 12 eps live (the March premiere plus eight of the 11-episode 2nd Stage); finale Fri Dec 4",
-      "format": "anime — weekly",
-      "runtime": "~23 min per ep",
-      "match": "try",
-      "genres": [
-        "anime",
-        "action",
-        "adventure",
-        "fantasy",
-        "comedy",
-        "animation"
-      ],
-      "tags": [
-        "supernatural",
-        "long-runner",
-        "weekly-drop",
-        "over-the-top",
-        "alternate-history"
-      ],
-      "about": "1890: a cross-continental horse race from San Diego to New York with a $50 million purse. Paraplegic ex-jockey Johnny Joestar enters after a brush with Gyro Zeppeli, whose spinning steel balls briefly let Johnny stand.",
-      "why": "Camp, off-beat humor and supernatural powers in an alternate-history America — a fresh jumping-on point for the franchise. IMDb 9.3; the run wraps Dec 4, so it will be bingeable in three weeks.",
       "bench": true
     },
     {
@@ -1378,29 +1440,6 @@
       "bench": true
     },
     {
-      "title": "Alien (1979) — Last Chance on Netflix (leaves Nov 30)",
-      "platform": "Netflix",
-      "date": "On Netflix through Mon Nov 30, 2026 — JustWatch shows the Netflix offer itself ending that day (JustWatch-verified Nov 15)",
-      "format": "movie",
-      "runtime": "~1h 57m",
-      "match": "try",
-      "genres": [
-        "sci-fi",
-        "horror",
-        "thriller"
-      ],
-      "tags": [
-        "classic",
-        "sci-fi-horror",
-        "atmospheric",
-        "last-chance",
-        "catalog"
-      ],
-      "about": "Ridley Scott's original sci-fi horror aboard the Nostromo.",
-      "why": "Two top genres at once; 93% RT, Metascore 89. Slow-burn first act, so pick a night you want dread — and make it this month, because it leaves Netflix on Nov 30.",
-      "bench": true
-    },
-    {
       "title": "Aliens (1986) — On Hulu",
       "platform": "Disney+ (Hulu hub)",
       "date": "On Hulu since Mon Nov 2, 2026 (JustWatch-verified Nov 15); the Netflix copy leaves Nov 30",
@@ -1616,35 +1655,9 @@
       "bench": true
     },
     {
-      "title": "The Apothecary Diaries S3 — Ep 8 (Fri Nov 20)",
-      "platform": "Crunchyroll",
-      "date": "Fri Nov 20, 2026 — weekly Fridays on Crunchyroll since Oct 2; 7 eps out (Ep 7 aired Fri Nov 13); Part 1 ends with Ep 12 on Fri Dec 18, Part 2 follows in April 2027. JustWatch lists Season 3 only under the Crunchyroll Amazon Channel, and Crunchyroll's own page couldn't be reached this session",
-      "format": "anime — weekly",
-      "runtime": "~24 min per ep",
-      "match": "try",
-      "genres": [
-        "anime",
-        "mystery",
-        "drama",
-        "historical",
-        "animation"
-      ],
-      "tags": [
-        "simulcast",
-        "weekly-drop",
-        "court-intrigue",
-        "novel-adaptation",
-        "sub-and-dub",
-        "catalog"
-      ],
-      "about": "Maomao, a sharp-tongued apothecary's daughter kidnapped into service in the imperial rear palace, solves poisonings and court intrigues with pharmacology and deadpan logic. Season 3 picks up after the Shi clan arc.",
-      "why": "Mystery-of-the-week structure with a dry, sarcastic lead and 24-minute episodes; IMDb 8.6 and the most popular show of the fall season in CBR's mid-term poll. You haven't logged S1–S2 (48 eps, also on Crunchyroll), so this is a catch-up proposition rather than a tracker.",
-      "bench": true
-    },
-    {
-      "title": "Ranma ½ (2024) S3 — Ep 8 (Sat Nov 21)",
+      "title": "Ranma ½ (2024) S3 — Ep 9 (Sat Nov 28)",
       "platform": "Netflix",
-      "date": "Sat Nov 21, 2026 — weekly Saturdays on Netflix since Oct 3; 7 eps out (the latest aired Nov 14); episode count TBA",
+      "date": "Sat Nov 28, 2026 — weekly Saturdays on Netflix since Oct 3; 8 eps out (Ep 8 'Tsubasa Kurenai Busts Loose!' aired Sat Nov 21); episode count TBA (JustWatch and TVmaze disagree)",
       "format": "anime — weekly",
       "runtime": "~24 min per ep",
       "match": "try",
@@ -1742,44 +1755,132 @@
       "about": "In a floating city where everything considered 'trash' is thrown into an Abyss, a young outcast falls below and finds a world full of discarded objects given life. Bones-studio adaptation; strong world-building.",
       "why": "World-building and escapism are top signals; the Bones team has a strong track record. Both cours are out, so it's a straight binge. Tier-4.",
       "bench": true
+    },
+    {
+      "title": "Catastrophe — Complete Series, New on Prime",
+      "platform": "Amazon Prime Video",
+      "date": "All 4 seasons (24 eps) on Prime Video since Wed Nov 18, 2026 (JustWatch)",
+      "format": "series — 24 eps, complete",
+      "runtime": "24 × ~25 min",
+      "match": "strong",
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "tags": [
+        "sharon-horgan",
+        "rob-delaney",
+        "dry-british-humor",
+        "30-min",
+        "binge-ready",
+        "catalog"
+      ],
+      "about": "Rob Delaney and Sharon Horgan write and star as an American man and an Irish woman who make a bloody mess of trying to fall in love in London.",
+      "why": "Dry British humor and 30-minute episodes, two of your strongest signals, and it sits in the Fleabag lane: sharp, adult, funny with real feeling underneath. 98% on Rotten Tomatoes across 162 reviews. Six-episode seasons go fast.",
+      "bench": true
+    },
+    {
+      "title": "Frieren S1–S2 — Both Seasons on Crunchyroll",
+      "platform": "Crunchyroll",
+      "date": "Season 1 (28 eps) returned to Crunchyroll Mon Nov 16, 2026, joining Season 2 (10 eps) (JustWatch); Season 1 is also on Netflix and Hulu",
+      "format": "anime — 38 eps, complete",
+      "runtime": "38 × ~24 min",
+      "match": "strong",
+      "genres": [
+        "anime",
+        "fantasy",
+        "adventure",
+        "drama",
+        "comedy"
+      ],
+      "tags": [
+        "elf-mage",
+        "after-the-quest",
+        "world-building",
+        "binge-ready",
+        "catalog"
+      ],
+      "about": "Elf mage Frieren and her party have already defeated the Demon King. Frieren will outlive the rest of them by centuries, and the series follows her trying to understand what their short lives meant.",
+      "why": "Fantasy and world-building are top signals, and the tone is your 'light(ish) with substance underneath': quiet, funny and moving. 100% on Rotten Tomatoes, 8.9 on IMDb. Gentler and more reflective than Demon Slayer — for action, Kaiju No. 8 is on the bench.",
+      "bench": true
+    },
+    {
+      "title": "Psych S1–S8 — Complete Series on Prime",
+      "platform": "Amazon Prime Video",
+      "date": "All 8 seasons (121 eps) on Prime Video since Sun Nov 15, 2026 (JustWatch)",
+      "format": "series — 121 eps, complete",
+      "runtime": "121 × ~42 min",
+      "match": "try",
+      "genres": [
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "tags": [
+        "james-roday-rodriguez",
+        "dule-hill",
+        "buddy-comedy",
+        "procedural",
+        "pop-culture-riffs",
+        "catalog"
+      ],
+      "about": "A novice sleuth convinces the Santa Barbara police he has psychic powers, and he and his reluctant best friend get hired as consultants on tough cases.",
+      "why": "Witty banter is the whole engine of this buddy-comedy procedural. Season 1 drew middling reviews (56% on Rotten Tomatoes) but 88% from audiences; it's a comfort-watch with eight seasons of runway.",
+      "bench": true
+    },
+    {
+      "title": "Bank of Dave — On Netflix (leaves Dec 17)",
+      "platform": "Netflix",
+      "date": "On Netflix since Wed Nov 18, 2026; the Netflix offer ends Thu Dec 17 (JustWatch)",
+      "format": "movie",
+      "runtime": "~1h 47m",
+      "match": "try",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "rory-kinnear",
+        "joel-fry",
+        "true-story",
+        "british",
+        "feel-good",
+        "leaving-soon"
+      ],
+      "about": "The true story of Dave Fishwick, a working-class self-made millionaire who takes on London's banking establishment to open a community bank in Burnley.",
+      "why": "British underdog comedy built on a true story — 86% on Rotten Tomatoes (35 reviews), 88% from audiences. Feel-good rather than laugh-out-loud.",
+      "bench": true
+    },
+    {
+      "title": "Kaiju No. 8 S1–S2 — On Crunchyroll",
+      "platform": "Crunchyroll",
+      "date": "Seasons 1 and 2 on Crunchyroll since Mon Nov 16, 2026 — JustWatch lists 22 eps live",
+      "format": "anime — 22 eps",
+      "runtime": "22 × ~24 min",
+      "match": "try",
+      "genres": [
+        "anime",
+        "sci-fi",
+        "action",
+        "comedy"
+      ],
+      "tags": [
+        "monster-transformation",
+        "underdog",
+        "binge-ready",
+        "catalog"
+      ],
+      "about": "A man stuck in a job far from his childhood dream gets a second shot at it after he unexpectedly turns into a kaiju himself.",
+      "why": "Sci-fi monster action with a goofy, older-than-usual hero; JustWatch shows a 100% Tomatometer. The loud, fast counterpart to Frieren.",
+      "bench": true
     }
   ],
   "upcoming_alerts": [
     {
-      "title": "The Altruists — Limited Series",
-      "platform": "Netflix",
-      "date": "Thu Nov 19, 2026 — all 8 eps (Netflix Tudum + JustWatch)",
-      "note": "Julia Garner and Anthony Boyle as Caroline Ellison and Sam Bankman-Fried in a drama about the rise and collapse of FTX, from Graham Moore (The Imitation Game). ~59-minute episodes; TOMORROW. Dropping as limited series."
-    },
-    {
-      "title": "Percy Jackson and the Olympians S3",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Fri Nov 20, 2026 (Disney+ press + TVLine); batch vs. weekly not confirmed",
-      "note": "Season 3 of the live-action adaptation; Titan's Curse arc with Artemis missing. YA-skewing — flag, not push."
-    },
-    {
-      "title": "The Blue Road — Limited Series",
-      "platform": "Netflix",
-      "date": "Fri Nov 20, 2026 (What's on Netflix + Korea Herald + JustWatch 'coming soon'; Netflix's own page not checked)",
-      "note": "Korean-language limited series; subtitled."
-    },
-    {
       "title": "Nocturne — Ep 6 'Only Connect'",
       "platform": "Apple TV+",
-      "date": "Wed Nov 25, 2026 per TVmaze; JustWatch lists Fri Nov 27 (unconfirmed)",
+      "date": "Fri Nov 27, 2026 (JustWatch + episode guides; TVmaze lists Wed Nov 25)",
       "note": "Liev Schreiber / Stephen Graham thriller continues weekly."
-    },
-    {
-      "title": "They Will Kill You (2026)",
-      "platform": "Amazon Prime Video",
-      "date": "Fri Nov 20, 2026 — UNVERIFIED: on TVLine's Prime Video list, but JustWatch shows no Prime offer as of Nov 15 and some listings suggest rent/buy only",
-      "note": "Flag with a shrug — availability not confirmed on Prime proper."
-    },
-    {
-      "title": "Mickey 17 (2025) — reported Hulu arrival",
-      "platform": "Disney+ (Hulu hub)",
-      "date": "Mon Nov 23, 2026 — UNVERIFIED: TheWrap and Laughing Place list Nov 23, another list said Nov 9, and JustWatch shows no Hulu offer as of Nov 15",
-      "note": "Bong Joon-ho's sci-fi comedy — a potentially strong match for you if/when it lands."
     },
     {
       "title": "The Lowdown S2 — Season Finale, Ep 8 'The Tower'",
@@ -1790,7 +1891,7 @@
     {
       "title": "The Rings of Power S3 — Season Finale, Eps 7–8",
       "platform": "Amazon Prime Video",
-      "date": "Wed Nov 25, 2026 (Amazon + TVLine)",
+      "date": "Wed Nov 25, 2026 (TVmaze + JustWatch)",
       "note": "Double-length finale closes out the Second Age arc; season 4 already in production."
     },
     {
@@ -1802,7 +1903,7 @@
     {
       "title": "Fool Night",
       "platform": "Netflix",
-      "date": "Thu Nov 26, 2026 (What's on Netflix + JustWatch 'coming soon'; no trade confirmation)",
+      "date": "Thu Nov 26, 2026 (What's on Netflix + JustWatch + TVmaze; no trade confirmation)",
       "note": "Anime limited series; horror-adjacent urban fantasy."
     },
     {
@@ -1810,6 +1911,12 @@
       "platform": "Disney+ (Hulu hub)",
       "date": "Tue Dec 1, 2026",
       "note": ""
+    },
+    {
+      "title": "The Fear — Anthology Horror Series",
+      "platform": "Netflix",
+      "date": "Tue Dec 1, 2026 — UNVERIFIED: JustWatch 'coming soon' only; no trade or Netflix confirmation found",
+      "note": "Season one is set in a desolate upstate New York town (JustWatch synopsis)."
     },
     {
       "title": "Bad Monkey S2",
@@ -1846,6 +1953,12 @@
       "platform": "Apple TV+",
       "date": "Fri Dec 25, 2026",
       "note": "Christmas-day finale for the Schreiber/Graham thriller."
+    },
+    {
+      "title": "3 Body Problem S2",
+      "platform": "Netflix",
+      "date": "Thu Jan 14, 2027 (TVLine + JustWatch + TVmaze)",
+      "note": "Sci-fi: the second season of Netflix's Three-Body Problem adaptation."
     },
     {
       "title": "Blue Eye Samurai S2",
