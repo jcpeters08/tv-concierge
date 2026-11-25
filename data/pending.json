@@ -1,4 +1,13 @@
 {
   "format_note": "Append-only inbox written by the web app. Daily scheduled task drains entries[] into vault MD files and resets to []. Schemas: {kind: 'watched', title, rating, tags, date, ts} | {kind: 'pin'|'unpin'|'hide'|'unhide', title, ts}",
-  "entries": []
+  "entries": [
+    {
+      "kind": "watched",
+      "title": "Cunk on Cinema — New on Netflix (6 short eps)",
+      "rating": 4,
+      "tags": "dry-british-humor, mockumentary, charlie-brooker-produced, 30-min, binge-ready",
+      "date": "2026-11-25",
+      "ts": "2026-11-25T23:28:26.100Z"
+    }
+  ]
 }
